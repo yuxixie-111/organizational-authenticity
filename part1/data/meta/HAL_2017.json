@@ -1,0 +1,13 @@
+{
+  "ticker": "HAL",
+  "company_name": "Halliburton",
+  "sector": "Energy",
+  "year": 2017,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.halliburton.com/en/about-us",
+    "https://www.halliburton.com/en-us/about-us.html"
+  ],
+  "candidates_considered": 0
+}

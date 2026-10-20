@@ -1,0 +1,18 @@
+{
+  "ticker": "MSFT",
+  "company_name": "Microsoft",
+  "sector": "Technology",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20240701230101",
+  "original_url": "https://www.microsoft.com/en-us/about",
+  "wayback_url": "https://web.archive.org/web/20240701230101id_/https://www.microsoft.com/en-us/about",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 1209,
+  "seeds_queried": [
+    "https://www.microsoft.com/en-us/about"
+  ],
+  "candidates_considered": 12
+}

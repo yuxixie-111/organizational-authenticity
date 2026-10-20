@@ -1,0 +1,12 @@
+{
+  "ticker": "TSLA",
+  "company_name": "Tesla",
+  "sector": "Consumer Discretionary",
+  "year": 2021,
+  "status": "gap",
+  "gap_reason": "extraction_empty",
+  "seeds_queried": [
+    "https://www.tesla.com/about"
+  ],
+  "candidates_considered": 12
+}

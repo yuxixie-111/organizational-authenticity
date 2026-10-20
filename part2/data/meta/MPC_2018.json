@@ -1,0 +1,14 @@
+{
+  "ticker": "MPC",
+  "company_name": "Marathon Petroleum",
+  "sector": "Energy",
+  "year": 2018,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1510295/000119312518084039/d496012ddef14a.htm",
+  "accession": "0001193125-18-084039",
+  "filing_date": "2018-03-15",
+  "cik_used": 1510295,
+  "primary_document": "d496012ddef14a.htm",
+  "word_count": 58642
+}

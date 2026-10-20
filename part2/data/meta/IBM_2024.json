@@ -1,0 +1,14 @@
+{
+  "ticker": "IBM",
+  "company_name": "IBM",
+  "sector": "Technology",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000110465924032641/tm2329614-d3_def14a.htm",
+  "accession": "0001104659-24-032641",
+  "filing_date": "2024-03-11",
+  "cik_used": 51143,
+  "primary_document": "tm2329614-d3_def14a.htm",
+  "word_count": 53969
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "HD",
+  "company_name": "Home Depot",
+  "sector": "Consumer Discretionary",
+  "year": 2019,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495019000014/hd-2019proxystatement.htm",
+  "accession": "0000354950-19-000014",
+  "filing_date": "2019-04-08",
+  "cik_used": 354950,
+  "primary_document": "hd-2019proxystatement.htm",
+  "word_count": 45641
+}

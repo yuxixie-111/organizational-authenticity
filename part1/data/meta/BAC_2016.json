@@ -1,0 +1,14 @@
+{
+  "ticker": "BAC",
+  "company_name": "Bank of America",
+  "sector": "Financials",
+  "year": 2016,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://about.bankofamerica.com/",
+    "https://about.bankofamerica.com/en/about-us",
+    "https://www.bankofamerica.com/about/"
+  ],
+  "candidates_considered": 0
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "C",
+  "company_name": "Citigroup",
+  "sector": "Financials",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/831001/000114544324000041/citi4284971-def14a.htm",
+  "accession": "0001145443-24-000041",
+  "filing_date": "2024-03-19",
+  "cik_used": 831001,
+  "primary_document": "citi4284971-def14a.htm",
+  "word_count": 84759
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "LOW",
+  "company_name": "Lowe's",
+  "sector": "Consumer Discretionary",
+  "year": 2019,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://corporate.lowes.com/who-we-are",
+    "https://corporate.lowes.com/about-lowes"
+  ],
+  "candidates_considered": 0
+}

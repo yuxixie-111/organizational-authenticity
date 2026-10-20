@@ -1,0 +1,3090 @@
+DEF 14A
+1
+d318894ddef14a.htm
+DEFINITIVE PROXY STATEMENT
+Definitive Proxy Statement
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a)
+of the Securities Exchange Act
+of 1934
+(Amendment No. )
+Filed by the Registrant ☒
+Filed by a Party other than the
+Registrant ☐
+Check the appropriate box:
+☐
+Preliminary Proxy Statement
+☐
+Confidential, for Use of the Commission Only (as permitted by
+Rule 14a-6 (e) (2))
+☒
+Definitive Proxy Statement
+☐
+Definitive Additional Materials
+☐
+Soliciting Material Pursuant to
+Section 240.14a-11 (c) or
+Section 240.14a-12
+TESLA, INC.
+(Name of
+Registrant as Specified in its Charter)
+(Name of
+Person(s) Filing Proxy Statement, if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+☒
+No fee required.
+☐
+Fee computed on table below per Exchange Act Rules
+14a-6 (i) (1)
+and
+0-11.
+(1)
+Title of each class of securities to which transaction applies:
+(2)
+Aggregate number of securities to which transaction applies:
+(3)
+Per unit price or other underlying value of transaction computed pursuant to Exchange Act
+Rule 0-11
+(set forth the amount
+on which the filing fee is calculated and state how it was determined):
+(4)
+Proposed maximum aggregate value of transaction:
+(5)
+Total fee paid:
+$
+☐
+Fee paid previously with preliminary materials.
+☐
+Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously.
+Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.
+(1)
+Amount previously paid:
+(2)
+Form, Schedule or Registration Statement No.:
+(3)
+Filing Party:
+(4)
+Date Filed:
+Table of Contents
+NOTICE OF 2017 ANNUAL MEETING OF STOCKHOLDERS
+June 6, 2017
+Dear
+Tesla Stockholders:
+We are pleased to inform you that our 2017 Annual Meeting of Stockholders (the “2017 Annual
+Meeting”) will be held on Tuesday, June 6, 2017, at 2:30 p.m., Pacific Time, at the Computer History Museum located at 1401 N. Shoreline Blvd., Mountain View, CA 94043. For your convenience, we will also webcast the 2017 Annual Meeting
+live via the Internet at www.tesla.com/2017shareholdermeeting. The agenda of the 2017 Annual Meeting will be the following items of business, which are more fully described in this proxy statement:
+Agenda Item
+Board Vote Recommendation
+1. To elect the three Class I directors to serve for a term of three years or until their
+respective successors are duly elected and qualified.
+“FOR”
+2. To hold a non-binding vote on executive compensation.
+“FOR”
+3. To hold a non-binding vote on the frequency of executive compensation
+votes.
+“EVERY 3 YEARS”
+4. To ratify the appointment of PricewaterhouseCoopers LLP as Tesla’s independent
+registered public accounting firm for the fiscal year ending December 31, 2017.
+“FOR”
+5. To consider and vote upon a stockholder proposal regarding declassification of the Board of
+Directors, if properly presented.
+“AGAINST”
+All stockholders as of close of business on April 13, 2017 are cordially invited to attend the 2017
+Annual Meeting in person.
+Please read this proxy statement carefully to ensure that you have proper evidence of stock ownership as of April 13, 2017, as we will not be able to accommodate guests without such evidence at the 2017 Annual
+Meeting.
+We are providing our proxy materials to our stockholders over the Internet. This reduces our environmental
+impact and our costs while ensuring our stockholders have timely access to this important information. Accordingly, stockholders of record at the close of business on April 13, 2017, will receive a Notice of Internet Availability of Proxy
+Materials (the “Notice of Internet Availability”) with details on accessing these materials. Beneficial owners of Tesla common stock at the close of business on April 13, 2017 will receive separate notices on behalf of their brokers,
+banks or other intermediaries through which they hold shares.
+Your vote is very important. Whether or not you plan to
+attend the 2017 Annual Meeting, we encourage you to read the proxy statement and vote as soon as possible. For specific instructions on how to vote your shares, please refer to the section entitled “
+Questions and Answers About the
+2017 Annual Meeting and Procedural Matters
+” and the instructions on the Notice of Internet Availability or the notice you receive from your broker, bank or other intermediary.
+Thank you for your ongoing support of Tesla.
+Elon Musk
+Chief Executive Officer and Chairman
+Table of Contents
+PROXY STATEMENT
+FOR 2017 ANNUAL MEETING OF STOCKHOLDERS
+Table of Conte
+nts
+Page
+I
+MPORTANT
+N
+OTICE
+R
+EGARDING
+THE
+A
+VAILABILITY
+OF
+P
+ROXY
+M
+ATERIALS
+FOR
+THE
+S
+TOCKHOLDER
+M
+EETING
+TO
+BE
+H
+ELD
+ON
+J
+UNE
+6, 2017
+1
+Q
+UESTIONS
+AND
+A
+NSWERS
+A
+BOUT
+THE
+2017
+A
+NNUAL
+M
+EETING
+AND
+P
+ROCEDURAL
+M
+ATTERS
+1
+P
+ROPOSAL
+O
+NE
+— E
+LECTION
+OF
+D
+IRECTORS
+9
+General
+9
+Nominees for Class I Directors
+9
+Information Regarding the Board of Directors and Director Nominees
+10
+P
+ROPOSAL
+T
+WO
+— N
+ON
+-B
+INDING
+V
+OTE
+ON
+E
+XECUTIVE
+C
+OMPENSATION
+13
+General
+13
+Summary of 2016 Executive Compensation Program
+13
+P
+ROPOSAL
+T
+HREE
+— N
+ON
+-B
+INDING
+V
+OTE
+ON
+THE
+F
+REQUENCY
+OF
+THE
+N
+ON
+-B
+INDING
+V
+OTE
+ON
+E
+XECUTIVE
+C
+OMPENSATION
+15
+P
+ROPOSAL
+F
+OUR
+— R
+ATIFICATION
+OF
+A
+PPOINTMENT
+OF
+I
+NDEPENDENT
+R
+EGISTERED
+P
+UBLIC
+A
+CCOUNTING
+F
+IRM
+16
+General
+16
+Principal Accounting Fees and Services
+16
+Pre-Approval of Audit and Non-Audit Services
+17
+P
+ROPOSAL
+F
+IVE
+— S
+TOCKHOLDER
+P
+ROPOSAL
+R
+EGARDING
+D
+ECLASSIFICATION
+OF
+THE
+B
+OARD
+OF
+D
+IRECTORS
+18
+Stockholder Proposal and Supporting Statement
+18
+Opposing Statement of the Board
+19
+C
+ORPORATE
+G
+OVERNANCE
+20
+Investor Outreach
+20
+Code of Business Conduct and Ethics and Corporate Governance Guidelines
+20
+Director Independence
+20
+Board Leadership Structure
+22
+Board Role in Risk Oversight
+23
+Board Meetings and Committees
+23
+Compensation Committee Interlocks and Insider Participation
+25
+Process for Recommending Candidates for Election to the Board of Directors
+25
+Attendance at Annual Meetings of Stockholders by the Board of Directors
+26
+Stock Transactions
+26
+Contacting the Board of Directors
+27
+E
+XECUTIVE
+O
+FFICERS
+28
+E
+XECUTIVE
+C
+OMPENSATION
+29
+Compensation Discussion and Analysis
+29
+Compensation Committee Report
+38
+Summary Compensation Table
+38
+Grants of Plan-Based Awards in 2016
+39
+Outstanding Equity Awards at 2016 Fiscal Year-End
+40
+2016 Option Exercises and Stock Vested
+42
+Potential Payments Upon Termination or Change of Control
+42
+Compensation of Directors
+43
+Equity Compensation Plan Information
+44
+C
+ERTAIN
+R
+ELATIONSHIPS
+AND
+R
+ELATED
+P
+ARTY
+T
+RANSACTIONS
+46
+Review of Related Party Transactions
+46
+Related Party Transactions
+46
+S
+ECTION
+16(
+A
+) B
+ENEFICIAL
+O
+WNERSHIP
+R
+EPORTING
+C
+OMPLIANCE
+48
+O
+WNERSHIP
+OF
+S
+ECURITIES
+49
+A
+UDIT
+C
+OMMITTEE
+R
+EPORT
+52
+O
+THER
+M
+ATTERS
+53
+i
+Table of Contents
+TESLA, INC.
+3500 Deer Creek Road
+Palo Alto, California 94304
+PROXY STATEMENT
+FOR 2017 ANNUAL MEETING OF STOCKHOLDERS
+IMPORTANT NOTICE REGARDING THE AVAILABILITY OF PROXY MATERIALS FOR THE STOCKHOLDER MEETING TO BE HELD ON
+JUNE 6, 2017
+The proxy statement and annual report are available at www.envisionreports.com/TSLA.
+In accordance with U.S. Securities and Exchange Commission (the “SEC”) rules, we are providing access to our proxy materials
+over the Internet to our stockholders rather than in paper form, which reduces the environmental impact of our annual meeting and our costs.
+Accordingly, if you are a stockholder of record, a one-page Notice of Internet Availability of Proxy Materials (the “Notice of Internet Availability”) has been mailed to you on or about
+April 20, 2017. Stockholders of record may access the proxy materials on the website listed above or request a printed set of the proxy materials be sent to them by following the instructions in the Notice of Internet Availability. The Notice
+of Internet Availability also explains how you may request that we send future proxy materials to you by e-mail or in printed form by mail. If you choose the e-mail option, you will receive an e-mail next year with links to those materials and to
+the proxy voting site. We encourage you to choose this e-mail option, which will allow us to provide you with the information you need in a timelier manner, will save us the cost of printing and mailing documents to you and will conserve natural
+resources. Your election to receive proxy materials by e-mail or in printed form by mail will remain in effect until you terminate it.
+If you are a beneficial owner, you did not receive a Notice of Internet Availability directly from us, but your broker, bank or other intermediary forwarded you a notice with instructions on accessing our
+proxy materials and directing that organization how to vote your shares, as well as other options that may be available to you for receiving our proxy materials.
+Please refer to the question entitled “What is the difference between holding shares as a stockholder of record or as a beneficial owner?” below for important details regarding different
+forms of stock ownership.
+QUESTIONS AND ANSWERS ABOUT THE 2017 ANNUAL MEETING AND PROCEDURAL
+MATTERS
+Q:
+Why am I receiving these proxy materials?
+A:
+The Board of Directors of Tesla, Inc. (the “Company,” “Tesla,” “we,” “us” or “our”) has made available on the Internet
+or is providing to you in printed form these proxy materials. We do this in order to solicit voting proxies for use at Tesla’s 2017 Annual Meeting of Stockholders (the “2017 Annual Meeting”), to be held Tuesday, June 6, 2017, at
+2:30 p.m., Pacific Time, and at any adjournment or postponement thereof. If you are a stockholder of record and you submit your proxy to us, you direct certain of our officers to vote your shares of Tesla common stock in accordance with the voting
+instructions in your proxy. If you are a beneficial owner and you follow the voting instructions provided in the notice you receive from your broker, bank or other intermediary, you direct such organization to vote your shares in accordance with
+your instructions. These proxy materials are being made available or distributed to you on or about April 20, 2017. As a stockholder, you are invited to attend the 2017 Annual Meeting and we request that you vote on the proposals described in
+this proxy statement.
+1
+Table of Contents
+Q:
+Can I attend the 2017 Annual Meeting?
+A:
+You may attend the 2017 Annual Meeting if, on April 13, 2017 (the “Record Date”), you were a stockholder of record or a beneficial owner. You will be
+asked to show photo identification and the following:
+•
+If you are a stockholder of record, your Notice of Internet Availability,
+or
+admission ticket that you received with a paper proxy card or that
+you obtained from our stockholder voting site at www.envisionreports.com/TSLA;
+or
+•
+If you are a beneficial owner, the notice you received from your broker, bank or other intermediary,
+or
+a printed statement from such
+organization or online access to your brokerage or other account, showing your stock ownership on the Record Date.
+We will not be able to accommodate guests without proper evidence of stock ownership as of the Record Date at the 2017 Annual Meeting, including guests of our stockholders.
+The meeting will begin promptly at 2:30 p.m., Pacific Time and you should leave ample time for the check-in procedures.
+Q:
+Where is the 2017 Annual Meeting?
+A:
+The 2017 Annual Meeting will be held at the Computer History Museum located at 1401 N. Shoreline Blvd., Mountain View, CA 94043. Stockholders may request directions to
+the 2017 Annual Meeting by calling (650) 681-5000 or by visiting http://ir.tesla.com/contactus.cfm.
+Q:
+Will I be able to view the 2017 Annual Meeting via the Internet?
+A:
+Yes. We will webcast the 2017 Annual Meeting live via the Internet at www.tesla.com/2017shareholdermeeting.
+Q:
+Who is entitled to vote at the 2017 Annual Meeting?
+A:
+You may vote your shares of Tesla common stock if you owned your shares at the close of business on the Record Date. You may cast one vote for each share of common
+stock held by you as of the Record Date on all matters presented. See the questions entitled “
+How can I vote my shares in person at the 2017 Annual Meeting?
+” and “
+How can I vote my shares without attending the 2017 Annual
+Meeting?
+” below for additional details.
+As of the Record Date, holders of common stock were eligible
+to cast an aggregate of 164,193,935 votes at the 2017 Annual Meeting.
+Q:
+What is the difference between holding shares as a stockholder of record or as a beneficial owner?
+A:
+You are the “stockholder of record” of any shares that are registered directly in your name with Tesla’s transfer agent, Computershare Trust Company,
+N.A. We have sent the Notice of Internet Availability directly to you if you are a stockholder of record. As a stockholder of record, you may grant your voting proxy directly to Tesla or to a third party, or vote in person at the 2017 Annual
+Meeting.
+You are the “beneficial owner” of any shares (which are considered to be held in
+“street name”) that are held on your behalf by a brokerage account or by a bank or another intermediary that is the stockholder of record for those shares. If you are a beneficial owner, you did not receive a Notice of Internet
+Availability directly from Tesla, but your broker, bank or other intermediary forwarded you a notice together with voting instructions for directing that organization how to vote your shares.
+You may also attend the 2017 Annual
+2
+Table of Contents
+Meeting, but because a beneficial owner is not a stockholder of record, you may not vote in person at the 2017 Annual Meeting unless you obtain a “legal proxy” from the organization
+that holds your shares, giving you the right to vote the shares at the 2017 Annual Meeting.
+Q:
+How can I vote my shares in person at the 2017 Annual Meeting?
+A:
+You may vote shares for which you are the stockholder of record in person at the 2017 Annual Meeting. You may vote shares you hold beneficially in street name in person
+at the 2017 Annual Meeting
+only if
+you obtain a “legal proxy” from the broker, bank or other intermediary that holds your shares, giving you the right to vote the shares.
+Even if you plan to attend the 2017 Annual Meeting,
+we recommend that you also direct the voting of your shares as described below in the question entitled “How can I vote my shares without attending the 2017 Annual Meeting?” so that your vote will be counted even if you later decide not to
+attend the 2017 Annual Meeting
+.
+Q:
+How can I vote my shares without attending the 2017 Annual Meeting?
+A:
+Whether you hold shares as a stockholder of record or a beneficial owner, you may direct how your shares are voted without attending the 2017 Annual Meeting, by the
+following means:
+By Internet
+— Stockholders of record with Internet access may submit proxies by
+following the “Vote by Internet” instructions on the Notice of Internet Availability until 1:00 a.m., Central time on June 6, 2017. If you are a beneficial owner of shares held in street name, please check the voting instructions in
+the notice provided by your broker, bank or other intermediary for Internet voting availability.
+By telephone
+—
+Stockholders of record who live in the United States or Canada may request a paper proxy card from Tesla by following the procedures in the Notice of Internet Availability, and submit proxies by telephone by following the “Vote by
+Telephone” instructions on the proxy card until 1:00 a.m., Central time on June 6, 2017. If you are a beneficial owner of shares held in street name, please check the voting instructions in the notice provided by your broker, bank or other
+intermediary for telephone voting availability.
+By mail
+— Stockholders of record may request a paper proxy card
+from Tesla by following the procedures in the Notice of Internet Availability. If you elect to vote by mail, please complete, sign and date the proxy card where indicated and return it in the prepaid envelope included with the proxy card. Proxy
+cards submitted by mail must be received by the time of the meeting in order for your shares to be voted. If you are a beneficial owner of shares held in street name, you may vote by mail by completing, signing and dating the voting instructions in
+the notice provided by your broker, bank or other intermediary and mailing it in the accompanying pre-addressed envelope.
+Q:
+How many shares must be present or represented to conduct business at the 2017 Annual Meeting?
+A:
+The stockholders of record of a majority of the shares entitled to vote at the 2017 Annual Meeting must either (1) be present in person at the 2017 Annual Meeting
+or (2) have properly submitted a proxy in order to constitute a quorum at the 2017 Annual Meeting.
+Under
+the General Corporation Law of the State of Delaware, abstentions and broker “non-votes” are counted as present and entitled to vote, and therefore are included for the purposes of determining whether a quorum is present at the 2017 Annual
+Meeting. A broker “non-vote” occurs when an organization that is the stockholder of record that holds shares for a beneficial owner and that is otherwise counted as present or represented by proxy does not vote on a particular proposal
+because that organization does not have discretionary voting power under applicable regulations to vote on that item and has not received specific voting instructions from the beneficial owner.
+3
+Table of Contents
+Q:
+What proposals will be voted on at the 2017 Annual Meeting?
+A:
+The proposals scheduled to be voted on at the 2017 Annual Meeting are:
+•
+The election of the three Class I directors listed in this proxy statement to serve for a term of three years or until their respective successors are
+duly elected and qualified;
+•
+A non-binding vote on executive compensation;
+•
+A non-binding vote on the frequency of executive compensation votes;
+•
+The ratification of the appointment of PricewaterhouseCoopers LLP as Tesla’s independent registered public accounting firm for the fiscal year
+ending December 31, 2017; and
+•
+A stockholder proposal regarding declassification of the Board of Directors, if properly presented.
+Q:
+What is the voting requirement to approve each of the proposals?
+A:
+Proposal
+Vote Required
+Broker
+Discretionary
+Voting Allowed
+Proposal One — Election of three Class I directors
+Majority of the Shares Entitled to Vote and Present in Person or Represented by Proxy
+No
+Proposal Two — Non-binding vote on executive compensation
+Majority of the Shares Entitled to Vote and Present in Person or Represented by Proxy
+No
+Proposal Three — Non-binding vote on the frequency of the non-binding vote on executive compensation
+Plurality of Votes Cast
+No
+Proposal Four — Ratification of the appointment of independent registered public accounting firm
+Majority of the Shares Entitled to Vote and Present in Person or Represented by Proxy
+Yes
+Proposal Five — Stockholder proposal regarding declassification of the Board of Directors
+Majority of the Shares Entitled to Vote and Present in Person or Represented by Proxy
+No
+Q:
+How are votes counted?
+A:
+All shares entitled to vote and that are voted in person at the 2017 Annual Meeting will be counted, and all shares represented by properly executed and unrevoked
+proxies received prior to the 2017 Annual Meeting will be voted at the 2017 Annual Meeting as indicated in such proxies. You may vote “FOR,” “AGAINST” or “ABSTAIN” on each of the nominees for election as director
+(Proposal One), and on each of Proposals Two, Four and Five.
+With respect to the election of directors,
+Tesla’s bylaws provide that in an uncontested election, the affirmative vote of a majority of the shares entitled to vote and present in person or represented by proxy at the meeting of stockholders is required to elect a director.
+Abstentions with respect to any director nominee (Proposal One) or any of Proposals Two, Four or Five will be deemed to be votes cast and have the same effect as a vote against such nominee or proposal.
+Consequently, each director nominee
+will be elected, and each of Proposals Two, Four and Five will be approved or ratified, as applicable, only if the number of shares voted “FOR” such nominee or Proposal exceeds the total number of shares voted “AGAINST” or to
+“ABSTAIN” with respect to such nominee or Proposal.
+You may vote to recommend, by non-binding vote, the frequency
+of executive compensation votes (Proposal Three) for a vote every one, two or three years, or you may abstain from voting. The Board will
+4
+Table of Contents
+consider the frequency option that receives the greatest number of votes among the three frequency options to be the recommendation of the stockholders. If you abstain from voting on this
+proposal, the abstention will not have an effect on the outcome of the vote.
+Q:
+What is the effect of not casting a vote or if I submit a proxy but do not specify how my shares are to be voted?
+A:
+If you are the stockholder of record and you do not vote by proxy card, by telephone, via the Internet or in person at the 2017 Annual Meeting, your shares will not be
+voted at the 2017 Annual Meeting. If you submit a proxy, but you do not provide voting instructions, your shares will be voted as recommended by the Board of Directors.
+If you are a beneficial owner and you do not provide the organization that is the stockholder of record for your shares with voting
+instructions, the organization will determine if it has the discretionary authority to vote on the particular matter. Under applicable regulations, brokers and other intermediaries have the discretion to vote on routine matters such as Proposal Four
+but do not have discretion to vote on non-routine matters such as Proposals One, Two, Three or Five. Therefore, if you do not provide voting instructions to that organization, it may vote your shares only on Proposal Four and any other routine
+matters properly presented for a vote at the 2017 Annual Meeting.
+Q:
+What is the effect of a broker non-vote?
+A:
+An organization that holds shares of Tesla’s common stock for a beneficial owner will have the discretion to vote on routine proposals if it has not received
+voting instructions from the beneficial owner at least ten days prior to the 2017 Annual Meeting. A broker non-vote occurs when a broker, bank or other intermediary that is otherwise counted as present or represented by proxy does not receive voting
+instructions from the beneficial owner and does not have the discretion to vote the shares. A broker non-vote will be counted for purposes of calculating whether a quorum is present at the 2017 Annual Meeting, but will not be counted for purposes of
+determining the number of votes present in person or represented by proxy and entitled to vote with respect to a particular proposal as to which that broker non-vote occurs. Thus, a broker non-vote will not impact our ability to obtain a quorum for
+the 2017 Annual Meeting and will not otherwise affect the outcome of the vote on a proposal that requires a plurality of votes cast (Proposal Three) or the approval of a majority of the votes present in person or represented by proxy and entitled to
+vote (Proposals One, Two, or Five).
+Q:
+How does the Board of Directors recommend that I vote?
+A:
+The Board of Directors recommends that you vote your shares:
+•
+“
+FOR
+” the three nominees for election as directors (Proposal One);
+•
+“
+FOR
+” the approval, by non-binding vote, of executive compensation (Proposal Two);
+•
+“
+EVERY THREE YEARS
+” for the approval, by non-binding vote, of a triennial executive compensation vote (Proposal Three);
+•
+“
+FOR
+” the ratification of the appointment of PricewaterhouseCoopers LLP as Tesla’s independent registered public accounting firm
+for the fiscal year ending December 31, 2017 (Proposal Four); and
+•
+“
+AGAINST
+” the approval of the stockholder proposal regarding declassification of the Board of Directors (Proposal Five).
+Q:
+What happens if additional matters are presented at the 2017 Annual Meeting?
+A.
+If any other matters are properly presented for consideration at the 2017 Annual Meeting, including, among other things, consideration of a motion to
+adjourn the 2017 Annual Meeting to another time or place, the
+5
+Table of Contents
+persons named as proxy holders, Elon Musk, Deepak Ahuja and Todd Maron, or any of them, will have discretion to vote the proxies held by them on those matters in accordance with their best
+judgment. Tesla does not currently anticipate that any other matters will be raised at the 2017 Annual Meeting.
+Q:
+Can I change my vote?
+A:
+If you are the stockholder of record, you may change your vote (1) by submitting a new proxy bearing a later date (which automatically revokes the earlier proxy)
+using any of the voting methods described above in the question entitled “
+How can I vote my shares without attending the 2017 Annual Meeting?
+”, (2) by providing a written notice of revocation to Tesla’s Corporate Secretary
+at Tesla, Inc., 3500 Deer Creek Road, Palo Alto, CA 94304 prior to your shares being voted, or (3) by attending the 2017 Annual Meeting and voting in person, which will supersede any proxy previously submitted by you. However, merely attending
+the meeting will not cause your previously granted proxy to be revoked unless you specifically request it.
+If
+you are a beneficial owner of shares held in street name, you may generally change your vote by (1) submitting new voting instructions to your broker, bank or other intermediary or (2) if you have obtained a legal proxy from the
+organization that holds your shares giving you the right to vote your shares, by attending the 2017 Annual Meeting and voting in person. However, please consult that organization for any specific rules it may have regarding your ability to change
+your voting instructions.
+Q:
+What should I do if I receive more than one Notice of Internet Availability, notice from my broker, bank or other intermediary, or set of proxy materials?
+A:
+You may receive more than one Notice of Internet Availability, notice from your broker, bank or other intermediary or set of proxy materials, including multiple copies
+of proxy cards or voting instruction cards. For example, if you are a beneficial owner with shares in more than one brokerage account, you may receive a separate notice or voting instruction card for each brokerage account in which you hold shares.
+If you are a stockholder of record and your shares are registered in more than one name, you will receive more than one Notice of Internet Availability or proxy card. Please complete, sign, date and return each Tesla proxy card or voting instruction
+card that you receive, and/or follow the voting instructions on each Notice of Internet Availability or other notice you receive, to ensure that all your shares are voted.
+Q:
+Is my vote confidential?
+A:
+Proxy instructions, ballots and voting tabulations that identify individual stockholders are handled in a manner that protects your voting privacy. Your vote will not
+be disclosed either within Tesla or to third parties, except: (1) as necessary for applicable legal requirements, (2) to allow for the tabulation and certification of the votes and (3) to facilitate a successful proxy solicitation.
+Occasionally, stockholders provide written comments on their proxy cards, which may be forwarded to Tesla management.
+Q:
+Who will serve as inspector of election?
+A:
+The inspector of election will be Computershare Trust Company, N.A.
+Q:
+Where can I find the voting results of the 2017 Annual Meeting?
+A:
+We will publish final voting results in our Current Report on Form 8-K, which will be filed with the SEC and made available on its website at www.sec.gov within four
+(4) business days of the 2017 Annual Meeting.
+6
+Table of Contents
+Q:
+Who will bear the cost of soliciting votes for the 2017 Annual Meeting?
+A:
+Tesla will pay the entire cost of preparing, assembling, printing, mailing and distributing these proxy materials and soliciting votes. We may reimburse brokerage
+firms, custodians, nominees, fiduciaries and other persons representing beneficial owners for their reasonable expenses in forwarding solicitation material to those beneficial owners. Our directors, officers and employees may also solicit proxies in
+person or by other means. These directors, officers and employees will not be additionally compensated but may be reimbursed for reasonable out-of-pocket expenses incurred in doing so.
+Q:
+What is the deadline to propose actions for consideration at next year’s annual meeting of stockholders or to nominate individuals to serve as directors?
+A:
+You may submit proposals, including recommendations of director candidates, for consideration at future stockholder meetings.
+For inclusion in Tesla’s proxy materials
+— Stockholders may present proper proposals for inclusion in Tesla’s proxy
+statement and for consideration at the next annual meeting of stockholders by submitting their proposals in writing to Tesla’s Corporate Secretary in a timely manner. In order to be included in the proxy statement for the 2018 annual meeting of
+stockholders, stockholder proposals must be received by Tesla’s Corporate Secretary no later than December 21, 2017, and must otherwise comply with the requirements of Rule 14a-8 of the Securities Exchange Act of 1934, as amended (the
+“Exchange Act”).
+To be brought at annual meeting
+— In addition, you can find in Tesla’s bylaws an
+advance notice procedure for stockholders who wish to present certain matters, including nominations for the election of directors, at an annual meeting of stockholders.
+In general, Tesla’s bylaws provide that the Board of Directors will determine the business to be conducted at an annual meeting, including nominations for the election of directors, as specified in
+the Board of Directors’ notice of meeting or as properly brought at the meeting by the Board of Directors. However, a stockholder may also present at an annual meeting any business, including nominations for the election of directors, specified
+in a written notice properly delivered to Tesla’s Corporate Secretary within the Notice Period (as defined below), if the stockholder held shares at the time of the notice and the record date for the meeting. The notice must contain specified
+information about the proposed business or nominees and about the proponent stockholder. If a stockholder who has delivered such a notice does not appear to present his or her proposal at the meeting, Tesla will not be required to present the
+proposal for a vote.
+The “Notice Period” is the period not less than 45 days nor more than 75 days prior to the one
+year anniversary of the date on which Tesla mailed its proxy materials to stockholders for the previous year’s annual meeting of stockholders. As a result, the Notice Period for the 2018 annual meeting of stockholders will start on
+February 4, 2018 and end on March 6, 2018.
+This is only a summary of the advance notice procedure. Complete details
+regarding all requirements that must be met are found in our bylaws. You can obtain a copy of the relevant bylaw provisions by writing to Tesla’s Corporate Secretary at our principal executive offices at 3500 Deer Creek Road, Palo Alto,
+CA 94304 or by accessing Tesla’s filings on the SEC’s website at www.sec.gov. All notices of proposals by stockholders, whether or not requested for inclusion in Tesla’s proxy materials, should be sent to Tesla’s Corporate
+Secretary at our principal executive offices.
+Q:
+How may I obtain a separate copy of the Notice of Internet Availability or the proxy materials?
+A:
+If you are a stockholder of record and share an address with another stockholder of record, each stockholder may not receive a separate copy of the
+Notice of Internet Availability or proxy materials. Stockholders may
+7
+Table of Contents
+request to receive separate or additional copies of the Notice of Internet Availability or proxy materials by calling our Investor Relations department at (650) 681-5000 or by writing to
+Tesla, Inc., 3500 Deer Creek Road, Palo Alto, CA 94304, Attention: Investor Relations. Stockholders who share an address and receive multiple copies of the Notice of Internet Availability or proxy materials can also request to receive a single copy
+by following the instructions above.
+Q:
+Who can help answer my questions?
+A:
+Please contact our Investor Relations department by calling (650) 681-5000 or by writing to Tesla, Inc., 3500 Deer Creek Road, Palo Alto, CA 94304, Attention:
+Investor Relations or ir@tesla.com.
+8
+Table of Contents
+PROPOSAL ONE
+ELECTION OF DIRECTORS
+General
+Tesla’s Board of Directors currently consists of seven members who are divided into three classes with
+staggered three-year terms. Our bylaws permit our Board of Directors to establish by resolution the authorized number of directors, and seven directors are currently authorized. Any increase or decrease in the number of directors will be distributed
+among the three classes so that, as nearly as possible, each class will consist of an equal number of directors.
+Nominees for Class I Directors
+Three candidates have been nominated for election as Class I directors at the 2017 Annual Meeting for a three-year term expiring in 2020. Upon recommendation of the Nominating and Corporate Governance
+Committee, the Board of Directors has nominated
+Elon Musk
+,
+Robyn M. Denholm
+and
+Stephen T. Jurvetson
+for re-election as Class I directors. Biographical information about each of the nominees is contained in the following
+section. A discussion of the qualifications, attributes and skills of each nominee that led our Board of Directors and the Nominating and Corporate Governance Committee to the conclusion that he or she should continue to serve as a director follows
+each of the director and nominee biographies.
+If you are a stockholder of record and you sign your proxy card or vote by
+telephone or over the Internet but do not give instructions with respect to the voting of directors, your shares will be voted FOR the re-election of Mr. Musk, Ms. Denholm and Mr. Jurvetson. Each of Mr. Musk, Ms. Denholm and
+Mr. Jurvetson has accepted such nomination; however, in the event that a nominee is unable or declines to serve as a director at the time of the 2017 Annual Meeting, the proxies will be voted for any nominee who shall be designated by the Board
+of Directors to fill such vacancy. If you wish to give specific instructions with respect to the voting of directors, you may do so by indicating your instructions on your proxy card or when you vote by telephone or over the Internet. If you are a
+beneficial owner holding your shares in street name and you do not give voting instructions to your broker, bank or other intermediary, that organization will leave your shares unvoted on this matter.
+T
+HE
+B
+OARD
+OF
+D
+IRECTORS
+R
+ECOMMENDS
+A
+V
+OTE
+FOR
+THE
+ELECTION
+OF
+E
+LON
+M
+USK
+, R
+OBYN
+M. D
+ENHOLM
+AND
+S
+TEPHEN
+T. J
+URVETSON
+.
+9
+Table of Contents
+Information Regarding the Board of Directors and Director Nominees
+The names of the members of Tesla’s Board of Directors and Tesla’s proposed director nominees, their respective
+ages, their positions with Tesla and other biographical information as of April 1, 2017, are set forth below. Except for Messrs. Elon Musk and Kimbal Musk who are brothers, there are no other family relationships among any of our directors or
+executive officers.
+Name
+Age
+Position
+Elon Musk
+45
+Chief Executive Officer and Chairman
+Brad W. Buss
+53
+Director
+Robyn M. Denholm (1)(2)(3)
+53
+Director
+Ira Ehrenpreis (2)(3)
+48
+Director
+Antonio J. Gracias (1)(2)(3)(4)
+46
+Director
+Stephen T. Jurvetson (1)
+50
+Director
+Kimbal Musk
+44
+Director
+(1)
+Member of Audit Committee
+(2)
+Member of Compensation Committee
+(3)
+Member of Nominating and Corporate Governance Committee
+(4)
+Lead Independent Director
+Elon Musk
+has served as our Chief Executive Officer since October 2008 and as Chairman of our Board of Directors since
+April 2004. Mr. Musk has also served as Chief Executive Officer, Chief Technology Officer and Chairman of Space Exploration Technologies Corporation, a company which is developing and launching advanced rockets for satellite and eventually
+human transportation (“SpaceX”), since May 2002, and served as Chairman of the Board of SolarCity Corporation, a solar installation company (“SolarCity”), from July 2006 until its acquisition by us in November 2016. Since
+December 2015, Mr. Musk has also been a co-chair of OpenAI, a non-profit artificial intelligence research company. Prior to Space Exploration Technologies Corporation, Mr. Musk co-founded PayPal, an electronic payment system, which was
+acquired by eBay in October 2002, and Zip2 Corporation, a provider of Internet enterprise software and services, which was acquired by Compaq in March 1999. Mr. Musk holds a B.A. in physics from the University of Pennsylvania and a B.S. in
+business from the Wharton School of the University of Pennsylvania.
+We believe that Mr. Musk possesses specific
+attributes that qualify him to serve as a member of our Board of Directors, including the perspective and experience he brings as our Chief Executive Officer, one of our founders and our largest stockholder, which brings historic knowledge,
+operational expertise and continuity to our Board of Directors.
+Brad W. Buss
+has been a member of our Board of
+Directors since November 2009. From August 2014 until his retirement in February 2016, Mr. Buss served as the Chief Financial Officer of SolarCity. Prior to joining SolarCity, from August 2005 to June 2014, Mr. Buss was the Executive Vice
+President of Finance and Administration and Chief Financial Officer of Cypress Semiconductor Corporation, a semiconductor design and manufacturing company. Mr. Buss served as Vice President of Finance at Altera Corp., a semiconductor design and
+manufacturing company, from March 2000 to March 2001 and from October 2001 to August 2005. From March 2001 to October 2001, Mr. Buss served as the Chief Financial Officer of Zaffire, Inc., a developer and manufacturer of optical networking
+equipment. Mr. Buss also serves as a director of Advance Auto Parts, Inc. and Cavium, Inc., and also served as a director of CafePress Inc. from October 2007 until July 2016. Mr. Buss holds a B.A. in economics from McMaster University and
+an honors business administration degree, majoring in finance and accounting, from the University of Windsor.
+We believe that
+Mr. Buss possesses specific attributes that qualify him to serve as a member of our Board of Directors, including his executive experience and his financial and accounting expertise with both public and private companies in diverse industries.
+10
+Table of Contents
+Robyn M. Denholm
+has been a member of our Board of Directors since August
+2014. Since January 2017, Ms. Denholm has been Chief Operations Officer of Telstra Corporation Limited, a telecommunications company. Prior to Telstra, from August 2007 to February 2016, Ms. Denholm was with Juniper Networks, Inc., a
+manufacturer of networking equipment (“Juniper”), serving first as its Executive Vice President and Chief Financial Officer and then as its Executive Vice President and Chief Financial and Operations Officer. Prior to joining Juniper,
+Ms. Denholm served in various executive roles at Sun Microsystems, Inc. from January 1996 to August 2007. Ms. Denholm also served at Toyota Motor Corporation Australia for seven years and at Arthur Andersen & Company for five
+years in various finance assignments. From April 2016 until April 2017, Ms. Denholm was also a director of ABB Ltd. Ms. Denholm is a Fellow of the Institute of Chartered Accountants of Australia and holds a Bachelor’s degree in
+Economics from the University of Sydney and a Master’s degree in Commerce from the University of New South Wales.
+We
+believe that Ms. Denholm possesses specific attributes that qualify her to serve as a member of our Board of Directors and to serve as chair of our Audit Committee, including her executive experience and her financial and accounting expertise
+with international companies, including in the technology and automotive industries.
+Ira Ehrenpreis
+has been a
+member of our Board of Directors since May 2007. Mr. Ehrenpreis has been a venture capitalist since 1996 when he joined Technology Partners, where he is a partner and has led its Cleantech practice for several years as a managing member. Since
+2015, Mr. Ehrenpreis has also been a managing partner of the venture capital firm of DBL Partners. In the venture capital community, he has served on the Board of the National Venture Capital Association and currently serves as the President of
+the Western Association of Venture Capitalists and the Chairman of the VCNetwork, an organization comprising more than 1,000 venture capitalists. In the Cleantech sector, he has served on several industry boards, including the American Council on
+Renewable Energy and the Cleantech Venture Network (Past Chairman of Advisory Board), and was the Chairman of the Clean-Tech Investor Summit in 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012 and 2013. Mr. Ehrenpreis serves as Chairman of the
+World Energy Innovation Forum. Mr. Ehrenpreis holds a B.A. from the University of California, Los Angeles and a J.D. and M.B.A. from Stanford University.
+We believe that Mr. Ehrenpreis possesses specific attributes that qualify him to serve as a member of our Board of Directors and to serve as chair of our Nominating and Corporate Governance Committee
+and chair of our Compensation Committee, including his experience in the Cleantech and venture capital industries.
+Antonio J. Gracias
+has been a member of our Board of Directors since May 2007 and has served as our Lead Independent
+Director since September 2010. Since 2003, Mr. Gracias has been Chief Executive Officer of Valor Management Corp., a private equity firm. Mr. Gracias is a director of SpaceX, and was a director of SolarCity until its acquisition by us in
+November 2016. Mr. Gracias holds a joint B.S. and M.S. degree in international finance and economics from the Georgetown University School of Foreign Service and a J.D. from the University of Chicago Law School.
+We believe that Mr. Gracias possesses specific attributes that qualify him to serve as a member of our Board of Directors, including
+his management experience with a nationally recognized private equity firm and his operations management and supply chain optimization expertise.
+Stephen T. Jurvetson
+has been a member of our Board of Directors since June 2009. Since 1995, Mr. Jurvetson has been a Managing Director of Draper Fisher Jurvetson, a venture capital
+firm. Mr. Jurvetson is a director of D-Wave Systems Inc., Synthetic Genomics Inc. and SpaceX, among other privately-held companies. Mr. Jurvetson holds B.S. and M.S. degrees in electrical engineering from Stanford University and an M.B.A.
+from the Stanford Business School.
+We believe that Mr. Jurvetson possesses specific attributes that qualify him to serve
+as a member of our Board of Directors, including his experience in the venture capital industry and his years of business and leadership experience.
+11
+Table of Contents
+Kimbal Musk
+has been a member of our Board of Directors since
+April 2004. Mr. Musk is a co-founder of The Kitchen, a growing family of businesses with the goal of providing all Americans with access to real food, and has also served as its CEO since its founding in 2004. Mr. Musk is also a director
+of SpaceX and of Chipotle Mexican Grill, Inc., an international chain of Mexican-themed restaurants. In November 2010, Mr. Musk became the Executive Director of The Kitchen Community, a non-profit organization that creates learning gardens in
+schools across the United States. From July 2012 until July 2015, Mr. Musk was a director of the Anschutz Health and Wellness Center, a facility at the University of Colorado School of Medicine providing research, education and wellness
+services with the goal of achieving healthier lifestyles. In November 1995, Mr. Musk
+co-founded
+Zip2 Corporation, a provider of enterprise software and services, which was acquired by Compaq in March
+1999. Mr. Musk holds a B. Comm. in business from Queen’s University and is a graduate of The French Culinary Institute in New York City.
+We believe that Mr. Musk possesses specific attributes that qualify him to serve as a member of our Board of Directors, including his business experience in retail and consumer markets, his lengthy
+experience on our Board of Directors, and his experience with technology companies.
+See “
+Corporate
+Governance
+” and “
+Executive Compensation — Compensation of Directors
+” below for additional information regarding the Board of Directors.
+12
+Table of Contents
+PROPOSAL TWO
+NON-BINDING VOTE ON EXECUTIVE COMPENSATION
+General
+Pursuant to the Dodd-Frank Wall Street
+Reform and Consumer Protection Act of 2010 (the “Dodd-Frank Act”), we are asking our stockholders to vote to approve, on an advisory or non-binding basis, the compensation of our named executive officers as disclosed in accordance with the
+SEC’s rules in the “Executive Compensation” section of this proxy statement beginning on page 29 below. This proposal, commonly known as a “say-on-pay” proposal, gives our stockholders the opportunity to express their views
+on our named executive officers’ compensation as a whole. This vote is not intended to address any specific item of compensation or any specific named executive officer, but rather the overall compensation of all of our named executive officers
+and the philosophy, policies and practices described in this proxy statement.
+The say-on-pay vote is advisory, and therefore
+not binding on the Company, the Compensation Committee or our Board of Directors. The say-on-pay vote will, however, provide information to us regarding investor sentiment about our executive compensation philosophy, policies and practices, which
+the Compensation Committee will be able to consider when determining executive compensation for the remainder of the current fiscal year and beyond. Our Board of Directors and our Compensation Committee value the opinions of our stockholders and to
+the extent there is any significant vote against our named executive officer compensation as disclosed in this proxy statement, we will consider our stockholders’ concerns and the Compensation Committee will evaluate whether any actions are
+necessary to address those concerns.
+Summary of 2016 Executive Compensation Program
+The following is a summary of some of the key points of our 2016 executive compensation program:
+•
+Tesla’s executive compensation program is designed to be simple and to reflect its startup origins in that compensation consists primarily of
+salary and equity awards for most executive officers, with most of the compensation weighted towards equity awards, the value of which is dependent upon the Company’s future performance.
+•
+Elon Musk’s total cash compensation consists of an annual base salary of $45,760, consistent with minimum wage requirements under applicable
+California laws. Mr. Musk, however, currently does not accept his salary.
+•
+As of December 31, 2016, Mr. Musk beneficially owned approximately 22.0% of Tesla’s outstanding common stock, based on shares
+outstanding as of, and options exercisable and convertible notes convertible within 60 days of, December 31, 2016, which significantly aligns his interests with our stockholders’ interests. Mr. Musk acquired most of his beneficially
+owned stock through direct capital investments he made in Tesla both prior to and following our initial public offering, rather than through equity awards given to him as compensation for his services as a director or executive officer. Although
+Mr. Musk has served in the capacity of Chairman since 2004 and CEO since 2008, he received stock option grants in 2009 and 2012, the latter of which was entirely comprised of option awards that were intended to vest, if at all, in future
+periods subject to the achievement of significant operational and market capitalization milestones that were viewed as very difficult, at best, to achieve at the time of the grant. The fact that the Company has achieved many of those milestones has
+resulted in tremendous value creation for our stockholders, thus aligning Mr. Musk’s compensation package with the interests of our stockholders.
+•
+Tesla has no cash bonus program for any of its named executive officers, other than amounts that may be payable under an incentive plan provided to Jon
+McNeill, our President of Global Sales and Service, based on the achievement of specific customer-related metrics.
+•
+Tesla’s executive compensation program emphasizes long-term equity awards, including performance-based awards that vest only upon the
+achievement of significant company milestones. This program
+13
+Table of Contents
+strongly aligns, on a sustained long-term basis, the interests of our executive officers with those of our stockholders.
+•
+Tesla generally does not provide any perquisites, tax reimbursements or change in control benefits to the named executive officers that are not
+available to other employees, except in limited circumstances. No named executive officer has a currently effective severance arrangement with the Company.
+•
+Each of the named executive officers is employed at-will and is expected to demonstrate exceptional personal performance in order to continue serving
+as a member of the executive team.
+See the “
+Executive Compensation
+” section beginning on
+page 29 below for more information.
+Tesla believes that the information provided above and within the Executive Compensation
+section of this proxy statement demonstrates that Tesla’s executive compensation program was designed appropriately and is working to ensure management’s interests are aligned with our stockholders’ interests to support long-term
+value creation.
+Accordingly, we ask our stockholders to vote “FOR” the following resolution at the 2017 Annual
+Meeting:
+“RESOLVED, that the Company’s stockholders approve, on an advisory basis, the compensation of the named
+executive officers, as disclosed in the Company’s Proxy Statement for the Annual Meeting of Stockholders pursuant to the compensation disclosure rules of the Securities and Exchange Commission, including the Compensation Discussion and
+Analysis, the compensation tables and the other related disclosure.”
+T
+HE
+B
+OARD
+OF
+D
+IRECTORS
+R
+ECOMMENDS
+A
+V
+OTE
+FOR
+THE
+A
+DVISORY
+(N
+ON
+-B
+INDING
+) V
+OTE
+A
+PPROVING
+E
+XECUTIVE
+C
+OMPENSATION
+.
+14
+Table of Contents
+PROPOSAL THREE
+NON-BINDING VOTE ON THE FREQUENCY OF THE
+NON-BINDING VOTE ON EXECUTIVE COMPENSATION
+The Dodd-Frank Act also
+enables our stockholders to indicate, at least once every six years, how frequently we should seek a non-binding vote on the compensation of our named executive officers, as disclosed pursuant to the SEC’s compensation disclosure rules, such as
+Proposal Two beginning on page 13 of this proxy statement. By voting on this Proposal Three, stockholders may indicate whether they would prefer a non-binding vote on named executive officer compensation once every one, two, or three years.
+After careful consideration, our Board of Directors has determined that a non-binding vote on executive compensation that
+occurs triennially is the most appropriate alternative for the Company, and therefore our Board of Directors recommends that you vote for a three-year interval for the non-binding vote on executive compensation.
+In formulating its recommendation, our Board of Directors considered that given the nature of our compensation programs, a triennial vote
+would be sufficient for our stockholders to provide us with their input on our compensation philosophy, policies and practices. A triennial approach provides regular input by stockholders, while allowing time to evaluate the effects of our
+compensation program on performance over a longer period. Moreover, at the 2011 annual meeting of stockholders, a triennial vote received more than 74% of the total votes cast for any of the three frequency options. However, we understand that our
+stockholders may have different views as to what is the best approach for the Company, and we look forward to hearing from our stockholders on this Proposal.
+You may cast your vote on your preferred voting frequency by choosing the option of one year, two years, three years or abstain from voting when you vote in response to the resolution set forth below:
+“RESOLVED, that the option of once every one year, two years, or three years that receives the highest number of votes
+cast for this resolution will be determined to be the preferred frequency with which the Company is to hold a stockholder vote to approve the compensation of the named executive officers, as disclosed pursuant to the compensation disclosure rules of
+the Securities and Exchange Commission, including the Compensation Discussion and Analysis, the compensation tables and the other related disclosure.”
+The option of one year, two years or three years that receives the highest number of votes cast by stockholders will be the frequency for the advisory vote on executive compensation that has been selected
+by stockholders. However, this vote is advisory and is not binding on the Company, the Compensation Committee or our Board of Directors. The Board of Directors may decide that it is in the best interests of our stockholders and the Company to hold
+an advisory vote on executive compensation more or less frequently than the option approved by our stockholders.
+T
+HE
+B
+OARD
+OF
+D
+IRECTORS
+R
+ECOMMENDS
+A
+TRIENNIAL
+V
+OTE
+AS
+THE
+F
+REQUENCY
+W
+ITH
+W
+HICH
+S
+TOCKHOLDERS
+ARE
+P
+ROVIDED
+AN
+A
+DVISORY
+(N
+ON
+-B
+INDING
+) V
+OTE
+ON
+E
+XECUTIVE
+C
+OMPENSATION
+.
+15
+Table of Contents
+PROPOSAL FOUR
+RATIFICATION OF APPOINTMENT OF
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+General
+The Audit Committee has selected PricewaterhouseCoopers LLP as Tesla’s independent registered public accounting firm
+to audit the consolidated financial statements of Tesla for the fiscal year ending December 31, 2017, which will include an audit of the effectiveness of Tesla’s internal control over financial reporting. PricewaterhouseCoopers LLP has
+audited Tesla’s financial statements since fiscal 2004. A representative of PricewaterhouseCoopers LLP is expected to be present at the meeting, will have the opportunity to make a statement if he or she desires to do so, and is expected to be
+available to respond to appropriate questions.
+Stockholder ratification of the selection of PricewaterhouseCoopers LLP is not
+required by our bylaws or other applicable legal requirements. However, the Board of Directors is submitting the selection of PricewaterhouseCoopers LLP to Tesla’s stockholders for ratification as a matter of good corporate practice. In the
+event that this selection of an independent registered public accounting firm is not ratified by the affirmative vote of a majority of the shares present and voting at the meeting in person or by proxy, the appointment of the independent registered
+public accounting firm will be reconsidered by the Audit Committee. Even if the selection is ratified, the Audit Committee in its discretion may direct the appointment of a different accounting firm at any time during the year if the Audit Committee
+determines that such a change would be in the best interests of Tesla and its stockholders.
+Principal
+Accounting Fees and Services
+The following table presents fees billed for professional audit services and other services
+rendered to Tesla by PricewaterhouseCoopers LLP for the years ended December 31, 2015 and 2016. The dollar amounts in the table and accompanying footnotes are in thousands.
+2015
+2016
+Audit Fees (1)
+$
+4,237
+$
+8,436
+Audit-Related Fees
+0
+Tax Fees (2)
+0
+31
+All Other Fees (3)
+2
+Total
+$
+4,239
+$
+8,469
+(1)
+Audit Fees consist of fees billed for professional services rendered for the audit of Tesla’s consolidated financial statements included in Tesla’s Annual
+Report on Form 10-K and for the review of the financial statements included in Tesla’s Quarterly Reports on Form 10-Q, as well as services that generally only Tesla’s independent registered public accounting firm can reasonably provide,
+including statutory audits and services rendered in connection with SEC filings. The Audit Fees incurred in 2015 also include fees of $181 related to services performed in connection with Tesla’s public offerings, and the Audit Fees incurred in
+2016 also include fees of $3,332 related to services performed in connection with Tesla’s acquisition of SolarCity and its public offerings, in each case including comfort letters, consents and review of documents filed with the SEC.
+(2)
+Tax Fees in 2016 consisted primarily of $31 related to consultation and assistance for employment tax-related matters.
+(3)
+Other Fees consist of an annual license fee of $2 in each of 2015 and 2016 for use of accounting research software.
+16
+Table of Contents
+Pre-Approval of Audit and Non-Audit Services
+Tesla’s Audit Committee has adopted a policy for pre-approving audit and non-audit services and associated fees of Tesla’s
+independent registered public accounting firm. Under this policy, the Audit Committee must pre- approve all services and associated fees provided to Tesla by its independent registered public accounting firm, with certain
+de minimis
+exceptions described in the policy.
+All PricewaterhouseCoopers LLP services and fees in fiscal 2015 and 2016 were
+pre-approved by the Audit Committee.
+T
+HE
+B
+OARD
+OF
+D
+IRECTORS
+R
+ECOMMENDS
+A
+V
+OTE
+FOR
+THE
+R
+ATIFICATION
+OF
+THE
+A
+PPOINTMENT
+OF
+P
+RICEWATERHOUSE
+C
+OOPERS
+LLP
+AS
+T
+ESLA
+’
+S
+I
+NDEPENDENT
+R
+EGISTERED
+P
+UBLIC
+A
+CCOUNTING
+F
+IRM
+F
+OR
+THE
+F
+ISCAL
+Y
+EAR
+E
+NDING
+D
+ECEMBER
+31, 2017.
+17
+Table of Contents
+PROPOSAL FIVE
+STOCKHOLDER PROPOSAL REGARDING DECLASSIFICATION OF THE BOARD OF DIRECTORS
+In accordance with SEC rules, we have set forth below a stockholder proposal from the Connecticut Retirement Plans and Trust Fund
+(“CRPTF”), along with a supporting statement of the proponent, in each case exactly as submitted by the proponent. CRPTF has notified us that it is the beneficial owner of 45,567 shares of the Company’s common stock and intends to
+present the following proposal at the 2017 Annual Meeting. The address for CRPTF’s principal fiduciary, the State Treasurer of the State of Connecticut, is 55 Elm Street, Hartford, Connecticut 06106-1773. The stockholder proposal will be
+required to be voted upon at the 2017 Annual Meeting only if properly presented.
+Stockholder Proposal and
+Supporting Statement
+***
+Resolved, that shareholders of Tesla Motors, Inc. [sic] (“Tesla”) urge the board of directors to take the necessary steps (excluding those steps that must be taken by shareholders) to eliminate
+the classification of Tesla’s board and to require that all directors stand for election annually. The declassification should be completed in a manner that does not affect the unexpired terms of directors.
+Supporting Statement
+We believe the election of directors is the most powerful way shareholders influence Tesla’s strategic direction. Currently, the board is divided into three classes and each class serves staggered
+three-year terms. Because of this structure, shareholders may only vote on roughly one-third of the directors each year.
+The
+staggered term structure of Telsa’s [sic] board is not in the best interest of shareholders because it reduces accountability and is an unnecessary anti-takeover device. Shareholders should have the opportunity to vote on the performance of the
+entire Board of Directors each year. Such annual accountability serves to keep directors closely focused on the performance of top executives and on increasing shareholder value.
+Academic studies provide evidence that classified boards harm shareholders. A 2004 Harvard study by Lucian Bebchuk and Alma Cohen found
+that staggered boards are associated with a lower firm value (as measured by Tobin’s Q) and found evidence that staggered boards may contribute to, not merely reflect, that lower value.
+Many shareholders appear to agree with these concerns. From 2012 through 2016, proposals to declassify the board were supported by, on
+average, between 77 and 81 % of shares voted. (Georgeson, 2016 Annual Corporate Governance Review at page 23 (http://www.computershare-na.com/sharedweb/georgeson/acgr/acgr2016.pdf)) During the same period, management at 205 companies sought
+shareholder approval for proposals to declassify their boards. (Id. at page 54.)
+Fostering greater accountability to
+shareholders is particularly important at Tesla in light of the conflicts of interest we believe plague Tesla’s board. Tesla founder and CEO Elon Musk also serves as Tesla’s board chair. The lead independent director of Tesla’s board,
+Antonio Gracias, serves on the board of SpaceX, also led by Musk, and served on the board of SolarCity, another Musk-founded firm that was recently acquired by Tesla. (See Tesla 2016 Proxy Statement, at page 10) Gracias is the CEO and majority owner
+of a limited partnership in which both Musk and his brother are limited partners. (Id. at page 17) In our view, these relationships call into question Gracias’ ability to effectively lead the board in its monitoring responsibilities, including
+its oversight of Musk.
+We urge shareholders to support this proposal.
+***
+18
+Table of Contents
+Opposing Statement of the Board
+The Board of Directors has considered this proposal and has determined that it would not serve the best interests of the Company or its
+stockholders, for the reasons stated below.
+The Company’s mission, which is to accelerate the world’s transition to
+sustainable energy, requires particularly long-term strategic planning by our Board. By providing directors with staggered three-year terms, our current Board structure allows our directors to maximize the interests of the Company and our
+stockholders over the long-term, without being distracted by special interests that seek only short-term returns.
+Our
+staggered Board structure has facilitated a number of key decisions which might have appeared counter-intuitive to some, but which have set up the Company to achieve long-term success. Some examples include the Company’s decisions to
+(a) manufacture all-electric vehicles (EVs) from the ground up rather than being a mere supplier of EV components, (b) establish an international network of our own stores, service centers and Supercharger stations despite regulatory
+hurdles and the significant capital outlay required to do so, (c) build Gigafactory 1, the largest lithium-ion battery factory in the world, so that we can scale most effectively, and (d) acquire SolarCity so that we could create the
+world’s first and only vertically integrated sustainable energy company.
+These and other similar decisions were made
+with a long-term focus and might not have happened if our directors were not afforded time to oversee and guide their implementation and execution. Ultimately, decisions like these are what differentiate Tesla from other companies and are a
+significant reason why the Company’s stock price has increased by more than 700% in the last five years.
+Additionally,
+like other fast-growing technology companies that are similar to Tesla, the Company is still at a point in its development where we may experience significant short-term swings in the price of our stock that are unrelated or disproportionate to our
+long-term prospects. A staggered board structure reduces the risk of hostile and potentially abusive takeover tactics that seek to divert us from our long-term mission.
+T
+HE
+B
+OARD
+OF
+D
+IRECTORS
+R
+ECOMMENDS
+A
+V
+OTE
+AGAINST
+THE
+S
+TOCKHOLDER
+P
+ROPOSAL
+R
+EGARDING
+D
+ECLASSIFICATION
+OF
+THE
+B
+OARD
+.
+19
+Table of Contents
+CORPORATE GOVERNANCE
+Investor Outreach
+During 2014, the Board of Directors determined to formally identify, approach and establish an active dialogue with our largest stockholders and conduct an extensive review of our corporate governance
+practices. We inaugurated a program of periodic investor outreach to ensure that Tesla’s Board of Directors and management understand and consider the issues that matter most to our stockholders. We have gradually expanded this program over
+time. Most recently, senior members of management and members of the Board of Directors have directly participated, and we expect that they will participate in the future, in hosting extended series of meetings with and preparing presentations to a
+broad base of investors regarding both general and Tesla-specific corporate governance topics. For example, in early 2017, senior members of management and our Lead Independent Director, Antonio Gracias, held meetings with more than 85% of our top
+15 institutional investors, during which senior management and Mr. Gracias obtained feedback from our investors and also presented on a variety of issues, including Tesla’s Board of Directors process, Mr. Gracias’s role as Lead
+Independent Director, and the intention of the Board of Directors to add new independent directors to the Board of Directors in the near future. Through this program, we have received and continue to periodically receive helpful input regarding a
+number of stockholder-related matters, and have adopted a number of significant changes to our corporate governance practices.
+We do not expect that we will always be able to address all of our stockholders’ feedback. However, we seek to optimize our
+corporate governance by continually refining our relevant policies, procedures and practices to align the needs of the Company with evolving regulations and best practices, issues raised by our stockholders, and otherwise as circumstances warrant.
+Code of Business Conduct and Ethics and Corporate Governance Guidelines
+Tesla’s Board of Directors sets high standards for Tesla’s employees, officers and directors. Tesla is committed to establishing
+an operating framework that exercises appropriate oversight of responsibilities at all levels throughout the company and managing its affairs consistent with high principles of business ethics. Accordingly, Tesla has adopted a Code of Business
+Conduct and Ethics, which is applicable to Tesla and its subsidiaries’ directors, officers and employees. Tesla has also adopted Corporate Governance Guidelines, which, in conjunction with our certificate of incorporation, bylaws, and charters
+of the standing committees of our Board of Directors, form the framework for Tesla’s corporate governance. The Code of Business Conduct and Ethics and the Corporate Governance Guidelines are each available on Tesla’s website at:
+http://ir.tesla.com/corporate-governance.cfm. Tesla will disclose on its website any amendment to the Code of Business Conduct and Ethics, as well as any waivers of the Code of Business Conduct and Ethics, that are required to be disclosed by the
+rules of the SEC or The NASDAQ Stock Market LLC (“NASDAQ”).
+Director Independence
+The Board of Directors has determined that, with the exception of Elon Musk and Kimbal Musk, all of its current members are
+“independent directors” as that term is defined in the listing standards of NASDAQ.
+Other than Elon Musk, no
+current director is or has ever been an employee of Tesla. In the course of determining the independence of each non-employee director, the Board of Directors considers the annual amount of Tesla’s sales to, or purchases from, any company where
+a non-employee director serves as an executive officer. In order to find that a director is independent, the Board of Directors must determine that any such sales or purchases were made in the ordinary course of business and the amount of such sales
+or purchases in each of the past three fiscal years was less than 5% of Tesla’s or the applicable company’s consolidated gross revenues for the applicable year. In addition, the Board of Directors considered all other relevant facts and
+circumstances, including the director’s commercial, accounting, legal, banking, consulting, charitable and familial relationships, including the transactions specified in “
+Certain Relationships and Related Party Transactions —
+Related Party Transactions
+” and the additional considerations below.
+20
+Table of Contents
+With respect to Mr. Buss, the following were among the relevant considerations:
+•
+Mr. Buss was the Chief Financial Officer of SolarCity from August 2014 until February 2016. Until SolarCity’s acquisition by us in November
+2016, Tesla and certain Tesla directors and officers had relationships with SolarCity as set forth in this section and in “
+Certain Relationships and Related Party Transactions — Related Party Transactions — SolarCity
+”
+below.
+The Board of Directors has concluded that given the termination of his employment relationship with
+SolarCity prior to its acquisition by Tesla, there are no relationships that would impede the exercise of independent judgment by Mr. Buss.
+With respect to Ms. Denholm, the following were among the relevant considerations:
+•
+Ms. Denholm was the Executive Vice President and Chief Financial Officer of Juniper from August 2007 until February 2016, as well as its Chief
+Operations Officer from July 2013 until February 2016. Tesla purchases networking equipment manufactured by Juniper in the ordinary course of business through resellers, but has not entered into a purchase contract directly with Juniper.
+The Board of Directors has concluded that given that Ms. Denholm is no longer an executive officer of
+Juniper, and Juniper has no direct material business relationship with Tesla, there are no relationships that would impede the exercise of independent judgment by Ms. Denholm.
+With respect to Mr. Ehrenpreis, the following were among the relevant considerations:
+•
+Mr. Ehrenpreis is a manager of DBL Partners Fund III (“DBL III”). Each of Mr. Ehrenpreis and DBL III is a minority investor in
+SpaceX. Tesla and certain Tesla directors have relationships with SpaceX as set forth in this section and in “
+Certain Relationships and Related Party Transactions — Related Party Transactions — SpaceX
+” below.
+•
+Mr. Ehrenpreis is a co-owner of DBL Partners. Another co-owner of DBL Partners was a director of SolarCity until its acquisition by us in November
+2016 and is a manager of DBL Investors, which is an investor in SpaceX and was an investor in SolarCity until its acquisition by us in November 2016. Mr. Ehrenpreis has no direct or indirect investment control or pecuniary interest in DBL
+Investors. Tesla and certain Tesla directors and officers had relationships with SolarCity as set forth in this section and in “
+Certain Relationships and Related Party Transactions — Related Party Transactions —SolarCity
+”
+below.
+The Board of Directors has concluded that given that Mr. Ehrenpreis’ and DBL III’s
+interests in SpaceX are minority positions, and Mr. Ehrenpreis has no direct or indirect interest in DBL Investors, there are no relationships that would impede the exercise of independent judgment by Mr. Ehrenpreis.
+With respect to Mr. Gracias, the following were among the relevant considerations:
+•
+Mr. Gracias is the Chief Executive Officer, director and majority owner of Valor Management Corp. (“VMC”). VMC funds are a minority
+investor in SpaceX, and Mr. Gracias is a director of SpaceX. Tesla and certain Tesla directors have relationships with SpaceX as set forth in this section and in “
+Certain Relationships and Related Party Transactions — Related Party
+Transactions — SpaceX
+” below.
+•
+Until SolarCity’s acquisition by us in November 2016, VMC funds were minority investors in SolarCity, and Mr. Gracias was a director of
+SolarCity. Tesla and certain Tesla directors and officers had relationships with SolarCity as set forth in this section and in “
+Certain Relationships and Related Party Transactions — Related Party Transactions — SolarCity
+”
+below.
+•
+The Elon Musk Revocable Trust dated July 22, 2003, of which Elon Musk is the trustee, is a limited partner of Valor Equity Partners II, L.P.,
+which is a fund advised by VMC.
+21
+Table of Contents
+•
+Kimbal Musk is a limited partner of Valor Equity Partners II, L.P. and Valor Equity Partners III-A, L.P., which are funds advised by VMC.
+The Board of Directors has concluded that given that VMC funds’ interests in SpaceX are minority
+positions and investments in VMC funds by other Tesla directors comprise fractions of such funds, and Mr. Gracias’ professional experience serving on the boards of multiple companies, there are no relationships that would impede the
+exercise of independent judgment by Mr. Gracias.
+With respect to Mr. Jurvetson, the following were among the
+relevant considerations:
+•
+Mr. Jurvetson is a managing director of Draper Fisher Jurvetson (“DFJ”). Through its funds, DFJ is a significant stockholder of SpaceX
+and Mr. Jurvetson is a director of SpaceX. Tesla and certain Tesla directors have relationships with SpaceX as set forth in this section and in “
+Certain Relationships and Related Party Transactions — Related Party Transactions
+— SpaceX”
+below.
+•
+Prior to SolarCity’s acquisition by us in November 2016, DFJ (through its funds) was a significant stockholder of SolarCity, and another managing
+director of DFJ was a director of SolarCity. Tesla and certain Tesla directors and officers had relationships with SolarCity as set forth in this section and in “
+Certain Relationships and Related Party Transactions — Related Party
+Transactions — SolarCity”
+below.
+•
+The Elon Musk Revocable Trust dated July 22, 2003, of which Elon Musk is the trustee, is a limited partner of Draper Fisher Jurvetson Fund X,
+L.P., which is a fund managed by DFJ.
+The Board of Directors has concluded that given
+Mr. Jurvetson’s professional experience serving on the boards of multiple companies, that Mr. Jurvetson’s other interests in SpaceX are not personal to him and primarily arise as a result of DFJ’s investments in them, and
+that investments in a DFJ fund by Elon Musk comprise a fraction of such fund, there are no relationships that would impede the exercise of independent judgment by Mr. Jurvetson.
+Board Leadership Structure
+Roles of
+Chairman of the Board and Lead Independent Director
+Elon Musk has served as Chief Executive Officer since October 2008
+and as Chairman of the Board of Directors since April 2004. In addition, we have had a Lead Independent Director since 2010. The Board of Directors believes that its current leadership structure, in which the positions of Chairman and Chief
+Executive Officer are held by Mr. Musk, together with a Lead Independent Director with broad authority, is appropriate at this time and provides the most effective leadership for Tesla in a highly competitive and rapidly changing technology
+industry. In addition, our corporate governance policies and practices provide for oversight of Tesla’s business and senior management by experienced independent directors and minimize any potential conflicts that may result from combining the
+positions of Chief Executive Officer and Chairman. The Board believes that an important component of the Board’s leadership structure is having an effective Lead Independent Director in place with broad authority to direct the actions of the
+independent directors and regularly communicate with the Chief Executive Officer. The role of Lead Independent Director is currently held by Mr. Gracias, who has been a director of Tesla since May 2007 and was appointed as the Lead Independent
+Director in September 2010. As Lead Independent Director, among other things, Mr. Gracias:
+•
+reviews the agenda and materials for meetings of the independent directors;
+•
+consults with the Chief Executive Officer and Chairman regarding Board meeting agendas, schedules and materials;
+•
+communicates with the Chief Executive Officer and Chairman;
+•
+acts as a liaison between the Chief Executive Officer and Chairman and the independent directors when appropriate;
+22
+Table of Contents
+•
+raises issues with management on behalf of the independent directors;
+•
+annually reviews, together with the Nominating and Corporate Governance Committee, the Board’s performance during the prior year; and
+•
+serves as the Board’s liaison for consultation and communication with stockholders as appropriate.
+Tesla also has a mechanism for stockholders to communicate directly with non-management directors (see “
+Corporate Governance
+— Contacting the Board of Directors
+” below).
+Committees of the Board of Directors
+In addition, the Board has three standing committees — Audit, Compensation, and Nominating and Corporate Governance, which are each
+further described below. Each of the Board committees is comprised solely of independent directors, and each committee has a chair. Our independent directors regularly meet in executive session, and at such other times as necessary or appropriate as
+determined by the independent directors. In addition, as part of our governance review and succession planning, the Board of Directors (led by the Nominating and Corporate Governance Committee) evaluates our leadership structure to ensure that it
+remains the optimal structure for Tesla.
+Board Role in Risk Oversight
+The Board of Directors is responsible for overseeing the major risks facing the Company while management is responsible for assessing and
+mitigating the Company’s risks on a day-to-day basis. In addition, the Board has delegated oversight of certain categories of risk to the Audit and Compensation Committees. The Audit Committee reviews and discusses with management significant
+financial and nonfinancial risk exposures and the steps management has taken to monitor, control and report such exposures. The Compensation Committee oversees management of risks relating to the Company’s compensation plans and programs. In
+performing their oversight responsibilities, the Board and Audit Committee periodically discuss with management the Company’s policies with respect to risk assessment and risk management. The Audit and Compensation Committees report to the
+Board as appropriate on matters that involve specific areas of risk that each Committee oversees.
+Employee Compensation
+Risks
+Tesla’s management and the Compensation Committee have assessed the risks associated with Tesla’s
+compensation policies and practices for all employees, including non-executive officers. Based on the results of this assessment, Tesla does not believe that its compensation policies and practices for all employees, including non-executive
+officers, create risks that are reasonably likely to have a material adverse effect on Tesla.
+Board Meetings
+and Committees
+During fiscal 2016, the Board of Directors held fifteen (15) meetings, many of which were special
+meetings related to the Company’s acquisition of SolarCity. In 2016, all but one of the directors attended or participated in 75% or more of the aggregate of the total number of meetings of the Board of Directors and the total number of
+meetings of all committees of the Board of Directors on which such director served, in each case held during such director’s relevant period of service. Due to certain self-recused absences from meetings related to the acquisition of SolarCity,
+Elon Musk attended 73% of the meetings held by the Board of Directors in 2016. Excluding self-recused absences, Mr. Musk attended 100% of all meetings of the Board of Directors in 2016.
+Audit Committee
+The Audit Committee, which has been established in accordance with Section 3(a)(58) of the Exchange Act, currently consists of Ms. Denholm, Mr. Gracias and Mr. Jurvetson, each of whom
+is “independent” as such term is defined for audit committee members by the listing standards of NASDAQ. Ms. Denholm is the chairperson of
+23
+Table of Contents
+the Audit Committee. The Board of Directors has determined that Ms. Denholm is an “audit committee financial expert” as defined in the rules of the SEC.
+The Audit Committee is responsible for, among other things:
+•
+reviewing and approving the selection of Tesla’s independent auditors, and approving the audit and non-audit services to be performed by
+Tesla’s independent auditors;
+•
+monitoring the integrity of Tesla’s financial statements and Tesla’s compliance with legal and regulatory requirements as they relate to
+financial statements or accounting matters;
+•
+reviewing the adequacy and effectiveness of Tesla’s internal control policies and procedures;
+•
+discussing the scope and results of the audit with the independent auditors and reviewing with management and the independent auditors Tesla’s
+interim and year-end operating results; and
+•
+preparing the audit committee report that the SEC requires in Tesla’s annual proxy statement.
+The Audit Committee held ten (10) meetings during the last fiscal year. The Audit Committee has adopted a written charter approved
+by the Board of Directors, which is available on Tesla’s website at: http://ir.tesla.com/corporate-governance.cfm.
+The
+Audit Committee Report is included in this proxy statement on page 52.
+Compensation Committee
+The Compensation Committee is currently comprised of Ms. Denholm, Mr. Ehrenpreis and Mr. Gracias, each of whom qualifies as
+an independent director under the listing standards of NASDAQ. Mr. Ehrenpreis is the chairperson of the Compensation Committee.
+The Compensation Committee is responsible for, among other things:
+•
+overseeing Tesla’s compensation policies, plans and benefit programs;
+•
+reviewing and approving for Tesla’s executive officers: the annual base salary, equity compensation, employment agreements, severance arrangements
+and change in control arrangements, and any other compensation, benefits, or arrangements;
+•
+preparing the compensation committee report that the SEC requires to be included in Tesla’s annual proxy statement; and
+•
+administering Tesla’s equity compensation plans.
+The Compensation Committee held twelve (12) meetings during the last fiscal year. The Compensation Committee has adopted a written charter approved by the Board of Directors, which is available on
+Tesla’s website at: http://ir.tesla.com/corporate-governance.cfm. Under the provisions of its charter, the Compensation Committee may form and delegate its authority to one or more subcommittees where appropriate. The Compensation Committee
+does not presently have any subcommittees, and no such delegations have been made.
+The Compensation Committee Report is
+included in this proxy statement on page 38.
+Nominating and Corporate Governance Committee
+The Nominating and Corporate Governance Committee currently consists of Ms. Denholm, Mr. Ehrenpreis and Mr. Gracias, each
+of whom qualifies as an independent director under the listing standards of NASDAQ. Mr. Ehrenpreis is the chairperson of the Nominating and Corporate Governance Committee.
+The Nominating and Corporate Governance Committee is responsible for, among other things:
+•
+assisting the Board of Directors in identifying prospective director nominees and recommending nominees for each annual meeting of stockholders to the
+Board of Directors;
+24
+Table of Contents
+•
+reviewing developments in corporate governance practices and developing and recommending governance principles applicable to the Board of Directors;
+•
+reviewing the succession planning for Tesla’s executive officers;
+•
+overseeing the evaluation of Tesla’s Board of Directors and management; and
+•
+recommending members for each Board committee to the Board of Directors.
+The Nominating and Corporate Governance Committee held thirteen (13) meetings during the last fiscal year. The Nominating and
+Corporate Governance Committee has adopted a written charter approved by the Board of Directors, which is available on Tesla’s website at: http://ir.tesla.com/corporate-governance.cfm.
+Compensation Committee Interlocks and Insider Participation
+Ms. Denholm, Mr. Ehrenpreis and Mr. Gracias served as members of the Compensation Committee during fiscal 2016. No member of the Compensation Committee is or was formerly an officer or an
+employee of Tesla. See “
+Certain Relationships and Related Party Transactions — Related Party Transactions
+” below for certain transactions involving Tesla in which members of the Compensation Committee may be deemed to have an
+indirect interest. Tesla does not deem any such interest to be material.
+No interlocking relationships existed between any
+member of Tesla’s Board of Directors or Compensation Committee and any member of the board of directors or compensation committee of any other company during the last fiscal year.
+Process for Recommending Candidates for Election to the Board of Directors
+The Nominating and Corporate Governance Committee is responsible for, among other things, determining the criteria for membership to the Board of Directors and recommending candidates for election to the
+Board of Directors. It is the policy of the Nominating and Corporate Governance Committee to consider recommendations for candidates to the Board of Directors from stockholders. Stockholder recommendations for candidates to the Board of Directors
+must be directed in writing to Tesla, Inc., 3500 Deer Creek Road, Palo Alto, California 94304, Attention: General Counsel/Legal, and must include the candidate’s name, home and business contact information, detailed biographical data and
+qualifications, information regarding any relationships between the candidate and Tesla within the last three years and evidence of the nominating person’s ownership of Tesla stock. Such recommendations must also include a statement from the
+recommending stockholder in support of the candidate, particularly within the context of the criteria for Board membership, including issues of character, judgment, diversity, age, independence, expertise, corporate experience, length of service,
+other commitments and the like, personal references, and an indication of the candidate’s willingness to serve.
+The
+Nominating and Corporate Governance Committee’s criteria and process for evaluating and identifying the candidates that it recommends to the full Board of Directors for selection as director nominees are as follows:
+•
+The Nominating and Corporate Governance Committee regularly reviews the current composition and size of the Board of Directors.
+•
+The Nominating and Corporate Governance Committee oversees an annual evaluation of the performance of the Board of Directors as a whole and evaluates
+the performance of individual members of the Board of Directors eligible for re-election at the annual meeting of stockholders.
+•
+In its evaluation of director candidates, including the members of the Board of Directors eligible for
+re-election,
+the Nominating and Corporate Governance Committee seeks to achieve a balance of knowledge, experience and capability on the Board of Directors and considers (1) the current size and
+composition of the Board of Directors and the needs of the Board of Directors and the respective committees of the Board of Directors, (2) such factors as issues of character, integrity, judgment, diversity of experience, independence, area of
+expertise, corporate experience, length of service,
+25
+Table of Contents
+potential conflicts of interest, other commitments and the like, and (3) such other factors as the Nominating and Corporate Governance Committee may consider appropriate.
+•
+While the Nominating and Corporate Governance Committee has not established specific minimum qualifications for director candidates, the Nominating and
+Corporate Governance Committee believes that candidates and nominees must reflect a Board that is comprised of directors who (1) are predominantly independent, (2) are of high integrity, (3) have broad, business-related knowledge and
+experience at the policy-making level in business or technology, including their understanding of Tesla’s business in particular, (4) have qualifications that will increase overall Board effectiveness and (5) meet other requirements
+as may be required by applicable rules, such as financial literacy or financial expertise with respect to audit committee members.
+•
+With regard to candidates who are properly recommended by stockholders or by other means, the Nominating and Corporate Governance Committee will review
+the qualifications of any such candidate, which review may, in the Nominating and Corporate Governance Committee’s discretion, include interviewing references for the candidate, direct interviews with the candidate, or other actions that the
+Nominating and Corporate Governance Committee deems necessary or proper.
+•
+In evaluating and identifying candidates, the Nominating and Corporate Governance Committee has the authority to retain and terminate any third party
+search firm that is used to identify director candidates and has the authority to approve the fees and retention terms of any search firm.
+•
+The Nominating and Corporate Governance Committee will apply these same principles when evaluating Board candidates who may be elected initially by the
+full Board to fill vacancies or add additional directors prior to the annual meeting of stockholders at which directors are elected.
+•
+After completing its review and evaluation of director candidates, the Nominating and Corporate Governance Committee recommends to the full Board of
+Directors the director nominees.
+Attendance at Annual Meetings of Stockholders by the Board
+of Directors
+Although Tesla does not have a formal policy regarding attendance by members of the Board of Directors at
+Tesla’s annual meeting of stockholders, Tesla encourages, but does not require, directors to attend. All of our directors who served at the time of the prior year’s annual meeting of stockholders attended such meeting.
+Stock Transactions
+Insider Trading Policy and Rule 10b5-1 Trading Plans
+Tesla has an
+insider trading policy that prohibits, among other things, short sales, hedging of stock ownership positions, and transactions involving derivative securities relating to Tesla’s common stock. In addition, one of Tesla’s current executive
+officers and two directors have entered into currently effective Rule 10b5-1 trading plans.
+Stock Ownership by
+Board of Directors and Management
+To align the interests at the highest level of our management with those of our
+stockholders, the Board of Directors has instituted the following requirements relating to stock ownership under our Corporate Governance Guidelines.
+Each member of the Board of Directors and our Chief Executive Officer is subject to the following minimum stock ownership requirements: (i) each director shall own shares of Tesla stock equal in
+value to at least five times the annual cash retainer for directors (exclusive of retainer amounts for service as Lead Independent Director or as a member or chair of a Board committee), and (ii) our Chief Executive Officer shall own shares of
+Tesla stock equal in value to at least six times his/her base salary. Each individual shall have five
+26
+Table of Contents
+years from the later of March 3, 2015 and the date such person assumed his or her relevant role at Tesla to come into compliance with these ownership requirements. Each person’s
+compliance with the minimum stock ownership level will be determined on the date when this compliance grace period expires, and then annually on each December 31, by multiplying the number of shares held by such person and the average closing
+price of those shares during the preceding month. Each of our Chief Executive Officer and our directors is currently in the applicable period to come into compliance with these requirements.
+Our Corporate Governance Guidelines also provide that no equity award as to which vesting or the lapse of a period of restriction occurs
+based solely on the passage of time that is granted to a named executive officer may vest, or have a period of restriction that lapses, earlier than six months from the date on which such vesting or lapse commences. Furthermore, our Corporate
+Governance Guidelines provide that no named executive officer may sell, transfer, pledge, assign, or otherwise dispose of any shares of Tesla stock acquired pursuant to any stock option, restricted stock unit or other equity award granted by Tesla
+earlier than the date that is six months after the date on which such award vests or the period of restriction with respect to such award lapses, as applicable.
+Prohibition of Equity Award Repricing
+Tesla views equity-based
+compensation to be a key factor in incentivizing the future performance of our personnel. Consequently, the Tesla, Inc. 2010 Equity Incentive Plan (the “2010 Plan”) provides that stock options and other equity-based awards issued under the
+2010 Plan that derive their value from the appreciation of the value of Tesla’s stock may not be exchanged for other awards, repurchased for cash, or otherwise be made the subject of transactions that have the purpose or effect of repricing
+such awards.
+Contacting the Board of Directors
+Any stockholder who desires to contact our non-employee directors regarding appropriate Tesla business-related comments may do so
+electronically at the following website: http://ir.tesla.com/contactBoard.cfm. Such stockholders who desire to contact our non-employee directors by mail may do so by writing Tesla’s Corporate Secretary at Tesla, Inc., 3500 Deer Creek Road,
+Palo Alto, CA 94304. Our General Counsel, or someone acting in his place, receives these communications unfiltered by Tesla, forwards communications to the appropriate committee of the Board of Directors or non-employee director, and facilitates an
+appropriate response. Please note that requests for investor relations materials should be sent to ir@tesla.com.
+27
+Table of Contents
+EXECUTIVE OFFICERS
+The names of Tesla’s executive officers, their ages, their positions with Tesla and other biographical information as of
+April 1, 2017, are set forth below. Except for Messrs. Elon Musk and Kimbal Musk who are brothers, there are no other family relationships among any of our directors or executive officers.
+Name
+Age
+Position
+Elon Musk
+45
+Chief Executive Officer and Chairman
+Deepak Ahuja
+54
+Chief Financial Officer
+Jeffrey B. Straubel
+41
+Chief Technology Officer
+Jon McNeill
+49
+President, Global Sales and Service
+Doug Field
+51
+Senior Vice President, Engineering
+Elon Musk.
+For a brief biography of Mr. Musk, please see “Proposal One —
+Election of Directors — Information Regarding the Board of Directors and Director Nominees.”
+Deepak
+Ahuja
+has served as our Chief Financial Officer since March 2017, and also previously served as our Chief Financial Officer from July 2008 to November 2015. Prior to joining us in July 2008, Mr. Ahuja served in various positions at
+Ford Motor Company from August 1993 to July 2008, most recently as the Vehicle Line Controller of Small Cars Product Development from July 2006 to July 2008, and as Chief Financial Officer for Ford of Southern Africa from February 2003 to June 2006.
+Mr. Ahuja also served as the Chief Financial Officer for Auto Alliance International, a joint venture between Ford and Mazda, from September 2000 to February 2003. Mr. Ahuja also serves as a director of FireEye, Inc. Mr. Ahuja holds
+an M.S.I.A. (which was subsequently redesignated as an M.B.A.) from Carnegie Mellon University, a M.S. in materials engineering from Northwestern University and a Bachelor’s degree in ceramic engineering from Banaras Hindu University in India.
+Jeffrey B. Straubel
+has served as our Chief Technology Officer since May 2005 and previously served as our
+Principal Engineer, Drive Systems from March 2004 to May 2005. Prior to joining us, Mr. Straubel was the Chief Technical Officer and co-founder of Volacom Inc., an aerospace firm which designed a specialized high-altitude electric aircraft
+platform, from 2002 to 2004. Mr. Straubel holds a B.S. in energy systems engineering from Stanford University and a M.S. in engineering, with an emphasis on power electronics, microprocessor control and energy conversion, from Stanford
+University.
+Jon McNeill
+has served as our President, Global Sales and Service since August 2015. Prior to
+joining us, Mr. McNeill was the Chief Executive Officer of Enservio, Inc., a property insurance software provider, from January 2006 to August 2015. A longtime entrepreneur experienced in companies prioritizing customer service,
+Mr. McNeill was a founder of Sterling Collision Centers, a national chain of vehicle body repair centers, and First Notice Systems, a 24-hour insurance claim services firm, and served as their Chief Executive Officer from 1997 to 2003 and from
+1993 until 1997, respectively, until their respective acquisitions. Prior to First Notice Systems, Mr. McNeill was a consultant with Bain & Company. Mr. McNeill is a director of Lululemon Athletica Inc., and continues to serve as
+the chair of Enservio’s board of directors. Mr. McNeill holds a B.A. in economics from Northwestern University.
+Doug Field
+has served as our Senior Vice President, Engineering since September 2016 and previously served as our Vice
+President, Engineering from October 2014 to September 2016 and as our Vice President, Vehicle Programs from September 2013 to October 2014. Prior to joining us, Mr. Field was Vice President, Macintosh Hardware Engineering, at Apple Inc. from
+October 2011 to September 2013, and its Vice President, Product Design, from July 2008 to October 2011. Mr. Field’s experience with vehicle engineering also includes previous roles as the Chief Technical Officer and Vice President, Design
+and Engineering of Segway Inc., a manufacturer of electric personal transport vehicles, and as a development engineer for Ford Motor Company. Mr. Field holds a M.S. in mechanical engineering and a M.B.A. from the Massachusetts Institute of
+Technology, in addition to a Bachelor of Science degree in mechanical engineering from Purdue University.
+28
+Table of Contents
+EXECUTIVE COMPENSATION
+Compensation Discussion and Analysis
+The following discussion and analysis of compensation arrangements of our named executive officers for 2016 should be read together with the compensation tables and related disclosures set forth below.
+This discussion contains forward-looking statements that are based on our current considerations, expectations, and determinations regarding future compensation programs. The actual amount and form of compensation and the compensation programs that
+we adopt may differ materially from current or planned programs as summarized in this discussion.
+The following
+discussion and analysis relates to the compensation arrangements for 2016 of (i) our principal executive officer, (ii) our former principal financial officer who served in such capacity during the entirety of 2016, and (iii) our three
+most highly compensated executive officers, other than our principal executive officer and former principal financial officer, who were serving as executive officers at the end of our fiscal year ended December 31, 2016 (our “named
+executive officers”). Our named executive officers for fiscal year 2016 were:
+Name
+Position
+Elon Musk
+Chief Executive Officer and Chairman
+Jason Wheeler
+Former Chief Financial Officer
+Jeffrey B. Straubel
+Chief Technology Officer
+Jon McNeill
+President, Global Sales and Service
+Doug Field
+Senior Vice President, Engineering
+Deepak Ahuja is not a named executive officer for fiscal year 2016, as he began his current service as
+our principal financial officer in March 2017 and did not serve in such capacity during 2016.
+Compensation Philosophy — Introduction
+As the world’s only vertically integrated sustainable energy company, our mission is to accelerate the world’s transition to
+sustainable energy. We design, develop, manufacture and sell high-performance fully electric vehicles and energy storage systems, as well as install, operate and maintain solar and energy storage products. To achieve our goals, we designed, and
+intend to modify as necessary, our compensation and benefits program and philosophy, to attract, retain and incentivize talented, deeply qualified, and committed executive officers that share our philosophy and desire to work toward these goals. We
+believe compensation incentives for such executive officers should promote the success of our company and motivate them to pursue corporate objectives, and there should be an emphasis on structuring them so as to reward clear, easily measured
+performance goals that closely align the executive officers’ incentives with the long-term interests of stockholders. Furthermore, we have sought to harmonize the compensation structures of our other employees to conform to our overall
+compensation philosophy.
+Our current compensation programs reflect our startup origins in that they consist primarily of
+salary and equity awards. Consistent with our historical compensation philosophy, we do not currently provide our senior executive officers with any form of a cash bonus program (other than amounts that may be payable under an incentive plan
+provided to Jon McNeill based on the achievement of specific customer-related metrics) or any severance provisions providing for continued salary or other benefits upon termination of an executive officer’s employment with us.
+Additionally, as our needs evolve, we intend to continue to evaluate our philosophy and compensation programs as circumstances require,
+and at a minimum, we will review executive compensation annually. We may from time to time make new equity awards and adjustments to the components of our executive compensation program in connection with our periodic compensation review.
+29
+Table of Contents
+Fiscal 2016 Company Highlights and Compensation Overview
+Our financial and business highlights for fiscal 2016 include the following:
+•
+We delivered 76,283 vehicles during 2016, leading to total GAAP revenues of $7.0 billion, an increase of approximately 73% over revenues of $4.0
+billion in 2015.
+•
+We unveiled our third generation electric vehicle, Model 3, in March 2016, which we intend to offer at a lower price point and produce at far higher
+volumes than our Model S and Model X vehicles.
+•
+To enable full self-driving capability, we began equipping all Tesla vehicles with a new Autopilot hardware platform in October 2016.
+•
+We produced 83,922 vehicles in 2016. This was an increase of 64% from 2015.
+•
+We expanded our Supercharger network by over 35% during the year, ending the year with 790 stations worldwide.
+•
+We completed a public offering of common stock and sold a total of 7,915,004 shares of our common stock for total cash proceeds of approximately $1.7
+billion, net of underwriting discounts and offering costs.
+•
+We began production of the second generation of energy storage products at Gigafactory 1 in the fourth quarter of 2016. We also revealed the solar
+roof, integrating solar energy production with aesthetically pleasing and durable glass roofing tiles, in the fourth quarter of 2016.
+•
+We secured additional loan commitments to bring us to a total of up to $1.2 billion in commitments for our asset-based line of credit and $600 million
+for our direct leasing warehouse credit facility during 2016.
+•
+We completed the acquisition of SolarCity on November 21, 2016. Through the SolarCity acquisition, we created the world’s only integrated
+sustainable energy company, from generation to storage to transportation.
+•
+We completed the acquisition of Grohmann Engineering on January 3, 2017, a world leader in highly-automated methods of manufacturing. This
+acquisition launched Tesla Advanced Automation Germany, which helps us innovate manufacturing processes to be used initially in Model 3 production.
+As described in more detail below and in the compensation tables that follow this Compensation Discussion and Analysis, our compensation structure applicable to our named executive officers did not change
+significantly during fiscal 2016:
+•
+The base salary for Elon Musk, our Chief Executive Officer, continues to reflect the current minimum wage requirements under applicable California
+laws, and Mr. Musk still does not accept this salary.
+•
+Our other named executive officers’ base salary rates did not increase during 2016.
+•
+We have no cash bonus program for any of our named executive officers (other than amounts that may be payable under an incentive plan provided to Jon
+McNeill based on the achievement of specific customer-related metrics).
+•
+Our compensation program is still predominantly in the form of equity-based awards, including performance-based awards, which are designed to promote
+incentives that are aligned with long-term stockholder interests.
+•
+None of our named executive officers has a compensation package that currently includes payment or acceleration of any benefits upon a termination of
+employment or a change of control of the Company.
+Role of the Compensation Committee in Setting
+Executive Compensation
+The Compensation Committee has overall responsibility for recommending to our Board of
+Directors the compensation of our Chief Executive Officer and determining the compensation of our other executive officers.
+30
+Table of Contents
+Members of the Compensation Committee are appointed by the Board of Directors. Currently, the Compensation Committee consists of three members of the Board, Ms. Denholm, Mr. Ehrenpreis
+and Mr. Gracias, none of whom is an executive officer of the Company, and each of whom qualifies as (i) an “independent director” under the rules of NASDAQ, and (ii) an “outside director” under Code
+Section 162(m). See the section entitled “
+Corporate Governance — Board Meetings and Committees — Compensation Committee
+.”
+Role of Compensation Consultant
+The Compensation Committee has the
+authority to engage the services of outside consultants to assist in making decisions regarding the establishment of the Company’s compensation programs and philosophy, and has historically done so. However, no such consultant provided services
+to us during 2016.
+Role of Executive Officers in Compensation Decisions
+For executive officers other than our Chief Executive Officer, the Compensation Committee has historically sought and considered input
+from our Chief Executive Officer regarding such executive officers’ responsibilities, performance and compensation. Specifically, our Chief Executive Officer recommends base salary increases and equity award levels that are used throughout our
+compensation plans, and advises the Compensation Committee regarding the compensation program’s ability to attract, retain and motivate executive talent. These recommendations reflect compensation levels that our Chief Executive Officer
+believes are qualitatively commensurate with an executive officer’s individual qualifications, experience, responsibility level, functional role, knowledge, skills, and individual performance, as well as the Company’s performance. Our
+Compensation Committee considers our Chief Executive Officer’s recommendations, but may adjust up or down as it determines in its discretion, and approves the specific compensation for all the executive officers. All such compensation
+determinations by our Compensation Committee are largely discretionary.
+Our Compensation Committee meets regularly in
+executive session, and our Chief Executive Officer generally does not attend Compensation Committee meetings or discussions where recommendations are made regarding his compensation. He is not present during Compensation Committee deliberations or
+votes on his compensation and also abstains from voting in sessions of the Board of Directors where the Board of Directors acts on the Compensation Committee’s recommendations regarding his compensation.
+The Role of Stockholder Say-on-Pay Votes
+At the 2011 and 2014 annual meetings of our stockholders, we held “say-on-pay” advisory votes on the compensation of our named executive officers for the 2010 and 2013 fiscal years,
+respectively. Each time, our stockholders overwhelmingly approved the compensation of our named executive officers, with over 94% of stockholder votes cast in favor of our compensation policies for our named executive officers. Given these results,
+and following consideration of them, the Compensation Committee decided to retain our overall approach to executive compensation. Moreover, we are required to hold a vote at least every six years regarding how often to hold a stockholder advisory
+vote on the compensation of our named executive officers. We held our first such vote at the 2011 annual meeting of stockholders, and the Board of Directors took into account our stockholders’ preference (more than 74% of total stockholder
+votes cast for the available options at the 2011 annual meeting of our stockholders) for a triennial vote. Consequently, the Board of Directors determined that we will hold a triennial advisory stockholder vote on the compensation of our named
+executive officers until they consider the results of our next “say-on-pay” frequency vote, which will be held at the 2017 Annual Meeting to which this proxy statement relates. In addition, in accordance with this triennial frequency, we
+will again hold a “say-on-pay” advisory vote at the 2017 Annual Meeting.
+Clawback Policy
+Our Corporate Governance Guidelines sets forth a clawback policy with respect to any annual incentive payment or long-term incentive
+payment that may be received by an executive officer, where such payment
+31
+Table of Contents
+would be predicated upon achieving certain financial results that were subsequently the subject of a financial restatement of our financial statements, and a lower payment would have been made to
+the executive based upon the restated financial results. In such case, the Board of Directors has the authority to seek to recover from the executive officer the amount by which such officer’s incentive payments for the relevant period exceeded
+the lower payment that would have been made based on the restated financial results.
+Chief Executive Officer
+Compensation
+In developing compensation recommendations for the Chief Executive Officer, the Compensation Committee
+has sought both to appropriately reward the Chief Executive Officer’s previous and current contributions and to create incentives for the Chief Executive Officer to continue to contribute significantly to successful results in the future. In
+addition to serving as the Chief Executive Officer since October 2008, Elon Musk has contributed significantly and actively to us since our earliest days in April 2004 by recruiting executives and engineers, contributing to vehicle engineering
+and design, raising capital for us and bringing investors to us, and raising public awareness of the Company.
+Overview
+— Cash Compensation
+Mr. Musk’s base salary reflects the current minimum wage requirements under applicable
+California laws, and he is subject to income taxes based on such base salary. Mr. Musk, however, has never accepted and currently does not accept his salary.
+Overview — Equity Compensation
+Prior to option grant awards made in
+December 2009, Mr. Musk did not receive any equity compensation for his services over a period of five years.
+In 2010
+and 2011, Mr. Musk did not receive any equity grants, because the Compensation Committee believed his existing grants made in December 2009 already provided sufficient motivation for Mr. Musk to perform his duties as Chief Executive
+Officer.
+In 2012, to create incentives for continued long term success beyond the Model S program and to further align
+executive pay with increases in stockholder value, the Compensation Committee reviewed Mr. Musk’s equity compensation and retained an outside compensation consultant to advise in such review. Following such review, the Compensation
+Committee recommended to the Board of Directors a new stock option grant to Mr. Musk. On August 1, 2012, our Board of Directors approved a grant to Mr. Musk of options to purchase 5,274,901 shares of our common stock at an exercise
+price of $31.17 per share, representing 5% of our total issued and outstanding shares as of August 13, 2012, the effective date of such grant (the “2012 CEO Grant”). The 2012 CEO Grant consists of ten equal vesting tranches, with a
+vesting schedule based entirely on the attainment of both operational and market capitalization milestones, as further detailed below. The 2012 CEO Grant was designed to be entirely an incentive for future performance that would take many years, if
+at all, to be achieved. Further, many of the requisite milestones were viewed as very difficult, at best, to achieve when the 2012 CEO Grant was made
+.
+Each of the ten vesting tranches requires that the Company meet a combination of (i) an operational milestone achievement
+and
+(ii) a significant increase in our market capitalization of
+$4.0 billion. Consequently, the 2012 CEO Grant will be fully vested only if we achieve a sustained market capitalization of $43.2 billion and all ten operational milestones described below are achieved. Market capitalization for purposes of
+milestone achievement will be determined based on a rolling six month historic average (based on trading days only). The market capitalization for a particular trading day is equal to the closing price multiplied by outstanding shares of common
+stock as of the end of such trading day. The term of the 2012 CEO Grant is ten years, so that if any vesting tranches remain unvested after expiration of the 2012 CEO Grant, they will be forfeited. In addition,
+32
+Table of Contents
+Mr. Musk will forfeit any unvested options if he is terminated as Chief Executive Officer of the Company, whether for cause or otherwise.
+In addition to the market capitalization milestones, vesting for each of the ten tranches requires achievement of certain operational
+milestones. To illustrate, vesting of the first tranche requires the achievement of any one of the ten defined operational milestones, vesting of the second tranche requires the achievement of any two of the ten defined operational milestones, and
+so on. The ten operational milestones for the 2012 CEO Grant are:
+•
+Successful completion of the Model X Alpha Prototype;
+•
+Successful completion of the Model X Beta Prototype;
+•
+Completion of the first Model X Production Vehicle;
+•
+Successful completion of the Model 3 Alpha Prototype;
+•
+Successful completion of the Model 3 Beta Prototype;
+•
+Completion of the first Model 3 Production Vehicle;
+•
+Gross margin of 30% or more for four consecutive quarters;
+•
+Aggregate vehicle production of 100,000 vehicles;
+•
+Aggregate vehicle production of 200,000 vehicles; and
+•
+Aggregate vehicle production of 300,000 vehicles.
+As of the date of this filing, eight market capitalization milestones for the 2012 CEO Grant have been achieved, and the following six operational milestones were achieved and approved by the Board of
+Directors:
+•
+Successful completion of the Model X Alpha Prototype;
+•
+Successful completion of the Model X Beta Prototype;
+•
+Completion of the first Model X Production Vehicle;
+•
+Aggregate vehicle production of 100,000 vehicles;
+•
+Successful completion of the Model 3 Alpha Prototype; and
+•
+Successful completion of the Model 3 Beta Prototype.
+Consequently, as of the date of this filing, six of the ten tranches of the 2012 CEO Grant, representing options to purchase an aggregate 3,164,940 shares, have vested. However, Mr. Musk has not
+exercised any of such vested options to date.
+Additionally, during the first quarter of 2017, we produced our 200,000th
+vehicle, and upon confirmation by the Board of Directors the related performance milestone will be achieved.
+The vesting of
+the 2012 CEO Grant will not accelerate in the event of a change in control of the Company. However, in a change in control event, the achievement of market capitalization-related vesting milestones for the 2012 CEO Grant will be based solely on our
+market capitalization as of the effectiveness of such change in control rather than the rolling six month historic average. The 2012 CEO Grant will not need to be adopted by an acquirer and, to the extent unvested on such date, will expire.
+Mr. Musk has not received any additional equity compensation since the 2012 CEO Grant, except in respect of certain
+awards granted during 2013 pursuant to a patent incentive program that was available to employees generally.
+33
+Table of Contents
+Realized Compensation
+For purposes of the “Summary Compensation Table” following this Compensation Discussion and Analysis, we are required to report
+pursuant to applicable SEC rules any stock option grants to Mr. Musk at values determined as of their respective grant dates and which are driven by certain assumptions prescribed by Financial Accounting Board Accounting Standards Codification
+Topic 718, “
+Compensation–Stock Compensation
+” (“ASC Topic 718”). As a result, there may be a significant disconnect between what is reported as compensation for a given year in such table and the value actually
+realized as compensation in that year or over a period of time. Moreover, the vast majority of compensation in respect of past stock option grants to Mr. Musk was an incentive for
+future
+performance and is realizable only if the
+Company’s stock price appreciates compared to the dates of the grants, and the Company achieves applicable vesting requirements.
+In addition, we are required to report in the section entitled “2016 Option Exercises and Stock Vested” below an amount for the “value realized” upon: (i) any exercise by
+Mr. Musk of a stock option, which is based on the difference between the market price of the underlying shares at the time of exercise and the exercise price of the stock option, and (ii) any vesting of a restricted stock unit award, based
+on the market price of the award at the time of vesting. Such amount is required to be reported even if Mr. Musk does not actually receive any cash from such exercise or vesting, either because he does not also sell any shares or because he
+sells only a number of shares sufficient to cover the related tax liabilities resulting from the exercise or vesting.
+To
+supplement the disclosures in the sections entitled “Summary Compensation Table” and “2016 Option Exercises and Stock Vested” below, we have included the following table, which shows the total realized compensation of
+Mr. Musk for the periods presented in the “Summary Compensation Table.” Realized compensation is not a substitute for reported compensation in evaluating our compensation structure, but we believe that realized compensation is an
+important factor in understanding that the value of compensation that Mr. Musk ultimately realizes is dependent on a number of additional factors, including: (i) the vesting of certain of his option awards only upon the successful
+achievement of a number of market capitalization increase and operational milestone targets, several of which have not yet been achieved; (ii) the fact that Mr. Musk does not receive any cash if he does not actually sell shares and thereby
+reduce his investment in us, and does not receive any cash to the extent that he sells only shares sufficient to cover income taxes with respect to his awards, including stock options exercised solely to avoid their expiration in accordance with
+their terms; and (iii) the then-current market value of our common stock at the times at which Mr. Musk may elect to actually sell his shares.
+Year
+“Total Compensation,”
+as Reported in Summary
+Compensation
+Table
+Below
+($)
+“Value Realized on Exercise
+or Vesting of Awards,” as
+Reported in Option Exercises
+and Stock Vested
+Table
+Below
+($)
+Total
+Realized
+Compensation
+($)(1)(2)
+2016
+45,936
+1,340,103,920
+(3)
+45,999
+2015
+37,584
+—
+37,584
+2014
+35,360
+16,778
+(4)
+35,360
+(1)
+Total realized compensation for a given year is defined as (i) salary, cash bonuses, non-equity incentive plan compensation and all other compensation as reported
+in the “Summary Compensation Table” below,
+plus
+(ii) with respect to any stock option exercised in such year in connection with which shares of stock were also sold other than to satisfy the resulting tax liability, if any, the
+difference between the market price of Tesla common stock at the time of exercise on the exercise date and the exercise price of the option,
+plus
+(iii) with respect to any restricted stock unit vested in such year in connection with
+which shares of stock were also sold other than automatic sales to satisfy the Company’s withholding obligations related to the vesting of such restricted stock unit, if any, the market price of Tesla common stock at the time of vesting,
+plus
+(iv) any cash actually received in respect of any shares sold to cover tax liabilities as described in (ii) and (iii) above, following the payment of such amounts.
+34
+Table of Contents
+(2)
+Of the amounts noted, Mr. Musk has not accepted his salary in the amounts of $45,936, $37,584 and $35,360 for 2016, 2015 and 2014, respectively.
+(3)
+Reflects the exercise of stock options with respect to an aggregate 6,711,972 shares, which were scheduled to expire in 2016. Of these, (i) the exercise with
+respect to an aggregate 1,208,000 shares were not accompanied by a related sales of shares, and (ii) the exercise with respect to an aggregate 5,503,972 shares was accompanied by a related sale of 2,782,670 shares
+solely in order to pay
+$593 million in income taxes
+related to such exercise.
+Accordingly, this reported amount was not actually received in cash upon these exercises
+.
+(4)
+Reflects the vesting of a restricted stock unit award, which was not accompanied by a related sale of shares. Accordingly, this reported amount was not actually
+received upon vesting.
+Elements of Executive Compensation
+In addition to specific elements of our Chief Executive Officer’s compensation discussed above, our current executive compensation
+program, which was set by our Compensation Committee, generally consists of the following components:
+•
+base salary;
+•
+equity-based incentives; and
+•
+other benefits.
+We combine these elements in order to formulate compensation packages that provide competitive pay, reward achievement of financial, operational and strategic objectives and align the interests of our
+named executive officers and other senior personnel with those of our stockholders.
+Base Salary
+Our Compensation Committee is responsible for reviewing our Chief Executive Officer’s and other executives’ base salaries. The
+base salaries of all executive officers are reviewed annually and adjusted when necessary to reflect individual roles, performance and the competitive market. The completion of key projects or technical milestones is also a factor in salary
+determinations. Because we typically do not provide cash bonuses to our executive officers, we also view salary as a key motivation and reward for our executives’ overall performance. As of the date of this filing, the Compensation Committee
+has not increased the base salaries of our named executive officers in 2017, other than an increase to our Chief Executive Officer’s salary as required by applicable California minimum wage requirements.
+We provide base salary to our named executive officers and other employees to compensate them for services rendered on a day-to-day basis
+during the fiscal year. The following table sets forth information regarding the annualized base salary amounts for fiscal years 2016 and 2017 for our named executive officers:
+Named Executive Officer
+Fiscal 2016
+Base
+Salary ($)(1)
+Fiscal 2017
+Base
+Salary ($)(1)
+Elon Musk
+45,760
+49,920
+Jeffrey B. Straubel
+249,600
+Jon McNeill
+500,000
+Doug Field
+300,000
+Jason Wheeler(2)
+500,000
+(1)
+Reflects an annualized rate assuming 52 weeks each comprised of five work days.
+(2)
+Mr. Wheeler resigned from his role as Chief Financial Officer, effective March 2017.
+35
+Table of Contents
+Equity-based incentives — Overview
+Our equity award program is the primary vehicle for offering long-term incentives to our named executive officers. Our equity-based
+incentives have historically been granted in the form of options to purchase shares of our common stock and restricted stock units that are settled in shares of our common stock upon vesting, and we have granted to our named executive officers both
+awards that vest over a long-term period and awards that vest only upon the achievement of specified Company performance milestones. We believe that equity grants align the interests of our named executive officers with our stockholders, provide our
+named executive officers with incentives linked to long-term performance and create an ownership culture. In addition, the vesting features of our equity grants contributes to executive retention because this feature provides an incentive to our
+named executive officers to remain in our employ during the scheduled vesting period or until the achievement of the applicable vesting milestones, which are expected to be achieved over the medium- to long-term. To date, we have not had an
+established set of criteria for granting equity awards; instead the Compensation Committee exercises its judgment and discretion, in consultation with our Chief Executive Officer, and considers, among other things, the role and responsibility of the
+named executive officer, competitive factors, the amount of stock-based equity compensation already held by the named executive officer, and the cash-based compensation received by the named executive officer, to determine the level of equity awards
+that it approves.
+We do not have, nor do we plan to establish, any program, plan, or practice to time equity award grants in
+coordination with releasing material non-public information. The Compensation Committee meets monthly to approve equity award grants, which grants become effective as of the second Monday of the month, in accordance with our equity incentive award
+grant policy.
+Equity award grants
+We generally grant one-time new hire equity awards to our employees upon their commencement of employment with us. Additionally, as part of our ongoing executive compensation review and alignment process,
+we periodically grant equity awards to our named executive officers.
+During 2016, we granted equity awards pursuant to our
+executive compensation review and alignment process to certain of our named executive officers. See “
+Executive Compensation — Grants of Plan-Based Awards in 2016
+.”
+On February 13, 2017, we granted to Jon McNeill a restricted stock unit award for 4,179 shares, with respect to which 1/8 shall vest
+on September 5, 2017 and 1/16 shall vest every three months thereafter (subject to Mr. McNeill’s continued service to us on each such vesting date), pursuant to our executive compensation review and alignment process.
+Severance and Change of Control Benefits
+No named executive officer has a severance or change of control arrangement with the Company. See “
+Executive Compensation — Potential Payments Upon Termination or Change of Control
+.”
+Bonus
+Other than as set forth under “Non-Equity Incentive Plan Compensation” below, we did not provide any cash-based bonus awards to our named executive officers in 2016, and we do not currently have
+any specific arrangements with our named executive officers providing for cash-based bonus awards.
+Non-Equity Incentive
+Plan Compensation
+In 2016, Mr. McNeill earned an aggregate $772,480 in variable compensation based on the achievement
+by the end of 2016 of specified metrics relating to vehicle deliveries, reductions in vehicle service backlog and service cycle times and vehicle customer satisfaction scores. See “
+Executive Compensation — Grants of Plan-Based Awards in
+2016
+” below. In 2017, we expect that Mr. McNeill will again be eligible for a variable
+36
+Table of Contents
+compensation arrangement based on the achievement of specified vehicle sales, service and/or other customer-related targets, but such arrangement has not yet been finalized.
+We did not provide any non-equity incentive plan compensation to any of our other named executive officers in 2016, and we do not
+currently have or have planned any specific arrangements with our other named executive officers providing for non-equity incentive plan compensation.
+Perks
+We generally do not provide any additional perquisites to our named
+executive officers except in certain limited circumstances. In 2017, we commenced a housing allowance of $6,350 per month during 2017 to Mr. McNeill to facilitate his frequent travel to our California offices.
+Benefits
+We provide the following benefits to our named executive officers on the same basis provided to all of our employees:
+•
+health, dental and vision insurance;
+•
+life insurance and accidental death and dismemberment insurance;
+•
+a 401(k) plan for which no match by Tesla is provided;
+•
+an employee stock purchase plan;
+•
+short-and long-term disability;
+•
+medical and dependent care flexible spending account; and
+•
+a health savings account.
+Tax and Accounting Considerations
+We have not provided any
+executive officer or director with a gross-up or other reimbursement for tax amounts the executive might pay pursuant to Section 280G or Section 409A of the Internal Revenue Code (“Code”). Section 280G and related Code
+sections provide that executive officers, directors who hold significant stockholder interests and certain other service providers could be subject to significant additional taxes if they receive payments or benefits in connection with a change in
+control of us that exceeds certain limits, and that we or our successor could lose a deduction on the amounts subject to the additional tax. Section 409A also imposes additional significant taxes on the individual in the event that an executive
+officer, director or service provider receives “deferred compensation” that does not meet the requirements of Section 409A.
+Because of the limitations of Code Section 162(m), we generally receive a federal income tax deduction for compensation paid to our Chief Executive Officer and to certain other highly compensated
+officers only if the compensation is less than $1,000,000 per person during any fiscal year or is “performance-based” under Code Section 162(m). In addition to salary and bonus compensation, the realization of value by such officers
+with respect to equity-based awards is treated as compensation and accordingly, in any year, such realization of value may cause an officer’s total compensation to exceed $1,000,000. However, compensation from awards that meet certain
+requirements set forth in Code Section 162(m) will not be subject to the $1,000,000 cap on deductibility. While the Compensation Committee cannot predict how the deductibility limit may impact our compensation program in future years, linking
+pay to performance has been and continues to be a significant factor in the Compensation Committee’s approach to executive compensation. In addition, while the Compensation Committee has not adopted a formal policy regarding tax deductibility
+of compensation paid to our named executive officers, the Compensation Committee intends to consider tax deductibility under Code Section 162(m) as a factor in compensation decisions.
+37
+Table of Contents
+We follow ASC Topic 718 for our share-based compensation awards. ASC Topic 718 requires
+companies to measure the compensation expense for all share-based compensation awards made to employees and directors based on the grant date “fair value” of these awards. This calculation is performed for accounting purposes and reported
+in the compensation tables above, even though our named executive officers may never realize any value from their awards. ASC Topic 718 also requires companies to recognize the compensation cost of their share-based compensation awards in their
+income statements over the period that an executive officer is required to render service in exchange for the option or other award.
+Compensation Committee Report
+The Compensation Committee oversees Tesla’s compensation policies, plans and benefit programs. The Compensation Committee has reviewed and discussed the Compensation Discussion and Analysis required
+by Item 402(b) of Regulation S-K with management. Based on such review and discussions, the Compensation Committee has recommended to the Board of Directors that the Compensation Discussion and Analysis be included in this proxy statement.
+Respectfully submitted by the members of the Compensation Committee of the Board of Directors
+Ira Ehrenpreis (Chair)
+Robyn M. Denholm
+Antonio J. Gracias
+Summary Compensation Table
+The following table presents information concerning the total compensation of our named executive officers. No disclosure is provided for fiscal years for which those persons were not named executive
+officers.
+Name and
+Principal Position
+Year
+Salary
+($)
+Bonus
+($)
+Stock Awards
+($)(1)
+Option
+Awards
+($)(2)
+All
+Other
+Compensation
+($)
+Total
+($)
+Elon Musk
+2016
+45,936
+—
+45,936
+Chief Executive Officer and Chairman
+2015
+37,584
+—
+37,584
+2014
+35,360
+—
+35,360
+Jeffrey B. Straubel
+2016
+250,560
+—
+7,677,023
+—
+7,927,583
+Chief Technology Officer
+2015
+250,560
+—
+250,560
+2014
+249,600
+—
+32,655
+(3)
+16,848,788
+(4)
+—
+17,131,043
+Jon McNeill
+2016
+501,923
+—
+2,119,322
+3,070,785
+772,480
+(5)
+6,464,510
+President, Global Sales and Service
+Doug Field
+2016
+301,153
+—
+2,119,322
+—
+2,420,475
+Senior Vice President, Engineering
+2015
+306,923
+—
+2,808,785
+—
+3,115,708
+Jason Wheeler
+2016
+501,931
+—
+501,931
+Former Chief Financial Officer
+2015
+46,154
+—
+20,852,142
+(6)
+—
+20,898,296
+(1)
+Reflects restricted stock unit awards, the fair value of which is measured on the grant date based on the closing fair market value of our common stock. These amounts
+do not necessarily correspond to the actual value that may be recognized by the named executive officers.
+(2)
+Reflects the aggregate grant date fair value computed in accordance with ASC Topic 718. The assumptions used in the valuation of these awards are set
+forth in the notes to our consolidated financial statements,
+38
+Table of Contents
+which are included in our Annual Report on Form 10-K for the year ended December 31, 2016, filed with the SEC on March 1, 2017. These amounts do not necessarily correspond to the
+actual value that may be recognized by the named executive officers.
+(3)
+Consists solely of patent award bonuses pursuant to our company-wide patent incentive program.
+(4)
+1/4 of the total number of shares subject to this grant will become vested and exercisable each time one of four specified performance milestones relating to the
+development of our Model X and Model 3 vehicles and our total vehicle production and gross margin targets is attained, subject to the grantee’s continued service to us at each such vesting event. As of the date of this filing, 1/4 of the shares
+subject to this grant have vested.
+(5)
+Consists of variable compensation based on the achievement by the end of 2016 of specified metrics relating to vehicle deliveries, reductions in vehicle service backlog
+and service cycle times and vehicle customer satisfaction scores. See “
+Executive Compensation — Grants of Plan-Based Awards in 2016
+” below.
+(6)
+Reflects Mr. Wheeler’s new hire stock option grant. Mr. Wheeler resigned from his role as Chief Financial Officer effective March 2017. This option award
+did not vest with respect to 133,490 of the 200,178 shares initially underlying such award.
+Grants of Plan-Based Awards in 2016
+The following table presents information concerning each grant of an award made to a named executive officer in fiscal 2016 under any plan.
+Name
+Grant
+Date(1)
+Estimated Future Payouts Under
+Non-Equity Incentive Plan Awards
+All
+Other
+Stock
+Awards:
+Number
+of
+Shares of
+Stocks or
+Units
+(#)
+All
+Other
+Option
+Awards:
+Number
+of
+Securities
+Underlying
+Options(#)
+Exercise
+or
+Base
+Price of
+Option
+Awards
+($/Sh)
+Grant Date
+Fair
+Value of Stock
+and Option
+Awards ($)(2)
+Threshold
+($)
+Target
+($)
+Maximum
+($)
+Jeffrey B. Straubel
+4/11/2016
+—
+63,598
+249.92
+7,677,023
+Doug Field
+4/11/2016
+—
+8,480
+—
+2,119,322
+Jon McNeill
+4/11/2016
+—
+25,439
+249.92
+3,070,785
+4/11/2016
+—
+8,480
+—
+2,119,322
+—
+(3
+)
+(3
+)
+(3
+)
+—
+(1)
+The vesting schedule applicable to each award is set forth below in the section entitled “
+Outstanding Equity Awards at 2016 Fiscal Year-End.
+”
+(2)
+Reflects the aggregate grant date fair value computed in accordance with ASC Topic 718. The fair value of restricted stock unit awards is measured on the grant date
+based on the closing fair market value of our common stock. The assumptions used in the valuation of option awards are set forth in the notes to our consolidated financial statements, which are included in our Annual Report on Form 10-K for the
+year ended December 31, 2016, filed with the SEC on March 1, 2017. These amounts do not necessarily correspond to the actual value that may be recognized by the named executive officers.
+(3)
+In 2016, Mr. McNeill participated in an incentive plan pursuant to which he was eligible to earn (i) between $5.00 and $15.00 for each new vehicle delivered
+in 2016; (ii) up to $200,000 for incremental reductions in average vehicle service backlog and service cycle times of at least 25% compared to the date of McNeill’s commencement of employment; and (iii) up to $200,000 for achievement
+of, and incremental improvements beyond, an average vehicle customer satisfaction score of at least 9.25 of 10.00 during 2016. There were no “Threshold,” “Target” or “Maximum” amounts payable under these plans other
+than as described above. Pursuant to these plans, Mr. McNeill earned an aggregate $772,480 during 2016, which is reflected in the “Non-Equity Incentive Plan Compensation” column of the “
+Summary Compensation Table
+”
+above. We did not provide any non-equity incentive plan compensation to any of our other named executive officers in 2016.
+39
+Table of Contents
+Outstanding Equity Awards at 2016 Fiscal Year-End
+The following table presents information concerning unexercised options and unvested restricted stock unit awards for each named executive
+officer outstanding as of the end of fiscal 2016.
+Option Awards
+Stock Awards
+Name
+Grant Date
+Number of
+Securities
+Underlying
+Unexercised
+Options (#)
+Exercisable
+Number of
+Securities
+Underlying
+Unexercised
+Options (#)
+Unexercisable
+Equity
+Incentive
+Plan
+Awards:
+Number of
+Securities
+Underlying
+Unexercised
+Unearned
+Options (#)
+Option
+Exercise
+Price ($)
+Option
+Expiration
+Date
+Number of
+Shares or
+Units of
+Stock That
+Have Not
+Vested
+(#)
+Market
+Value of
+Shares or
+Units of Stock
+That Have
+Not Vested
+($)(1)
+Elon Musk
+6/10/2013
+(2)
+350
+—
+100.05
+6/10/2023
+—
+4/8/2013
+(2)
+350
+—
+41.83
+4/8/2023
+—
+8/13/2012
+(3)
+2,637,450
+—
+2,637,451
+31.17
+8/13/2022
+—
+Jeffrey B. Straubel
+4/11/2016
+(4)
+10,599
+52,999
+—
+249.92
+4/11/2026
+—
+1/13/2014
+(5)
+55,000
+—
+165,000
+139.34
+1/13/2024
+—
+7/8/2013
+(2)
+1,050
+—
+121.61
+7/8/2023
+—
+6/10/2013
+(2)
+700
+—
+100.05
+6/10/2023
+—
+5/13/2013
+(2)
+700
+—
+87.80
+5/13/2023
+—
+4/8/2013
+(2)
+350
+—
+41.83
+4/8/2023
+—
+3/11/2013
+(2)
+700
+—
+39.10
+3/11/2023
+—
+2/11/2013
+(2)
+350
+—
+38.42
+2/11/2023
+—
+6/11/2012
+(2)
+700
+—
+29.12
+6/11/2022
+—
+2/13/2012
+(6)
+50,000
+—
+31.49
+2/13/2022
+—
+1/9/2012
+(2)
+350
+—
+27.25
+1/9/2022
+—
+12/12/2011
+(2)
+350
+—
+30.41
+12/12/2021
+—
+3/14/2011
+(2)
+350
+—
+23.25
+3/14/2021
+—
+1/10/2011
+(6)
+50,000
+—
+28.45
+1/10/2021
+—
+9/13/2010
+(7)
+20,000
+—
+20.72
+9/13/2020
+—
+6/12/2010
+(8)
+2,450
+—
+14.17
+6/11/2017
+—
+6/12/2010
+(7)
+116,650
+—
+14.17
+6/11/2017
+—
+Jon McNeill
+4/11/2016
+(4)
+4,239
+21,200
+—
+249.92
+4/11/2026
+—
+4/11/2016
+(9)
+—
+7,420
+1,585,580
+9/14/2015
+(10)
+39,006
+78,014
+—
+253.19
+9/14/2025
+—
+Doug Field
+4/11/2016
+(9)
+—
+7,420
+1,585,580
+10/12/2015
+(11)
+—
+2,267
+484,436
+5/11/2015
+(12)
+—
+5,629
+1,202,862
+11/10/2014
+(5)
+7,500
+—
+22,500
+241.93
+11/10/2024
+—
+10/14/2013
+(13)
+—
+10,777
+2,302,938
+Jason Wheeler
+12/14/2015
+(14)
+54,177
+146,001
+—
+218.58
+12/14/2025
+—
+(1)
+The market value of unvested restricted stock units is calculated by multiplying the number of unvested restricted stock units held by the applicable named executive
+officer by the closing price of our common stock on December 30, 2016, which was $213.69.
+(2)
+Stock option awards granted as part of our company-wide patent incentive program. The total number of shares subject to the option was vested and exercisable on the
+applicable grant date of the option.
+(3)
+This grant is intended to compensate Mr. Musk over its ten-year term and will become vested as to all shares subject to it only if our market
+capitalization increases to $43.2 billion and all ten performance milestones are achieved during such ten year period. 1/10th of the total number of shares subject to the option will become vested and exercisable each time: (i) our market
+capitalization increases by $4.0 billion
+40
+Table of Contents
+above the initially measured market capitalization of $3.2 billion;
+and
+(ii) one of ten specified performance milestones relating to the development of our Model X and Model 3
+vehicles and our total production of vehicles is attained, subject to Mr. Musk’s continued service to us at each such vesting event. If any shares have not vested by the end of the ten-year term of the option, they will be forfeited and
+Mr. Musk will not realize the value of such shares. As of the date of this filing, eight market capitalization milestones and six operational milestones have been achieved.
+Mr. Musk has not exercised any of the vested options to
+date
+. See “
+Executive Compensation — Compensation Discussion and Analysis — Chief Executive Officer Compensation
+” above.
+(4)
+1/8 of the shares subject to the option became vested and exercisable on October 11, 2016 and 1/48 of the shares subject to the option shall become vested and
+exercisable every month thereafter.
+(5)
+1/4 of the total number of shares subject to the option became vested and exercisable upon the completion of the first Model X production vehicle as determined by our
+Board of Directors. 1/4 of the total number of shares subject to this option will become vested and exercisable each time our Board of Directors determines that one of the three following additional performance milestones has been attained:
+(a) aggregate vehicle production of 100,000 vehicles in a trailing 12-month period; (b) completion of the first Model 3 production vehicle; and (c) annualized gross margin of greater than 30.0% in any three years, in each case subject
+to the grantee’s continued service to us on each such vesting date.
+(6)
+1/48 of the total number of the shares subject to the option vested or shall vest monthly starting on the one-month anniversary of the applicable grant date, subject to
+the grantee’s continued service to us on each such vesting date.
+(7)
+1/4 of the total number of shares subject to the option became vested and exercisable upon the completion of the Model S engineering prototype as
+determined by our Board of Directors, 1/4 of the total number of shares subject to the option became vested and exercisable upon the completion of the Model S validation prototype as determined by our Board of Directors, 1/4 of the total number of
+shares subject to the option subject to the option became vested and exercisable upon the first production of the Model S vehicle as determined by our Board of Directors, and 1/4 of the total number of shares subject to the option vested upon
+completion of production of the 10,000
+th
+Model S vehicle
+as determined by our Board of Directors.
+(8)
+1/48 of the total number of shares subject to the option vested monthly starting July 3, 2010.
+(9)
+1/8 of the restricted stock units vested on December 5, 2016 and 1/16 of the units will vest every three months thereafter.
+(10)
+1/4 of the shares subject to the option became vested and exercisable on August 26, 2016 and 1/48 of the shares subject to the option shall become vested and
+exercisable each month thereafter.
+(11)
+1/16 of this award vested on March 5, 2016 and the remainder of the award will vest at a rate of 1/16 of the total award on each three-month anniversary of such
+date, subject to the grantee’s continued service to us on each such vesting date.
+(12)
+3/16 of this award vested on March 5, 2016 and the remainder of the award will vest at a rate of 1/16 of the total award on each three-month anniversary of such
+date, subject to the grantee’s continued service to us on each such vesting date.
+(13)
+1/3 of this award vested on September 5, 2015, 1/6 of this award vested on March 5, 2016 and the remainder of the award will vest at a rate of 1/12 of the
+total award on each three-month anniversary of March 5, 2016, subject to the grantee’s continued service to us on each such vesting date.
+(14)
+1/4 of the total number of shares subject to the option became vested and exercisable on November 30, 2016 and the remaining shares subject to the option vest at a
+rate of 1/48 of the total number of shares subject to the option each month thereafter, subject to Mr. Wheeler’s continued service to us on each such vesting date. Mr. Wheeler resigned from his role as Chief Financial Officer,
+effective March 2017.
+41
+Table of Contents
+2016 Option Exercises and Stock Vested
+The following table presents information concerning each exercise of stock options and vesting of stock awards during fiscal 2016 for each
+of the named executive officers.
+Name
+Option Awards
+Stock Awards
+Number of Shares
+Acquired on Exercise
+(#)
+Value Realized
+on
+Exercise
+($)(1)
+Number of Shares
+Acquired
+on Vesting
+(#)
+Value Realized
+on
+Vesting
+($)(2)
+Elon Musk
+6,711,972
+1,340,103,920
+(3)
+—
+Jeffrey B. Straubel
+149,999
+22,978,915
+(4)
+—
+Jon McNeill
+—
+1,060
+198,008
+(5)
+Doug Field
+—
+23,157
+4,641,246
+(6)
+Jason Wheeler
+—
+(1)
+Reflects the difference between the market price of Tesla common stock at the time of exercise on the exercise date and the exercise price of the option.
+(2)
+Reflects the product of the number of shares of stock vested multiplied by the market price of Tesla common stock on the vesting date.
+(3)
+Reflects the exercise of stock options that were scheduled to expire in 2016. Of these, (i) the exercise with respect to an aggregate 1,208,000 shares were not
+accompanied by a related sales of shares, and (ii) the exercise with respect to an aggregate 5,503,972 shares was accompanied by a related sale of 2,782,670 shares
+solely in order to pay $593 million in income taxes
+related to
+such exercise.
+Accordingly, this reported amount was not actually received in cash upon these exercises
+.
+(4)
+Reflects exercises of stock options that were scheduled to expire in 2016, and which were accompanied by a sale of an aggregate 33,430 shares
+solely to partially
+offset exercise costs and income taxes
+related to such exercises.
+Accordingly, this reported amount was not actually received in cash upon these exercises
+.
+(5)
+Vesting of award was not accompanied by a simultaneous sale of the underlying shares, except an automatic sale of a portion thereof by the Company to satisfy the
+Company’s withholding obligations related to the vesting of such awards.
+Accordingly, this amount was not actually received in cash upon vesting
+.
+(6)
+Vesting of awards were not accompanied by simultaneous sales of the underlying shares, except any automatic sales of a portion thereof by the Company to satisfy the
+Company’s withholding obligations related to the vesting of such awards. Moreover, other than such automatic sales, the only sales of shares that Mr. Field transacted during 2016 were for an aggregate 3,000 shares at an aggregate sale
+price of approximately $699,297 pursuant to a pre-determined Rule 10b5-1 trading plan.
+Potential
+Payments Upon Termination or Change of Control
+We do not have an employment agreement for any specific term with any of
+our named executive officers. Moreover, we do not have any contract, agreement, plan or arrangement that would result in payments to a named executive officer at, following, or in connection with any termination, including resignation, severance,
+retirement or a constructive termination of a named executive officer, or a change in control of the Company or a change in the named executive officer’s responsibilities.
+42
+Table of Contents
+Compensation of Directors
+Compensation during Fiscal 2016
+The following table provides information concerning the compensation paid by us to each of our non-employee directors during fiscal year 2016. Elon Musk, who is our Chief Executive Officer, does not
+receive additional compensation for his services as a director.
+Name
+Fees Earned or
+Paid in Cash
+($)
+Option Awards
+($)(1)
+All Other
+Compensation
+Total
+($)
+Brad W. Buss
+20,000
+—
+20,000
+Robyn M. Denholm
+45,000
+—
+45,000
+Ira Ehrenpreis
+37,500
+—
+37,500
+Antonio J. Gracias
+37,500
+—
+37,500
+Stephen T. Jurvetson
+27,500
+—
+27,500
+Kimbal Musk
+20,000
+—
+4,535
+(2)
+24,535
+(1)
+As of December 31, 2016, the aggregate number of shares underlying option awards outstanding for each of our
+non-employee
+directors was:
+Name
+Aggregate Number of
+Shares Underlying
+Options Outstanding
+Brad W. Buss
+131,748
+Robyn M. Denholm
+122,333
+Ira Ehrenpreis
+82,492
+Antonio J. Gracias
+235,332
+Stephen T. Jurvetson
+62,000
+Kimbal Musk
+75,000
+(2)
+Consists of reimbursements for out-of-pocket travel expenses incurred in connection with attendance at board or committee meetings.
+Standard Director Compensation Arrangements
+Our current outside director compensation policy that is applicable to all of Tesla’s non-employee directors, which was adopted by the Compensation Committee in 2012, provides that each such
+non-employee director will receive the following compensation for board and Board committee services, as applicable:
+•
+an annual cash retainer for general board service of $20,000;
+•
+no cash awards for attendance of general board meetings;
+•
+an annual cash retainer for serving as the chairman of the Audit Committee of $15,000, for serving as the chairman of the Compensation Committee of
+$10,000 and for serving as the chairman of the Nominating and Corporate Governance Committee of $7,500;
+•
+an annual cash retainer for serving on the Audit Committee of $7,500 per member, for serving on the Compensation Committee of $5,000 per member, and
+for serving on the Nominating and Corporate Governance Committee of $5,000 per member;
+•
+upon first joining the board, an automatic initial grant of a stock option to purchase 33,333 shares of our common stock vesting 1/4 on the one year
+anniversary of the vesting commencement date and 1/48 per month thereafter for the next three years, subject to continued service through each vesting date;
+•
+shortly following the 2015 annual meeting, or the first annual meeting after joining the board (if joining after June 12, 2012), and shortly
+following every third annual meeting thereafter, an automatic grant of a stock option to purchase 50,000 shares of our common stock;
+43
+Table of Contents
+•
+for serving as the Lead Independent Director, on the latter of June 12, 2012 or shortly following appointment as the Lead Independent Director,
+and every three years thereafter, an automatic grant of a stock option to purchase 24,000 shares of our common stock;
+•
+for serving as a member of the Audit Committee, the Compensation Committee or the Nominating and Corporate Governance Committee, on the latter of
+June 12, 2012 or shortly following appointment as a member of such Committee, and every three years thereafter, an automatic grant of a stock option to purchase 12,000 shares, 9,000 shares, or 6,000 shares, respectively, of our common stock;
+and
+•
+in addition to any applicable grant in the immediately preceding bullet, for serving as the chair of the Audit Committee, the Compensation Committee or
+the Nominating and Corporate Governance Committee, on the latter of June 12, 2012 or shortly following appointment as the chair of such Committee, and every three years thereafter, an automatic grant of a stock option to purchase
+12,000 shares, 6,000 shares, or 3,000 shares, respectively, of our common stock.
+Each automatic
+triennial stock option grant and each stock option grant for service as Lead Independent Director, member of a Committee or chair of a Committee, in each case as described above, will vest 1/36 per month for three years starting on the one
+month anniversary of the vesting commencement date, subject to continued service in the capacity for which such grant was made (except that if a director who was granted such an option ceases to be a director on the day before an annual meeting that
+is held earlier than the anniversary date of the vesting commencement date for that calendar year, vesting will accelerate with respect to the shares that would have vested if such director continued service through such anniversary date).
+If, following a change of control, a director is terminated, all options granted to the director pursuant to the compensation
+policy shall fully vest and become immediately exercisable.
+Non-employee directors may also have their travel, lodging and
+related expenses associated with attending Board or Committee meetings reimbursed by Tesla.
+Equity Compensation
+Plan Information
+The following table summarizes the number of securities underlying outstanding options, stock awards,
+warrants and rights granted to employees and directors, as well as the number of securities remaining available for future issuance, under Tesla’s equity compensation plans as of December 31, 2016.
+(a)
+(b)
+(c)
+Plan category
+Number of securities
+to
+be issued upon exercise
+of outstanding
+options,
+warrants and rights
+(#)(1)
+Weighted-average
+exercise price of
+outstanding options,
+warrants and
+rights
+($)(2)
+Number of
+securities
+remaining available for
+future issuance under
+equity compensation
+plans (excluding
+securities reflected
+in
+column (a))
+(#)
+Equity compensation plans approved by security holders
+15,401,328
+$
+78.28
+6,492,564
+(3)
+Equity compensation plans not approved by security holders
+1,556,183
+(4)
+$
+274.70
+—
+Total
+16,957,511
+$
+96.50
+6,492,564
+(1)
+Consists of stock options to purchase shares of our common stock and restricted stock units representing the right to acquire shares of our common stock.
+(2)
+The weighted average exercise price is calculated based solely on the outstanding stock options. It does not take into account the shares issuable upon vesting of
+outstanding restricted stock units, which have no exercise price.
+44
+Table of Contents
+(3)
+Consists of 4,698,501 shares remaining available for issuance under the 2010 Plan, and 1,794,063 shares remaining available for issuance under the Tesla, Inc. 2010
+Employee Stock Purchase Plan (the “ESPP”). Our 2010 Plan provides for annual increases in the number of shares available for issuance thereunder on the first day of each fiscal year, beginning with the 2011 fiscal year, equal to the least
+of (i) 5,333,333 shares of our common stock, (ii) four percent (4%) of the outstanding shares of our common stock on the last day of the immediately preceding fiscal year, or (iii) such lesser amount as our Board of Directors may
+determine. Our ESPP provides for annual increases in the number of shares available for issuance thereunder on the first day of each fiscal year, beginning with the 2011 fiscal year, equal to the least of (i) 1,000,000 shares of our common
+stock, (ii) one percent (1%) of the outstanding shares of our common stock on the first day of the fiscal year, or (iii) such lesser amount as our Board of Directors or a designated committee acting as administrator of the plan may
+determine.
+(4)
+Consists of outstanding stock options and restricted stock units that were assumed in connection with acquisitions. No additional awards may be granted under the plans
+pursuant to which such awards were initially granted.
+45
+Table of Contents
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS
+Review of Related Party Transactions
+In accordance with the charter for the Audit Committee of the Board of Directors, our Audit Committee reviews and approves in advance any
+proposed related person transactions.
+For purposes of these procedures, “related person” and
+“transaction” have the meanings contained in Item 404 of Regulation S-K.
+The individuals and entities that are
+considered “related persons” include:
+•
+Directors, nominees for director and executive officers of Tesla;
+•
+Any person known to be the beneficial owner of five percent or more of Tesla’s common stock (a “5% Stockholder”); and
+•
+Any immediate family member, as defined in Item 404(a) of Regulation S-K, of a director, nominee for director, executive officer or 5%
+Stockholder.
+In accordance with our Related Person Transactions Policy and Procedures, the Audit Committee
+must review and approve all transactions in which (i) Tesla or one of its subsidiaries is a participant, (ii) the amount involved exceeds $120,000 and (iii) a related person has a direct or indirect material interest, other than
+transactions available to all employees of the Company generally.
+In assessing a related party transaction brought before it
+for approval the Audit Committee considers, among other factors it deems appropriate, whether the related party transaction is on terms no less favorable than terms generally available to an unaffiliated third-party under the same or similar
+circumstances and the extent of the related person’s interest in the transaction. The Audit Committee may then approve or disapprove the transaction in its discretion.
+Any related person transaction will be disclosed in the applicable SEC filing as required by the rules of the SEC.
+Related Party Transactions
+SolarCity
+On November 21, 2016, we completed our acquisition of SolarCity. As of the acquisition date, Elon Musk, our Chief
+Executive Officer and Chairman, was a significant stockholder of SolarCity and Chairman of its Board of Directors; Jeffrey B. Straubel, our Chief Technical Officer, was also a member of its Board of Directors; and certain other members of our Board
+of Directors had interests in SolarCity as described in more detail above in “
+Corporate Governance — Director Independence.
+” Pursuant to the terms of the acquisition agreement, each issued and outstanding share of SolarCity
+common stock was converted into 0.110 shares of Tesla common stock, with cash paid in lieu of any fractional shares. Furthermore, SolarCity options and restricted stock unit awards were assumed by Tesla and converted into corresponding equity awards
+in respect of Tesla common stock based on this ratio, with the awards retaining the same vesting and other terms and conditions as in effect immediately prior to the acquisition. Accordingly, at the closing of the acquisition, certain of these
+individuals or funds or entities affiliated with such individuals became entitled to receive the shares of Tesla common stock and
+46
+Table of Contents
+equity awards in respect of Tesla common stock set forth in the table below. The closing price of Tesla common stock on the acquisition date was $184.52.
+Name
+Shares
+(#)
+Shares Underlying
+Option
+Awards
+(#)
+Weighted-Average Exercise
+Price of Option
+Awards
+($/Sh)
+Elon Musk
+2,403,024
+3,300
+(1)
+568.28
+Jeffrey B. Straubel
+83,407
+3,410
+(1)
+557.97
+Brad Buss
+4,100
+—
+Antonio Gracias
+21,745
+3,300
+(1)
+568.28
+Stephen Jurvetson
+184,798
+—
+Kimbal Musk
+16,181
+—
+(1)
+This option expired in December 2016 pursuant to its terms without being exercised.
+Moreover, in December 2015, SolarCity issued $10 million in principal amount of zero-coupon convertible senior notes due December 2020 to
+the Elon Musk Revocable Trust dated July 22, 2003, of which Elon Musk is the trustee (the “EM Trust”), at the same terms at which such notes were offered to an unaffiliated purchaser. In connection with the SolarCity acquisition, such
+convertible senior notes became convertible into 33,333 shares of Tesla common stock, at a conversion price of $300. In August 2016, SolarCity issued $65 million in aggregate principal amount of 6.50% Solar Bonds due February 2018 to Elon Musk, upon
+the same terms and conditions offered to the public. In April 2017, Mr. Musk agreed to exchange the 6.50% Solar Bonds for a $65 million promissory note bearing interest at 6.5% issued by SolarCity on substantially identical terms, including the
+remaining maturity.
+Prior to the SolarCity acquisition, we had entered into a number of agreements with SolarCity, including
+pursuant to requests for proposals and other objective selection processes by Tesla and/or SolarCity. For example, in December 2015, we entered into a master supply agreement with SolarCity that, among other things, governed SolarCity’s
+purchase of Tesla energy storage products. The purchase orders issued by SolarCity, and accepted by Tesla, under this master supply agreement in 2016 included a purchase order for a 13 MW/52 MWh Powerpack system for use in SolarCity’s Kauai
+Island Utility Cooperative project in Kapaia, Hawaii. We recognized approximately $18.0 million in revenue from SolarCity under purchase orders issued under this agreement during fiscal year 2016.
+SpaceX
+Elon Musk is also the Chief Executive Officer, Chief Technical Officer and a significant stockholder of SpaceX. Kimbal Musk, a member of
+our Board of Directors, is also a member of the board of directors of SpaceX. In addition, certain other members of our Board of Directors have interests in SpaceX as described in more detail above in “
+Corporate Governance — Director
+Independence.
+”
+In March 2016 and June 2016, SpaceX purchased 4.40% Solar Bonds due March 2017 and June 2017,
+respectively, from SolarCity in aggregate principal amounts of approximately $90 million and $75 million, respectively, upon the same terms and conditions which such securities were offered to the public. In March 2017, the 4.40% Solar Bonds due
+March 2017 held by SpaceX were repaid in full.
+SpaceX provides us, at no cost, with use of certain enterprise software
+developed by it. In February 2014, Tesla and SpaceX also entered into an agreement relating to Tesla’s use of an aircraft leased and operated by SpaceX (the “Airplane Agreement”). Pursuant to the Airplane Agreement, Tesla will pay
+SpaceX for its use of the aircraft at rates to be determined by the parties from time to time, subject to rules of the Federal Aviation Administration governing such arrangements. In 2016, Tesla incurred approximately $1.0 million of expenses under
+the Airplane Agreement for Tesla’s use of the plane and paid SpaceX approximately $1.1 million (including amounts incurred but not paid in 2015).
+47
+Table of Contents
+Investors’ Rights Agreement
+We have entered into an investors’ rights agreement, which we have amended from time to time, with certain current or former holders
+of our common stock, including the EM Trust, and entities affiliated with VMC, of which Antonio Gracias, a member of our Board of Directors, is the Chief Executive Officer, director and majority owner. This agreement provides for certain rights
+relating to the registration of their shares of common stock.
+Other Transactions
+In the ordinary course of business, we enter into offer letters and employment agreements with our executive officers. We have also
+entered into indemnification agreements with each of our directors and officers. The indemnification agreements and our certificate of incorporation and bylaws require us to indemnify our directors and officers to the fullest extent permitted by
+Delaware law.
+Ira Ehrenpreis, a member of our Board of Directors, also serves a member of the board of directors of Mapbox
+Inc., a provider of custom online maps (“Mapbox”). In December 2015, Tesla entered into an agreement with Mapbox relating to a vehicle map-related project, pursuant to which, as amended from time to time, Tesla expects to pay Mapbox
+certain ongoing fees earned over the duration of the project, including an advance payment of $3 million in the aggregate for fees incurred through December 23, 2017. Mr. Ehrenpreis did not participate in negotiations involving, and does
+not have a direct or indirect material interest in, this transaction.
+Robyn M. Denholm, a member of our Board of Directors,
+served as the Executive Vice President and Chief Financial and Operations Officer of Juniper until February 2016. Tesla has purchased and may purchase from time to time, networking equipment manufactured by Juniper in the ordinary course of business
+through resellers, but Tesla has not entered into a purchase contract directly with Juniper. Ms. Denholm did not participate in any negotiations involving, and does not and did not have a direct or indirect material interest in, Tesla’s
+indirect purchases from Juniper.
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+Under Section 16 of the Exchange Act, Tesla’s directors, executive officers and any persons holding more than
+10% of the Tesla’s common stock are required to report initial ownership of the Tesla common stock and any subsequent changes in ownership to the SEC. Specific due dates have been established by the SEC, and Tesla is required to disclose in
+this proxy statement any failure to file required ownership reports by these dates. Based solely upon the copies of Section 16(a) reports that Tesla received from such persons for their 2016 fiscal year transactions, and the written
+representations received from certain of such persons that no reports were required to be filed for them for the 2016 fiscal year that have not been filed, Tesla is aware of no late Section 16(a) filings, except that one report covering a sale
+of 56 shares of Tesla common stock during 2016 by an investment fund of which Stephen T. Jurvetson is a managing director was filed late.
+48
+Table of Contents
+OWNERSHIP OF SECURITIES
+The following table sets forth certain information regarding the beneficial ownership of Tesla’s common stock, as of
+December 31, 2016, for the following:
+•
+each person (or group of affiliated persons) who is known by us to beneficially own 5% of the outstanding shares of our common stock;
+•
+each of our non-employee directors;
+•
+each of our executive officers named in the Summary Compensation Table of this proxy statement; and
+•
+all directors and current executive officers of Tesla as a group.
+In computing the number of shares of common stock beneficially owned by a person and the percentage ownership of that person, we deemed
+to be outstanding all shares of common stock subject to options or other convertible securities held by that person or entity that are currently exercisable or exercisable within 60 days of December 31, 2016. We did not deem these shares
+outstanding, however, for the purpose of computing the percentage ownership of any other person. Applicable percentage ownership is based on 161,560,871 shares of Tesla’s common stock outstanding at December 31, 2016.
+Unless otherwise indicated, all persons named below can be reached at Tesla, Inc., 3500 Deer Creek Road, Palo Alto, California 94304.
+Beneficial Owner Name
+Shares
+Beneficially
+Owned
+Percentage
+of Shares
+Beneficially
+Owned
+5% Stockholders
+Elon Musk (1)
+36,175,151
+22.0
+%
+FMR LLC (2)
+22,051,229
+13.6
+%
+Baillie Gifford & Co. (3)
+13,289,548
+8.2
+%
+T. Rowe Price Associates, Inc. (4)
+11,920,042
+7.4
+%
+Named Executive Officers & Directors
+Elon Musk (1)
+36,175,151
+22.0
+%
+Jeffrey B. Straubel (5)
+639,185
+*
+Doug Field (6)
+23,633
+*
+Jon McNeill (7)
+49,838
+*
+Jason Wheeler (8)(9)
+62,729
+*
+Brad W. Buss (10)
+118,207
+*
+Robyn M. Denholm (11)
+81,110
+*
+Ira Ehrenpreis (12)
+64,873
+*
+Antonio J. Gracias (13)
+466,833
+*
+Stephen T. Jurvetson (14)
+296,390
+*
+Kimbal Musk (15)
+220,823
+*
+All current executive officers and directors as a group (11 persons) (16)
+38,194,941
+23.1
+%
+*
+Represents beneficial ownership of less than 1%.
+(1)
+Includes (i) 33,503,668 shares held of record by the Elon Musk Revocable Trust dated July 22, 2003; (ii) 2,638,150 shares issuable to Mr. Musk upon
+exercise of options exercisable within 60 days after December 31, 2016; and (iii) $10,000,000 in aggregate principal amount of SolarCity’s Zero Coupon Convertible Senior Notes due 2020, convertible into 33,333 shares of Common Stock
+within 60 days following December 31, 2016. 11,450,723 shares pledged as collateral to secure certain personal indebtedness.
+(2)
+Includes shares that may be deemed to be beneficially owned by FMR LLC and/or Abigail P. Johnson, FIAM LLC, Fidelity (Canada) Asset Management ULC,
+Fidelity Institutional Asset Management Trust
+49
+Table of Contents
+Company, Fidelity Management & Research (Hong Kong) Limited, FMR Co., Inc. and Strategic Advisers, Inc. FMR LLC is predominantly owned by members of the family of Abigail P. Johnson,
+Director, Chairman and Chief Executive Officer of FMR LLC. Neither FMR LLC nor Abigail P. Johnson has the sole power to vote or direct the voting of the shares owned directly by various investment companies (the “Fidelity Funds”) advised
+by Fidelity Management & Research Company, a wholly owned subsidiary of FMR LLC (“FMR Co.”), which power resides with the Fidelity Funds’ Boards of Trustees. FMR Co. carries out the voting of the shares under written
+guidelines established by the Fidelity Funds’ Boards of Trustees. The address for these entities and individuals is 245 Summer Street, Boston, MA 02210. The foregoing information is based solely on Amendment No. 7 to Schedule 13G of FMR
+LLC filed on February 14, 2017, which the Company does not know or have reason to believe is not complete or accurate and on which the Company is relying pursuant to applicable SEC regulations.
+(3)
+Includes shares held by Baillie Gifford & Co. and/or one or more of its investment adviser subsidiaries, which may include Baillie Gifford Overseas Limited, on
+behalf of investment advisory clients, which may include investment companies registered under the Investment Company Act, employee benefit plans, pension funds or other institutional clients. The address for Baillie Gifford & Co. is Calton
+Square, 1 Greenside Row, Edinburgh EH1 3AN, Scotland, UK. The foregoing information is based solely on Amendment No. 1 to Schedule 13G of Baillie Gifford & Co. filed on February 10, 2017, which the Company does not know or
+have reason to believe is not complete or accurate and on which the Company is relying pursuant to applicable SEC regulations.
+(4)
+Includes shares held by T. Rowe Price Associates, Inc. (“Price Associates”), which does not serve as custodian of the assets of any of its clients.
+Accordingly, in each instance only the client or the client’s custodian or trustee bank has the right to receive dividends paid with respect to, and proceeds from the sale of, such securities. The ultimate power to direct the receipt of
+dividends paid with respect to, and the proceeds from the sale of, such securities, is vested in the individual and institutional clients which Price Associates serves as investment adviser. Any and all discretionary authority which has been
+delegated to Price Associates may be revoked in whole or in part at any time. The address for Price Associates is 100 E. Pratt Street, Baltimore, Maryland 21202. The foregoing information is based solely on Amendment No. 1 to Schedule 13G of
+Price Associates filed on February 7, 2017, which the Company does not know or have reason to believe is not complete or accurate and on which the Company is relying pursuant to applicable SEC regulations.
+(5)
+Includes 312,948 shares issuable upon exercise of options exercisable within 60 days after December 31, 2016. Includes 127,925 shares pledged as collateral to
+secure certain personal indebtedness.
+(6)
+Includes 7,500 shares issuable upon exercise of options exercisable within 60 days after December 31, 2016.
+(7)
+Includes 49,180 shares issuable upon exercise of options exercisable within 60 days after December 31, 2016.
+(8)
+Includes 62,517 shares issuable upon exercise of options exercisable within 60 days after December 31, 2016.
+(9)
+Mr. Wheeler resigned from his role as Chief Financial Officer, effective March 2017.
+(10)
+Includes 109,525 shares issuable upon exercise of options exercisable within 60 days after December 31, 2016.
+(11)
+Comprised of shares issuable upon exercise of options exercisable within 60 days after December 31, 2016.
+(12)
+Includes 49,601 shares issuable upon exercise of options exercisable within 60 days after December 31, 2016.
+(13)
+Includes (i) 50,886 shares held of record by Valor Equity Management II (“VEP II”); (ii) 225,506 shares owned by AJG Growth Fund LLC (“Growth
+Fund”), which are pledged as collateral to secure certain personal indebtedness; and (iii) 190,441 shares issuable upon exercise of options exercisable within 60 days after December 31, 2016. VEP II is advised directly and/or
+indirectly by Valor Management Corp., which may be deemed to have shared voting and investment power with respect to the shares held of record by VEP II. Mr. Gracias is a shareholder and director of Valor Management Corp., and may be deemed to
+have shared voting and investment power with respect to the shares held of record by VEP II. He is also fund manager for Growth Fund. The address for all the entities above is 875 North Michigan Avenue, Suite 3214, Chicago, IL 60611.
+50
+Table of Contents
+(14)
+Includes (i) 101,074 shares held by the Jurvetson Trust and (ii) 34,443 shares issuable upon exercise of options exercisable within 60 days after
+December 31, 2016. Also includes: (i) 121,289 shares held by Draper Fisher Jurvetson Growth Funds 2006, L.P.; (ii) 34 shares held by Draper Fisher Jurvetson Fund X Partners, L.P.; (iii) 28,691 shares held by Draper Fisher
+Jurvetson Fund X, L.P.; (iv) 9,983 shares held by Draper Fisher Jurvetson Partners Growth Fund 2006, LLC; and (v) 876 shares held by Draper Fisher Jurvetson Partners X, LLC, each of which is advised directly or indirectly by entities of
+which Mr. Jurvetson is a managing director, and to which Mr. Jurvetson may consequently be deemed to share voting and investment power with respect to their shares. The address for all the entities above is c/o Draper Fisher Jurvetson,
+2882 Sand Hill Road, Suite 150, Menlo Park, CA 94025.
+(15)
+Includes 52,777 shares issuable upon exercise of options exercisable within 60 days after December 31, 2016. Includes 164,514 shares pledged as collateral to
+secure certain personal indebtedness.
+(16)
+Includes 3,530,710 shares issuable upon exercise of options held by our current executive officers and directors exercisable within 60 days after December 31,
+2016.
+51
+Table of Contents
+AUDIT COMMITTEE REPORT
+The Audit Committee assists the Board of Directors in fulfilling its responsibilities for oversight of the integrity of Tesla’s
+consolidated financial statements, our internal accounting and financial controls, our compliance with legal and regulatory requirements, the organization and performance of our internal audit function and the qualifications, independence and
+performance of our independent registered public accounting firm.
+The management of Tesla is responsible for establishing and
+maintaining internal controls and for preparing Tesla’s consolidated financial statements. The independent registered public accounting firm is responsible for auditing the financial statements. It is the responsibility of the Audit Committee
+to oversee these activities.
+The Audit Committee has:
+•
+Reviewed and discussed the audited financial statements with Tesla management and with PricewaterhouseCoopers LLP, Tesla’s independent registered
+public accounting firm;
+•
+Discussed with PricewaterhouseCoopers LLP the matters required to be discussed by the Auditing Standard No. 1301, “Communications with Audit
+Committees” issued by the Public Company Accounting Oversight Board; and
+•
+Received the written disclosures and the letter from PricewaterhouseCoopers LLP required by applicable requirements of the Public Company Accounting
+Oversight Board regarding PricewaterhouseCoopers LLP’s communications with the Audit Committee concerning independence and has discussed with PricewaterhouseCoopers LLP their independence.
+Based upon these discussions and review, the Audit Committee recommended to the Board of Directors that the audited consolidated
+financial statements be included in Tesla’s Annual Report on Form 10-K for the fiscal year ended December 31, 2016 for filing with the United States Securities and Exchange Commission.
+Respectfully submitted by the members of the Audit Committee of the Board of Directors
+Robyn M. Denholm (Chair)
+Antonio J. Gracias
+Stephen T. Jurvetson
+52
+Table of Contents
+OTHER MATTERS
+Tesla knows of no other matters to be submitted at the 2017 Annual Meeting. If any other matters properly come before the 2017 Annual
+Meeting, it is the intention of the persons named in the proxy card to vote the shares they represent as the Board of Directors may recommend. Discretionary authority with respect to such other matters is granted by the execution of the proxy,
+whether through telephonic or Internet voting or, alternatively, by using a paper copy of the proxy card that has been requested.
+It is important that your shares be represented at the 2017 Annual Meeting, regardless of the number of shares that you hold. You are, therefore, urged to vote by telephone or by using the Internet as
+instructed on the proxy card or, if so requested, by executing and returning, at your earliest convenience, the requested proxy card in the envelope that will have been provided.
+THE BOARD OF DIRECTORS
+Palo Alto, California
+April 20, 2017
+53
+Table of Contents
+Admission
+Ticket C123456789 IMPORTANT ANNUAL MEETING INFORMATION 000004 000000000.000000 ext 000000000.000000 ext ENDORSEMENT_LINE______________ SACKPACK_____________ 000000000.000000 ext 000000000.000000 ext 000000000.000000 ext 000000000.000000 ext SAMPLE
+Electronic Voting Instructions MR A DESIGNATION (IF ANY) Available 24 hours a day, 7 days a week! ADD 1 ADD 2 Instead of mailing your proxy, you may choose one of the voting 3 methods outlined below to vote your proxy. ADD ADD 4 VALIDATION DETAILS
+ARE LOCATED BELOW IN THE TITLE BAR. ADD 5 Proxies submitted by the Internet or telephone must be received by ADD 6 1:00 a.m., Central Time, on June 6, 2017. Vote by Internet Go to www.envisionreports.com/TSLA Or scan the QR code with your
+smartphone Follow the steps outlined on the secure website Vote by telephone Call toll free
+1-800-652-VOTE
+(8683) within the
+USA, US territories & Canada on a touch tone telephone Follow the instructions provided by the recorded message Using a black ink pen, mark your votes with an X as shown in X this example. Please do not write outside the designated areas.
+Annual Meeting Proxy Card 1234 5678 9012 345 IF YOU HAVE NOT VOTED VIA THE INTERNET OR TELEPHONE, FOLD ALONG THE PERFORATION, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE. A Proposals — The Board recommends a vote FOR all
+nominees, FOR Proposal 2, every 3 YRS for Proposal 3, FOR Proposal 4, and AGAINST Proposal 5. 1. Election of three Class I Director Nominees: + For Against Abstain For Against Abstain For Against Abstain 01—Elon Musk 02—Robyn M.
+Denholm 03—Stephen T. Jurvetson For Against Abstain 1 Yr 2 Yrs 3 Yrs Abstain 2. A
+non-binding
+advisory vote on the approval of 3. A
+non-binding
+advisory vote on the
+frequency of executive compensation. executive compensation votes. For Against Abstain For Against Abstain 4. To ratify the appointment of PricewaterhouseCoopers LLP 5. A stockholder proposal regarding declassification of the as Tesla’s
+independent registered public accounting firm for Board of Directors. the fiscal year ending December 31, 2017. B
+Non-Voting
+Items Change of Address — Please print your new address below. Comments
+— Please print your comments below. Meeting Attendance Mark the box to the right if you plan to attend the Annual Meeting. C Authorized Signatures — This section must be completed for your vote to be counted. — Date and Sign Below
+Please sign exactly as name(s) appears hereon. Joint owners should each sign. When signing as attorney, executor, administrator, corporate officer, trustee, guardian, or custodian, please give full title. Date (mm/dd/yyyy) — Please print date
+below. Signature 1 — Please keep signature within the box. Signature 2 — Please keep signature within the box. C 1234567890 J N T MR A SAMPLE (THIS AREA IS SET UP TO ACCOMMODATE 140 CHARACTERS) MR A SAMPLE AND MR A SAMPLE AND MR A SAMPLE
+AND MR A SAMPLE AND MR A SAMPLE AND UP X 3277521 MR A SAMPLE AND MR A SAMPLE AND MR A SAMPLE AND +
+Table of Contents
+2017
+Annual Meeting Admission Ticket 2017 Annual Meeting of Tesla, Inc. Stockholders Tuesday, June 6, 2017 at 2:30 p.m. PDT Computer History Museum 1401 N. Shoreline Blvd, Mountain View, CA 94043 Upon arrival, please present this admission ticket
+and photo identification at the registration desk. From San Jose via
+US-101
+North From East Bay via
+I-880
+South 20 Minutes—15 Miles 25 Minutes—20 Miles Take
+US-101
+North toward San Francisco. Take
+I-880
+South toward San Jose. Take Shoreline Blvd exit. Merge onto
+CA-237
+West toward Mountain
+View. Turn right onto Shoreline Blvd. Merge onto
+US-101
+North toward San Francisco. Cross through intersection. Take Shoreline Blvd exit. Museum is on your right. Turn right onto Shoreline Blvd. Cross through
+intersection. From San Francisco via
+US-101
+South Museum is on your right. 40 Minutes—35 Miles From Saratoga via
+CA-85
+North Take
+US-101
+South toward San Jose. Take Shoreline Blvd exit. 15 Minutes—12 Miles Turn left onto Shoreline Blvd. Take
+CA-85
+North towards San Francisco. Cross through
+intersection. Take Shoreline Blvd exit. Museum is on your right. Turn right onto Shoreline Blvd. Cross through intersection. Museum is on your right. qIF YOU HAVE NOT VOTED VIA THE INTERNET OR TELEPHONE, FOLD ALONG THE PERFORATION, DETACH AND RETURN
+THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE. q Proxy — Tesla, Inc. Notice of 2017 Annual Meeting of Stockholders Computer History Museum—1401 N. Shoreline Blvd, Mountain View, CA 94043 This Proxy is Solicited on Behalf of the Board of
+Directors for Annual Meeting – June 6, 2017 at 2:30 p.m. PDT Elon Musk, Deepak Ahuja and Todd Maron, or any of them, each with the power of substitution, are hereby authorized to represent as proxies and vote with respect to the proposals
+set forth on the reverse side and in the discretion of such proxies on all other matters that may be properly presented for action all shares of stock of Tesla, Inc. the undersigned is entitled to vote at the Annual Meeting of Stockholders to be
+held at 2:30 p.m. Pacific Time on Tuesday, June 6, 2017, or any postponement, adjournment or continuation thereof, and instructs said proxies to vote as specified on the reverse side. Shares represented by this proxy will be voted as directed
+by the stockholder. If no such directions are indicated, the Proxies will have authority to vote FOR all nominees, FOR Proposal 2, every 3 YRS for Proposal 3, FOR Proposal 4, and AGAINST Proposal 5. In their discretion, the Proxies are authorized to
+vote upon such other business as may properly come before the annual meeting. (Items to be voted appear on reverse side.)

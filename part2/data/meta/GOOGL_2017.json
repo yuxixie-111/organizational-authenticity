@@ -1,0 +1,14 @@
+{
+  "ticker": "GOOGL",
+  "company_name": "Alphabet",
+  "sector": "Technology",
+  "year": 2017,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817917000170/lgoog2017_def14a.htm",
+  "accession": "0001308179-17-000170",
+  "filing_date": "2017-04-28",
+  "cik_used": 1652044,
+  "primary_document": "lgoog2017_def14a.htm",
+  "word_count": 50162
+}

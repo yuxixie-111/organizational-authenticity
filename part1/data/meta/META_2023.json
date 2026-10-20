@@ -1,0 +1,21 @@
+{
+  "ticker": "META",
+  "company_name": "Meta Platforms",
+  "sector": "Technology",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20230701023145",
+  "original_url": "https://about.meta.com/",
+  "wayback_url": "https://web.archive.org/web/20230701023145id_/https://about.meta.com/",
+  "redirect_hops": 0,
+  "page_score": 8,
+  "text_chars": 524,
+  "seeds_queried": [
+    "https://about.meta.com/",
+    "https://about.facebook.com/",
+    "https://about.fb.com/",
+    "https://www.facebook.com/about"
+  ],
+  "candidates_considered": 12
+}

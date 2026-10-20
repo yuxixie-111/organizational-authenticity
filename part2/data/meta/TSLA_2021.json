@@ -1,0 +1,14 @@
+{
+  "ticker": "TSLA",
+  "company_name": "Tesla",
+  "sector": "Consumer Discretionary",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459021045926/tsla-def14a_20210826.htm",
+  "accession": "0001564590-21-045926",
+  "filing_date": "2021-08-26",
+  "cik_used": 1318605,
+  "primary_document": "tsla-def14a_20210826.htm",
+  "word_count": 55817
+}

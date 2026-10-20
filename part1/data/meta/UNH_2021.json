@@ -1,0 +1,13 @@
+{
+  "ticker": "UNH",
+  "company_name": "UnitedHealth Group",
+  "sector": "Healthcare",
+  "year": 2021,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.unitedhealthgroup.com/about.html",
+    "https://www.unitedhealthgroup.com/about/who-we-are.html"
+  ],
+  "candidates_considered": 0
+}

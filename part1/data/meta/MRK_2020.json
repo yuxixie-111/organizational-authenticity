@@ -1,0 +1,19 @@
+{
+  "ticker": "MRK",
+  "company_name": "Merck",
+  "sector": "Healthcare",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20200811063349",
+  "original_url": "https://www.merck.com/company-overview/",
+  "wayback_url": "https://web.archive.org/web/20200811063349id_/https://www.merck.com/company-overview/",
+  "redirect_hops": 0,
+  "page_score": 5,
+  "text_chars": 6310,
+  "seeds_queried": [
+    "https://www.merck.com/company-overview/",
+    "https://www.merck.com/about/"
+  ],
+  "candidates_considered": 6
+}

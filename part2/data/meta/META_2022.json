@@ -1,0 +1,14 @@
+{
+  "ticker": "META",
+  "company_name": "Meta Platforms",
+  "sector": "Technology",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000043/meta2022definitiveproxysta.htm",
+  "accession": "0001326801-22-000043",
+  "filing_date": "2022-04-08",
+  "cik_used": 1326801,
+  "primary_document": "meta2022definitiveproxysta.htm",
+  "word_count": 52076
+}

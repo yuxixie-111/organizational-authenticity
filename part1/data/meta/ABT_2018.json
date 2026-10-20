@@ -1,0 +1,12 @@
+{
+  "ticker": "ABT",
+  "company_name": "Abbott Laboratories",
+  "sector": "Healthcare",
+  "year": 2018,
+  "status": "gap",
+  "gap_reason": "extraction_empty",
+  "seeds_queried": [
+    "https://www.abbott.com/about-abbott.html"
+  ],
+  "candidates_considered": 11
+}

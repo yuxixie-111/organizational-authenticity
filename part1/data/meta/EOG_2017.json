@@ -1,0 +1,13 @@
+{
+  "ticker": "EOG",
+  "company_name": "EOG Resources",
+  "sector": "Energy",
+  "year": 2017,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.eogresources.com/about/",
+    "https://www.eogresources.com/company/"
+  ],
+  "candidates_considered": 0
+}

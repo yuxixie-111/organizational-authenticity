@@ -1,0 +1,19 @@
+{
+  "ticker": "EOG",
+  "company_name": "EOG Resources",
+  "sector": "Energy",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20200603115016",
+  "original_url": "https://www.eogresources.com/company/",
+  "wayback_url": "https://web.archive.org/web/20200603115016id_/https://www.eogresources.com/company/",
+  "redirect_hops": 0,
+  "page_score": 0,
+  "text_chars": 128,
+  "seeds_queried": [
+    "https://www.eogresources.com/about/",
+    "https://www.eogresources.com/company/"
+  ],
+  "candidates_considered": 4
+}

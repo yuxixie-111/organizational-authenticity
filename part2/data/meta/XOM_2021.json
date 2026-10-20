@@ -1,0 +1,8 @@
+{
+  "ticker": "XOM",
+  "company_name": "ExxonMobil",
+  "sector": "Energy",
+  "year": 2021,
+  "status": "gap",
+  "gap_reason": "no_def14a"
+}

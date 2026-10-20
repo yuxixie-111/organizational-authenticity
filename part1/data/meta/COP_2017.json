@@ -1,0 +1,13 @@
+{
+  "ticker": "COP",
+  "company_name": "ConocoPhillips",
+  "sector": "Energy",
+  "year": 2017,
+  "status": "gap",
+  "gap_reason": "extraction_empty",
+  "seeds_queried": [
+    "https://www.conocophillips.com/about-us/",
+    "https://www.conocophillips.com/about-us/who-we-are/"
+  ],
+  "candidates_considered": 1
+}

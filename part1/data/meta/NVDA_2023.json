@@ -1,0 +1,19 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA",
+  "sector": "Technology",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20230714090817",
+  "original_url": "https://www.nvidia.com/en-us/about-nvidia/",
+  "wayback_url": "https://web.archive.org/web/20230714090817id_/https://www.nvidia.com/en-us/about-nvidia/",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 3289,
+  "seeds_queried": [
+    "https://www.nvidia.com/en-us/about-nvidia/",
+    "https://www.nvidia.com/object/about-nvidia.html"
+  ],
+  "candidates_considered": 12
+}

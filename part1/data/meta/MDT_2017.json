@@ -1,0 +1,13 @@
+{
+  "ticker": "MDT",
+  "company_name": "Medtronic",
+  "sector": "Healthcare",
+  "year": 2017,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.medtronic.com/us-en/our-company.html",
+    "https://www.medtronic.com/en-us/our-company.html"
+  ],
+  "candidates_considered": 0
+}

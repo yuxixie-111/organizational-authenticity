@@ -1,0 +1,19 @@
+{
+  "ticker": "UNH",
+  "company_name": "UnitedHealth Group",
+  "sector": "Healthcare",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20200502175704",
+  "original_url": "https://www.unitedhealthgroup.com/about.html",
+  "wayback_url": "https://web.archive.org/web/20200502175704id_/https://www.unitedhealthgroup.com/about.html",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 1711,
+  "seeds_queried": [
+    "https://www.unitedhealthgroup.com/about.html",
+    "https://www.unitedhealthgroup.com/about/who-we-are.html"
+  ],
+  "candidates_considered": 5
+}

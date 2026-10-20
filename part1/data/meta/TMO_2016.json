@@ -1,0 +1,19 @@
+{
+  "ticker": "TMO",
+  "company_name": "Thermo Fisher Scientific",
+  "sector": "Healthcare",
+  "year": 2016,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20160315002547",
+  "original_url": "http://www.thermofisher.com/us/en/home/about-us.html",
+  "wayback_url": "https://web.archive.org/web/20160315002547id_/http://www.thermofisher.com/us/en/home/about-us.html",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 1617,
+  "seeds_queried": [
+    "https://corporate.thermofisher.com/us/en/index/about.html",
+    "https://www.thermofisher.com/us/en/home/about-us.html"
+  ],
+  "candidates_considered": 1
+}

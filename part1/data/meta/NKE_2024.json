@@ -1,0 +1,14 @@
+{
+  "ticker": "NKE",
+  "company_name": "Nike",
+  "sector": "Consumer Discretionary",
+  "year": 2024,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://about.nike.com/",
+    "https://purpose.nike.com/",
+    "https://www.nike.com/about"
+  ],
+  "candidates_considered": 0
+}

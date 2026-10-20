@@ -1,0 +1,19 @@
+{
+  "ticker": "PSX",
+  "company_name": "Phillips 66",
+  "sector": "Energy",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20210602225847",
+  "original_url": "https://www.phillips66.com/about",
+  "wayback_url": "https://web.archive.org/web/20210602225847id_/https://www.phillips66.com/about",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 5595,
+  "seeds_queried": [
+    "https://www.phillips66.com/about",
+    "https://www.phillips66.com/about-us"
+  ],
+  "candidates_considered": 10
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "BRK.B",
+  "company_name": "Berkshire Hathaway",
+  "sector": "Financials",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20240701161949",
+  "original_url": "https://www.berkshirehathaway.com/",
+  "wayback_url": "https://web.archive.org/web/20240701161949id_/https://www.berkshirehathaway.com/",
+  "redirect_hops": 0,
+  "page_score": 2,
+  "text_chars": 1012,
+  "seeds_queried": [
+    "https://www.berkshirehathaway.com/"
+  ],
+  "candidates_considered": 12
+}

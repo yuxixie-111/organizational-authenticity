@@ -1,0 +1,14 @@
+{
+  "ticker": "SCHW",
+  "company_name": "Charles Schwab",
+  "sector": "Financials",
+  "year": 2016,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/316709/000119312516523055/d107634ddef14a.htm",
+  "accession": "0001193125-16-523055",
+  "filing_date": "2016-03-30",
+  "cik_used": 316709,
+  "primary_document": "d107634ddef14a.htm",
+  "word_count": 31733
+}

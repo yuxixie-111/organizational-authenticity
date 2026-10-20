@@ -1,0 +1,19 @@
+{
+  "ticker": "OXY",
+  "company_name": "Occidental Petroleum",
+  "sector": "Energy",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20220811085156",
+  "original_url": "https://www.oxy.com/about/",
+  "wayback_url": "https://web.archive.org/web/20220811085156id_/https://www.oxy.com/about/",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 3210,
+  "seeds_queried": [
+    "https://www.oxy.com/about/",
+    "https://www.oxy.com/about/our-company/"
+  ],
+  "candidates_considered": 6
+}

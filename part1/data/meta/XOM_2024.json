@@ -1,0 +1,14 @@
+{
+  "ticker": "XOM",
+  "company_name": "ExxonMobil",
+  "sector": "Energy",
+  "year": 2024,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://corporate.exxonmobil.com/who-we-are",
+    "https://corporate.exxonmobil.com/who-we-are/our-guiding-principles",
+    "https://corporate.exxonmobil.com/About-us"
+  ],
+  "candidates_considered": 0
+}

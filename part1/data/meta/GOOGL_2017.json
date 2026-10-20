@@ -1,0 +1,21 @@
+{
+  "ticker": "GOOGL",
+  "company_name": "Alphabet",
+  "sector": "Technology",
+  "year": 2017,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20170829214250",
+  "original_url": "https://www.google.com/about/philosophy.html",
+  "wayback_url": "https://web.archive.org/web/20170829214250id_/https://www.google.com/about/philosophy.html",
+  "redirect_hops": 0,
+  "page_score": 8,
+  "text_chars": 9299,
+  "seeds_queried": [
+    "https://about.google/",
+    "https://about.google/intl/en/",
+    "https://www.google.com/about/philosophy.html",
+    "https://abc.xyz/"
+  ],
+  "candidates_considered": 15
+}

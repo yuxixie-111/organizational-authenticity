@@ -1,0 +1,14 @@
+{
+  "ticker": "HD",
+  "company_name": "Home Depot",
+  "sector": "Consumer Discretionary",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495022000116/hd-2022proxystatement.htm",
+  "accession": "0000354950-22-000116",
+  "filing_date": "2022-04-04",
+  "cik_used": 354950,
+  "primary_document": "hd-2022proxystatement.htm",
+  "word_count": 66613
+}

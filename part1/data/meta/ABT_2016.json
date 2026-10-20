@@ -1,0 +1,18 @@
+{
+  "ticker": "ABT",
+  "company_name": "Abbott Laboratories",
+  "sector": "Healthcare",
+  "year": 2016,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20160702192741",
+  "original_url": "http://www.abbott.com:80/about-abbott.html",
+  "wayback_url": "https://web.archive.org/web/20160702192741id_/http://www.abbott.com:80/about-abbott.html",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 1787,
+  "seeds_queried": [
+    "https://www.abbott.com/about-abbott.html"
+  ],
+  "candidates_considered": 12
+}

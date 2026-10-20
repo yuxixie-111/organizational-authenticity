@@ -1,0 +1,14 @@
+{
+  "ticker": "HAL",
+  "company_name": "Halliburton",
+  "sector": "Energy",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/45012/000130817921000173/lhal2021_def14a.htm",
+  "accession": "0001308179-21-000173",
+  "filing_date": "2021-04-06",
+  "cik_used": 45012,
+  "primary_document": "lhal2021_def14a.htm",
+  "word_count": 51807
+}

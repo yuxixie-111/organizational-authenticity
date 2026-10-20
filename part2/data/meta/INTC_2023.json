@@ -1,0 +1,14 @@
+{
+  "ticker": "INTC",
+  "company_name": "Intel",
+  "sector": "Technology",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/50863/000005086323000021/intc-20230327.htm",
+  "accession": "0000050863-23-000021",
+  "filing_date": "2023-03-31",
+  "cik_used": 50863,
+  "primary_document": "intc-20230327.htm",
+  "word_count": 89988
+}

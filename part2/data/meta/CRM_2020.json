@@ -1,0 +1,14 @@
+{
+  "ticker": "CRM",
+  "company_name": "Salesforce",
+  "sector": "Technology",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312520131040/d861721ddef14a.htm",
+  "accession": "0001193125-20-131040",
+  "filing_date": "2020-05-01",
+  "cik_used": 1108524,
+  "primary_document": "d861721ddef14a.htm",
+  "word_count": 87180
+}

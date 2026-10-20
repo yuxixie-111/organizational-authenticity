@@ -1,0 +1,14 @@
+{
+  "ticker": "JNJ",
+  "company_name": "Johnson & Johnson",
+  "sector": "Healthcare",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040621000011/jnjproxy2021.htm",
+  "accession": "0000200406-21-000011",
+  "filing_date": "2021-03-10",
+  "cik_used": 200406,
+  "primary_document": "jnjproxy2021.htm",
+  "word_count": 59801
+}

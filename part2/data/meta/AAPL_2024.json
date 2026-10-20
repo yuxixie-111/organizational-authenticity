@@ -1,0 +1,14 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple",
+  "sector": "Technology",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/320193/000130817924000010/laapl2024_def14a.htm",
+  "accession": "0001308179-24-000010",
+  "filing_date": "2024-01-11",
+  "cik_used": 320193,
+  "primary_document": "laapl2024_def14a.htm",
+  "word_count": 46849
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "NKE",
+  "company_name": "Nike",
+  "sector": "Consumer Discretionary",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018722000041/nike2022proxy.htm",
+  "accession": "0000320187-22-000041",
+  "filing_date": "2022-07-21",
+  "cik_used": 320187,
+  "primary_document": "nike2022proxy.htm",
+  "word_count": 38781
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "BRK.B",
+  "company_name": "Berkshire Hathaway",
+  "sector": "Financials",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312524069107/d512828ddef14a.htm",
+  "accession": "0001193125-24-069107",
+  "filing_date": "2024-03-15",
+  "cik_used": 1067983,
+  "primary_document": "d512828ddef14a.htm",
+  "word_count": 16666
+}

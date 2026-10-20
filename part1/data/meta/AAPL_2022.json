@@ -1,0 +1,12 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple",
+  "sector": "Technology",
+  "year": 2022,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.apple.com/about/"
+  ],
+  "candidates_considered": 0
+}

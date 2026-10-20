@@ -1,0 +1,35 @@
+{
+  "n_scored": 250,
+  "n_panel": 450,
+  "mean": 36.93,
+  "std": 21.88,
+  "min": 1.47,
+  "p25": 17.32,
+  "median": 36.1,
+  "p75": 53.31,
+  "max": 93.96,
+  "mean_cosine": 0.413,
+  "mean_follow_through": 0.316,
+  "corr_about_words": -0.094,
+  "corr_proxy_words": 0.038,
+  "corr_bonus0": 0.976,
+  "corr_bonus5": 0.987,
+  "by_sector": {
+    "Consumer Discretionary": 28.51,
+    "Energy": 53.93,
+    "Financials": 42.99,
+    "Healthcare": 34.12,
+    "Technology": 32.26
+  },
+  "by_year": {
+    "2016": 23.03,
+    "2017": 25.88,
+    "2018": 30.96,
+    "2019": 33.91,
+    "2020": 41.5,
+    "2021": 46.71,
+    "2022": 42.88,
+    "2023": 35.94,
+    "2024": 40.56
+  }
+}

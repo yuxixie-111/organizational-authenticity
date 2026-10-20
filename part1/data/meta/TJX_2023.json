@@ -1,0 +1,19 @@
+{
+  "ticker": "TJX",
+  "company_name": "TJX Companies",
+  "sector": "Consumer Discretionary",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20230920175005",
+  "original_url": "https://www.tjx.com/company/about-tjx",
+  "wayback_url": "https://web.archive.org/web/20230920175005id_/https://www.tjx.com/company/about-tjx",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 2340,
+  "seeds_queried": [
+    "https://www.tjx.com/company",
+    "https://www.tjx.com/company/about-tjx"
+  ],
+  "candidates_considered": 12
+}

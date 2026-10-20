@@ -1,0 +1,14 @@
+{
+  "ticker": "TJX",
+  "company_name": "TJX Companies",
+  "sector": "Consumer Discretionary",
+  "year": 2019,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/109198/000119312519119221/d656615ddef14a.htm",
+  "accession": "0001193125-19-119221",
+  "filing_date": "2019-04-25",
+  "cik_used": 109198,
+  "primary_document": "d656615ddef14a.htm",
+  "word_count": 38642
+}

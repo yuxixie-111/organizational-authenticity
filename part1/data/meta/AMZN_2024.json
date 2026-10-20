@@ -1,0 +1,19 @@
+{
+  "ticker": "AMZN",
+  "company_name": "Amazon",
+  "sector": "Consumer Discretionary",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20240703063930",
+  "original_url": "https://www.aboutamazon.com/about-us",
+  "wayback_url": "https://web.archive.org/web/20240703063930id_/https://www.aboutamazon.com/about-us",
+  "redirect_hops": 0,
+  "page_score": 6,
+  "text_chars": 2988,
+  "seeds_queried": [
+    "https://www.aboutamazon.com/",
+    "https://www.aboutamazon.com/about-us"
+  ],
+  "candidates_considered": 24
+}

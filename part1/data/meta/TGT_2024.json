@@ -1,0 +1,18 @@
+{
+  "ticker": "TGT",
+  "company_name": "Target",
+  "sector": "Consumer Discretionary",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20240705025654",
+  "original_url": "https://corporate.target.com/about",
+  "wayback_url": "https://web.archive.org/web/20240705025654id_/https://corporate.target.com/about",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 686,
+  "seeds_queried": [
+    "https://corporate.target.com/about"
+  ],
+  "candidates_considered": 12
+}

@@ -1,0 +1,2042 @@
+DEF 14A
+1
+d334778ddef14a.htm
+DEF 14A
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+SCHEDULE 14A
+PROXY STATEMENT PURSUANT TO SECTION 14(a)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+(AMENDMENT NO.
+)
+Filed by the
+Registrant ☒ Filed by a Party other than the
+Registrant ☐
+Check the appropriate box:
+☐
+Preliminary Proxy Statement
+☐
+Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+☒
+Definitive Proxy Statement
+☐
+Definitive Additional Materials
+☐
+Soliciting Material under §240.14a-12
+AMAZON.COM, INC.
+(NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+(NAME OF PERSON(S)
+FILING PROXY STATEMENT, IF OTHER THAN THE REGISTRANT)
+Payment of Filing Fee (Check the appropriate box):
+☒
+No fee required.
+☐
+Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
+(1)
+Title of each class of securities to which transaction applies:
+(2)
+Aggregate number of securities to which transaction applies:
+(3)
+Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule
+0-11
+(set forth the amount on which the filing fee is calculated and state how it was determined):
+(4)
+Proposed maximum aggregate value of transaction:
+(5)
+Total fee paid:
+☐
+Fee paid previously with preliminary materials.
+☐
+Check box if any part of the fee is offset as provided by Exchange Act Rule
+0-11(a)(2)
+and identify the filing for which the
+offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.
+(1)
+Amount Previously Paid:
+(2)
+Form, Schedule or Registration Statement No.:
+(3)
+Filing Party:
+(4)
+Date Filed:
+NOTICE OF 2017 ANNUAL MEETING OF SHAREHOLDERS
+To Be Held on Tuesday, May 23, 2017
+The 2017 Annual Meeting of Shareholders of Amazon.com, Inc. (the “Annual Meeting”) will be held at 9:00 a.m., Pacific Time, on Tuesday, May 23, 2017, at Fremont Studios, 155 N. 35
+th
+Street, Seattle, Washington 98103, for the following purposes:
+1. To elect the ten directors named in the Proxy Statement to serve until the next Annual Meeting of
+Shareholders or until their respective successors are elected and qualified;
+2. To ratify the appointment of
+Ernst & Young LLP as our independent auditors for the fiscal year ending December 31, 2017;
+3.
+To conduct an advisory vote to approve our executive compensation;
+4. To conduct an advisory vote on the
+frequency of future advisory votes on executive compensation;
+5. To approve our 1997 Stock Incentive Plan, as
+amended and restated (the “1997 Plan”);
+6. To consider and act upon three shareholder proposals, if
+properly presented at the Annual Meeting; and
+7. To transact such other business as may properly come before
+the meeting or any adjournment or postponement thereof.
+Our Board of Directors recommends you vote (i) “FOR”
+the election of each of the nominees to the Board; (ii) “FOR” the ratification of the appointment of Ernst & Young LLP as independent auditors; (iii) “FOR” approval, on an advisory basis, of our executive
+compensation as described in the Proxy Statement; (iv) on an advisory basis, to conduct future advisory votes on executive compensation every “THREE YEARS”; (v) “FOR” approval of the 1997 Plan; and
+(vi) “AGAINST” each of the three shareholder proposals.
+The Board of Directors has fixed March 29, 2017
+as the record date for determining shareholders entitled to receive notice of, and to vote at, the Annual Meeting or any adjournment or postponement thereof. Only shareholders of record at the close of business on that date will be entitled to
+notice of, and to vote at, the Annual Meeting.
+By Order of the Board of Directors
+David A. Zapolsky
+Secretary
+Seattle, Washington
+April 12, 2017
+Important Notice Regarding the Availability of Proxy Materials for the Amazon.com, Inc. Shareholder
+Meeting to be Held on May 23, 2017
+The Proxy Statement and our
+2016 Annual Report are available at
+www.envisionreports.com/amzn
+.
+AMAZON.COM, INC.
+PROXY STATEMENT
+ANNUAL MEETING
+OF SHAREHOLDERS
+To Be Held on Tuesday, May 23, 2017
+General
+The enclosed proxy is solicited by the Board
+of Directors of Amazon.com, Inc. (the “Company”) for use at the Annual Meeting of Shareholders to be held at 9:00 a.m., Pacific Time, on Tuesday, May 23, 2017, at Fremont Studios, 155 N. 35
+th
+Street, Seattle, Washington 98103, and at any adjournment or
+postponement thereof. Our principal offices are located at 410 Terry Avenue North, Seattle, Washington 98109. This Proxy Statement is first being made available to our shareholders on or about April 12, 2017.
+Outstanding Securities and Quorum
+Only holders of record of our common stock, par value $0.01 per share, at the close of business on March 29, 2017, the record date, will be entitled to notice of, and to vote at, the Annual Meeting.
+On that date, we had 477,948,433 shares of common stock outstanding and entitled to vote. Each share of common stock is entitled to one vote for each director nominee and one vote for each other item to be voted on at the Annual Meeting.
+A majority of the outstanding shares of common stock entitled to vote, present in person or represented by proxy, constitutes a quorum
+for the transaction of business at the Annual Meeting. Abstentions and broker nonvotes will be included in determining the presence of a quorum at the Annual Meeting.
+Internet Availability of Proxy Materials
+We are furnishing proxy materials
+to some of our shareholders via the Internet by mailing a Notice of Internet Availability of Proxy Materials, instead of mailing or
+e-mailing
+copies of those materials. The Notice of Internet Availability of
+Proxy Materials directs shareholders to a website where they can access our proxy materials, including our proxy statement and our annual report, and view instructions on how to vote via the Internet, mobile device, or by telephone. If you received
+a Notice of Internet Availability of Proxy Materials and would prefer to receive a paper copy of our proxy materials, please follow the instructions included in the Notice of Internet Availability of Proxy Materials. If you have previously elected
+to receive our proxy materials via
+e-mail,
+you will continue to receive access to those materials electronically unless you elect otherwise.
+Proxy Voting
+Shares that are properly voted via the Internet, mobile
+device, or by telephone or for which proxy cards are properly executed and returned will be voted at the Annual Meeting in accordance with the directions given or, in the absence of directions, will be voted in accordance with the Board’s
+recommendations as follows: “FOR” the election of each of the nominees to the Board named herein; “FOR” the ratification of the appointment of our independent auditors; “FOR” approval, on an advisory basis, of our
+executive compensation as described in this Proxy Statement; on an advisory basis, to conduct future advisory votes on executive compensation every “THREE YEARS”; “FOR” approval of the 1997 Plan; and “AGAINST” each of
+the shareholder proposals. It is not expected that any additional matters will be brought before the Annual Meeting, but if other matters are properly presented, the persons named as proxies in the proxy card or their substitutes will vote in their
+discretion on such matters.
+1
+The manner in which your shares may be voted depends on how your shares are held. If you own
+shares of record, meaning that your shares are represented by certificates or book entries in your name so that you appear as a shareholder on the records of Computershare, our stock transfer agent, you may vote by proxy, meaning you authorize
+individuals named in the proxy card to vote your shares. You may provide this authorization by voting via the Internet, mobile device, by telephone, or (if you have received paper copies of our proxy materials) by returning a proxy card. In these
+circumstances, if you do not vote by proxy or in person at the Annual Meeting, your shares will not be voted. If you own shares in street name, meaning that your shares are held by a bank, brokerage firm, or other nominee, you may instruct that
+institution on how to vote your shares. You may provide these instructions by voting via the Internet, mobile device, by telephone, or (if you have received paper copies of proxy materials through your bank, brokerage firm, or other nominee) by
+returning a voting instruction form received from that institution. In these circumstances, if you do not provide voting instructions, the institution may nevertheless vote your shares on your behalf with respect to the ratification of the
+appointment of Ernst & Young LLP as our independent auditors for the fiscal year ending December 31, 2017, but cannot vote your shares on any other matters being considered at the meeting.
+Voting Standard
+A
+nominee for director shall be elected to the Board if the votes cast for such nominee’s election exceed the votes cast against such nominee’s election. If the votes cast for any nominee do not exceed the votes cast against the nominee, the
+Board will consider whether to accept or reject such director’s resignation, which is tendered to the Board pursuant to the Board of Directors Guidelines on Significant Corporate Governance Issues. Abstentions and broker nonvotes will have no
+effect on the outcome of the election. Broker nonvotes occur when a person holding shares in street name, such as through a brokerage firm, does not provide instructions as to how to vote those shares and the broker does not then vote those shares
+on the shareholder’s behalf.
+For all other matters proposed for a vote at the Annual Meeting, the affirmative vote of a
+majority of the outstanding shares of common stock present in person or represented by proxy and entitled to vote on the matter is required to approve the matter. For these matters, abstentions are not counted as affirmative votes on a matter but
+are counted as present at the Annual Meeting and entitled to vote, and broker nonvotes, if any, will have no effect on the outcome of these matters.
+Voting via the Internet, mobile device, or by telephone helps save money by reducing postage and proxy tabulation costs. To vote by any of these methods, read this Proxy Statement, have your Notice of
+Internet Availability of Proxy Materials, proxy card, or voting instruction form in hand, and follow the instructions below for your preferred method of voting. Each of these voting methods is available 24 hours per day, seven days per week.
+We encourage you to cast your vote by one of the following
+methods:
+VOTE BY INTERNET
+VOTE BY QR CODE
+VOTE BY TELEPHONE
+Shares Held of
+Record:
+http://www.envisionreports.com/amzn
+Shares Held of Record:
+Scan the QR code above with your mobile device.
+Shares Held of Record:
+800-652-VOTE
+Shares Held in Street Name:
+http://www.proxyvote.com
+Shares Held in Street Name:
+See Voting Instruction Form
+Shares
+Held in Street Name:
+See Voting Instruction Form
+We encourage you to register to receive all future shareholder communications electronically, instead of in print.
+This means that access to the annual report, proxy statement, and other correspondence will be delivered to you via
+e-mail.
+2
+Voting at the Annual Meeting
+If you own common stock of record, you may attend the Annual Meeting and vote in person, regardless of whether you have previously voted by proxy card, via the Internet, mobile device, or by telephone. If
+you own common stock in street name, you may attend the Annual Meeting, but in order to vote your shares at the meeting you must obtain a “legal proxy” from the bank, brokerage firm, or other nominee that holds your shares. You should
+contact your bank or brokerage account representative to learn how to obtain a legal proxy. We encourage you to vote your shares in advance of the Annual Meeting by one of the methods described above, even if you plan on attending the Annual
+Meeting. If you have already voted prior to the meeting, you may nevertheless change or revoke your vote at the Annual Meeting as described below.
+Revocation
+If you own common stock of record, you may revoke your proxy or
+change your voting instructions at any time before your shares are voted at the Annual Meeting by delivering to the Secretary of Amazon.com, Inc. a written notice of revocation or a duly executed proxy (via the Internet, mobile device, or telephone
+or by returning a proxy card) bearing a later date or by attending the Annual Meeting and voting in person. A shareholder owning common stock in street name may revoke or change voting instructions by contacting the bank, brokerage firm, or other
+nominee holding the shares or by obtaining a legal proxy from such institution and voting in person at the Annual Meeting.
+Attending the
+Annual Meeting
+Only shareholders as of the record date (March 29, 2017) are entitled to attend the Annual Meeting in
+person. If you own common stock of record, your name will be on a list and you will be able to gain entry with a government-issued photo identification, such as a driver’s license, state-issued ID card, or passport. If you own common stock in
+street name, in order to gain entry you must present a government-issued photo identification and proof of beneficial stock ownership as of the record date, such as your Notice of Internet Availability of Proxy Materials, a copy of your proxy card
+or voting instruction form if you received one, or an account or brokerage statement or other similar evidence showing stock ownership as of the record date. If you are a representative of an entity that owns common stock of the Company, you must
+present a government-issued photo identification, evidence that you are the entity’s authorized representative or proxyholder, and, if the entity is a street name owner, proof of the entity’s beneficial stock ownership as of the record
+date.
+If you are not a shareholder, you will be entitled to admission only if you have a valid legal proxy from a record
+holder and a government-issued photo identification. Each shareholder may appoint only one proxyholder or representative to attend on his or her behalf.
+You can find directions to the Annual Meeting at
+www.amazon.com/ir
+. Cameras, recording devices, and other electronic devices are prohibited at the meeting.
+ITEM 1—ELECTION OF DIRECTORS
+In accordance with our Bylaws, the Board has fixed the number of directors constituting the Board at ten. The Board, based on the recommendation of the Nominating and Corporate Governance Committee,
+proposed that the following ten nominees be elected at the Annual Meeting, each of whom will hold office until the next Annual Meeting of Shareholders or until his or her successor shall have been elected and qualified:
+• Jeffrey P. Bezos
+• Tom A.
+Alberg
+• John Seely Brown
+• Jamie S.
+Gorelick
+• Daniel P. Huttenlocher
+• Judith A. McGrath
+• Jonathan
+J. Rubinstein
+• Thomas O. Ryder
+• Patricia
+Q. Stonesifer
+• Wendell P. Weeks
+3
+Each of the nominees is currently a director of Amazon.com, Inc. and has been elected to
+hold office until the 2017 Annual Meeting or until his or her successor has been elected and qualified. Mr. Huttenlocher was elected as a director by the Board of Directors on September 7, 2016 and the other nominees were most recently
+elected at the 2016 Annual Meeting. Biographical and related information on each nominee is set forth below.
+Although the
+Board expects that the ten nominees will be available to serve as directors, if any of them should be unwilling or unable to serve, the Board may decrease the size of the Board or may designate substitute nominees, and the proxies will be voted in
+favor of any such substitute nominees.
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE “FOR” EACH NOMINEE.
+Director Nominees’ Biographical and Related Information
+In evaluating the nominees for the Board of Directors, the Board and the Nominating and Corporate Governance Committee took into account
+the qualities they seek for directors, as discussed below under “Corporate Governance” and “Board Meetings and Committees,” and the directors’ individual qualifications, skills, and background that enable the directors to
+effectively and productively contribute to the Board’s oversight of Amazon. These individual qualifications and skills are included below in each nominee’s biography.
+Biographical Information
+Jeffrey P. Bezos
+, age 53, has been
+Chairman of the Board since founding the Company in 1994 and Chief Executive Officer since May 1996. Mr. Bezos served as President from founding until June 1999 and again from October 2000 to the present. Mr. Bezos’ individual
+qualifications and skills as a director include his customer-focused point of view, his willingness to encourage invention, his long-term perspective, and his
+on-going
+contributions as founder and CEO.
+Tom A. Alberg
+, age 77, has been a director since June 1996. Mr. Alberg has been a managing director of Madrona
+Venture Group, LLC, a venture capital firm, since September 1999, and a principal in Madrona Investment Group, LLC, a private investment firm, since January 1996. Prior to
+co-founding
+Madrona Investment Group,
+Mr. Alberg served as president of LIN Broadcasting Corporation, Executive Vice President of McCaw Cellular Communications, Inc., and Executive Vice President of AT&T Wireless Services. Previously, he was chair of the Executive Committee and
+Partner at Perkins Coie, the Northwest’s largest law firm. Mr. Alberg has served as a director of Impinj, Inc. since September 2000. Mr. Alberg’s individual qualifications and skills as a director include his experience as a
+venture capitalist investing in technology companies, through which he gained experience with emerging technologies, his experience as a lawyer, his knowledge of Amazon from having served as a director since 1996, as well as his customer experience
+skills and skills relating to financial statement and accounting matters.
+John Seely Brown
+, age 76, has been a
+director since June 2004. Mr. Brown has served as a Visiting Scholar and Advisor to the Provost at the University of Southern California (“USC”) since 1996 and as Independent
+Co-Chairman
+of the
+Deloitte Center for the Edge since 2006. He held various scientific research positions at Xerox Corporation, from 1978 until 2002, including Chief Scientist until April 2002 and director of the Xerox Palo Alto Research Center (“PARC”)
+until June 2000. Mr. Brown served as a director of Corning Incorporated from February 1996 to April 2014, and served as a director of Varian Medical Systems, Inc. from February 1998 to February 2013. Mr. Brown’s individual
+qualifications and skills as a director include his experience in senior positions with USC, a leading university, and Xerox PARC, a technology research facility, his role as Chief Scientist at Xerox Corporation, a global technology company, through
+which he gained experience with emerging technologies, as well as his customer experience skills.
+Jamie S. Gorelick
+,
+age 66, has been a director since February 2012. Ms. Gorelick has been a partner with the law firm Wilmer Cutler Pickering Hale and Dorr LLP since July 2003. She has held numerous positions in the
+4
+U.S. government, serving as Deputy Attorney General of the United States, General Counsel of the Department of Defense, Assistant to the Secretary of Energy, and a member of the bipartisan
+National Commission on Terrorist Threats Upon the United States. Ms. Gorelick has served as a director of VeriSign, Inc. since January 2015, a director of United Technologies Corporation from February 2000 to December 2014, and a director
+of Schlumberger Limited from April 2002 to June 2010. Ms. Gorelick’s individual qualifications and skills as a director include her experience as a lawyer, her leadership experience in senior governmental positions, including experience
+with regulatory and compliance matters, as well as her customer experience skills and skills relating to public policy and financial statement and accounting matters.
+Daniel P. Huttenlocher
+, age 58, has been a director since September 2016. Mr. Huttenlocher has been Dean and Vice Provost, Cornell Tech at Cornell University since 2012, and has worked for
+Cornell University since 1988 in various positions. Mr. Huttenlocher has served as a director of Corning Incorporated since February 2015. Mr. Huttenlocher’s individual qualifications and skills as a director include his experience in
+senior positions at Cornell University, a leading university, Cornell Tech, a research, technology commercialization, and graduate-level educational facility, and Xerox PARC, a technology research facility, through which he gained experience with
+emerging technologies, as well as his customer experience skills.
+Judith A. McGrath
+, age 64, has been a director since
+July 2014. Ms. McGrath has been the President of Astronauts Wanted * No experience necessary, a multimedia joint venture between Ms. McGrath and Sony Music Entertainment, since June 2013. Ms. McGrath served as Chair and Chief
+Executive Officer of MTV Networks Company, a subsidiary of Viacom, Inc., from July 2004 until May 2011. Ms. McGrath’s individual qualifications and skills as a director include her leadership and multimedia operations experience as a
+senior executive of MTV Networks Company through which she gained experience with media and entertainment companies, entrepreneurial experience in her role at Astronauts Wanted * No experience necessary, as well as her customer experience skills.
+Jonathan J. Rubinstein
+, age 60, has been a director since December 2010. Mr. Rubinstein was
+co-CEO
+of Bridgewater Associates, LP, a global investment management firm, from May 2016 to April 2017. Previously, Mr. Rubinstein was Senior Vice President, Product Innovation, for the Personal Systems Group
+at the Hewlett-Packard Company (“HP”), a multinational information technology company, from July 2011 to January 2012, and served as Senior Vice President and General Manager, Palm Global Business Unit, at HP from July 2010 to July 2011.
+Mr. Rubinstein was Chief Executive Officer and President of Palm, Inc., a smartphone manufacturer, from June 2009 until its acquisition by HP in July 2010, and Chairman of the Board of Palm, Inc. from October 2007 through the acquisition. Prior
+to joining Palm, Mr. Rubinstein was a Senior Vice President at Apple Inc., also serving as the General Manager of the iPod Division. Mr. Rubinstein served as a director of Qualcomm Incorporated from May 2013 to May 2016.
+Mr. Rubinstein’s individual qualifications and skills as a director include his leadership and technology experience as a senior executive at large financial and technology companies, through which he gained experience with hardware
+devices and emerging technologies, as well as his customer experience skills and skills relating to financial statement and accounting matters.
+Thomas O. Ryder
+, age 72, has been a director since November 2002. Mr. Ryder was Chairman of the Reader’s Digest Association, Inc.
+from April 1998 to December 2006, and was Chief
+Executive Officer from April 1998 to December 2005. From 1984 to 1998, Mr. Ryder worked in several roles at American Express, including as President of American Express Travel Related Services International. Mr. Ryder has been a director
+of RPX Corporation since December 2009, a director of Quad/Graphics, Inc. since July 2010, and a director of Interval Leisure Group, Inc. since May 2016. He was a director of Starwood Hotels & Resorts Worldwide, Inc. from April
+2001 to September 2016 and Chairman of the Board of Directors at Virgin Mobile USA, Inc. from October 2007 to November 2009. Mr. Ryder’s individual qualifications and skills as a director include his leadership experience as a senior
+executive of Reader’s Digest, a large media and publishing company, and American Express, a large financial services company, through which he gained experience with intellectual property, media, enterprise sales, payments, and international
+operations, as well as his customer experience skills and skills relating to financial statement and accounting matters.
+5
+Patricia Q. Stonesifer
+, age 60, has been a director since February 1997.
+Ms. Stonesifer has served as the President and CEO of Martha’s Table, a
+non-profit,
+since April 2013. She served as Chair of the Board of Regents of the Smithsonian Institution from January 2009 to
+January 2012 and as Vice Chair from January 2012 to January 2013. From September 2008 to January 2012, she served as senior advisor to the Bill and Melinda Gates Foundation, a private philanthropic organization, where she was Chief Executive Officer
+from January 2006 to September 2008 and President and
+Co-chair
+from June 1997 to January 2006. Since September 2009, she has also served as a private philanthropy advisor. From 1988 to 1997, she worked in
+many roles at Microsoft Corporation, including as a Senior Vice President of the Interactive Media Division, and also served as the Chairwoman of the Gates Learning Foundation from 1997 to 1999. Ms. Stonesifer’s individual qualifications
+and skills as a director include her leadership experience as a senior executive at the Bill and Melinda Gates Foundation and at Microsoft, through which she gained experience with emerging technologies and consumer-focused product development and
+marketing issues, her knowledge of Amazon from having served as a director since 1997, as well as her customer experience skills and skills relating to public policy and financial statement and accounting matters.
+Wendell P. Weeks
+, age 57, has been a director since February 2016. Mr. Weeks has been the Chief Executive Officer of Corning
+Incorporated, a materials science and specialty glass company, since April 2005 and President since December 2010, where he has also served as the Chairman of its board of directors since April 2007. Mr. Weeks has served in various roles at
+Corning Incorporated since 1983. Mr. Weeks has served as a director of Merck & Co., Inc. since February 2004. Mr. Weeks’ individual qualifications and skills as a director include his leadership and operations experience as a
+senior executive at a large corporation with international operations, experience with product development, as well as his customer experience skills and skills relating to financial statement and accounting matters.
+Corporate Governance
+General
+Board Leadership.
+The Board is responsible for the control and direction of the Company. The
+Board represents the shareholders and its primary purpose is to build long-term shareholder value. The Chair of the Board is selected by the Board and currently is the CEO, Jeff Bezos. The Board believes that this leadership structure is appropriate
+given Mr. Bezos’ role in founding Amazon and his significant ownership stake. The Board believes that this leadership structure improves the Board’s ability to focus on key policy and operational issues and helps the Company operate
+in the long-term interests of shareholders. In addition, the independent directors on the Board have appointed a lead director from the Board’s independent directors, currently Patricia Q. Stonesifer, in order to promote independent leadership
+of the Board. The lead director presides over the executive sessions of the independent directors, chairs Board meetings in the Chair’s absence, and provides direction on agendas, schedules, information, and materials for Board meetings that
+will be most helpful to the independent directors. In addition, the lead director confers from time to time with the Chair of the Board and the independent directors and reviews, as appropriate, the annual schedule of regular Board meetings and
+major Board meeting agenda topics. The guidance and direction provided by the lead director reinforce the Board’s independent oversight of management and contribute to communication among members of the Board.
+Director Independence.
+The Board has determined that the following directors are independent as defined by
+Nasdaq rules: Mr. Alberg, Mr. Brown, Ms. Gorelick, Mr. Huttenlocher, Ms. McGrath, Mr. Rubinstein, Mr. Ryder, Ms. Stonesifer, and Mr. Weeks. In addition, the Board determined that Alain Monié, who
+served as a director through May 2016, and William B. Gordon, who served as a director through March 2017, were independent during the time each served as a director. In assessing directors’ independence, the Board took into account certain
+transactions, relationships, and arrangements involving some of the directors and concluded that such transactions, relationships, and arrangements did not impair the independence of the director. For Messrs. Monié and Weeks, the Board
+considered payments in the past three years in the ordinary course of business between the Company and Ingram Micro, Inc. and Corning Incorporated, respectively, or their affiliates.
+6
+For Mr. Rubinstein, the Board considered payments in the past year in the ordinary course of business to Bridgewater Associates, LP, or its affiliates. All such payments were not significant
+for any of these companies. For Messrs. Alberg and Gordon, the Board considered that Amazon and its executive officers have in the past and may in the future invest in investment funds managed by entities where Messrs. Alberg or Gordon are managing
+directors or partners or in companies in which those funds invest, and that Amazon has in the past and may in the future engage in transactions with companies in which these funds have invested. For Mr. Ryder, the Board considered that his
+son-in-law
+has been employed with Amazon since 2008 in a
+non-officer
+and
+non-strategic
+position, as disclosed in “Certain Relationships and Related Person Transactions.”
+Risk
+Oversight.
+As part of regular Board and committee meetings, the directors oversee executives’ management of risks relevant to the Company. While the full Board has overall responsibility for risk oversight, the
+Board has delegated responsibility related to certain risks to the Audit Committee and the Leadership Development and Compensation Committee. The Audit Committee is responsible for overseeing management of risks related to our financial statements
+and financial reporting process, data privacy and security, business continuity, and operational risks, the qualifications, independence, and performance of our independent auditors, the performance of our internal audit function, and our compliance
+with legal and regulatory requirements. The Leadership Development and Compensation Committee is responsible for overseeing management of risks related to succession planning and compensation for our executive officers and our overall compensation
+program, including our equity-based compensation plans. The full Board regularly reviews reports from management on various aspects of our business, including related risks and tactics and strategies for addressing them. At least annually, the Board
+reviews our CEO succession planning as described in our Board of Directors Guidelines on Significant Corporate Governance Issues.
+Corporate Governance Documents.
+Please visit our investor relations website at
+www.amazon.com/ir
+, “Corporate Governance,” for additional information on our
+corporate governance, including:
+•
+our Certificate of Incorporation and Bylaws;
+•
+the Board of Directors Guidelines on Significant Corporate Governance Issues, which includes policies on shareholder communications with the Board,
+director attendance at our annual meetings, director resignations to facilitate our majority vote standard, director stock ownership guidelines, and succession planning;
+•
+the charters approved by the Board for the Audit Committee, the Leadership Development and Compensation Committee, and the Nominating and Corporate
+Governance Committee;
+•
+the Code of Business Conduct and Ethics; and
+•
+our Political Expenditures Statement.
+In addition, we provide information regarding our sustainability and environmental activities on our Sustainability website at
+www.amazon.com/sustainability
+.
+Board Meetings and Committees
+The Board meets regularly during the year, and holds special meetings and acts by unanimous written consent whenever circumstances require. During 2016, there were four meetings of the Board. All
+incumbent directors attended at least 75% of the aggregate of the meetings of the Board and committees on which they served occurring during 2016. All directors then serving attended the 2016 Annual Meeting of Shareholders.
+7
+The Board has established an Audit Committee, a Leadership Development and Compensation
+Committee, and a Nominating and Corporate Governance Committee, each of which is comprised entirely of directors who meet the applicable independence requirements of the Nasdaq rules. The Committees keep the Board informed of their actions and
+provide assistance to the Board in fulfilling its oversight responsibility to shareholders. The table below provides current membership information as well as meeting information for the last fiscal year.
+Name
+Audit
+Committee
+Leadership
+Development
+and
+Compensation
+Committee
+Nominating and
+Corporate
+Governance
+Committee
+Jeffrey P. Bezos
+Tom A. Alberg
+X
+John Seely Brown
+X
+Jamie S. Gorelick
+X
+*
+Daniel P. Huttenlocher(1)
+X
+Judith A. McGrath
+X
+Jonathan J. Rubinstein
+X
+*
+Thomas O. Ryder
+X
+*
+Patricia Q. Stonesifer
+X
+Wendell P. Weeks(2)
+X
+Total Meetings in
+2016
+6
+3
+4
+*
+Committee Chair
+(1)
+Mr. Huttenlocher joined the Leadership Development and Compensation Committee on September 7, 2016.
+(2)
+Mr. Weeks joined the Audit Committee on February 10, 2016.
+The functions performed by these Committees, which are set forth in more detail in their charters, are summarized below.
+Audit Committee.
+The Audit Committee represents and assists the Board in fulfilling its oversight responsibility relating to our financial statements and financial reporting
+process, the qualifications, independence, and performance of our independent auditors, the performance of our internal audit function, and our compliance with legal and regulatory requirements. The Board has designated each of Messrs. Alberg,
+Ryder, and Weeks as an Audit Committee Financial Expert, as defined by Securities and Exchange Commission (“SEC”) rules. During the past year, the Audit Committee met with management and reviewed matters that included the Company’s
+risk assessment and compliance functions,
+information security, business continuity, accounting industry issues, the reappointment of our independent auditor, and pending litigation. The Audit Committee also met with the auditors to review
+the scope and results of the auditor’s annual audit and quarterly reviews of the Company’s financial statements.
+Leadership Development and Compensation Committee.
+The Leadership Development and Compensation Committee
+evaluates our programs and practices relating to leadership development, reviews and establishes compensation of the Company’s executive officers, and oversees management of risks for succession planning and our overall compensation program,
+including our equity-based compensation plans, all with a view toward maximizing long-term shareholder value. The Committee may engage compensation consultants but did not do so in 2016. Additional information on the Committee’s processes and
+procedures for considering and determining executive compensation is contained in the “Compensation Discussion and Analysis” section of this Proxy Statement. During the past year, the Leadership Development and Compensation Committee met
+with management and reviewed matters that included the design, amounts, and effectiveness of the Company’s
+8
+compensation of senior executives, management succession planning, the Company’s benefit and compensation programs, and feedback from the Company’s shareholder engagement.
+Nominating and Corporate Governance Committee.
+The Nominating and Corporate Governance Committee reviews
+and assesses the composition of the Board, assists in identifying potential new candidates for director, recommends candidates for election as director, and provides a leadership role with respect to our corporate governance. The Nominating and
+Corporate Governance Committee also recommends to the Board compensation for newly elected directors and reviews director compensation as necessary. During the past year, the Nominating and Corporate Governance Committee met with management and
+reviewed matters that included the Board’s composition, diversity, and skills in the context of identifying and evaluating new director candidates to join the Board, the Board’s recruitment and self-evaluation processes, consideration of
+feedback from the Company’s shareholder engagement, including the adoption of a proxy access right for shareholders, and corporate governance developments.
+Director Nominations.
+The Nominating and Corporate Governance Committee considers candidates for director who are recommended by its members, by other Board members, by
+shareholders, and by management, as well as those identified by a third party search firm retained to assist in identifying and evaluating possible candidates. Mr. Huttenlocher was initially recommended to the Nominating and Corporate
+Governance Committee by other
+non-management
+directors. The Board recruited Mr. Huttenlocher because, as a professor of computer science and Dean and Vice Provost of Cornell Tech, the Board believes
+Mr. Huttenlocher will help the Company as it pursues innovations in computer science, including machine learning across its businesses, and will also help attract and retain computer scientists, technologists, and academics. The Nominating and
+Corporate Governance Committee annually reviews the tenure, performance, and contributions of existing Board members to the extent they are candidates for
+re-election,
+and considers all aspects of each
+candidate’s qualifications and skills in the context of the Company’s needs at that point in time and, as stated in the Board of Directors Guidelines on Significant Corporate Governance Issues, seeks out candidates with a diversity of
+experience and perspectives. When considering candidates as potential Board members, the Board and the Nominating and Corporate Governance Committee evaluate the candidates’ ability to contribute to such diversity. The Board assesses its
+effectiveness in this regard as part of its annual Board and director evaluation process. Currently,
+one-third
+of our independent directors are women. Our Board’s composition also represents a balanced
+approach to director tenure, allowing the Board to benefit from the experience of longer-serving directors combined with fresh perspectives from newer directors (with three new directors
+on-boarding
+and two
+directors leaving in the last three years). The current tenure range of our Board is as follows:
+Tenure on Board
+Number of Director Nominees
+More than 10 years
+5
+6-10
+years
+1
+1-5
+years
+4
+Among the qualifications and skills of a candidate considered important by the Nominating and Corporate
+Governance Committee are: a commitment to representing the long-term interests of shareholders; customer experience skills; Internet savvy; an inquisitive and objective perspective; the willingness to take appropriate risks; leadership ability;
+personal and professional ethics, integrity, and values; practical wisdom and sound judgment; and business and professional experience in fields such as operations, technology, finance/accounting, product development, intellectual property, law,
+multimedia entertainment, and marketing. When evaluating
+re-nomination
+of existing directors, the Committee also considers the nominees’ past and ongoing effectiveness on the Board and, with the exception
+of Mr. Bezos, who is an employee, their independence. The Nominating and Corporate Governance Committee believes that each of the director nominees for the Annual Meeting possesses these attributes.
+The Nominating and Corporate Governance Committee evaluates director candidates recommended by shareholders in the same way that it
+evaluates candidates recommended by its members, other members of the
+9
+Board, or other persons. Shareholders wishing to submit recommendations for director candidates for consideration by the Nominating and Corporate Governance Committee must provide the following
+information in writing to the attention of the Secretary of Amazon.com, Inc. by certified or registered mail:
+•
+the name, address, and biography of the candidate, and an indication of whether the candidate has expressed a willingness to serve;
+•
+the name, address, and phone number of the shareholder or group of shareholders making the recommendation; and
+•
+the number of shares of common stock beneficially owned by the shareholder or group of shareholders making the recommendation, the length of time held,
+and to the extent any shareholder is not a registered holder of such securities, proof of such ownership.
+To be considered by the Nominating and Corporate Governance Committee for the 2018 Annual Meeting of Shareholders, a director candidate
+recommendation must be received by the Secretary of Amazon.com, Inc. by December 13, 2017.
+Our Bylaws provide a proxy
+access right for shareholders, pursuant to which a shareholder, or group of up to 20 shareholders, may include director nominees (representing up to 20% of the number of directors in office) in our proxy materials for annual meetings of our
+shareholders. To be eligible to utilize these proxy access provisions, the shareholder or group must have owned at least 3% of the aggregate of the issued and outstanding shares of our common stock continuously for at least the prior three years and
+must satisfy the additional eligibility, procedural, and disclosure requirements set forth in our Bylaws.
+Compensation of Directors
+Our directors do not receive cash compensation for their services as directors or as members of
+committees of the Board, but we pay reasonable expenses incurred for attending meetings. At the discretion of the Board, directors are eligible to receive stock-based awards under the 1997 Plan. Based on the Nominating and Corporate Governance
+Committee’s recommendation, in February 2016, the Board approved a restricted stock unit award for 1,365 shares to Mr. Weeks, vesting in three equal annual installments on February 15, 2017, February 15, 2018, and
+February 15, 2019. Based on the Nominating and Corporate Governance Committee’s recommendation, in September 2016, the Board approved a restricted stock unit award for 1,131 shares to Mr. Huttenlocher, vesting in three equal annual
+installments on November 15, 2017, November 15, 2018, and November 15, 2019. Based on the Nominating and Corporate Governance Committee’s recommendation, in November 2016, the Board approved restricted stock unit awards for 1,077
+shares each to Messrs. Alberg, Rubinstein, and Ryder and Ms. Stonesifer, each vesting in three equal annual installments, with the first vest date occurring approximately one year after the final vest under the director’s previous
+restricted stock unit award. The February 2016 award was designed to provide approximately $270,000 in compensation annually, and the September and November 2016 awards were designed to provide approximately $288,000 in compensation annually, in
+each case based on an assumed value of the restricted stock units vesting in each year, which compensation represents the
+50
+th
+percentile for annual director compensation among a
+group of peer companies. When determining the amount and vesting schedule for directors’ restricted stock unit awards, the Nominating and Corporate Governance Committee and Board have not varied awards based on specific committee service.
+10
+The following table sets forth for the year ended December 31, 2016 all compensation
+reportable for directors who served during 2016, as determined by SEC rules.
+Director Compensation for 2016
+Name
+Stock Awards(1)
+Jeffrey P. Bezos(2)
+$
+—
+Tom A. Alberg(3)
+793,087
+John Seely Brown(4)
+—
+William B. Gordon(5)
+—
+Jamie Gorelick(4)
+—
+Daniel P. Huttenlocher(6)
+890,730
+Judith A. McGrath(7)
+—
+Alain Monié(8)
+—
+Jonathan J. Rubinstein(3)
+793,087
+Thomas O. Ryder(3)
+793,087
+Patricia Q. Stonesifer(3)
+793,087
+Wendell P. Weeks(9)
+676,125
+(1)
+Stock awards are reported at aggregate grant date fair value in the year granted, as determined under applicable accounting standards. Grant date fair value for
+restricted stock units is determined based on the number of shares granted multiplied by the average of the high and the low trading price of common stock of the Company on the grant date, without regard to the fact that the grants vest over a
+number of years. See Note 1, “
+Description of Business and Accounting Policies
+—
+Stock-Based Compensation,
+” in Item 8, “Financial Statements and Supplementary Data,” in our 2016 Annual Report on Form
+10-K.
+(2)
+Mr. Bezos does not receive any compensation for his services as a director in addition to his compensation as Chief Executive Officer.
+(3)
+Messrs. Alberg, Rubinstein, and Ryder and Ms. Stonesifer each held 1,077 unvested restricted stock units as of December 31, 2016.
+(4)
+Mr. Brown and Ms. Gorelick each held 1,758 unvested restricted stock units as of December 31, 2016.
+(5)
+Mr. Gordon held 870 unvested restricted stock units as of December 31, 2016. These unvested restricted stock units were cancelled in March 2017 when
+Mr. Gordon ceased to serve as a director.
+(6)
+Mr. Huttenlocher held 1,131 unvested restricted stock units as of December 31, 2016.
+(7)
+Ms. McGrath held 840 unvested restricted stock units as of December 31, 2016.
+(8)
+Mr. Monié’s unvested restricted stock units were cancelled in May 2016 when he ceased to serve as a director.
+(9)
+Mr. Weeks held 1,365 unvested restricted stock units as of December 31, 2016.
+ITEM 2—RATIFICATION OF APPOINTMENT OF ERNST & YOUNG LLP
+Under the rules and regulations of the SEC and Nasdaq, the Audit Committee is directly responsible for the appointment, compensation,
+retention, and oversight of our independent auditors. In addition, the Audit Committee considers the independence of our independent auditors and participates in the selection of the independent auditor’s lead engagement partner. The Audit
+Committee has appointed, and, as a matter of good corporate governance, is requesting ratification by the shareholders of the appointment of, the registered public accounting firm of Ernst & Young LLP (“E&Y”) to serve as
+independent auditors for the fiscal year ending December 31, 2017. E&Y has served as our independent auditor since 1997. The Audit Committee considered a number of factors in determining whether to
+re-engage
+E&Y as the Company’s independent registered public accounting firm, including the length of time the firm has served in this role, the firm’s professional qualifications and resources,
+the firm’s past performance, and the firm’s capabilities in handling the breadth and complexity of our business, as well as the potential impact of changing independent auditors.
+11
+The Board of Directors and the Audit Committee believe that the continued retention of
+E&Y as the Company’s independent auditor is in the best interests of the Company and its shareholders. If shareholders do not ratify the selection of E&Y, the Audit Committee will evaluate the shareholder vote when considering the
+selection of a registered public accounting firm for the audit engagement for the 2018 fiscal year. In addition, if shareholders ratify the selection of E&Y as independent auditors, the Audit Committee may nevertheless periodically request
+proposals from the major registered public accounting firms and as a result of such process may select E&Y or another registered public accounting firm as our independent auditors.
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE “FOR” RATIFICATION OF THE
+APPOINTMENT OF E&Y AS OUR INDEPENDENT AUDITORS FOR THE FISCAL YEAR ENDING
+DECEMBER 31, 2017.
+AUDITORS
+Representatives of E&Y are expected to attend the Annual
+Meeting and will have an opportunity to make a statement and to respond to appropriate questions from shareholders.
+Audit Fees
+Audit fees include the aggregate fees for the audit of our annual consolidated financial statements and internal controls,
+and the reviews of each of the quarterly consolidated financial statements included in our Forms
+10-Q.
+These fees also include statutory and other audit work performed with respect to certain of our
+subsidiaries. The aggregate audit fees billed and expected to be billed by E&Y for the fiscal year ended December 31, 2016 were $15,146,000. The aggregate audit fees we were billed by E&Y for the fiscal year ended December 31, 2015
+were $11,783,000.
+Audit-Related Fees
+Audit-related fees include accounting advisory services related to the accounting treatment of transactions or events, including acquisitions, and to the adoption of new accounting standards, as well as
+additional procedures related to accounting records performed to comply with regulatory reporting requirements and to provide certain attest reports. The aggregate audit-related fees billed and expected to be billed by E&Y for services rendered
+during the fiscal year ended December 31, 2016 were $1,214,000. The aggregate audit-related fees we were billed by E&Y for services rendered during the fiscal year ended December 31, 2015 were $1,086,000.
+Tax Fees
+Tax fees were
+for tax compliance services and assistance with federal and provincial
+tax-related
+matters for certain international entities. The aggregate tax fees billed and expected to be billed by E&Y for services
+rendered during the fiscal year ended December 31, 2016 were $0. The aggregate tax fees we were billed by E&Y for services rendered during the fiscal year ended December 31, 2015 were $0.
+All Other Fees
+All
+other fees were for advisory services related to compliance with regulatory reporting requirements. The aggregate other fees billed and expected to be billed by E&Y for services rendered during the fiscal year ended December 31, 2016 were
+$61,000. The aggregate other fees we were billed by E&Y for services rendered during the fiscal year ended December 31, 2015 were $65,000.
+12
+Pre-Approval
+Policies and Procedures
+All of the fees described above were approved by the Audit Committee. The Audit Committee is responsible for overseeing the audit fee
+negotiations associated with the retention of E&Y to perform the audit of our annual consolidated financial statements and internal controls. The Audit Committee has adopted a
+pre-approval
+policy under
+which the Audit Committee approves in advance all audit and
+non-audit
+services to be performed by our independent auditors. As part of its
+pre-approval
+policy, the Audit
+Committee considers whether the provision of any proposed
+non-audit
+services is consistent with the SEC’s rules on auditor independence. In accordance with the
+pre-approval
+policy, the Audit Committee has
+pre-approved
+certain specified audit and
+non-audit
+services to be provided by
+E&Y if they are initiated within 18 months after the date of the
+pre-approval
+(or within such other period from the date of
+pre-approval
+as may be provided). If
+there are any additional services to be provided, a request for
+pre-approval
+must be submitted by management to the Audit Committee for its consideration under the policy. Finally, in accordance with the
+pre-approval
+policy, the Audit Committee has delegated
+pre-approval
+authority to each of its members. Any member who exercises this authority must report any
+pre-approval
+decisions to the Audit Committee at its next meeting.
+Audit Committee Report
+The Audit Committee is composed solely of independent directors meeting the applicable requirements of the Nasdaq rules.
+The Audit Committee reviews the Company’s financial reporting process on behalf of the Board. Management has the primary responsibility for establishing and maintaining adequate internal control over financial reporting, for preparing the
+financial statements, and for the reporting process. The Audit Committee members do not serve as professional accountants or auditors, and their functions are not intended to duplicate or to certify the activities of management and the independent
+registered public accounting firm. The Company’s independent auditors are engaged to audit and report on the conformity of the Company’s financial statements to accounting principles generally accepted in the United States and the
+effectiveness of the Company’s internal control over financial reporting.
+In this context, the Audit Committee reviewed
+and discussed with management and the independent auditors the audited financial statements for the year ended December 31, 2016 (the “Audited Financial Statements”), management’s assessment of the effectiveness of the
+Company’s internal control over financial reporting, and the independent auditors’ evaluation of the Company’s system of internal control over financial reporting. The Audit Committee has discussed with Ernst & Young LLP, the
+Company’s independent auditors, the matters required to be discussed by Public Company Accounting Oversight Board (“PCAOB”) Auditing Standard 1301,
+Communications with Audit Committees
+. In addition, the Audit Committee has
+received the written disclosures and the letter from the independent auditors required by applicable requirements of the PCAOB regarding the independent auditors’ communications with the Audit Committee concerning independence, and has
+discussed with the independent auditors the independent auditors’ independence.
+Based upon the reviews and discussions
+referred to above, the Audit Committee recommended to the Board that the Audited Financial Statements be included in the Company’s Annual Report on Form
+10-K
+for the year ended December 31, 2016, for
+filing with the Securities and Exchange Commission.
+The Audit Committee
+Tom A. Alberg
+Thomas O. Ryder
+Wendell P. Weeks
+13
+ITEM 3—ADVISORY VOTE TO APPROVE EXECUTIVE COMPENSATION
+We are asking shareholders to approve, on an advisory basis, the compensation of our named executive officers as disclosed in the
+Compensation Discussion and Analysis, the Summary Compensation Table, and the related compensation tables and narrative. Our executive compensation programs are designed to support our long-term success. As described in the “Compensation
+Discussion and Analysis” section of this Proxy Statement, the Leadership Development and Compensation Committee has structured our executive compensation program to tie total compensation to long-term shareholder value, as reflected primarily
+in our stock price.
+We note that our stock price has increased approximately 88% between January 2014 and December 2016. In
+addition, the total number of restricted stock units granted to our named executive officers during 2016 represented only (i) 1.73% of the total number of restricted stock units granted to all employees during 2016 and (ii) 0.03% of the
+weighted-average number of shares outstanding for 2016. The total number of restricted stock units granted to our named executive officers during the three-year period from 2014 to 2016 represented only (i) 0.97% of the total number of
+restricted stock units granted to all employees during the same three-year period and (ii) 0.02% of the weighted-average number of shares outstanding for the same three-year period. For more information, shareholders should read the
+“Compensation Discussion and Analysis,” which describes how our executive compensation policies and procedures operate and are designed to achieve our compensation objectives, as well as the Summary Compensation Table and related
+compensation tables and narrative, which provide detailed information on the compensation of our named executive officers. The Leadership Development and Compensation Committee and the Board believe that the policies and procedures articulated in
+the “Compensation Discussion and Analysis” are effective in achieving our goals and that the compensation of our named executive officers reported in this Proxy Statement has supported and contributed to our success.
+At our 2011 Annual Meeting of Shareholders, our shareholders approved, on an advisory basis, a frequency of every three years for casting
+advisory votes approving our executive compensation. After the 2017 Annual Meeting, our next advisory vote on executive compensation will occur at our 2020 Annual Meeting of Shareholders unless the Company announces otherwise following the Board of
+Directors’ consideration of the advisory vote provided in Item 4 of this Proxy Statement regarding the frequency of future advisory votes on executive compensation.
+This item is being presented pursuant to Section 14A of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Although this advisory vote is not binding, the Leadership
+Development and Compensation Committee will consider the voting results when evaluating our executive compensation program.
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE “FOR” APPROVAL, ON AN ADVISORY BASIS, OF OUR EXECUTIVE COMPENSATION AS DESCRIBED IN
+THIS PROXY STATEMENT.
+ITEM 4—ADVISORY VOTE ON THE FREQUENCY OF FUTURE ADVISORY VOTES ON EXECUTIVE COMPENSATION
+Pursuant to Section 14A of the Exchange Act, we are asking shareholders to cast an advisory vote on the frequency of
+future advisory votes on executive compensation. Shareholders may specify whether they prefer such votes to occur every year, every two years, or every three years, or they may abstain. The Board recommends that such vote occur every three years,
+because the Company takes a long-term view of employee compensation, including executive compensation. Because of the unique nature of our executive compensation program, where a substantial portion of employee compensation is in the form of
+restricted stock units that are granted periodically and typically vest over five years or more, we believe that it is more appropriate to evaluate our executive compensation by comparing amounts received by our executives and our total shareholder
+return over a three-year period, instead of evaluating our executive compensation based on the total grant date fair value of restricted stock unit awards granted each year.
+14
+Although the shareholders’ vote on this proposal is not binding, the Board will
+consider the voting results in determining the frequency of future advisory votes. Notwithstanding the Board’s recommendation and the outcome of the shareholder vote, the Board may in the future decide to conduct advisory votes on a more or
+less frequent basis and may vary its practice based on factors such as discussions with shareholders and the adoption of material changes to compensation programs.
+At our 2011 Annual Meeting of Shareholders, our shareholders approved, on an advisory basis, a frequency of every three years for casting advisory votes approving our executive compensation. The Board of
+Directors recommends that future advisory votes on executive compensation continue to occur once every three years. Because our executive compensation programs are designed to reward long-term performance and operate over a period of years,
+shareholders should evaluate how our programs perform over the long term. Also, an advisory vote every three years provides an appropriate period for the Leadership Development and Compensation Committee and the Board to evaluate the results of the
+most recent advisory vote on executive compensation and to develop and implement any appropriate adjustments to our executive compensation programs. Conducting an advisory vote every three years provides shareholders a meaningful opportunity to
+provide regular feedback and sufficient time for us to respond to it. Our last two advisory votes to approve executive compensation were approved by more than 97% of the outstanding shares of common stock present in person or represented by proxy
+and entitled to vote at the respective annual meetings of our shareholders.
+THE BOARD OF DIRECTORS RECOMMENDS SHAREHOLDERS
+VOTE, ON AN ADVISORY BASIS, TO CONDUCT FUTURE ADVISORY VOTES ON EXECUTIVE COMPENSATION EVERY “THREE YEARS.”
+ITEM 5—APPROVAL OF THE COMPANY’S 1997 STOCK INCENTIVE PLAN, AS AMENDED AND RESTATED
+The Board of Directors recommends that shareholders approve the 1997 Plan, including the material terms of the performance goals set
+forth in the 1997 Plan. Approval of the material terms of the performance goals is a condition for certain awards made under the 1997 Plan to qualify as
+tax-deductible
+performance-based compensation under
+Section 162(m) of the Internal Revenue Code. In addition, approval of the 1997 Plan is intended to satisfy shareholder approval requirements for making certain
+tax-qualified
+awards under the 1997 Plan to
+our French employees. Each of these aspects of the 1997 Plan, along with a summary of other significant terms of the 1997 Plan, is set forth in Appendix A to this Proxy Statement, which is incorporated herein by reference.
+Shareholder approval of this proposal does not increase the number of shares of Amazon common stock reserved for grant pursuant to awards
+issued under the 1997 Plan. The discussion below and the summary of the 1997 Plan attached as Appendix A to this Proxy Statement are qualified by reference to the text of the 1997 Plan. A copy of the 1997 Plan was included as an exhibit to our Form
+10-Q
+filed on April 26, 2013 and can be obtained upon request from the Secretary of the Company.
+Section 162(m)
+Section 162(m) places a limit of $1 million on the amount the Company may deduct in any one year for compensation paid to a
+“covered employee,” which means any person who as of the last day of the fiscal year is the chief executive officer or one of the Company’s three highest compensated executive officers other than the CFO, as determined under SEC
+rules. There is, however, an exception to this limit on deductibility for compensation that satisfies certain conditions for “qualified performance-based compensation” set forth under Section 162(m). One of the conditions requires
+shareholder approval every five years of the material terms of the performance goals of the plan under which the compensation will be paid. As noted above, the Company’s shareholders most recently approved the material terms of the performance
+goals of the 1997 Plan at the
+15
+Company’s 2012 Annual Meeting. The list of business criteria on which performance goals may be based remains unchanged and the Company is asking shareholders to approve the material terms of
+the performance goals under the 1997 Plan.
+For purposes of Section 162(m), the material terms of the performance goals
+include (i) the employees eligible to receive compensation under the 1997 Plan, (ii) a description of the business criteria on which the performance goal is based, and (iii) the maximum amount of compensation that can be paid to an
+employee under the performance goal. Each of these aspects of the 1997 Plan is discussed in Appendix A to this Proxy Statement.
+The Board believes that it is in the best interests of the Company and its shareholders to enable the Company to implement compensation
+arrangements that qualify as fully tax deductible performance-based compensation in the 1997 Plan. The Board is therefore asking shareholders to approve, for Section 162(m) purposes, the material terms of the performance goals as set forth in
+Appendix A to this Proxy Statement. However, shareholder approval of the 1997 Plan is only one of several requirements under Section 162(m) that must be satisfied for amounts realized under the 1997 Plan to qualify for the
+“performance-based” compensation exemption under Section 162(m), and submission of the material terms of the 1997 Plan’s performance goals for shareholder approval should not be viewed as a guarantee that the Company can deduct
+all compensation under the 1997 Plan. Nothing in this proposal precludes the Company or the Leadership Development and Compensation Committee from making any payment or granting awards that do not qualify for tax deductibility under
+Section 162(m)
+,
+nor is there any guarantee that awards intended to qualify for tax deductibility under Section 162(m) will ultimately be viewed as so qualifying by the Internal Revenue Service.
+French
+Tax-Qualified
+RSU Grants
+France adopted a Finance Act in December 2016 (the “Finance Law”), which, along with another law adopted in August 2015 (Loi
+Macron), introduced changes to the terms under which French
+tax-qualified
+restricted stock units (“RSUs”), including performance-based RSUs, may be granted to employees of our subsidiaries in France.
+One of the conditions for granting French
+tax-qualified
+RSUs under the Finance Law is that the RSUs are granted pursuant to an equity incentive plan approved by shareholders on or after December 31, 2016.
+Shareholder approval of this proposal will satisfy one of the requirements of the Finance Law for granting
+tax-qualified
+RSUs to employees of our subsidiaries in France. Under the Finance Law, French
+tax-qualified
+RSUs granted to employees of our French subsidiaries may benefit from certain French income and social tax treatment, provided certain conditions are met. Following shareholder approval of this
+proposal, we will determine whether or not to seek to satisfy the other requirements to grant
+tax-qualified
+RSUs in France.
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE “FOR” APPROVAL OF THE COMPANY’S
+1997 STOCK INCENTIVE PLAN, AS AMENDED AND RESTATED
+ITEM 6—SHAREHOLDER PROPOSAL REGARDING A REPORT ON USE OF CRIMINAL BACKGROUND CHECKS IN HIRING DECISIONS
+AFL-CIO
+Reserve Fund, 815 16
+th
+Street, NW, Washington, DC 20006, a beneficial owner of 232 shares
+of common stock of the Company, has notified us that it intends to present the following resolution at the Annual Meeting. Zevin Asset Management, LLC, 11 Beacon Street, Suite 1125, Boston, Massachusetts 02108, acting on behalf of Emma Creighton
+Irrevocable Trust, a beneficial owner of 7 shares of common stock of the Company, is a
+co-sponsor
+of the
+AFL-CIO
+Reserve Fund proposal. THE BOARD RECOMMENDS A VOTE
+“AGAINST” THIS SHAREHOLDER PROPOSAL.
+Beginning of Shareholder Proposal and Statement of Support by
+AFL-CIO
+Reserve Fund:
+RESOLVED:
+Shareholders of Amazon.com (the
+“Company”) request that the Board of Directors prepare a report on the use of criminal background checks in hiring and employment decisions for the Company’s
+16
+employees, independent contractors, and subcontracted workers. The report shall evaluate the risk of racial discrimination that may result from the use of criminal background checks in hiring and
+employment decisions. The report shall be prepared at reasonable cost and omit proprietary information, and shall be made available on the Company’s website no later than the 2018 annual meeting of shareholders.
+SUPPORTING STATEMENT:
+Approximately one third of US adults have a criminal record according to the National Employment Law Project
+(http://www.nelp.org/campaign/ensuring-fair-chance-to-work/).
+Because the criminal justice system disproportionately affects minorities, the use of arrest and conviction
+records in employment decisions may violate the Civil Rights Act of 1964 and the Equal Employment Opportunity Commission’s guidelines if such policies are not job related for the position in question and consistent with business necessity
+(https://www.eeoc.gov/laws/guidance/arrest_conviction.cfm).
+Our Company is a large and growing employer who also subcontracts
+with staffing agencies and uses independent contractors for various positions including warehouse jobs and delivery drivers. Like at many companies, criminal background checks are used in hiring decisions for these positions. In our opinion,
+excluding individuals who have had previous contact with the criminal justice system may hurt our Company’s competitiveness in attracting and retaining top talent.
+The disparate impact that such practices may have on people of color may also work against our Company’s commitment to diversity. While it may be appropriate to disqualify certain individuals with
+relevant criminal records from specific positions, an overly restrictive ban on employing all individuals with any criminal record in effect imposes a second sentence. We believe that previously incarcerated individuals who have paid their debt to
+society deserve a chance to achieve gainful employment.
+On October 12, 2016, the Lawyers’ Committee for Civil
+Rights and Economic Justice wrote to our Company’s CEO Jeff Bezos to express concern about a purported new Company directive that requires delivery companies that our Company contracts with to institute more stringent background check
+procedures. The letter alleges that dozens of primarily black and Latino delivery drivers in the Boston area were terminated as a result of this change
+(http://lawyerscom.org/lawyers-committee-urges-amazon-to-halt-
+employment-practices-that-harm-communities-of-color/).
+This proposal urges the Board of Directors to prepare a report on the Company’s criminal background check
+practices and policies and the risk that racial discrimination may result. In our view, the use of criminal background checks for employment decisions creates significant legal, reputational and operational risks. Accordingly, we believe that the
+Board of Directors has an obligation to adequately inform itself of and manage these material risks to the Company.
+For these
+reasons, we urge shareholders to vote FOR this proposal.
+End of Shareholder Proposal and Statement of Support by
+AFL-CIO
+Reserve Fund
+Recommendation of the Board of Directors on Item 6
+The Board of Directors recommends that you vote against this proposal.
+We are strongly committed to providing an equal opportunity in all aspects of employment and will not tolerate any illegal discrimination
+or harassment of any kind. Additionally, our process for performing background checks on prospective employees and contracted service providers serves significant public safety and business purposes.
+17
+The nature of our business requires that we implement certain controls to protect our
+customers, employees, and the public and serve the interests of our shareholders. For example, our contracted delivery drivers operate largely independently in the field without direct supervision. They are in contact with customers and other
+members of the public, including children and vulnerable adults, often
+face-to-face
+at the customer’s doorstep and, in some cases, after dark. In this context, it
+is critically important to managing our reputational, operational, and legal risks that background checks are performed. Accordingly, taking into account the nature of a conviction, the time that has elapsed, and the nature of the job for which an
+individual is being considered, we do consider certain types of serious criminal convictions to be disqualifying.
+Our
+processes for conducting background checks involve complex considerations that are designed to be fair, reasonable, and lawful and to achieve the primary goal of protecting employees, customers, and the public. Further, we believe our targeted
+screening process is well-tailored to protecting public safety and our business interests. We do not allow or condone racial discrimination of any kind, in the background checking process or otherwise; we are strongly committed to providing an equal
+opportunity in all aspects of employment; and we are proud of the diverse population of drivers who serve our customers. Diversity is a cornerstone of our continued success, and we benefit from the diverse perspectives of our employees that come
+from many sources, including gender, race, age, national origin, sexual orientation, disability, culture, education, as well as professional and life experience.
+Given our commitment to equality and the nature of our business, the Board believes that the preparation of the report requested by the proposal would not be an effective and prudent use of the
+Company’s time and resources.
+THE BOARD RECOMMENDS THAT YOU VOTE “AGAINST” THIS PROPOSAL REGARDING
+A REPORT ON USE OF CRIMINAL BACKGROUND CHECKS IN HIRING DECISIONS.
+ITEM 7—SHAREHOLDER PROPOSAL REGARDING SUSTAINABILITY AS AN EXECUTIVE COMPENSATION PERFORMANCE MEASURE
+Mercy For Animals, 8033 Sunset Boulevard, Suite 864, Los Angeles, California 90046, a beneficial owner of 10 shares of common stock of
+the Company, has notified us that it intends to present the following resolution at the Annual Meeting. THE BOARD RECOMMENDS A VOTE “AGAINST” THIS SHAREHOLDER PROPOSAL.
+Beginning of Shareholder Proposal and Statement of Support by Mercy For Animals:
+RESOLVED: That the shareholders of Amazon.com request the Board’s Compensation Committee, when setting senior executive compensation, include sustainability as one of the performance measures for
+senior executives under the Company’s incentive plans. Sustainability is defined as how environmental and social considerations, and related financial impacts, are integrated into corporate strategy over the long term.
+SUPPORTING STATEMENT: We believe that the long-term interests of shareholders, as well as other important constituents, are best served
+by companies that operate their businesses in a sustainable manner focused on long-term value creation. As the recent financial crisis demonstrates, those boards of directors and management that operate their companies with integrity and a focus on
+the long term are much more likely to prosper than ones that are dominated by a short-term focus.
+The best means of
+demonstrating a company’s commitment to the concept of sustainability is through incorporating it as a performance measure in the Company’s annual and/or long-term incentive plans. We believe that the current failure to do so represents a
+serious shortcoming.
+18
+Examples of sustainability metrics include evaluation of how its operations may affect
+environmental pollution, natural resource depletion, the social and environmental impact of industrial agriculture and manufacturing, and other appropriate issues of corporate social responsibility and sustainability.
+Several studies within the past few years show that businesses incorporating environmental and social considerations into their corporate
+governance strategies are better able to mitigate risk in legal, regulatory, and reputational areas and thus increase overall performance and efficiency.
+According to a UN Global Compact and Accenture study entitled
+CEO Study on Sustainability 2013
+, 76 percent of executives believe that including sustainability in fundamental corporate strategy
+will drive revenue growth and increase opportunities; 93 percent believe sustainability is a major factor for organizational success, and 86 percent believe sustainability should be a factor discussed when determining compensation
+(67 percent reported that they already do).
+A Harvard Business School study from 2012 determined that organizations that
+embraced progressive environmental and social programs outperformed those that did not in both the stock market as well as accounting performance.
+Further, in 2014, a report entitled
+Greening the Green 2014: Linking Executive Pay to Sustainability
+from Glass Lewis found that a “mounting body of research showing that firms that operate in
+a more responsible manner may perform better financially... Moreover, these companies were also more likely to tip top executive incentives to sustainability metrics.”
+Finally, a report published by the United Nations Principles for Responsible Investment and the UN Global Compact found that including “Environmental, Social and Governance (ESG) issues within
+executive management goals and incentive schemes” is an essential factor in determining long-term shareholder worth.
+Determining which specific metrics to utilize rests within the discretion of the board and its compensation committee.
+End of Shareholder Proposal and Statement of Support by Mercy For Animals
+Recommendation of the Board of Directors on Item 7
+The Board of
+Directors recommends that you vote against this proposal.
+While the Board recognizes the importance of good corporate
+citizenship and is committed to sustainability and social responsibility, it does not believe that making sustainability a performance measure for senior executives is necessary or in the best interests of shareholders. We already regularly consider
+environmental, social, and governance issues in our business and continue to develop and improve our sustainability practices. In May 2016, the Company launched its sustainability website (see
+www.amazon.com/sustainability
+) to report on its
+sustainability and social responsibility efforts. Our current areas of focus include renewable energy procurement, energy efficiency programs in our operations, waste minimization for our operations (including for our packaging), and responsible
+supply chain management in the provision of our products and services. Here is a sample of some of our sustainability initiatives:
+Sustainability
+•
+At the end of 2016, more than 40% of the power consumed by Amazon Web Services’ (“AWS”) global infrastructure came from renewable
+energy sources. We have set a new goal for AWS to be powered by 50% renewable energy by the end of 2017, and our long term commitment is to achieve 100% renewable energy usage for AWS’ global infrastructure footprint.
+19
+•
+In 2016, we announced construction of new wind farms in Ohio and Texas and five new solar farms in Virginia that will bring renewable energy
+capacity onto the grid before the end of 2017. These farms join our four existing projects—Amazon Wind Farm Fowler Ridge, Amazon Solar Farm US East, Amazon Wind Farm US East, Amazon Wind Farm US Central—which started producing power in
+2016.
+•
+Under the 2014 Amazon Climate Research Grant Program, we announced the availability of grants for up to 50 million core hours of AWS services
+to accelerate research to improve our understanding of the scope and effect of climate change. We are currently working with a number of grant recipients under this program.
+•
+Our corporate headquarters in Seattle consists of sustainable, energy-efficient buildings. The buildings’ interiors feature salvaged and
+locally-sourced woods, energy-efficient lighting, and composting and recycling alternatives, as well as public plazas and pockets of open green space outside of the buildings. The U.S. Green Building Council has awarded six of our buildings with
+LEED Gold certification for sustainable design and construction methods. Our newest buildings in the Denny Triangle area of Seattle are heated through an innovative, and energy efficient, “district energy” system that recycles heat
+generated at a neighboring data center.
+•
+We have joined a number of business roundtables and working groups on sustainability, including the Corporate Eco Forum, an invitation-only membership
+group for large companies that demonstrate a serious commitment to sustainability as a business strategy issue, the American Council on Renewable Energy (“ACORE”), the U.S. Partnership for Renewable Energy Finance, a program of ACORE, and
+the Business Renewables Center run by Rocky Mountain Institute. We have also become a signatory on a number of sustainability commitments, including the Buyers’ Principles for Renewable Energy and the American Business Act on Climate Pledge (a
+way for companies to express support for action on climate change), sponsored by the White House. In 2016, Amazon also joined an amicus brief with three other tech companies in support of the continued implementation of the U.S. Environmental
+Protection Agency’s Clean Power Plan.
+Sustainable Packaging and Recycling
+•
+We continue to pursue multi-year waste reduction initiatives—preparation-free packaging, Ships in Own Container, and Amazon Frustration-Free
+Packaging—to promote the use of 100% recyclable packaging that is easy to open and eliminates hard plastic “clamshell” cases, plastic-coated wire ties commonly used in toy packaging, all packing foams, and additional shipping boxes.
+These initiatives have eliminated more than 110 million pounds of excess packaging just in 2016, a 54% increase over 2015. Further, with all
+Amazon-branded
+devices and electronic accessories meeting these
+requirements, we set a very high bar with our own products.
+•
+We have helped lead the industry on waste-reduction and sustainable packing materials and packaging through our promotion of two recently-adopted
+testing standards with the International Safe Transit Association for their certification processes, and through our work with testing labs and packaging design firms to help others meet these standards.
+•
+In 2016, we launched a partnership with Give Back Box to make it easier for Amazon customers to reuse their Amazon shipping boxes and donate to
+charity. Customers can reuse their Amazon shipping box, fill it with household items to donate, print a free shipping label at
+www.amazon.com/givebackbox
+, and ship the box to the nearest participating charitable organization.
+•
+We support the responsible disposal and recycling of electronics products. To encourage our customers to recycle their Amazon devices, we offer free
+shipping for this purpose. We also cover the costs associated with Amazon device recycling, which is performed by licensed recycling facilities. We are an industry steward participant and financial supporter of Call2Recycle. As part of this program,
+customers can drop off Amazon Basics rechargeable batteries at more than 30,000 collection sites throughout the
+20
+U.S. and Canada. Additionally, we offer the Amazon
+Trade-In
+program, which promotes the reuse, resale, or responsible recycling of hundreds of thousands of
+eligible items in working or
+non-working
+condition. Through the program, customers can trade in an array of eligible items, including electronics, with the convenience of free shipping. In exchange, the
+program offers Amazon Gift Card value which can be used toward anything Amazon offers.
+•
+Our North American fulfillment network is working on initiatives to minimize the amount of food going to landfills and has been helping local
+communities by donating food to local food banks. In 2016, these facilities donated enough food to provide over 3.5 million meals for local communities.
+Socially-Responsible and Ethical Sourcing
+•
+We are strongly committed to social responsibility in our operations and supply chain. We are also strongly committed to conducting our business in a
+lawful and ethical manner, both in our own operations and through engagement with suppliers that are committed to the same principles. Our products must be manufactured in a manner that meets or exceeds the expectations of Amazon and our customers
+as reflected in our Supplier Code of Conduct (see http://www.amazon.com/
+gp/help/customer/display.html?nodeId=200885140). These are some of the key areas we focus on:
+•
+Health and safety in production areas and any living quarters.
+•
+The right to legal wages and benefits.
+•
+Appropriate working hours and overtime pay.
+•
+Prevention of child labor or forced labor.
+•
+Fair and ethical treatment, including
+non-discrimination.
+•
+In 2016, we joined the Electronic Industry Citizenship Coalition, a nonprofit coalition of companies committed to supporting the rights and well-being
+of workers and communities worldwide affected by the global electronics supply chain.
+•
+We also offer fulfillment center tours in eight countries, including six locations in the U.S., which allow the public an opportunity to view the
+working conditions and operations at our facilities first-hand.
+The Board further believes that the
+Leadership Development and Compensation Committee, which is made up of independent directors, should maintain the ability to develop executive compensation principles and practices as it sees fit. The Board believes that it is appropriate for the
+Leadership Development and Compensation Committee to determine the performance measures against which executives are measured. The executive compensation program currently in place, as developed by the Leadership Development and Compensation
+Committee, promotes the long-term interests of shareholders in how it incentivizes executives. Our compensation program provides strong long-term incentives to align our employees’ interests with our shareholders’ interests. Consistent
+with our philosophy that total compensation should be tied to long-term shareholder value, the primary component of each executive officer’s total compensation is stock-based. As a result, we believe that the success of our substantial
+sustainability efforts is already included in the long-term view of creating shareholder value through our stock price, and is already a part of our executive compensation incentive structure, and the Board believes that making sustainability an
+explicit executive compensation performance measure is not necessary.
+THE BOARD RECOMMENDS THAT YOU VOTE
+“AGAINST” THIS PROPOSAL REGARDING SUSTAINABILITY AS AN EXECUTIVE COMPENSATION PERFORMANCE MEASURE.
+21
+ITEM 8—SHAREHOLDER PROPOSAL REGARDING VOTE-COUNTING PRACTICES FOR SHAREHOLDER
+PROPOSALS
+Investor Voice, SPC, 111 Queen Anne Avenue N, Suite 500, Seattle, Washington 98109, acting on behalf of Bryce
+A. Mathern, a beneficial owner of 15 shares of common stock of the Company, has notified us that it intends to present the following resolution at the Annual Meeting. THE BOARD RECOMMENDS A VOTE “AGAINST” THIS SHAREHOLDER PROPOSAL.
+Beginning of Shareholder Proposal and Statement of Support by Investor Voice:
+RESOLVED:
+Amazon.com, Inc. (“Amazon”) shareholders ask the Board to take or initiate steps to amend Company governing
+documents to provide that all
+non-binding
+matters presented by shareholders shall be decided by a simple majority of the votes cast FOR and AGAINST an item. This policy would apply to all such matters unless
+shareholders have approved higher thresholds, or applicable laws or stock exchange regulations dictate otherwise.
+SUPPORTING STATEMENT:
+This proposal seeks greater transparency, clarity, and understanding around how informed stockholders vote on shareholder proposals. In voting, the meaning of “Abstain” is defined by the Oxford
+English dictionary as:
+To formally decline to vote either FOR or AGAINST a proposal or motion.
+A “simple majority” formula, therefore, includes votes cast FOR and AGAINST but not abstentions. It
+provides the most democratic, clear, and accurate picture of the intent of shareowners who are both informed and decided, while not including in the formula the votes of abstaining voters who, by definition, have declined to express an opinion.
+When abstaining voters choose to mark ABSTAIN (whether they are confused, disinterested, or lack time to become fully
+informed), it is apparent that their votes should be regarded as neither FOR nor AGAINST an item.
+In contrast, Amazon
+unilaterally counts ABSTAIN votes as if AGAINST every shareholder sponsored proposal.
+•
+Is it reasonable for Amazon to assert it knows the will of undecided voters (and to artificially construe abstentions in favor of management)?
+Companies often imply they have no choice but to use the Delaware “default standard” (which
+includes abstentions). However, this nominal ‘standard’ is not mandated – it is what Delaware assigns to companies that do not proactively choose “simple majority” voting.
+Research has demonstrated that the
+so-called
+‘default standard’ systematically
+disadvantages shareholders:
+http://bit.ly/Voting-Research_Corporate-Secretary
+.
+How? It does this by:
+•
+Depressing the appearance of support for shareholder concerns.
+The math is simple: When abstaining shareholders elect to not express an opinion but then are treated as if they voted AGAINST a proposal, the tally is lowered and
+management benefits (because they routinely oppose stockholder proposals).
+22
+•
+Subverting vote outcomes.
+Historically, these practices have allowed companies to describe numerous true majority votes on shareholder items as, instead, having ‘failed’.
+•
+Distorting communication.
+Annual meeting votes offer the sole opportunity for most shareholders to communicate with Boards. Counting abstentions as de facto votes AGAINST shareholder proposals,
+management changes how outcomes are reported and how the public perceives support for shareholder concerns.
+In
+contrast to how shareholder items are treated, we see that Amazon’s Director Election (where management benefits from the appearance of strong support), does not count abstentions.
+Thus, management items and shareholder items do
+not
+receive equal treatment
+; though the Company has complete discretion to cure such inconsistencies in its voting policies.
+To avert discrepancies like these, the Council of Institutional Investors has declared: “...abstentions should be counted only for purposes of a quorum.”
+THEREFORE:
+Support accuracy, fairness, and good governance at Amazon by voting FOR simple majority vote-counting on shareholder-sponsored proposals.
+End of Shareholder Proposal and Statement of Support by Investor Voice
+Recommendation of the Board of Directors on Item 8
+The Board of
+Directors recommends that you vote against this proposal.
+The Board regularly reviews the Company’s corporate governance
+practices, including the methodologies for how votes are cast. The Board has undertaken several steps to improve the Company’s governance practices, including adopting proxy access and majority voting for directors. The Board does not, however,
+believe that the actions requested by the proposal represent a necessary change to the Company’s governance practices.
+Our vote-counting practices are consistent with Delaware law
+The Company’s vote-counting methodology is consistent with Delaware law, which applies to the Company by virtue of its incorporation
+in that state. Section 216 of the Delaware General Corporation Law provides, as a default, that in all matters other than the election of directors, the affirmative vote of the majority of shares present in person or represented by proxy at the
+meeting and entitled to vote on the subject matter shall be the act of the shareholders. Because shares that vote to abstain are present and entitled to vote, under this Delaware law standard any shares present at the meeting that abstain from
+voting are essentially counted as votes against the matter.
+Our vote-counting practices are fair and consistent with
+practices of peer companies
+The vote-counting methodology used by the Company does not inherently favor proposals
+submitted by the Board over proposals submitted by shareholders, as the vote-counting standard for approving any proposal other than for the election of directors is identical. Thus, the Company applies the same vote counting standard to its own
+advisory votes on executive compensation, for example, as it does to a shareholder proposal. In addition, the vote-counting methodology used by the Company is the standard applied by a majority of our peers incorporated in Delaware and, according to
+a 2013 study by GMI Ratings, by a majority of S&P 500 companies.
+23
+Changing our vote-counting practices would not be in the best interests of the Company
+All shares present in person or represented by proxy at our Annual Meeting are entitled to vote on each shareholder
+proposal included in the Proxy Statement. The Board believes that it is the responsibility of any person putting a proposal forward for shareholders to approve—regardless of whether the Company or a shareholder proponent—to persuade
+shareholders owning a majority of the shares that vote to support the proposal. Abstentions reflect the fact that a shareholder has reviewed and evaluated a proposal but has not been persuaded to support the proposal. Further, shareholders are
+clearly told the effect of an abstaining vote. As opposed to ignoring shareholders who abstain, as the proposal would do, we believe it appropriate to count abstentions as present at the Annual Meeting and entitled to vote, and thus as relevant in
+determining whether a majority of the shares present have voted in favor of a proposal. The effect of changing the Company’s vote-counting methodology to completely remove abstentions from the results of a vote would be to disenfranchise those
+voters who chose to abstain from voting. It would remove one of the voter’s three options, as a vote to abstain, itself, is a position taken by a shareholder and is an opinion expressed to the Board.
+Changing our vote-counting practices is not necessary
+Changing the manner in which abstentions are counted in shareholder votes would not have been determinative in any of the proposals voted on by the Company’s shareholders since the Company went
+public in 1997. Over that time, if the proponent’s proposed vote-counting methodology had been used, it would never have increased the voting results for a proposal by more than 4%, and would never have resulted in a different outcome in terms
+of whether a proposal passed or failed to pass.
+The Company’s vote-counting methodology is both consistent with Delaware
+law and fair to shareholders. The Board believes that it is important to recognize the voices of all shareholders, including those who choose to abstain from voting on a particular proposal. Therefore, the Board does not believe that changing the
+Company’s vote-counting methodology is in the best interests of the Company.
+THE BOARD RECOMMENDS THAT YOU VOTE
+“AGAINST” THIS PROPOSAL REGARDING
+VOTE-COUNTING PRACTICES FOR SHAREHOLDER PROPOSALS.
+24
+BENEFICIAL OWNERSHIP OF SHARES
+The following table sets forth certain information regarding the beneficial ownership of our common stock as of
+February 17, 2017 (except as otherwise indicated) by (i) each person or entity known by us to beneficially own more than 5% of our common stock, (ii) each director, (iii) each executive officer for whom compensation
+information is given in the Summary Compensation Table in this Proxy Statement, and (iv) all directors and executive officers as a group. Except as otherwise indicated, and subject to any interests of the reporting person’s spouse, we
+believe that the beneficial owners of common stock listed below, based on information furnished by such owners, have sole voting and investment power with respect to such shares. As of February 17, 2017 we had 477,614,699 shares of common stock
+outstanding.
+Name and Address of Beneficial Owner
+Amount and
+Nature of
+Beneficial
+Ownership
+Percent of
+Class
+Jeffrey P. Bezos
+80,897,696
+16.9
+%
+410 Terry Avenue North, Seattle, WA 98109
+The Vanguard Group, Inc.
+25,136,813
+(1)
+5.3
+%
+100 Vanguard Blvd, Malvern, PA 19355
+Tom A. Alberg
+30,115
+(2)
+*
+John Seely Brown
+13,565
+*
+Jamie S. Gorelick
+5,362
+*
+Daniel P. Huttenlocher
+—
+*
+Judith A. McGrath
+1,680
+*
+Jonathan J. Rubinstein
+7,775
+*
+Thomas O. Ryder
+17,523
+*
+Patricia Q. Stonesifer
+12,268
+*
+Wendell P. Weeks
+455
+*
+Brian T. Olsavsky
+1,063
+*
+Jeffrey M. Blackburn
+67,560
+(3)
+*
+Andrew R. Jassy
+74,995
+*
+Diego Piacentini
+79,146
+*
+Jeffrey A. Wilke
+86,126
+(4)
+*
+All directors and executive officers as a group (16 persons)
+81,225,330
+(5)
+17.0
+%
+*
+Less than 1%.
+(1)
+As of December 31, 2016, based on information provided in a Schedule 13G filed February 9, 2017. The Vanguard Group has sole voting power with respect to
+618,806 of the reported shares, shared voting power with respect to 73,153 of the reported shares, sole investment power with respect to 24,450,846 of the reported shares, and shared investment power with respect to 685,967 of the reported shares.
+(2)
+Includes 7,000 shares held by a charitable trust of which Mr. Alberg is a trustee and as to which he shares voting and investment power. Mr. Alberg disclaims
+beneficial ownership of such shares.
+(3)
+Includes 20,000 shares as to which Mr. Blackburn shares or may be deemed to share voting and investment power. Mr. Blackburn disclaims beneficial ownership of
+such shares.
+(4)
+Includes 24,831 shares as to which Mr. Wilke shares or may be deemed to share voting and investment power. Mr. Wilke disclaims beneficial ownership of such
+shares.
+(5)
+Includes 9,148 shares beneficially owned by other executive officers not individually listed in the table.
+25
+EXECUTIVE COMPENSATION
+Compensation Discussion and Analysis
+Compensation
+Philosophy.
+As stated in the Company’s 1997 letter to shareholders, we believe that a fundamental measure of our success will be the shareholder value we create over the long term. As a result, we may make decisions
+and weigh tradeoffs differently than some companies. For example, under our compensation philosophy, we have prioritized stock-based compensation that vests over an extended period of time. In addition, we believe granting stock-based compensation
+to employees at all levels across the Company results in motivated, customer-centric people who think and act like owners because they are owners.
+Our compensation philosophy for our “named executive officers” identified in the “Summary Compensation Table” below is the same as for all of our employees and is governed by the
+following principles. First, our compensation program is designed to attract and retain the highest caliber employees by providing above industry-average compensation assuming stock price performance. Second, our compensation program provides
+strong long-term incentives to align our employees’ interests with our shareholders’ interests. Third, our compensation program emphasizes performance and potential to contribute to our long-term success as a basis for compensation
+increases, as opposed to rewarding solely for length of service. Finally, our compensation program reinforces and reflects our core values, including customer obsession, innovation, bias for action, acting like owners and thinking long term, a
+high hiring bar, and frugality.
+For our named executive officers, who are employed on an
+at-will
+basis, we provide few perquisites and generally do not provide cash bonuses other than in a
+new-hire
+context. We do not maintain nonqualified deferred
+compensation plans, supplemental executive retirement plan benefits, cash severance programs, or
+change-in-control
+benefits for our executive officers. Additionally,
+except as noted below for Rule 162(m) purposes, we do not provide cash or equity incentives tied to performance criteria, which could cause employees to focus solely on short-term returns at the expense of long-term growth and innovation. We believe
+that investing in the creation of long-term value, without the use of performance measures or specific indices, is optimal for Amazon employees, particularly at the executive level, and for shareholders.
+We believe that the best measure of our performance is how we are valued over the long term. To help align our employees with long-term
+value creation, we compensate our employees with restricted stock unit awards that have long vesting periods. Over time, employees will have multiple restricted stock unit awards that vest over many years, and thus provide a greater amount of
+potential compensation in later years than the current year. This encourages employees, including executives, to seek out, develop, and pursue initiatives that focus on serving our customers and reflect a long-term view for thinking about our
+operations holistically and contributing to initiatives across the Company.
+As a company that relentlessly pursues invention
+across a wide range of opportunities, we believe it would be inappropriate to utilize a few discrete or short term financial or operational performance measures that may narrowly focus our executives on the success of only isolated initiatives,
+instead of on the long-term success of the Company as a whole. For example, in 1997, we could have adopted performance measures appropriate for an Internet bookseller, but those performance measures may have discouraged our employees from investing
+their time and energy into initiatives that later became AWS, Kindle, and Alexa. Other examples of long-term focus include the development of our third-party seller business, which was aided by the lessons learned from our unsuccessful efforts to
+build an auctions marketplace, and when we experimented with adding services other than fast shipping to our Prime membership program. A performance goal assumes some level of success by a prescribed measure, but to have a culture that relentlessly
+pursues invention, we have to encourage experimentation and long-term thinking, which, by definition, means we do not know in advance whether it will work.
+In addition, given the unique nature of Amazon and our many initiatives, standardized industry indices are either too broad or too narrow to serve as relevant comparisons for benchmarking performance. For
+example, if
+26
+we had tied compensation to our performance relative to a retail index, we might never have pursued our AWS business since executives would have been penalized for making the early investments in
+cloud technology and infrastructure that AWS required. Similarly, if we tied compensation to our performance relative to a technology index, we might not have built our own devices, developed our own movies and TV shows, or innovated shipping and
+delivery methods. A customized index locks in a business profile at a point in time and may deter employees from considering or pursuing initiatives that do not fit into that mold. Thus, we think the best stock market comparison we can make is
+measuring our own success: can we continue to grow our share value over the long term?
+As a result, we believe the best
+performance measure for our company is stock price performance over the long term. Therefore, when we set our executives’ target compensation, we assume a fixed annual increase in the stock price (currently 15%) so that our executives will be
+directly impacted if our stock price is flat or declines. This approach has worked well over the past three years, as our stock price has increased approximately 88% between January 2014 and December 2016.
+Base Salaries
+. Consistent with our philosophy that total compensation should be tied to long-term
+shareholder value, base salaries for named executive officers are designed to provide a minimum level of cash compensation and to be significantly less than those paid to senior leadership at similarly situated companies. Base salaries ranged from
+$81,840 for Mr. Bezos to $175,000 for Messrs. Blackburn, Jassy, Piacentini, and Wilke. Due to Mr. Bezos’ substantial ownership in Amazon, Mr. Bezos again requested not to receive additional compensation in 2016 and has never
+received annual cash compensation in excess of his current amount.
+Stock-Based
+Compensation
+. The primary component of a named executive officer’s total compensation is stock-based compensation in order to closely tie total compensation to long-term shareholder value. Accordingly, named executive
+officers receive sizeable stock-based awards at the time of hire and are also eligible for stock-based awards on a periodic basis. Because our compensation program is designed to reward long-term performance and operate over a period of years, named
+executive officers may not necessarily receive stock-based awards every year. For example, because annual total compensation as reported in the Summary Compensation Table below includes the entire fair value as of the grant date of a stock award
+granted in that year, without regard to the fact that the grant vests over a number of years, a named executive officer’s total compensation as reported will be higher in years in which he or she receives a grant compared to years in which he
+or she does not receive a grant. Due to Mr. Bezos’ substantial stock ownership, he believes he is appropriately incentivized and his interests are appropriately aligned with shareholders’ interests. Mr. Bezos has never received
+any stock-based compensation from Amazon.
+Since late 2002, we have used restricted stock units as our primary stock-based
+compensation vehicle. We believe that restricted stock units align the long-term interests of named executive officers and shareholders and help efficiently manage overall shareholder dilution from stock awards. Restricted stock unit grant amounts
+and vesting for named executive officers, whether for new hire or subsequent grants, are established by the Leadership Development and Compensation Committee after receiving recommendations from the Senior Vice President of Human Resources and the
+Chief Executive Officer. These restricted stock unit grants generally vest over a period of five or six years. Vesting does not accelerate as a result of termination of employment or upon a
+change-in-control
+(unless the Leadership Development and Compensation Committee determines that the acquiring company will not be assuming or substituting the awards).
+For new hire grants and grants made in connection with internal promotions, the Senior Vice President of Human Resources, the Chief
+Executive Officer, and the Leadership Development and Compensation Committee consider a variety of factors, including past compensation from the named executive officer’s former employer, future compensation from such former employer that will
+be forfeited upon joining the Company, the compensation of similarly situated senior executives at Amazon, the named executive officer’s expected level of responsibility and expected contributions to our future success, and the compensation of
+similarly situated executives at other retail, Internet, and technology companies.
+27
+For periodic grants, the Senior Vice President of Human Resources, the Chief Executive
+Officer, and the Leadership Development and Compensation Committee consider a variety of factors, including the named executive officer’s level of responsibility, past contributions to our performance, including our core values, and expected
+contributions to our future success, as well as the compensation of similarly situated executives at other retail, Internet, and technology companies. Generally, the Leadership Development and Compensation Committee considers whether to make
+periodic grants to executive officers in connection with our annual performance and compensation review process, which normally occurs between January and April.
+For both new hire and periodic restricted stock unit grants, the Senior Vice President of Human Resources and Chief Executive Officer develop grant recommendations by subjectively evaluating the factors
+above to set a total compensation target for each named executive officer and then designing restricted stock unit grants to help meet those total compensation targets based on stock price appreciation assumptions, taking into account the named
+executive officer’s cash compensation and the estimated value of
+pre-existing
+stock-based compensation vesting in subsequent years, if any. In this process, the Senior Vice President of Human Resources
+and Chief Executive Officer view projected total compensation for a given year as cash compensation expected to be earned in that year plus an assumed value of stock-based compensation vesting in that year. Because we focus on total compensation
+over time and take into account existing compensation, periodic grants for a smaller number of shares do not necessarily reflect lower total compensation.
+In April 2016, Messrs. Olsavsky, Blackburn, Jassy, and Wilke received restricted stock unit awards with vesting beginning in May 2017, assuming continued employment, as follows:
+•
+Mr. Olsavsky received a restricted stock unit award for 7,458 shares. In making this grant, the Leadership Development and Compensation Committee
+considered the factors discussed above with respect to periodic grants, including Mr. Olsavsky’s experience and skill as Chief Financial Officer, his performance in the year preceding the grant, and his expected future contributions.
+•
+Mr. Blackburn received a restricted stock unit award for 37,362 shares. In making this grant, the Leadership Development and Compensation
+Committee considered the factors discussed above with respect to periodic grants, including Mr. Blackburn’s experience and skill in managing the Company’s business development projects, his sustained performance over time in years
+preceding the grant, and his expected future contributions.
+•
+Mr. Jassy received a restricted stock unit award for 30,118 shares. In making this grant, the Leadership Development and Compensation Committee
+considered the factors discussed above with respect to periodic grants, including Mr. Jassy’s experience and skill in managing web services and cloud computing operations, his sustained performance over time in years preceding the grant,
+and his expected future contributions.
+•
+Mr. Wilke received a restricted stock unit award for 25,619 shares. In making this grant, the Leadership Development and Compensation Committee
+considered the factors discussed above with respect to periodic grants, including Mr. Wilke’s experience and skill in managing Worldwide Consumer operations, his sustained performance over time in years preceding the grant, and his
+expected future contributions.
+In setting these amounts, the Leadership Development and Compensation
+Committee considered the vesting schedule of existing equity awards as well as aggregated information from third party surveys, including compensation data for retail, Internet, technology, and media companies including Alphabet, Apple, AT&T,
+Best Buy, Cisco, eBay, Facebook, General Electric, Honeywell, IBM, Intel, Microsoft, Oracle, Starbucks, Target,
+Wal-Mart,
+and The Walt Disney Company. The Leadership Development and Compensation Committee
+exercises discretion in determining executive officers’ compensation and does not require that compensation be set at a specific level relative to what is reflected in the survey data.
+28
+In addition, Messrs. Jassy and Wilke each received an additional restricted stock unit award
+for 30,000 shares, which vest 45% in 2019, 15% in 2020, 30% in 2022, and 10% in 2023, in connection with being named CEO Amazon Web Services and CEO Worldwide Consumer, respectively. These grants were designed to encourage long-term retention, and
+were given in recognition of their level of responsibility and expected contribution to our future success over the long term.
+The total number of restricted stock units granted to our named executive officers during 2016 represented only (i) 1.73% of the total
+number of restricted stock units granted to all employees during 2016 and (ii) 0.03% of the weighted-average number of shares outstanding for 2016. The total number of restricted stock units granted to our named executive officers during the
+three-year period from 2014 to 2016 represented only (i) 0.97% of the total number of restricted stock units granted to all employees during the same three-year period and (ii) 0.02% of the weighted-average number of shares outstanding for the
+same three-year period.
+At the time of grant we impose additional vesting conditions on certain stock-based awards issued to
+named executive officers so that the awards may qualify as
+tax-deductible
+compensation under Section 162(m)(4)(c) of the Internal Revenue Code. However, the Company or the Leadership Development and
+Compensation Committee may grant awards that do not qualify for tax deductibility under Section 162(m), and there is no guarantee that awards intended to qualify for tax deductibility under Section 162(m) will ultimately be viewed as so
+qualifying by the Internal Revenue Service.
+New Hire Cash Bonuses.
+None of the named executive
+officers received a new hire cash bonus in 2016.
+Other Compensation and Benefits
+. Named
+executive officers receive additional compensation in the form of vacation, medical, 401(k), relocation, and other benefits generally available to all of our employees. We provide security for Mr. Bezos, including security in addition to that
+provided at business facilities and during business-related travel. We believe that all Company-incurred security costs are reasonable and necessary and for the Company’s benefit, and that the amount of the reported security expenses is
+especially reasonable in light of Mr. Bezos’ low salary and the fact that he has never received any stock-based compensation. The Leadership Development and Compensation Committee periodically reviews the amount and nature of
+Mr. Bezos’ security expenses. Reportable security expenses, along with Mr. Piacentini’s expatriation benefits, including a cost of living and housing allowance, are included in the “All Other Compensation” column of the
+Summary Compensation Table. We do not provide any other perquisites or other personal benefits to our named executive officers.
+Shareholder Advisory Vote to Approve Executive Compensation.
+At our 2014 Annual Meeting of Shareholders,
+our shareholders overwhelmingly approved the compensation of our named executive officers, with more than 97% of the votes cast for approval of our executive compensation on an advisory basis. The Leadership Development and Compensation Committee
+evaluated the results of the 2014 advisory vote approving the compensation of our named executive officers as well as discussions we have had in recent years with our shareholders and the other factors discussed in this Compensation Discussion and
+Analysis when evaluating our executive compensation and compensation policies and practices. While each of these factors informed the Leadership Development and Compensation Committee’s decisions regarding our executive compensation program,
+the Leadership Development and Compensation Committee did not implement changes to our executive compensation program as a result of the shareholder advisory vote.
+29
+Leadership Development and Compensation Committee Report
+The Leadership Development and Compensation Committee, which is composed solely of independent members of the Board of Directors, assists
+the Board in fulfilling its oversight responsibility relating to, among other things, establishing and reviewing compensation of the Company’s executive officers. The Leadership Development and Compensation Committee reviewed and discussed with
+management the Company’s Compensation Discussion and Analysis and, based on the review and discussion, recommended to the Board that the Compensation Discussion and Analysis be included in this Proxy Statement.
+The Leadership Development and Compensation Committee
+Daniel P. Huttenlocher
+Judith A. McGrath
+Jonathan J. Rubinstein
+Compensation of Named Executive Officers
+The following table sets forth for the year ended December 31, 2016 the compensation reportable for the named executive officers, as determined by SEC rules.
+2016 Summary Compensation Table
+Name And Principal Position
+Year
+Salary
+Stock
+Awards(1)
+All Other
+Compensation
+Total
+Jeffrey P. Bezos
+2016
+$
+81,840
+$
+—
+$
+1,600,000
+(2)
+$
+1,681,840
+Chief Executive Officer
+2015
+81,840
+—
+1,600,000
+1,681,840
+2014
+81,840
+—
+1,600,000
+1,681,840
+Brian T. Olsavsky
+2016
+160,000
+4,395,447
+3,200
+(3)
+4,558,647
+SVP and Chief Financial Officer(4)
+2015
+160,000
+7,623,373
+3,200
+7,786,573
+Jeffrey M. Blackburn
+2016
+171,250
+22,019,668
+3,425
+(3)
+22,194,343
+SVP, Business Development(4)
+Andrew R. Jassy
+2016
+175,000
+35,431,144
+(5)
+3,500
+(3)
+35,609,644
+CEO Amazon Web Services
+2015
+171,250
+—
+3,425
+174,675
+2014
+160,000
+7,501,668
+3,200
+7,664,868
+Diego Piacentini
+2016
+110,326
+23,585,138
+(7)
+35,166
+(8)
+23,730,630
+SVP, International Consumer Business(6)
+2015
+175,000
+—
+55,905
+230,905
+2014
+175,000
+6,635,459
+55,905
+6,866,364
+Jeffrey A. Wilke
+2016
+175,000
+32,779,614
+(9)
+3,500
+(3)
+32,958,114
+CEO Worldwide Consumer
+2015
+172,509
+—
+3,450
+175,959
+2014
+165,000
+8,347,749
+3,300
+8,516,049
+(1)
+Stock awards are reported at aggregate grant date fair value in the year granted, as determined under applicable accounting standards. Grant date fair value for
+restricted stock units is determined based on the number of shares granted multiplied by the average of the high and the low trading price of common stock of the Company on the grant date, without regard to the fact that the grants vest over a
+number of years. See Note 1, “
+Description of Business and Accounting Policies
+—
+Stock-Based Compensation
+,” in Item 8, “Financial Statements and Supplementary Data,” in our 2016 Annual Report on Form
+10-K.
+(2)
+Represents the approximate aggregate incremental cost to Amazon of security arrangements for Mr. Bezos in addition to security arrangements provided at business
+facilities and for business travel. We believe that all Company-incurred security costs are reasonable and necessary and for the Company’s benefit.
+30
+(3)
+Represents the value of cash and/or shares of common stock we contributed to the named executive officer’s account in our 401(k) plan.
+(4)
+Mr. Olsavsky became a named executive officer in 2015 and Mr. Blackburn became a named executive officer in 2016.
+(5)
+In addition to receiving a periodic stock grant, Mr. Jassy also received an additional restricted stock unit award for 30,000 shares in connection with being named
+CEO Amazon Web Services. In making this grant, the Leadership Development and Compensation Committee considered the factors discussed in the “Compensation Discussion and Analysis” section of this Proxy Statement above in relation to this
+grant.
+(6)
+On February 10, 2016, the Board approved a leave of absence for Diego Piacentini, Senior Vice President, International Consumer Business, for two years beginning
+in August 2016.
+(7)
+In connection with Mr. Piacentini’s leave of absence, the Board’s Leadership Development and Compensation Committee approved suspending forfeiture of
+Mr. Piacentini’s restricted stock unit awards under the 1997 Plan for the duration of his leave of absence. The amount reported reflects the incremental fair value of his previously-granted restricted stock unit awards as a result of
+modification of the forfeiture terms and not a new award grant.
+(8)
+Represents expatriation benefits, including a cost of living and housing allowance in the amount of $35,166. Mr. Piacentini’s 2000 employment offer letter,
+which provided for an initial annual salary of $175,000 and has no specified term, also provides for certain expatriation benefits, including a cost of living and housing allowance.
+(9)
+In addition to receiving a periodic stock grant, Mr. Wilke also received an additional restricted stock unit award for 30,000 shares in connection with being named
+CEO Worldwide Consumer operations. In making this grant, the Leadership Development and Compensation Committee considered the factors discussed in the “Compensation Discussion and Analysis” section of this Proxy Statement above in relation
+to this grant.
+The following table supplements the disclosure in the Summary Compensation Table with respect to
+stock awards made to the named executive officers in 2016.
+Grants of Plan-Based Awards in Fiscal Year 2016
+Name
+Grant Date
+All Other Stock Awards:
+Number of Shares of
+Stock
+or Units
+Grant Date Fair Value
+of Stock Awards(1)
+Jeffrey P. Bezos
+—
+$
+—
+Brian T. Olsavsky
+4/5/2016
+7,458
+(2)(3)
+4,395,447
+Jeffrey M. Blackburn
+4/5/2016
+37,362
+(2)(4)
+22,019,668
+Andrew R. Jassy
+4/5/2016
+30,118
+(2)(5)
+17,750,344
+4/5/2016
+30,000
+(2)(6)
+17,680,800
+Diego Piacentini
+2/10/2016
+47,615
+(7)
+23,585,138
+Jeffrey A. Wilke
+4/5/2016
+25,619
+(2)(8)
+15,098,814
+4/5/2016
+30,000
+(2)(9)
+17,680,800
+(1)
+Stock awards are reported at aggregate grant date fair value, as determined under applicable accounting standards. Grant date fair value for restricted stock units is
+determined based on the number of shares granted multiplied by the average of the high and the low trading price of common stock of the Company on the grant date, without regard to the fact that the grants vest over a number of years. The holder of
+the restricted stock unit award does not have any voting, dividend, or other ownership rights in the shares of common stock subject to the award unless and until the award vests and the shares are issued.
+(2)
+The vesting schedule reflects total compensation targets for future years based on the number of shares vesting and stock price assumptions for each future year.
+(3)
+This award vests based upon the following vesting schedule and the satisfaction of certain business criteria intended to qualify the award as
+tax-deductible
+compensation under Section 162(m) of the Internal Revenue Code: 150 shares on each of May 15, 2017, August 15, 2017, and November 15, 2017; 151 shares on
+31
+February 15, 2018; 130 shares on each of May 15, 2018 and August 15, 2018; 131 shares on each of November 15, 2018 and February 15, 2019; 284 shares on May 15, 2019;
+285 shares on each of August 15, 2019, November 15, 2019, and February 15, 2020; 239 shares on each of May 15, 2020, August 15, 2020, November 15, 2020, and February 15, 2021; and 1,060 shares on each of
+May 15, 2021, August 15, 2021, November 15, 2021, and February 15, 2022.
+(4)
+This award vests based upon the following vesting schedule and the satisfaction of certain business criteria intended to qualify the award as
+tax-deductible
+compensation under Section 162(m) of the Internal Revenue Code: 1,036 shares on each of May 15, 2017 and August 15, 2017; 1,037 shares on each of November 15, 2017 and February 15,
+2018; 1,667 shares on each of May 15, 2018 and August 15, 2018; 1,668 shares on each of November 15, 2018 and February 15, 2019; 1,692 shares on each of May 15, 2019, August 15, 2019, November 15, 2019, and
+February 15, 2020; 2,791 shares on each of May 15, 2020, August 15, 2020, and November 15, 2020; 2,792 shares on February 15, 2021; 2,153 shares on each of May 15, 2021, August 15, 2021, and November 15, 2021;
+and 2,154 shares on February 15, 2022.
+(5)
+This award vests based upon the following vesting schedule and the satisfaction of certain business criteria intended to qualify the award as
+tax-deductible
+compensation under Section 162(m) of the Internal Revenue Code: 494 shares on each of May 15, 2017, August 15, 2017, and November 15, 2017; 495 shares on February 15, 2018; 952
+shares on each of May 15, 2018, August 15, 2018, November 15, 2018, and February 15, 2019; 1,138 shares on May 15, 2019; 1,139 shares on each of August 15, 2019, November 15, 2019, and February 15, 2020; 2,791
+shares on each of May 15, 2020, August 15, 2020, and November 15, 2020; 2,792 shares on February 15, 2021; 2,153 shares on each of May 15, 2021, August 15, 2021, and November 15, 2021; and 2,154 shares on
+February 15, 2022.
+(6)
+In addition to receiving a periodic stock grant, Mr. Jassy also received an additional restricted stock unit award for 30,000 shares in connection with being named
+CEO Amazon Web Services. In making this grant, the Leadership Development and Compensation Committee considered the factors discussed in the “Compensation Discussion and Analysis” section of this Proxy Statement above in relation to this
+grant. This award vests based upon the following vesting schedule and the satisfaction of certain business criteria intended to qualify the award as
+tax-deductible
+compensation under Section 162(m) of the
+Internal Revenue Code: 4,500 shares on each of May 15, 2019, August 15, 2019, November 15, 2019, and February 15, 2020; and 3,000 shares on each of May 15, 2022, August 15, 2022, November 15, 2022, and
+February 15, 2023.
+(7)
+In connection with Mr. Piacentini’s leave of absence, the Board’s Leadership Development and Compensation Committee approved suspending forfeiture of
+Mr. Piacentini’s restricted stock unit awards under the 1997 Plan for the duration of his leave of absence. The amount reported reflects the incremental fair value of his previously granted restricted stock unit awards as a result of
+modification of the forfeiture terms and not a new award grant.
+(8)
+This award vests based upon the following vesting schedule and the satisfaction of certain business criteria intended to qualify the award as
+tax-deductible
+compensation under Section 162(m) of the Internal Revenue Code: 596 shares on each of May 15, 2018, August 15, 2018, and November 15, 2018; 597 shares on February 15, 2019; 864
+shares on each of May 15, 2019, August 15, 2019, November 15, 2019, and February 15, 2020; 2,791 shares on each of May 15, 2020, August 15, 2020, and November 15, 2020; 2,792 shares on February 15, 2021; 2,153
+shares on each of May 15, 2021, August 15, 2021, and November 15, 2021; and 2,154 shares on February 15, 2022.
+(9)
+In addition to receiving a periodic stock grant, Mr. Wilke also received an additional restricted stock unit award for 30,000 shares in connection with being named
+CEO Worldwide Consumer operations. In making this grant, the Leadership Development and Compensation Committee considered the factors discussed in the “Compensation Discussion and Analysis” section of this Proxy Statement above in relation
+to this grant. This award vests based upon the following vesting schedule and the satisfaction of certain business criteria intended to qualify the award as
+tax-deductible
+compensation under Section 162(m) of
+the Internal Revenue Code: 4,500 shares on each of May 15, 2019, August 15, 2019, November 15, 2019, and February 15, 2020; and 3,000 shares on each of May 15, 2022, August 15, 2022, November 15, 2022, and
+February 15, 2023.
+32
+Outstanding Equity Awards at 2016 Fiscal
+Year-End
+and Stock
+Vested in 2016
+The following table sets forth information concerning the outstanding stock awards held at
+December 31, 2016 by the named executive officers.
+Outstanding Equity Awards at 2016 Fiscal
+Year-End
+Name
+Number of Shares or
+Units of Stock That
+Have Not
+Vested
+Market Value of
+Shares or Units
+of Stock
+That
+Have Not Vested(1)
+Jeffrey P. Bezos
+—
+$
+—
+Brian T. Olsavsky
+Restricted stock units
+35,767
+(2)
+26,820,600
+Jeffrey M. Blackburn
+Restricted stock units
+74,188
+(3)
+55,631,356
+Andrew R. Jassy
+Restricted stock units
+104,890
+(4)
+78,653,864
+Diego Piacentini
+Restricted stock units
+47,615
+(5)
+35,705,060
+Jeffrey A. Wilke
+Restricted stock units
+108,638
+(6)
+81,464,377
+(1)
+Reflects the closing market price of our common stock on December 30, 2016, $749.87, multiplied by the number of restricted stock units that were not vested as of
+December 31, 2016.
+(2)
+Reflects shares of our common stock subject to: (a) a restricted stock unit award that vested as to 297 shares on February 15, 2017; and vesting as follows,
+assuming continued employment: 747 shares on May 15, 2017; 748 shares on each of August 15, 2017, November 15, 2017, and February 15, 2018; 781 shares on each of May 15, 2018 and August 15, 2018; 782 shares on each of
+November 15, 2018 and February 15, 2019; 1,479 shares on May 15, 2019; 1,480 shares on each of August 15, 2019, November 15, 2019, and February 15, 2020; 1,137 shares on May 15, 2020; and 1,138 shares on each of
+August 15, 2020, November 15, 2020, and February 15, 2021; (b) a restricted stock unit award vesting as follows, assuming continued employment: 73 shares on each of May 15, 2017, August 15, 2017, November 15, 2017, and
+February 15, 2018; and 1,117 shares on each of May 15, 2018, August 15, 2018, November 15, 2018, and February 15, 2019; (c) a restricted stock unit award vesting as follows, assuming continued employment: 1,363 shares on
+each of May 15, 2017, August 15, 2017, and November 15, 2017; and 1,361 shares on February 15, 2018; (d) a restricted stock unit award that vested as to 1,215 shares on February 15, 2017; and (e) a restricted stock unit
+award vesting as follows, assuming continued employment: 150 shares on each of May 15, 2017, August 15, 2017, and November 15, 2017; 151 shares on February 15, 2018; 130 shares on each of May 15, 2018 and August 15,
+2018; 131 shares on each of November 15, 2018 and February 15, 2019; 284 shares on May 15, 2019; 285 shares on each of August 15, 2019, November 15, 2019, and February 15, 2020; 239 shares on each of May 15, 2020,
+August 15, 2020, November 15, 2020, and February 15, 2021; and 1,060 shares on each of May 15, 2021, August 15, 2021, November 15, 2021, and February 15, 2022.
+(3)
+Reflects shares of our common stock subject to: (a) a restricted stock unit award that vested as to 4,787 shares on February 15, 2017; and
+vesting as follows, assuming continued employment: 3,689 shares on May 15, 2017; and 3,688 shares on each of August 15, 2017, November 15, 2017, and February 15, 2018; (b) a restricted stock unit award vesting as follows,
+assuming continued employment: 2,441 shares on each of May 15, 2018, August 15, 2018, November 15, 2018, and February 15, 2019; 1,880 shares on each of May 15, 2019 and August 15, 2019; and 1,881 shares on each of
+November 15, 2019 and February 15,
+33
+2020; and (c) a restricted stock unit award vesting as follows, assuming continued employment: 1,036 shares on each of May 15, 2017 and August 15, 2017; 1,037 shares on each of
+November 15, 2017 and February 15, 2018; 1,667 shares on each of May 15, 2018 and August 15, 2018; 1,668 shares on each of November 15, 2018 and February 15, 2019; 1,692 shares on each of May 15, 2019,
+August 15, 2019, November 15, 2019, and February 15, 2020; 2,791 shares on each of May 15, 2020, August 15, 2020, and November 15, 2020; 2,792 shares on February 15, 2021; 2,153 shares on each of May 15, 2021,
+August 15, 2021, and November 15, 2021; and 2,154 shares on February 15, 2022.
+(4)
+Reflects shares of our common stock subject to: (a) a restricted stock unit award vesting as follows, assuming continued employment: 3,156 shares on May 15,
+2018 and August 15, 2018; 3,157 shares on November 15, 2018 and February 15, 2019; 2,433 shares on May 15, 2019; and 2,434 shares on August 15, 2019 and quarterly thereafter through February 15, 2020; (b) a restricted
+stock unit award that vested as to 5,489 shares on February 15, 2017; and vesting as follows, assuming continued employment: 4,231 shares on May 15, 2017 and August 15, 2017; and 4,230 shares on November 15, 2017 and
+February 15, 2018; (c) a restricted stock unit award vesting as follows, assuming continued employment: 494 shares on each of May 15, 2017, August 15, 2017, and November 15, 2017; 495 shares on February 15, 2018; 952 shares
+on each of May 15, 2018, August 15, 2018, November 15, 2018, and February 15, 2019; 1,138 shares on May 15, 2019; 1,139 shares on each of August 15, 2019, November 15, 2019, and February 15, 2020; 2,791 shares
+on each of May 15, 2020, August 15, 2020, and November 15, 2020; 2,792 shares on February 15, 2021; 2,153 shares on each of May 15, 2021, August 15, 2021, and November 15, 2021; and 2,154 shares on
+February 15, 2022; and (d) a restricted stock unit award vesting as follows, assuming continued employment: 4,500 shares on each of May 15, 2019, August 15, 2019, November 15, 2019, and February 15, 2020; and 3,000
+shares on each of May 15, 2022, August 15, 2022, November 15, 2022, and February 15, 2023.
+(5)
+On February 10, 2016, the Board approved a leave of absence for Diego Piacentini, Senior Vice President, International Consumer Business, for two years beginning
+in August 2016. In connection with Mr. Piacentini’s leave of absence, the Board’s Leadership Development and Compensation Committee approved suspending forfeiture of Mr. Piacentini’s restricted stock unit awards under the
+1997 Plan for the duration of his leave of absence, with vesting dates to be extended for a period corresponding to the term of his leave of absence. Prior to that modification, the vesting terms of Mr. Piacentini’s restricted stock units
+that were scheduled to vest following the date his leave of absence commenced were as follows: (a) 2,792 shares on May 15, 2018; 2,793 shares on August 15, 2018 and quarterly thereafter through February 15, 2019; 2,152 shares on
+May 15, 2019 and quarterly thereafter through February 15, 2020; and (b) 5,477 shares on November 15, 2016 and February 15, 2017; 4,221 shares on May 15, 2017 and August 15, 2017; and 4,220 shares on November 15,
+2017 and February 15, 2018.
+(6)
+Reflects shares of our common stock subject to: (a) a restricted stock unit award vesting as follows, assuming continued employment: 3,512 shares on May 15,
+2018 and quarterly thereafter through November 15, 2018; 3,513 shares on February 15, 2019; 2,708 shares on May 15, 2019 and August 15, 2019; and 2,709 shares on November 15, 2019 and February 15, 2020; (b) a restricted
+stock unit award that vested as to 6,888 shares on February 15, 2017; and vesting as follows, assuming continued employment: 5,312 shares on May 15, 2017 and quarterly thereafter through February 15, 2018; (c) a restricted stock unit
+award vesting as follows, assuming continued employment: 596 shares on each of May 15, 2018, August 15, 2018, and November 15, 2018; 597 shares on February 15, 2019; 864 shares on each of May 15, 2019, August 15, 2019,
+November 15, 2019, and February 15, 2020; 2,791 shares on each of May 15, 2020, August 15, 2020, and November 15, 2020; 2,792 shares on February 15, 2021; 2,153 shares on each of May 15, 2021, August 15, 2021,
+and November 15, 2021; and 2,154 shares on February 15, 2022; and (d) a restricted stock unit award vesting as follows, assuming continued employment: 4,500 shares on each of May 15, 2019, August 15, 2019, November 15,
+2019, and February 15, 2020; and 3,000 shares on each of May 15, 2022, August 15, 2022, November 15, 2022, and February 15, 2023.
+34
+Stock Vested in 2016
+The following table sets forth information concerning stock awards that vested during the last fiscal year with respect to the named
+executive officers.
+Stock Awards
+Number of
+Shares Acquired
+on Vesting
+Value Realized
+on Vesting(1)
+Jeffrey P. Bezos
+—
+$
+—
+Brian T. Olsavsky
+10,629
+7,258,969
+Jeffrey M. Blackburn
+20,495
+13,745,670
+Andrew R. Jassy
+23,496
+15,758,902
+Diego Piacentini
+17,971
+11,655,635
+Jeffrey A. Wilke
+29,484
+19,775,635
+(1)
+Amount is the number of shares of stock acquired upon vesting multiplied by the closing market price of our common stock on the vesting date (or the preceding trading
+day if the vesting date was not a trading day).
+Potential Payments Upon Termination of Employment or
+Change-in-Control
+Termination and
+Change-in-Control
+Agreements or Arrangements
+. We do not have any contracts, agreements, or arrangements with any of our named executive officers
+providing for additional benefits or payments in connection with a termination of employment, change in job responsibility, or
+change-in-control.
+Upon termination of
+employment for any reason, all unvested restricted stock units expire.
+Change-in-Control
+Provisions of 1997 Plan
+. In the event of (i) the merger or consolidation in which we are not the surviving corporation pursuant to which shares of common
+stock are converted into cash, securities, or other property (other than a merger in which holders of common stock immediately before the merger have the same proportionate ownership of the capital stock of the surviving corporation immediately
+after the merger), (ii) the sale, lease, exchange, or other transfer of all or substantially all of our assets (other than a transfer to a majority-owned subsidiary), or (iii) the approval by the holders of common stock of any plan or
+proposal for our liquidation or dissolution (each a “Corporate Transaction”), the Leadership Development and Compensation Committee will determine whether provision will be made in connection with the Corporate Transaction for the
+assumption of stock-based awards under the 1997 Plan or the substitution of appropriate new awards covering the stock of the successor corporation or an affiliate of the successor corporation. If the Leadership Development and Compensation Committee
+determines that no such assumption or substitution will be made, vesting of outstanding awards under the 1997 Plan will automatically accelerate so that such awards become 100% vested immediately before the Corporate Transaction. On a hypothetical
+basis, assuming the Leadership Development and Compensation Committee had made such a determination in a Corporate Transaction that closed on December 31, 2016, the dollar value of the unvested stock-based awards held by named executive
+officers that would have vested based on the closing price of our common stock of $749.87 on December 30, 2016 is set forth in the “Outstanding Equity Awards at 2016 Fiscal
+Year-End”
+table.
+35
+SECURITIES AUTHORIZED FOR ISSUANCE UNDER EQUITY COMPENSATION PLANS
+The following table sets forth information concerning our equity compensation plans as of December 31, 2016:
+Plan Category
+Number of Securities
+to be Issued Upon
+Exercise of
+Outstanding
+Options,
+Warrants,
+and Rights
+Weighted-average
+Exercise Price
+of
+Outstanding
+Options,
+Warrants, and
+Rights
+Number of Securities
+Remaining Available
+for Future Issuance
+Under
+Equity
+Compensation Plans
+Equity compensation plans approved by shareholders
+19,770,488
+(1)
+$
+—
+104,297,334
+(2)
+Equity compensation plans not approved by shareholders
+—
+18,812,972
+Total
+19,770,488
+(3)
+123,110,306
+(1)
+Includes 19,770,488 shares issuable pursuant to restricted stock unit awards, which awards may be granted only under our shareholder-approved 1997 Plan. There is no
+exercise price associated with a restricted stock unit award.
+(2)
+The 1997 Plan authorizes the issuance of options and restricted stock unit awards.
+(3)
+Excludes 131,004 shares of common stock issuable upon exercise of stock options having a weighted-average exercise price of $23.69 and 3,312 shares of common stock
+issuable upon vesting of restricted stock units under equity plans assumed by Amazon as a result of acquisitions.
+Equity Compensation Plans Not Approved By Security Holders
+. The Board adopted the 1999 Nonofficer Employee
+Stock Option Plan (the “1999 Plan”) to enable the grant of nonqualified stock options to employees, consultants, agents, advisors, and independent contractors of Amazon and its subsidiaries who are not officers or directors of Amazon.
+Restricted stock units, our primary form of stock-based compensation since 2002, are not granted from the 1999 Plan. The 1999 Plan, which does not have a fixed expiration date, has not been approved by our shareholders. The Leadership Development
+and Compensation Committee is the administrator of the 1999 Plan, and as such determines all matters relating to options granted under the 1999 Plan, including the selection of the recipients, the size of the grants, and the conditions to
+vesting and exercisability. The Leadership Development and Compensation Committee has delegated authority to make grants under the 1999 Plan to another committee of the Board and to certain officers, subject to specified limitations on the size and
+terms of such grants. A maximum of 40 million shares of common stock were reserved for issuance under the 1999 Plan.
+CERTAIN RELATIONSHIPS AND RELATED PERSON TRANSACTIONS
+Justin Burks, an employee of Amazon, is the
+son-in-law
+of Thomas O. Ryder, a director. In 2016, Mr. Burks earned
+$159,650 in salary. He was also granted a restricted stock unit award with respect to 194 shares, vesting over 2.2 years. His compensation is consistent with the total compensation provided to other employees of the same level with similar
+responsibilities.
+Jeff Bezos, our President, CEO, and Chairman, owns entities that publish The Washington Post, with which we
+do business in the ordinary course. In 2016, Amazon purchased approximately $1.1 million of advertising from and paid approximately $2.9 million related to digital content to such entities, and such entities were obligated to pay
+Amazon approximately $174,000 for subscriber services
+in 2016, all on terms negotiated on an arms-length basis.
+On
+March 14, 2017, William B. Gordon resigned as a director of the Company in order to provide consulting services to us for two years, which includes being available as a
+non-voting
+Board observer. Under
+the consulting agreement, Mr. Gordon was granted a restricted stock unit award for 3,100 shares, vesting over two years.
+36
+The Audit Committee reviews and, as appropriate, approves and ratifies “related
+person” transactions, defined as any transaction, arrangement, or relationship (including any indebtedness or guarantee of indebtedness), or any series of similar transactions, arrangements, or relationships, in which (a) the aggregate
+amount involved will or may be expected to exceed $120,000, (b) Amazon is a participant, and (c) any Related Person has or will have a direct or indirect material interest (other than solely as a result of being a director or trustee (or
+any similar position) or a less than 10 percent beneficial owner of another entity). A “Related Person” is any (a) person who is an executive officer, director, or nominee for election as a director of Amazon, (b) greater
+than 5 percent beneficial owner of our outstanding common stock, or (c) Immediate Family Member of any of the foregoing. An “Immediate Family Member” is any child, stepchild, parent, stepparent, spouse, sibling,
+mother-in-law,
+father-in-law,
+son-in-law,
+daughter-in-law,
+brother-in-law,
+or
+sister-in-law,
+and any person (other than a tenant or employee) sharing the household of a person. We do not
+have written policies or procedures for related person transactions but rely on the Audit Committee’s exercise of business judgment, consistent with Delaware law, in reviewing such transactions.
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+To our knowledge, based solely on a review of the copies of such reports furnished to us and written representations that no other reports were required, we believe that during the year ended
+December 31, 2016, our officers, directors, and
+greater-than-10%
+shareholders timely filed all reports required by Section 16(a) of the Securities Exchange Act of 1934.
+EXPENSES OF SOLICITATION
+The accompanying proxy is solicited by and on behalf of the Board of Directors, and the cost of such solicitation will be borne by Amazon. Georgeson Inc. will distribute proxy materials to banks, brokers,
+and other nominees for forwarding to beneficial owners, may solicit proxies by personal interview, mail, telephone, and electronic communications, and will request brokerage houses and other custodians, nominees, and fiduciaries to forward
+soliciting materials to the beneficial owners of the common stock held on the record date by such persons. We will pay Georgeson Inc. $13,500 plus variable amounts for additional proxy solicitation services. We will also reimburse Georgeson Inc. for
+payments made to brokers and other nominees for their expenses in forwarding solicitation materials. Solicitations also may be made by personal interview, mail, telephone, and electronic communications by directors, officers, and other Amazon
+employees without additional compensation.
+OTHER MATTERS
+As of the date of this Proxy Statement there are no other matters that we intend to present, or have reason to believe others will
+present, at the Annual Meeting. If, however, other matters properly come before the Annual Meeting, the accompanying proxy authorizes the persons named as proxies or their substitutes to vote on such matters as they determine appropriate.
+PROPOSALS OF SHAREHOLDERS
+To be considered for inclusion in the proxy statement and proxy card for the 2018 Annual Meeting, proposals of shareholders pursuant to Rule
+14a-8
+under the
+Securities Exchange Act of 1934 and shareholder director nominations pursuant to the proxy access provisions of the Bylaws must be submitted in writing to the Corporate Secretary of Amazon.com, Inc., at Amazon.com, Inc., 410 Terry Avenue North,
+Seattle, Washington 98109, and must be received no later than 6:00 p.m., Pacific Time, on Wednesday December 13, 2017 and, in the case of a proxy access nomination, no earlier than November 13, 2017. The submission of a shareholder
+proposal or proxy access nomination does not guarantee that it will be included in our proxy statement.
+37
+Our Bylaws include separate advance notice provisions applicable to
+shareholders desiring to bring nominations for directors before an annual shareholders meeting other than pursuant to the Bylaws’ proxy access provisions or to bring proposals before an annual shareholders meeting other than pursuant to Rule
+14a-8.
+These advance notice provisions require that, among other things, shareholders give timely written notice to the Secretary of Amazon.com, Inc. regarding such nominations or proposals and provide the
+information and satisfy the other requirements set forth in the Bylaws. To be timely, a shareholder who intends to present nominations or a proposal at the 2018 Annual Meeting of Shareholders other than pursuant to the Bylaws’ proxy access
+provisions or Rule
+14a-8
+must provide the information set forth in the Bylaws to the Secretary of Amazon.com, Inc. no earlier than January 23, 2018 and no later than February 22, 2018. However, if we
+hold the 2018 Annual Meeting of Shareholders more than 30 days before, or more than 60 days after, the anniversary of the 2017 Annual Meeting date, then the information must be received no earlier than the 120
+th
+day prior to the 2018 Annual Meeting date, and not later than
+(i) the 90
+th
+day prior to the 2018 Annual Meeting
+date or (ii) the tenth day after public disclosure of the 2018 Annual Meeting date, whichever is later. If a shareholder fails to meet these deadlines and fails to satisfy the requirements of Rule
+14a-4
+under the Securities Exchange Act of 1934, we may exercise discretionary voting authority under proxies we solicit to vote on any such proposal as we determine appropriate.
+We reserve the right to reject, rule out of order, or take other appropriate action with respect to any nomination or proposal that does
+not comply with these and other applicable requirements.
+HOUSEHOLDING; AVAILABILITY OF ANNUAL REPORT ON FORM
+10-K
+AND PROXY STATEMENT
+A copy of our combined Annual Report to Shareholders and Annual Report on Form
+10-K
+for the year
+ended December 31, 2016 (the “2016 Annual Report”) accompanies this Proxy Statement. If you and others who share your mailing address own common stock in street name, meaning through a bank, brokerage firm, or other nominee, you may
+have received a notice that your household will receive only one annual report and proxy statement, or Notice of Internet Availability of Proxy Materials, as applicable, from each company whose stock is held in such accounts. This practice, known as
+“householding,” is designed to reduce the volume of duplicate information and reduce printing and postage costs. Unless you responded that you did not want to participate in householding, you were deemed to have consented to it, and a
+single copy of this Proxy Statement and the 2016 Annual Report (and/or a single copy of our Notice of Internet Availability of Proxy Materials) has been sent to your address. Each street name shareholder receiving this Proxy Statement by mail will
+continue to receive a separate voting instruction form.
+If you would like to revoke your consent to householding and in the
+future receive your own set of proxy materials (or your own Notice of Internet Availability of Proxy Materials, as applicable), or if your household is currently receiving multiple copies of the same items and you would like in the future to receive
+only a single copy at your address, please contact Householding Department by mail at 51 Mercedes Way, Edgewood, New York 11717, or by calling
+1-800-542-1061,
+and indicate your name, the name of each of your brokerage firms or banks where your shares are held, and your
+account numbers. The revocation of a consent to householding will be effective 30 days following its receipt. You will also have an opportunity to opt in or opt out of householding by contacting your bank or broker.
+38
+If you would like an additional copy of the 2016 Annual Report, this Proxy Statement, or
+the Notice of Internet Availability of Proxy Materials, these documents are available in digital form for download or review by visiting “Annual Reports, Proxies and Shareholder Letters” at
+www.amazon.com/ir
+.
+Alternatively, we will promptly send a copy of these documents to you without charge upon request by mail to Investor Relations, Amazon.com, Inc., P.O. Box 81226, Seattle, Washington 98108-1226, or by calling
+1-800-426-6825. Please
+note, however, that if you did not receive a printed copy of our proxy materials and you wish to receive a paper proxy card or voting
+instruction form or other proxy materials for the purposes of the Annual Meeting, you should follow the instructions included in your Notice of Internet Availability of Proxy Materials.
+If you own shares in street name, you can also register to receive all future shareholder communications electronically, instead of in
+print. This means that links to the annual report, proxy statement, and other correspondence will be delivered to you via
+e-mail.
+Holders in street name can register for electronic delivery at
+http://www.icsdelivery.com/amzn
+. Electronic delivery of shareholder communications helps save Amazon money by reducing printing and postage costs.
+39
+APPENDIX A
+SUMMARY OF THE 1997 STOCK INCENTIVE PLAN
+Material Terms of 1997 Plan Performance Goals
+for Purposes of 162(m)
+Eligibility and Participation
+Awards may be granted under the 1997 Plan to those officers, directors, and employees of the Company and its subsidiaries as the plan administrator from time to time selects. The plan administrator for
+the 1997 Plan is the Leadership Development and Compensation Committee. Awards may also be granted to consultants, agents, advisors, and independent contractors who provide services to the Company and its subsidiaries. As of March 31, 2017, the
+approximate number of persons eligible to participate under the 1997 Plan was 298,977, including approximately 4,627 employees of the Company’s French subsidiaries who could qualify for French
+tax-qualified
+awards under the 1997 Plan if all of the requirements of the Finance Law (as described in more detail below) for granting such awards are satisfied.
+Performance Goals
+Under
+the 1997 Plan, for awards made in the form of or denominated in common stock, the business criteria on which performance goals can be based are: (i) profits or loss, revenue or profit growth or loss reduction, profit or loss related return
+ratios, or other balance sheet or income statement targets or ratios; (ii) market share, including targets, ratios, or other objective measures of sessions, units, orders, customers, sales, and other comparable metrics related to the various
+businesses conducted by the Company; or (iii) cash flow, share price appreciation, dilution, or total stockholder return, as the plan administrator shall determine, in its sole discretion. Such performance goals may be stated in absolute terms
+or relative to comparison companies.
+Maximum 162(m) Grants
+The plan administrator has the authority in its sole discretion to determine the type or types of awards made under the 1997 Plan. Such awards may include, but are not limited to, stock options and awards
+made or denominated in shares of common stock. Awards may be granted singly or in combination. Not more than 4,500,000 shares of common stock may be made subject to awards under the 1997 Plan to any individual in the aggregate in any one fiscal year
+of the Company, except that the Company may make additional
+one-time
+grants of up to 18,000,000 shares to newly hired or newly promoted individuals. The foregoing share limitations will be proportionately
+adjusted by the plan administrator in the event that a stock dividend, stock split,
+spin-off,
+combination or exchange of shares, recapitalization, merger, consolidation, distribution to shareholders other than
+a normal cash dividend, or other change in the Company’s corporate or capital structure results in the Company’s outstanding shares (or any securities exchanged therefor or received in their place) being exchanged for a different number or
+class of securities of the Company or of any other corporation or new, different, or additional securities of the Company or of any other corporation being received by the holders of shares of the Company’s common stock.
+Description of Other Significant Terms of the 1997 Plan
+The 1997 Plan provides a means whereby employees, directors, officers, consultants, agents, advisors and independent contractors of the Company and its subsidiaries may be granted stock awards, incentive
+stock options (“ISOs”) or nonqualified stock options (“NSOs”) to acquire shares of common stock.
+The plan
+administrator is authorized to make awards of common stock on such terms and conditions and subject to such restrictions, if any (whether based on performance standards, periods of service or otherwise) as the plan administrator may determine.
+Restrictions may include repurchase or forfeiture rights in favor of the Company.
+A-1
+The number of shares available for issuance under the 1997 Plan was initially 80,000,000
+shares, subject to an annual increase on the first day of each fiscal year through January 1, 2010. As of March 31, 2017, 88,622,067 shares remained available for grant under the 1997 Plan. As of that date, approximately
+19,506,562 shares were subject to outstanding grants under the 1997 Plan, all of which represent outstanding restricted stock units. No stock options were outstanding under the 1997 Plan as of March 31, 2017. Information regarding the
+number of awards held by each of our directors and named executive officers that were granted under the 1997 Plan is set forth on pages 11 and 33 of this Proxy Statement, and as of March 31, 2017, all directors and executives as a group
+hold restricted stock units covering 356,383 shares. On March 31, 2017, the average of the high and low sale prices of the common stock was $883.50 per share, as reported by the Nasdaq Global Select Market.
+The maximum number of shares that may be issued pursuant to options that are intended to qualify as ISOs is 251,025,075 shares. The share
+limitations described in this and the preceding paragraph will be proportionately adjusted by the plan administrator in the event that a stock dividend, stock split,
+spin-off,
+combination or exchange of
+shares, recapitalization, merger, consolidation, distribution to shareholders other than a normal cash dividend, or other change in the Company’s corporate or capital structure results in the Company’s outstanding shares (or any securities
+exchanged therefore or received in their place) being exchanged for a different number or class of securities of the Company or of any other corporation or new, different or additional securities of the Company or of any other corporation being
+received by the holders of shares of common stock of the Company.
+Subject to the terms of the 1997 Plan, the plan
+administrator is authorized to make awards of restricted stock units, restricted stock and other awards of common stock or denominated in units of common stock, in each case on such terms and conditions and subject to such restrictions, if any as
+the plan administrator shall determine. The terms of such awards may be based on continuous service with the Company or the achievement of performance goals specified by the plan administrator. The plan administrator may in its discretion waive the
+forfeiture period and any other terms, conditions or restrictions on any such award, except that the plan administrator may not adjust performance goals for any such award intended to be exempt under Section 162(m) of the Internal Revenue Code
+in such a manner as would increase the amount otherwise payable to a participant.
+Subject to the terms of the 1997 Plan, the
+plan administrator determines the terms and conditions of stock options granted under the plan, including the exercise price of options granted under the plan. The 1997 Plan provides that the plan administrator must establish an exercise price for
+ISOs that is not less than the fair market value per share at the date of grant. Each ISO must expire within ten years of the date of grant. However, if ISOs are granted to persons owning more than 10% of the voting stock of the Company, the 1997
+Plan and the tax laws pertaining to ISOs provide that the exercise price may not be less than 110% of the fair market value per share at the date of grant. Unless approved by shareholders, the plan administrator cannot decrease the exercise price of
+outstanding options and cannot allow the exchange of underwater options for the grant of a new option with a lower exercise price, the grant of another award, or cash.
+The option exercise price may be paid in cash or by check, by tendering shares of common stock that the optionee has owned for at least six months, by a broker-assisted cashless exercise, by any
+combination of the foregoing, or with such other consideration as the plan administrator may permit. Unless otherwise established by the plan administrator, the term of each option is ten years from the date of grant, except that if ISOs are granted
+to persons owning more than 10% of the Company’s voting stock, the term may not exceed five years. Unless otherwise provided by the plan administrator, options granted under the 1997 Plan vest over five years, at a rate of 20% per year for
+two years, then an additional 5% for each three months of employment completed thereafter.
+The 1997 Plan provides that the
+plan administrator may adopt
+sub-plans
+as it determines necessary or desirable to ensure that awards benefit participants employed in foreign countries and to meet the objectives of the 1997 Plan, which
+includes a
+sub-plan
+under which RSUs, including performance-based RSUs, may be granted that are intended to satisfy the requirements of the Finance Law for employees of our subsidiaries in
+A-2
+France. Consistent with the requirements of the Finance Law, the aggregate number of shares of common stock underlying French-Qualified RSUs may not exceed 10% of the Company’s share
+capital.
+No stock award or option may be transferred by the optionee other than by will or the laws of descent or
+distribution, except for certain transfers that may be permitted by the plan administrator. Unless otherwise established by the plan administrator, an optionee whose relationship with the Company or any related corporation ceases for any reason
+(other than termination for cause, retirement, death or disability, as such terms are defined in the 1997 Plan) may exercise options, to the extent vested on the date of termination, in the three-month period following such cessation (unless such
+options terminate or expire sooner by their terms). In the event the optionee is terminated for cause, the options terminate upon the first notification to the optionee of such termination. In the event the optionee retires, dies or becomes
+permanently and totally disabled, options vested as of the date of retirement, death or disability may be exercised prior to the earlier of the option’s specified expiration date and one year from the date of the optionee’s retirement,
+death or disability.
+In the event of a Corporate Transaction (as defined in the 1997 Plan), the plan administrator will
+determine whether provisions will be made in connection with the Corporate Transaction for the assumption of the options under the 1997 Plan or substitution of appropriate new options covering the stock of the successor corporation or an affiliate
+of the successor corporation. If the plan administrator determines that no such assumption or substitution will be made, each outstanding option under the 1997 Plan will automatically accelerate so that it will become 100% vested and exercisable
+immediately before the Corporate Transaction.
+The 1997 Plan does not have a fixed expiration date. No ISOs may be granted
+under the 1997 Plan, however, more than ten years after the later of (i) the plan’s adoption by the Board and (ii) the adoption by the Board of any amendment to the plan that constitutes the adoption of a new plan for purposes of
+Section 422 of the Internal Revenue Code.
+Because benefits under the 1997 Plan depend on the plan administrator’s
+actions and the fair market value of shares of common stock at various future dates, it is not possible to determine the benefits that will be received by officers and other employees, including French employees, under the 1997 Plan.
+Income Tax Consequences
+The material U.S. federal income tax consequences to the Company and to any person granted a stock award or an option under the 1997 Plan
+who is subject to taxation in the United States under existing applicable provisions of the Internal Revenue Code and underlying Treasury Regulations are substantially as follows. The following summary does not address state, local or foreign tax
+consequences and it is based on present law and regulations as in effect as of the date hereof.
+NSOs
+. No income will be recognized by an optionee upon the grant of an NSO. Upon the exercise of an
+NSO, the optionee will recognize taxable ordinary income in an amount equal to the excess of the fair market value at the time of exercise of the shares acquired over the exercise price. Upon a later sale of those shares, the optionee will have
+capital gain or loss equal to the difference between the amount realized on such sale and the tax basis of the shares sold. Furthermore, this capital gain or loss will be long-term capital gain or loss if the shares are held for more than one year
+before they are sold. If payment of the option price is made entirely in cash, the tax basis of the shares will be equal to their fair market value on the exercise date (but not less than the exercise price), and the shares’ holding period will
+begin on the day after the exercise date.
+If the optionee uses already-owned shares to pay the exercise price of an NSO in
+whole or in part, the transaction will not be considered to be a taxable disposition of the already-owned shares. The optionee’s tax basis and holding period of the already-owned shares will be carried over to the equivalent number of shares
+received upon exercise. The tax basis of the additional shares received upon exercise will be the fair market value of the shares on the exercise date (but not less than the amount of cash, if any, used in payment), and the holding period for such
+additional shares will begin on the day after the exercise date.
+A-3
+ISOs
+. No income will be recognized by an optionee upon
+the grant of an ISO. The rules for the tax treatment of an NSO also apply to an ISO that is exercised more than three months after the optionee’s termination of employment (or more than 12 months thereafter in the case of permanent and total
+disability, as defined in the 1997 Plan).
+Upon the exercise of an ISO during employment or within three months after the
+optionee’s termination of employment (12 months in the case of permanent and total disability), for regular tax purposes the optionee will recognize no ordinary income at the time of exercise (although the optionee will have income for
+alternative minimum income tax purposes at that time equal to the excess of the fair market value of the shares over the exercise price). If the acquired shares are sold or exchanged after the later of (i) one year from the date of exercise of
+the option and (ii) two years from the date of grant of the option, the difference between the amount realized by the optionee on that sale or exchange and the option exercise price will be taxed to the optionee as long-term capital gain or
+loss. If the shares are disposed of in an arms’ length sale before such holding period requirements are satisfied, then the optionee will recognize taxable ordinary income in the year of disposition in an amount equal to the excess of the fair
+market value of the shares received on the exercise date over the exercise price (or, if less, the excess of the amount realized on the sale of the shares over the exercise price), and the optionee will have short-term or long-term capital gain or
+loss, as the case may be, in an amount equal to the difference between (i) the amount realized by the optionee upon the disposition of the shares and (ii) the exercise price paid by the optionee increased by the amount of ordinary income,
+if any, so recognized by the optionee.
+Company Deduction
+. In all the foregoing cases,
+the Company will be entitled to a deduction at the same time and in the same amount as the participant recognizes ordinary income, subject to certain limitations. Among these limitations is Section 162(m) of the Internal Revenue Code. As
+discussed above, certain performance-based compensation is not subject to the Section 162(m) limitation on deductibility. Stock options and restricted stock and performance share awards can qualify for this performance-based exception if they
+meet the requirements set forth in Section 162(m) and Treasury Regulations promulgated thereunder. The 1997 Plan has been drafted to allow, but not require, compliance with those performance-based criteria.
+Finance Law
+. If shareholders approve the 1997 Plan and the grant of RSUs otherwise qualify under the
+Finance Law, grants of qualifying RSUs to French-resident employees subject to the French social regime will be subject to (i) 15.5% social taxes on the value of the RSUs at the time of vesting to the extent such value is below EUR 300,000 and (ii)
+18% social taxes on the value of the RSUs at the time of vesting to the extent such value exceeds EUR 300,000, such taxes being imposed at the time of sale of the shares underlying the RSUs. The vesting gain continues to be subject to progressive
+income tax rates that employees pay upon ultimate sale of shares received under such RSUs but under the Finance Law can be reduced by 50% or more if the shares are held for a specified number of years for the portion of the RSUs having a value at
+the time of vesting below EUR 300,000. In addition, under the Finance Law, the employing company will be subject to a 30% social tax upon vesting of qualifying RSUs, in contrast to the current 30% social tax that is imposed upon grant of RSUs and is
+not refunded if RSUs are subsequently forfeited before vesting. The tax consequences of qualifying RSUs to French-resident employees may vary with respect to individual situations; income tax laws, regulations and interpretations thereof change
+frequently. Participants should rely upon their own tax advisors for advice concerning the specific tax consequences applicable to them, including the applicability and effect of state, local, and foreign tax laws.
+A-4
+amazon.com
+IMPORTANT ANNUAL MEETING INFORMATION Using a black ink pen, mark your
+votes with an X as shown in this example. Please do not write outside the designated areas. X Electronic Voting Instructions Available 24 hours a day, 7 days a week! Instead of mailing your proxy, you may choose one of the voting methods outlined
+below to vote your proxy. VALIDATION DETAILS ARE LOCATED BELOW IN THE TITLE BAR. Proxies submitted by the Internet or telephone must be received by 11:59 P.M. Eastern Time on May 22, 2017. Vote by Internet Go to www.envisionreports.com/amzn •
+Or scan the QR code with your smartphone • Follow the steps outlined on the secure website Vote by telephone • Call toll free 1-800-652-VOTE (8683) within the USA, US territories & Canada on a touch tone telephone • Follow the
+instructions provided by the recorded message Annual Meeting Proxy Card IF YOU HAVE NOT VOTED VIA THE INTERNET OR TELEPHONE, FOLD ALONG THE PERFORATION, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE. A Proposals — The Board of
+Directors recommends a vote FOR all the nominees listed in Proposal 1, FOR Proposals 2 and 3, for every 3 YEARS for Proposal 4, FOR Proposal 5, and AGAINST Proposals 6, 7, and 8. 1. ELECTION OF DIRECTORS: For Against Abstain 1a - Jeffrey P. Bezos 1d
+- Jamie S. Gorelick 1g - Jonathan J. Rubinstein 1j - Wendell P. Weeks 1b - Tom A. Alberg 1e - Daniel P. Huttenlocher 1h - Thomas O. Ryder For Against Abstain 1c - John Seely Brown 1f - Judith A. McGrath 1i - Patricia Q. Stonesifer For Against
+Abstain 2. RATIFICATION OF THE APPOINTMENT OF ERNST & YOUNG LLP AS INDEPENDENT AUDITORS 3. ADVISORY VOTE TO APPROVE EXECUTIVE COMPENSATION 4. ADVISORY VOTE ON THE FREQUENCY OF FUTURE ADVISORY VOTES ON EXECUTIVE COMPENSATION 5. APPROVAL OF THE
+COMPANY’S 1997 STOCK INCENTIVE PLAN, AS AMENDED AND RESTATED For Against Abstain For Against Abstain 3 Years 2 Years 1 Year Abstain For Against Abstain 6. SHAREHOLDER PROPOSAL REGARDING A REPORT ON USE OF CRIMINAL BACKGROUND CHECKS IN HIRING
+DECISIONS 7. SHAREHOLDER PROPOSAL REGARDING SUSTAINABILITY AS AN EXECUTIVE COMPENSATION PERFORMANCE MEASURE 8. SHAREHOLDER PROPOSAL REGARDING VOTE-COUNTING PRACTICES FOR SHAREHOLDER PROPOSALS For Against Abstain For Against Abstain For Against
+Abstain IF VOTING BY MAIL, PLEASE COMPLETE SECTIONS A - C ON BOTH SIDES OF THIS CARD. 1UPX 02IQ0H
+You can view the Annual Report and Proxy Statement on the Internet at
+http://www.envisionreports.com/amzn
+IF YOU HAVE NOT VOTED VIA THE INTERNET OR TELEPHONE, FOLD ALONG THE
+PERFORATION, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE.
+amazon.com
+Proxy — AMAZON.COM, INC.
+Annual Meeting of Shareholders — May 23, 2017
+THIS PROXY IS SOLICITED BY THE BOARD OF DIRECTORS OF THE COMPANY
+The undersigned shareholder of Amazon.com, Inc., a Delaware corporation (the “Company”), hereby appoints Jeffrey
+P. Bezos, Brian T. Olsavsky, and David A. Zapolsky, or any one of them, with full power of substitution in each, as proxies to cast all votes that the undersigned is entitled to cast at the Annual Meeting of Shareholders (the “Annual
+Meeting”) of the Company to be held at 9:00 a.m., Pacific Time, on May 23, 2017 at Fremont Studios, 155 N. 35th Street, Seattle, Washington 98103, or any adjournment or postponement thereof, with authority to vote upon the matters set forth on
+the reverse side of this Proxy Card and in their discretion upon such other matters as may be properly presented at the meeting.
+THIS PROXY, WHEN PROPERLY EXECUTED, WILL BE VOTED IN THE MANNER DIRECTED HEREIN BY THE UNDERSIGNED SHAREHOLDER AND IN ACCORDANCE WITH THE DIRECTION OF THE PROXIES AS TO ANY OTHER MATTERS
+THAT ARE PROPERLY PRESENTED. IF DIRECTION IS NOT GIVEN, THIS PROXY WILL BE VOTED AS THE BOARD OF DIRECTORS RECOMMENDS.
+(Continued and to be marked on the other side)
+B
+Authorized Signatures — This section must be completed for your vote to be counted. — Date and Sign Below
+NOTE: Please sign as name appears hereon. Joint owners should each sign. When signing as attorney, executor, administrator, trustee or guardian, please give full title as such.
+Date (mm/dd/yyyy) — Please print date below.
+Signature 1 — Please keep signature within the box.
+Signature 2 — Please keep signature within the box.
+C
+Non-Voting
+Items
+Change of Address — Please print your new address below.
+Comments — Please print your comments below.
+Meeting Attendance
+Mark the box to the right if you plan to attend the Annual Meeting. Proof of ownership and photo ID required for attendance.
+IF VOTING BY MAIL, PLEASE COMPLETE SECTIONS A - C ON BOTH SIDES OF THIS CARD.
+amazon.com
+IMPORTANT ANNUAL MEETING INFORMATION Using a black ink pen, mark your votes with an X as shown in this example. Please do not write outside the designated areas. X Electronic Voting
+Instructions Available 24 hours a day, 7 days a week! Instead of mailing your proxy, you may choose one of the voting methods outlined below to vote your proxy. VALIDATION DETAILS ARE LOCATED BELOW IN THE TITLE BAR. Proxies submitted by the Internet
+or telephone must be received by 11:59 P.M. Eastern Time on May 18, 2017. Vote by Internet • Go to www.envisionreports.com/amzn • Or scan the QR code with your smartphone • Follow the steps outlined on the secure website Vote by
+telephone • Call toll free
+1-800-652-VOTE
+(8683) within the USA, US territories & Canada on a touch tone
+telephone • Follow the instructions provided by the recorded message Annual Meeting Proxy Card IF YOU HAVE NOT VOTED VIA THE INTERNET OR TELEPHONE, FOLD ALONG THE PERFORATION, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE. A
+Proposals — The Board of Directors recommends a vote FOR all the nominees listed in Proposal 1, FOR Proposals 2 and 3, for every 3 YEARS for Proposal 4, FOR Proposal 5, and AGAINST Proposals 6, 7, and 8. 1. ELECTION OF DIRECTORS: 1a - Jeffrey
+P. Bezos 1d - Jamie S. Gorelick 1g - Jonathan J. Rubinstein 1j - Wendell P. Weeks For Against Abstain 1b - Tom A. Alberg 1e - Daniel P. Huttenlocher 1h - Thomas O. Ryder For Against Abstain 1c - John Seely Brown 1f - Judith A. McGrath 1i - Patricia
+Q. Stonesifer For Against Abstain 2. RATIFICATION OF THE APPOINTMENT OF ERNST & YOUNG LLP AS INDEPENDENT AUDITORS 3. ADVISORY VOTE TO APPROVE EXECUTIVE COMPENSATION 4. ADVISORY VOTE ON THE FREQUENCY OF FUTURE ADVISORY VOTES ON EXECUTIVE
+COMPENSATION 5. APPROVAL OF THE COMPANY’S 1997 STOCK INCENTIVE PLAN, AS AMENDED AND RESTATED For Against Abstain For Against Abstain 3 Years 2 Years 1 Year Abstain For Against Abstain 6. SHAREHOLDER PROPOSAL REGARDING A REPORT ON USE OF
+CRIMINAL BACKGROUND CHECKS IN HIRING DECISIONS 7. SHAREHOLDER PROPOSAL REGARDING SUSTAINABILITY AS AN EXECUTIVE COMPENSATION PERFORMANCE MEASURE 8. SHAREHOLDER PROPOSAL REGARDING VOTE-COUNTING PRACTICES FOR SHAREHOLDER PROPOSALS For Against Abstain
+For Against Abstain For Against Abstain IF VOTING BY MAIL, PLEASE COMPLETE SECTIONS A - C ON BOTH SIDES OF THIS CARD. 1UPX 02IQ6H
+Important Notice Regarding the Availability of Proxy Materials for the Amazon.com, Inc.
+Shareholder Meeting to be Held on May 23, 2017
+You can view the Annual Report and Proxy Statement on the
+Internet at http://www.envisionreports.com/amzn
+IF YOU HAVE NOT VOTED VIA THE INTERNET OR TELEPHONE, FOLD
+ALONG THE PERFORATION, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE.
+amazon.com
+Proxy — AMAZON.COM, INC.
+Annual Meeting of Shareholders — May 23, 2017
+THIS PROXY IS SOLICITED BY THE BOARD OF DIRECTORS OF THE COMPANY
+The undersigned participant in the Amazon.com Company Stock Fund of the Amazon.com 401(k) Plan hereby directs Vanguard Fiduciary Trust Company, the trustee of the Amazon.com 401(k) Plan,
+to vote his or her Amazon.com Company Stock Fund shares as indicated on the reverse side of this Proxy Card, or if not so indicated, in accordance with the Amazon.com 401(k) Plan document (generally, in the same proportion as the shares for which
+the trustee received timely voting instructions).
+(Continued and to be marked on the other side)
+B Authorized Signatures — This section must be completed for your vote to be counted. — Date and Sign Below
+NOTE: Please sign as name appears hereon. Joint owners should each sign. When signing as attorney, executor,
+administrator, trustee or guardian, please give full title as such.
+Date (mm/dd/yyyy) — Please print date
+below.
+Signature 1 — Please keep signature within the box.
+Signature 2 — Please keep signature within the box.
+C
+Non-Voting
+Items
+Change of Address — Please print your new address below.
+Comments — Please print your comments below.
+Meeting Attendance
+Mark the box to the right if
+you plan to attend the Annual Meeting. Proof of ownership and photo ID required for attendance.
+IF VOTING BY
+MAIL, PLEASE COMPLETE SECTIONS A - C ON BOTH SIDES OF THIS CARD.
+April 12, 2017
+Re:
+Important Notice Regarding the Availability of Proxy Materials for the
+Amazon.com, Inc. Shareholder Meeting to be Held on May 23, 2017
+Dear 401(k) Plan Participant:
+Enclosed are the 2016 Annual Report for
+Amazon.com, Inc. (the “Company”) and a Proxy Statement and proxy card for the Company’s 2017 Annual Meeting of Shareholders. You can view the Annual Report and Proxy Statement on the Internet at http://www.envisionreports.com/amzn.
+The Amazon.com 401(k) Plan allows each plan participant to direct the voting of the shares of common stock of the Company
+that are allocated to the participant’s 401(k) plan account. By following the instructions for Internet, mobile device, or telephone voting on the enclosed proxy card, or by marking, signing, and mailing the proxy card in the envelope provided,
+you may instruct Vanguard Fiduciary Trust Company, the trustee of the Amazon.com 401(k) Plan, how to vote the shares of the common stock of the Company allocated to your 401(k) plan account on the matters presented at the Company’s 2017 Annual
+Meeting. The trustee will vote as you have directed. All shares for which voting instructions are not timely received will be voted by the trustee on each matter in the same proportion as the shares for which the trustee received timely voting
+instructions, except in the case where to do so would be inconsistent with applicable law. Your vote will be kept confidential except to the extent necessary to comply with applicable law.
+Votes will be tabulated by the Company’s transfer agent, Computershare. To be timely, your voting instructions must be received by
+Computershare no later than 11:59 PM Eastern Time on May 18, 2017.
+VOTING VIA THE INTERNET, MOBILE DEVICE, OR BY
+TELEPHONE IS FAST AND CONVENIENT, AND YOUR VOTE IS IMMEDIATELY CONFIRMED AND TABULATED. USING THE INTERNET, MOBILE DEVICE, OR TELEPHONE HELPS SAVE YOUR COMPANY MONEY BY REDUCING POSTAGE AND PROXY TABULATION COSTS.

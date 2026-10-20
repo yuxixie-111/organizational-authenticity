@@ -1,0 +1,14 @@
+{
+  "ticker": "COP",
+  "company_name": "ConocoPhillips",
+  "sector": "Energy",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1163165/000130817923000477/cop4128181-def14a.htm",
+  "accession": "0001308179-23-000477",
+  "filing_date": "2023-04-03",
+  "cik_used": 1163165,
+  "primary_document": "cop4128181-def14a.htm",
+  "word_count": 108871
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "MS",
+  "company_name": "Morgan Stanley",
+  "sector": "Financials",
+  "year": 2017,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/895421/000120677417001114/ms3206591-def14a.htm",
+  "accession": "0001206774-17-001114",
+  "filing_date": "2017-04-07",
+  "cik_used": 895421,
+  "primary_document": "ms3206591-def14a.htm",
+  "word_count": 69450
+}

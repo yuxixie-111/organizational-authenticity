@@ -1,0 +1,14 @@
+{
+  "ticker": "BAC",
+  "company_name": "Bank of America",
+  "sector": "Financials",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/70858/000119312520066901/d839807ddef14a.htm",
+  "accession": "0001193125-20-066901",
+  "filing_date": "2020-03-09",
+  "cik_used": 70858,
+  "primary_document": "d839807ddef14a.htm",
+  "word_count": 60874
+}

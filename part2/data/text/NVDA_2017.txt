@@ -1,0 +1,3398 @@
+DEF 14A
+1
+nvda2017proxystatement.htm
+NVIDIA 2017 PROXY STATEMENT
+Document
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A
+(Rule 14a-101)
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a)
+of the Securities Exchange Act of 1934
+(Amendment No. )
+Filed by the Registrant
+ý
+Filed by a Party other than the Registrant
+¨
+Check the appropriate box:
+¨
+Preliminary Proxy Statement
+¨
+Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+ý
+Definitive Proxy Statement
+¨
+Definitive Additional Materials
+¨
+Soliciting Material Pursuant to §240.14a-12
+NVIDIA C
+ORPORATION
+(Name of Registrant as Specified In Its Charter)
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+ý
+No fee required.
+¨
+Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
+(1)
+Aggregate number of securities to which transaction applies:
+(2)
+Aggregate number of securities to which transaction applies:
+(3)
+Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):
+(4)
+Proposed maximum aggregate value of transaction:
+(5)
+Total fee paid:
+Table of Contents
+¨
+Fee paid previously with preliminary materials.
+¨
+Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.
+(1)
+Amount Previously Paid:
+(2)
+Form, Schedule or Registration Statement No.:
+(3)
+Filing Party:
+(4)
+Date Filed:
+Table of Contents
+NOTICE OF 2017 ANNUAL MEETING OF STOCKHOLDERS
+Date and time:
+Tuesday, May 23, 2017 at 10:30 a.m. Pacific Daylight Time
+Location:
+Online at
+www.virtualshareholdermeeting.com/NVIDIA2017
+Items of business:
+•
+Election of twelve directors nominated by the Board of Directors
+•
+Approval of our executive compensation
+•
+Approval of the frequency of holding a vote on executive compensation
+•
+Ratification of the selection of PricewaterhouseCoopers LLP as our independent registered public accounting firm for fiscal year 2018
+Transaction of other business properly brought before the meeting
+Record date:
+You can attend, and vote at, the annual meeting if you were a stockholder of record at the close of business on March 24, 2017.
+Virtual meeting admission:
+We will be holding our annual meeting online only this year at
+www.virtualshareholdermeeting.com/NVIDIA2017
+. To participate in the annual meeting, you will need the control number included on your notice of Internet availability of the proxy materials or your proxy card (if you received a printed copy of the proxy materials).
+Pre-meeting forum:
+The online format for the annual meeting also allows us to communicate more effectively with you via a pre-meeting forum that you can enter by visiting
+www.proxyvote.com
+. On our pre-meeting forum, you can submit questions in advance of the annual meeting, and also access copies of our proxy statement and annual report.
+Your vote is very important. Whether or not you plan to attend the virtual meeting,
+PLEASE VOTE YOUR SHARES
+. As an alternative to voting online at the meeting, you may vote via the Internet, by telephone or, if you receive a paper proxy card in the mail, by mailing the completed proxy card.
+Important notice regarding the availability of proxy materials for the Annual Meeting of Stockholders to be held on May 23, 2017.
+This Notice, our Proxy Statement, our Annual Report on Form 10-K and our Stockholder Letter are available at
+www.nvidia.com/proxy
+.
+By Order of the Board of Directors
+Timothy S. Teter
+Secretary
+Santa Clara, California
+April 7, 2017
+Table of Contents
+TABLE OF CONTENTS
+PAGE
+DEFINITIONS
+1
+PROXY SUMMARY
+2
+PROXY STATEMENT
+6
+Information About the Meeting
+6
+Proposal 1—Election of Directors
+10
+Director Qualifications
+11
+Our Director Nominees
+12
+Information About the Board of Directors and Corporate Governance
+18
+Independence of the Members of the Board of Directors
+18
+Board Leadership Structure
+18
+Role of the Board in Risk Oversight
+18
+Corporate Governance Policies of the Board of Directors
+19
+Stockholder Communications with the Board of Directors
+21
+Nomination of Directors
+21
+Majority Vote Standard
+21
+Board Meeting Information
+22
+Committees of the Board of Directors
+22
+Director Compensation
+24
+Review of Transactions with Related Persons
+26
+Security Ownership of Certain Beneficial Owners and Management
+27
+Proposal 2—Approval of Executive Compensation
+29
+Executive Compensation
+30
+Compensation Discussion and Analysis
+30
+Risk Analysis of Our Compensation Plans
+49
+Summary Compensation Table for Fiscal 2017, 2016 and 2015
+50
+Grants of Plan-Based Awards For Fiscal 2017
+51
+Outstanding Equity Awards as of January 29, 2017
+53
+Option Exercises and Stock Vested in Fiscal 2017
+57
+Employment, Severance and Change-in-Control Arrangements
+58
+Potential Payments Upon Termination or Change-in-Control
+58
+Compensation Committee Interlocks and Insider Participation
+59
+Compensation Committee Report
+59
+Proposal 3—Approval of the Frequency of Holding an Advisory Vote on Executive Compensation
+60
+Proposal 4—Ratification of Selection of Independent Registered Public Accounting Firm for Fiscal 2018
+61
+Fees Billed by the Independent Registered Public Accounting Firm
+61
+Report of the Audit Committee of the Board of Directors
+63
+Equity Compensation Plan Information
+64
+Additional Information
+65
+Section 16(a) Beneficial Ownership Reporting Compliance
+65
+Other Matters
+65
+Table of Contents
+DEFINITIONS
+2007 Plan
+NVIDIA Corporation Amended and Restated 2007 Equity Incentive Plan
+2012 ESPP
+NVIDIA Corporation Amended and Restated 2012 Employee Stock Purchase Plan
+2016 Meeting
+2016 Annual Meeting of Stockholders
+2017 Meeting
+2017 Annual Meeting of Stockholders
+2018 Meeting
+2018 Annual Meeting of Stockholders
+AC
+Audit Committee
+Board
+The Company’s Board of Directors
+CC
+Compensation Committee
+CD&A
+Compensation Discussion and Analysis
+CEO
+Chief Executive Officer
+Company
+NVIDIA Corporation, a Delaware corporation
+Control Number
+Identification number for each stockholder included in Notice or Proxy Card
+Dodd Frank Act
+Dodd-Frank Wall Street Reform and Consumer Protection Act
+Exchange Act
+Securities Exchange Act of 1934, as amended
+Exequity
+Exequity LLP, the CC’s independent compensation consultant
+FASB
+Financial Accounting Standards Board
+Fiscal 2016
+The Company’s fiscal year 2016 (January 26, 2015 to January 31, 2016)
+Fiscal 2017
+The Company’s fiscal year 2017 (February 1, 2016 to January 29, 2017)
+Fiscal 2018
+The Company’s fiscal year 2018 (January 30, 2017 to January 28, 2018)
+Form 10-K
+The Company’s Annual Report on Form 10-K for Fiscal 2017 filed with the SEC on March 1, 2017
+GAAP
+Generally accepted accounting principles
+Internal Revenue Code
+U.S. Internal Revenue Code of 1986, as amended
+Lead Director
+Lead independent director
+MY PSUs
+PSUs with a three-year performance metric
+NASDAQ
+The NASDAQ Stock Market LLC
+NCGC
+Nominating and Corporate Governance Committee
+NEOs
+Named Executive Officers consisting of our CEO, our chief financial officer and our other three executive officers
+Non-GAAP Operating Income
+GAAP operating income adjusted for stock-based compensation expense, product warranty charge (Fiscal 2016 only), legal settlement costs (Fiscal 2017 only), acquisition-related costs, contributions (Fiscal 2017 only) and restructuring and other charges, as the Company reports in its respective earnings materials. The net aggregate adjustment to GAAP operating income for these items for Fiscal 2017 was $287 million, and for Fiscal 2016 was $378 million. Please see
+Reconciliation of Non-GAAP Financial Measures
+in our
+Compensation Discussion and Analysis
+for a reconciliation between the non-GAAP measures and GAAP results
+Notice
+Notice of Internet Availability of Proxy Materials
+NYSE
+New York Stock Exchange
+PSUs
+Performance stock units
+PwC
+PricewaterhouseCoopers LLP
+RSUs
+Restricted stock units
+S&P 500
+Standard & Poor’s 500 Composite Index
+SEC
+U.S. Securities and Exchange Commission
+Stretch Operating Plan
+Maximum goal attainment under the Variable Cash Plan, SY PSUs and MY PSUs
+SY PSUs
+PSUs with a single-year performance metric, vesting over four years
+Target Compensation Plan
+Target goal attainment under the Variable Cash Plan, SY PSUs and MY PSUs
+Threshold
+Threshold goal attainment under the Variable Cash Plan, SY PSUs and MY PSUs
+TSR
+Total shareholder return
+Variable Cash Plan
+The Company’s variable cash compensation plan
+1
+Table of Contents
+PROXY SUMMARY
+This summary highlights information contained elsewhere in the proxy statement. This summary does not contain all of the information that you should consider, and you should read the entire proxy statement carefully before voting.
+2017 Annual Meeting of Stockholders
+Date and time:
+Tuesday, May 23, 2017 at 10:30 a.m. Pacific Daylight Time
+Location:
+Online at
+www.virtualshareholdermeeting.com/NVIDIA2017
+Record date:
+Stockholders as of March 24, 2017 are entitled to vote
+Admission to meeting:
+You will need your Control Number to attend the annual meeting
+Voting Matters and Board Recommendations
+A summary of the 2017 Meeting proposals is below.
+Every stockholder’s vote is important. Our Board urges you to vote your shares FOR proposals 1, 2 and 4, and for 1 YEAR for proposal 3.
+Matter
+Page
+Board Recommendation
+Vote Required
+for Approval
+Effect of Abstentions
+Effect of Broker Non-Votes
+Management Proposals:
+Election of twelve directors
+10
+FOR
+each director nominee
+More
+FOR
+than
+WITHHOLD
+votes
+None
+Approval of our executive compensation
+29
+FOR
+Majority of shares present
+Against
+None
+Approval of the frequency of holding a vote on executive compensation
+60
+1 YEAR
+Majority of shares present
+Against
+None
+Ratification of selection of PwC as our independent registered public accounting firm for Fiscal 2018
+61
+FOR
+Majority of shares present
+Against
+None
+Election of Directors (Proposal 1)
+The following table provides summary information about each director nominee:
+Name
+Age
+Director Since
+Occupation
+Fiscal 2017 Committees
+AC
+CC
+NCGC
+Robert K. Burgess
+59
+2011
+Independent Consultant
+Chair
+Tench Coxe
+59
+1993
+Managing Director, Sutter Hill Ventures
+Member
+Persis S. Drell
+61
+2015
+Provost, Stanford University
+Member
+James C. Gaither
+79
+1998
+Managing Director, Sutter Hill Ventures
+Member
+Jen-Hsun Huang
+54
+1993
+President & CEO, NVIDIA Corporation
+Dawn Hudson
+59
+2013
+Chief Marketing Officer, National Football League
+Member
+Harvey C. Jones
+64
+1993
+Managing Partner, Square Wave Ventures
+Member
+Michael G. McCaffery
+63
+2015
+Chairman & Managing Director, Makena Capital Management
+Member
+(1)
+William J. Miller
+(2)
+71
+1994
+Independent Consultant
+Chair
+Mark L. Perry
+61
+2005
+Independent Consultant
+Chair
+(1)
+A. Brooke Seawell
+69
+1997
+Venture Partner, New Enterprise Associates
+Member
+(1)
+Mark A. Stevens
+57
+2008
+(3)
+Managing Partner, S-Cubed Capital
+Member
+__________
+(1)
+AC Financial Expert
+(2)
+Lead Director
+(3)
+Mr. Stevens previously served as a member of our Board from 1993 until 2006
+2
+Table of Contents
+Board Overview and Recent Refreshment
+Our director nominees exhibit a variety of competencies, professional experience and backgrounds, and contribute diverse viewpoints and perspectives to our well-rounded Board. While the Board benefits from the extensive experience and institutional knowledge that our longer-serving directors bring, it has also brought in new perspectives and ideas by appointing four new directors in the last six years, most recently Dr. Drell and Mr. McCaffery in 2015. Below are the skills and competencies that our NCGC and Board consider important for our directors to have in light of our current business, and the number of directors that possess these competencies:
+Corporate Governance Highlights
+Our Board is committed to strong corporate governance, which is used to promote the long-term interest of NVIDIA and our stockholders. Regular stockholder outreach is important to us. We seek a collaborative approach to stockholder issues that affect our business and to ensure that our stockholders see our governance and executive pay practices as well-structured. Each year, our management contacts our top 20 institutional stockholders (except for brokerage firms and institutional stockholders who we know do not engage in individual conversations with issuers) to gain valuable insights into their views on corporate governance and executive compensation issues. We met with stockholders holding a total of approximately 30% of our common stock in both Fall of 2015 and Fall of 2016. Our Lead Director attended these meetings, and we expect representatives of the Board will continue to participate in future stockholder outreach.
+In response to feedback received during our annual stockholder outreach meetings, and in keeping with what is rapidly becoming a corporate governance best practice, in November 2016, the NCGC recommended, and the Board voluntarily adopted, a “proxy access” amendment to our Bylaws which enables a stockholder (or a group of up to 20 stockholders) owning at least 3% of the voting power of NVIDIA’s outstanding capital stock, continuously for at least three years, to include information in our proxy statement regarding director nominees for the greater of two candidates or 20% of the Board.
+3
+Table of Contents
+Highlights of our corporate governance practices include:
+ü
+Proxy access
+ü
+Declassified Board
+ü
+Majority voting for directors
+ü
+Active Board oversight of risk and risk management
+ü
+Stock ownership guidelines for our directors and executive officers
+ü
+75% or greater attendance by each Board member at meetings of the Board and applicable committees
+ü
+Independent Lead Director
+ü
+11 out of 12 Board members independent
+ü
+At least annual Board and committee self-assessments
+ü
+Annual stockholder outreach, including Lead Director participation
+ü
+Independent directors frequently meet in executive sessions
+Approval of Executive Compensation for Fiscal 2017 (Proposal 2)
+We are asking our stockholders to cast a non-binding vote, also known as “say-on-pay,” to approve our NEOs’ compensation. The Board believes that our compensation policies and practices are effective in achieving our goals of attracting, motivating and retaining a high-caliber executive team, rewarding financial and operating performance and aligning our executives’ interests with those of our stockholders to create long-term value. The Board has adopted a policy of providing for annual “say-on-pay” votes.
+Executive Compensation Highlights
+Consistent with our goal of attracting, motivating and retaining a high-caliber executive team, our executive compensation program is designed to pay for performance. We utilize compensation elements that meaningfully align our NEOs’ interests with those of our stockholders to create long-term value. As such, our NEO pay is heavily weighted toward “at-risk,” performance-based compensation, in the form of SY PSUs, MY PSUs and a variable cash incentive that is only earned if we achieve multiple corporate financial metrics.
+At our 2016 Meeting, over 97% of the votes cast on our say-on-pay proposal were in support of the compensation paid to our NEOs for Fiscal 2016. After careful consideration of the results of this advisory vote, and given the significant level of stockholder support and our regular stockholder outreach efforts, our CC concluded that our program continues to align executive pay with stockholder interests. Accordingly, the CC determined not to make any significant changes to our program for Fiscal 2017 as a result of the advisory vote, but to continue to evaluate and refine our program to strengthen the link between our corporate performance and our NEO pay.
+Fiscal 2017 Financial Highlights
+Please see
+Reconciliation of Non-GAAP Financial Measures
+in
+our
+Compensation Discussion and Analysis
+for a reconciliation between the non-GAAP measures and GAAP results.
+4
+Table of Contents
+Approval of the Frequency of Holding a Vote on Executive Compensation (Proposal 3)
+We are asking our stockholders to cast a non-binding vote, also known as “say-on-frequency,” to indicate their preference regarding how frequently we should solicit a non-binding advisory vote on the compensation of our NEOs. Accordingly, we are asking stockholders to indicate whether they would prefer an advisory vote every one, two or three years. Management recommends an annual vote.
+Ratification of Selection of PricewaterhouseCoopers LLP as our Independent Registered Public Accounting Firm for Fiscal Year 2018 (Proposal 4)
+We are asking our stockholders to ratify the AC’s selection of PwC as our independent registered public accounting firm for Fiscal 2018. While we are not required to have our stockholders ratify the selection of PwC, we are doing so because we believe it is a matter of good corporate practice. If our stockholders do not ratify the selection, the AC will reconsider the appointment, but may nevertheless retain PwC as our independent registered public accounting firm. Even if the selection is ratified, the AC may select a different independent registered public accounting firm at any time during the year if it determines that such a change would be in the best interests of NVIDIA and our stockholders.
+5
+Table of Contents
+NVIDIA CORPORATION
+2701 SAN TOMAS EXPRESSWAY
+SANTA CLARA, CALIFORNIA 95050
+(408) 486-2000
+____________________________________________________
+PROXY STATEMENT FOR THE 2017 ANNUAL MEETING OF STOCKHOLDERS - MAY 23, 2017
+____________________________________________________
+INFORMATION ABOUT THE MEETING
+Your proxy is being solicited for use at the 2017 Meeting on behalf of the Board. Our 2017 Meeting will take place on Tuesday, May 23, 2017 at 10:30 a.m. Pacific Daylight Time.
+Meeting Attendance
+If you were an NVIDIA stockholder as of the close of business on the March 24, 2017 record date, or if you hold a valid proxy, you can attend and vote at our 2017 Meeting at
+www.virtualshareholdermeeting.com/NVIDIA2017
+, which contains instructions on how to demonstrate proof of stock ownership, and how to vote and submit questions via the Internet. Our 2017 Meeting will be held entirely online to allow greater participation and improved communication, and provide cost savings for our stockholders and NVIDIA. You will need the Control Number included on your Notice or proxy card (if you received a printed copy of the proxy materials) to enter the meeting.
+The online format for the 2017 Meeting will allow us to communicate more effectively with you via a pre-meeting forum that you can enter by visiting
+www.proxyvote.com
+. On our pre-meeting forum, you can submit questions in advance of the 2017 Meeting, and also access copies of our proxy statement and annual report.
+Even if you plan to attend the 2017 Meeting online, we recommend that you also vote by proxy as described below so that your vote will be counted if you later decide not to attend the 2017 Meeting.
+Non-stockholders can also listen to the 2017 Meeting live at
+www.virtualshareholdermeeting.com/NVIDIA2017
+. An archived copy of the webcast will be available at
+www.nvidia.com/proxy
+through June 6, 2017.
+Quorum and Voting
+Quorum.
+To hold our 2017 Meeting, we need a majority of the outstanding shares entitled to vote at the close of business on March 24, 2017, or a quorum, represented at the 2017 Meeting either by attendance online or by proxy. On the record date, there were 594,536,974 shares of common stock outstanding and entitled to vote, meaning that 297,268,488 shares must be represented at the 2017 Meeting or by proxy to have a quorum. A list of stockholders entitled to vote at the 2017 Meeting will be available at our headquarters, 2701 San Tomas Expressway, Santa Clara, California for 10 days prior to
+6
+Table of Contents
+the 2017 Meeting. If you would like to view the stockholder list, please call our Investor Relations Department at (408) 486-2000 to schedule an appointment.
+Your shares will be counted towards the quorum only if you submit a valid proxy or vote at the 2017 Meeting. Abstentions and broker non-votes will be counted towards the quorum requirement. If there is not a quorum, a majority of the votes present may adjourn the 2017 Meeting to another date.
+Vote Options
+.
+You may vote
+FOR
+any nominee to the Board, you may
+WITHHOLD
+your vote for any nominee or you may
+ABSTAIN
+from voting. You may vote for
+1 YEAR
+,
+2 YEARS
+or
+3 YEARS
+as the preferred frequency of the advisory vote on executive compensation or you may
+ABSTAIN
+from voting for a preferred frequency. For each other matter to be voted on, you may vote
+FOR
+or
+AGAINST
+or
+ABSTAIN
+from voting.
+Stockholder of Record:
+You are a stockholder of record if your shares were registered directly in your name with our transfer agent, Computershare, on March 24, 2017, and can vote shares in any of the following ways:
+•
+By attending the 2017 Meeting online and voting during the meeting;
+•
+Via mail, by signing and mailing your proxy card to us before the 2017 Meeting; or
+•
+By telephone or over the Internet, by following the instructions provided in the Notice or your proxy materials.
+You may change your vote or revoke your proxy before the final vote at the 2017 Meeting in any of the following ways:
+•
+Attend the 2017 Meeting online and vote during the meeting;
+•
+Submit another properly completed proxy card with a later date;
+•
+Send a written notice that you are revoking your proxy to NVIDIA Corporation, 2701 San Tomas Expressway, Santa Clara, California 95050, Attention: Secretary; or
+•
+Submit another proxy by telephone or Internet after you have already provided an earlier proxy.
+If you do not vote using any of the ways described above, your shares will
+not
+be voted.
+Street Name Holder:
+If your shares are held through a nominee, such as a bank or broker, as of March 24, 2017, your shares are held in “street name.” As a beneficial owner, such nominee is the stockholder of record of your shares. However, you have the right to direct your nominee on how to vote the shares in your account. You should have received a Notice or voting instructions from your nominee, and should follow the included instructions in order to instruct such nominee on how to vote your shares. To vote by attending the 2017 Meeting online, you must obtain a valid proxy from your nominee.
+If you do not instruct your nominee how to vote your shares, such nominee can use its discretion to vote such “uninstructed” shares with respect to matters considered by NYSE rules to be “routine”. However, your nominee will not be able to vote your shares with respect to “non-routine” matters, including elections of directors (even if not contested), executive compensation (including any advisory stockholder votes on executive compensation) and amendments of equity plans, unless they receive specific instructions from you. A broker non-vote occurs when a nominee does not receive voting instructions from the beneficial owner and does not have the discretion to direct the voting of the shares.
+Therefore, you MUST give your nominee instructions in order for your vote to be counted on the proposals to elect directors, to conduct an advisory approval of our executive compensation and to conduct an advisory approval of the frequency of holding a vote on our executive compensation. We strongly encourage you to vote.
+Note that under the rules of the national stock exchanges, any NVIDIA stockholder whose shares are held in street name by a member brokerage firm may revoke a proxy and vote his or her shares at the 2017 Meeting only in accordance with applicable rules and procedures of those exchanges, as employed by the street name holder’s brokerage firm.
+7
+Table of Contents
+Vote Count
+.
+On each matter to be voted upon, stockholders have one vote for each share of NVIDIA common stock owned as of March 24, 2017. Votes will be counted by the inspector of election. The following table summarizes vote requirements and the effect of abstentions and broker non-votes:
+Proposal Number
+Proposal Description
+Vote Required for Approval
+Effect of Abstentions
+Effect of Broker Non-Votes
+1
+Election of twelve directors
+Directors are elected if they receive more
+FOR
+votes than
+WITHHOLD
+votes
+None
+2
+Approval of our executive compensation
+FOR
+votes from the holders of a majority of shares present and entitled to vote
+Against
+None
+3
+Approval of the frequency of holding a vote on executive compensation
+The frequency receiving
+FOR
+votes from the holders of a majority of shares present and entitled to vote
+Against
+None
+4
+Ratification of the selection of PwC as our independent registered public accounting firm for Fiscal 2018
+FOR
+votes from the holders of a majority of shares present and entitled to vote
+Against
+None
+If you are a stockholder of record and you return a signed proxy card without marking any selections, your shares will be voted
+FOR
+each of the nominees listed in Proposal 1, for
+1 YEAR
+for Proposal 3 and
+FOR
+the other proposals. If any other matter is properly presented at the 2017 Meeting, Jen-Hsun Huang or Timothy S. Teter as your proxyholder will vote your shares using his best judgment.
+Vote Results
+.
+Preliminary voting results will be announced at the 2017 Meeting. Final voting results will be published in a current report on Form 8-K, which will be filed with the SEC by May 30, 2017.
+Proxy Materials
+As permitted by SEC rules, we are making our proxy materials available to stockholders electronically via the Internet at
+www.nvidia.com/proxy
+. On or about April 7, 2017, we sent stockholders who own our common stock at the close of business on March 24, 2017 (other than those who previously requested electronic or paper delivery) a Notice containing instructions on how to access our proxy materials, vote over the Internet or by telephone, and elect to receive future proxy materials electronically or in printed form by mail.
+If you choose to receive future proxy materials electronically (via
+www.proxyvote.com
+for stockholders of record and
+www.icsdelivery.com/nvda
+for street name holders) you will receive an email next year with links to the proxy materials and proxy voting site.
+SEC rules also permit companies and intermediaries, such as brokers, to satisfy Notice and proxy material delivery requirements for multiple stockholders with the same address by delivering a single Notice or set of proxy materials addressed to those stockholders. We follow this practice, known as “householding,” unless we have received contrary instructions from any stockholder at that address.
+If you received more than one Notice or full set of proxy materials, then your shares are either registered in more than one name or are held in different accounts. Please vote the shares covered by each Notice or proxy card. To modify your instructions so that you receive one Notice or proxy card for each account or name, please contact your broker. Your “householding” election will continue until you are notified otherwise or until you revoke your consent.
+To make a change regarding the form in which you receive proxy materials (electronically or in print), or to request receipt of a separate set of documents to a household, contact our Investor Relations Department (through our website at
+8
+Table of Contents
+www.nvidia.com
+, with an electronic mail message to
+ir@nvidia.com
+or by mail at 2701 San Tomas Expressway, Santa Clara, California 95050).
+We will pay the entire cost of soliciting proxies. Our directors and employees may also solicit proxies in person, by telephone, by mail, by Internet or by other means of communication. Our directors and employees will not be paid any additional compensation for soliciting proxies. We have also retained MacKenzie Partners on an advisory basis for a fee not to exceed $20,000 and they may help us solicit proxies from brokers, bank nominees and other institutional owners. We may also reimburse brokerage firms, banks and other agents for the cost of forwarding proxy materials to beneficial owners.
+2018 Meeting Stockholder Proposals
+To be considered for inclusion in next year’s proxy materials, your proposal must be submitted in writing by December 8, 2017 to NVIDIA Corporation, 2701 San Tomas Expressway, Santa Clara, California 95050, Attention: Secretary and must comply with all applicable requirements of Rule 14a-8 promulgated under the Exchange Act. However, if we do not hold our 2018 Meeting between April 23, 2018 and June 22, 2018, then the deadline is a reasonable time before we begin to print and send our proxy materials. If you wish to submit a proposal for consideration at the 2018 Meeting that is not to be included in next year’s proxy materials, you must do so in writing following the above instructions not later than the close of business on February 22, 2018, and not earlier than January 23, 2018. We also advise you to review our Bylaws, which contain additional requirements about advance notice of stockholder proposals and director nominations.
+9
+Table of Contents
+Proposal 1—Election of Directors
+What am I voting on?
+Electing the 12 director nominees identified below to hold office until the 2018 Meeting and until his or her successor is elected or appointed.
+Vote recommendation
+:
+FOR
+the election of each of the 12 director nominees.
+Vote required
+: Directors are elected if they receive more
+FOR
+votes than
+WITHHOLD
+votes.
+Our Board has 12 members. All of our directors have one-year terms and stand for election annually. Our nominees include 11 independent directors, as defined by the rules and regulations of NASDAQ, and one NVIDIA officer: Mr. Huang, who serves as our President and CEO. Each of the nominees listed below is currently a director of NVIDIA previously elected by our stockholders.
+The Board expects the nominees will be available for election. If a nominee declines or is unable to act as a director, your proxy may be voted for any substitute nominee proposed by the Board or the size of the Board may be reduced.
+Recommendation of the Board
+The Board recommends that you vote
+FOR
+the election of each of the following nominees:
+Name
+Age
+Director Since
+Occupation
+Independent
+Other Public Company Boards
+Robert K. Burgess
+59
+2011
+Independent Consultant
+ü
+2
+Tench Coxe
+59
+1993
+Managing Director, Sutter Hill Ventures
+ü
+2
+Persis S. Drell
+61
+2015
+Provost, Stanford University
+ü
+–
+James C. Gaither
+79
+1998
+Managing Director, Sutter Hill Ventures
+ü
+–
+Jen-Hsun Huang
+54
+1993
+President & CEO, NVIDIA Corporation
+–
+Dawn Hudson
+59
+2013
+Chief Marketing Officer, National Football League
+ü
+2
+Harvey C. Jones
+64
+1993
+Managing Partner, Square Wave Ventures
+ü
+–
+Michael G. McCaffery
+63
+2015
+Chairman & Managing Director, Makena Capital Management
+ü
+–
+William J. Miller
+(1)
+71
+1994
+Independent Consultant
+ü
+2
+Mark L. Perry
+61
+2005
+Independent Consultant
+ü
+2
+A. Brooke Seawell
+69
+1997
+Venture Partner, New Enterprise Associates
+ü
+1
+Mark A. Stevens
+57
+2008
+(2)
+Managing Partner, S-Cubed Capital
+ü
+1
+________
+(1)
+Lead Director
+(2)
+Mr. Stevens previously served as a member of our Board from 1993 until 2006
+10
+Table of Contents
+Director Qualifications
+The Board looks for its current and potential directors to have a broad range of skills, education, experiences and qualifications that can be leveraged in order to benefit NVIDIA and our stockholders. The NCGC is responsible for reviewing, assessing and recommending nominees to the Board for approval. The NCGC has not established specific minimum age, education, experience or skill requirements for potential members, and instead considers numerous factors regarding the nominee in light of our current business model, including the following:
+Directors’ Skills, Qualifications and Traits
+•
+Integrity and candor
+•
+Independence
+•
+Senior management and operating experience necessary to oversee our business
+•
+Professional, technical and industry knowledge
+•
+Financial expertise
+•
+Financial community experience (including as an investor in other companies)
+•
+Marketing and brand management
+•
+Public company board experience
+•
+Experience with emerging technologies and new business models
+•
+Legal expertise
+•
+Diversity, including gender and ethnic background
+•
+Academia experience
+•
+Desirability as a member of any committees of the Board
+•
+Willingness and ability to devote substantial time and effort to Board responsibilities
+•
+Ability to represent the interests of the stockholders as a whole rather than special interest groups or constituencies
+•
+All relationships between the proposed nominee and any of our stockholders, competitors, customers, suppliers or other persons with a relationship to NVIDIA
+•
+Ability to commit significant time to the Company’s oversight
+•
+Overall service to NVIDIA, including past attendance at Board and committee meetings and participation and contributions to the activities of the Board
+Ensuring the Board is composed of directors who exhibit a variety of skills, professional experience and backgrounds, as well as bring diverse viewpoints and perspectives, is a priority of the NCGC and the Board. The NCGC and the Board also understand the importance of Board refreshment, and strive to maintain an appropriate balance of tenure, diversity and skills on the Board. While the Board benefits from the extensive experience and institutional knowledge that our longer-serving directors bring, it has also brought in new perspectives and ideas by appointing four new directors in the last six years, constituting one-third of our total Board. Most recently, Dr. Drell and Mr. McCaffery joined the Board in 2015.
+NVIDIA’s progress is due in part to our combination of deep technology and computing industry experience developed during our 24-year history with new initiatives in areas such as artificial intelligence and self-driving cars. Similarly, we feel that the mix of our Board members is the appropriate blend of experience and new perspectives. Our longer-tenured directors have the benefit of extensive familiarity with our operations and business areas and have the perspective of overseeing our activities during a wide variety of economic and competitive environments. Our new directors bring valuable insights in areas such as consumer marketing, branding and technology developments at leading academic institutions that are critical to supporting NVIDIA as it competes in new markets. Each year, as part of its annual evaluation, the NCGC and Board reviews each director’s past contributions, outside experiences and activities and makes a determination concerning how her or his experience and skills continue to add value to NVIDIA and the Board.
+11
+Table of Contents
+The following chart summarizes the skills and competencies of each director nominee that led our Board to conclude that he or she is qualified to serve on our Board. The lack of a check does not mean the director does not possess that skill or qualification; rather, a check indicates a specific area of focus or expertise for which the Board relies on such director nominee most. The following directors’ biographies note each director’s relevant experience, qualifications and skills relative to this list as of the date of this proxy statement.
+Director Skills and Competencies
+Burgess
+Coxe
+Drell
+Gaither
+Huang
+Hudson
+Jones
+McCaffery
+Miller
+Perry
+Seawell
+Stevens
+Senior Management and Operations
+ü
+Industry and Technical
+ü
+Financial/Financial Community
+ü
+Public Company Board
+ü
+Emerging Technologies and Business Models
+ü
+Marketing and Brand Management
+ü
+Legal
+ü
+Our Director Nominees
+The biographies below include information, as of the date of this proxy statement, regarding the particular experience, qualifications, attributes or skills of each director that led the NCGC and Board to believe that he or she should continue to serve on the Board.
+ROBERT K. BURGESS
+Robert K. Burgess has served as an independent investor and board member to technology companies since 2005. He was chief executive officer from 1996 to 2005 of Macromedia, Inc., a provider of internet and multimedia software, which was acquired by Adobe Systems Incorporated; he also served from 1996 to 2005 on its board of directors, as chairman of its board of directors from 1998 to 2005 and as executive chairman for his final year. Previously, he held key executive positions from 1984 to 1991 at Silicon Graphics, Inc. (SGI), a graphics and computing company; from 1991 to 1995, served as chief executive officer and a board member of Alias Research, Inc., a publicly traded 3D software company, until its acquisition by SGI; and resumed executive positions at SGI during 1996. Mr. Burgess serves on the board of Adobe and Rogers Communications Inc., a communications and media company, and has served on the boards of several privately-held companies. He was a director of IMRIS Inc., a provider of image guided therapy solutions, until 2013. He holds a BCom degree from McMaster University.
+Mr. Burgess brings to the Board senior management and operating experience and expertise in the areas of financial- and risk-management. He has a broad understanding of the roles and responsibilities of a corporate board and provides valuable insight on a range of issues in the technology industry.
+Independent Consultant
+Age
+:
+59
+Director Since
+: 2011
+Committees
+:
+CC
+12
+Table of Contents
+TENCH COXE
+Tench Coxe
+has been a managing director of Sutter Hill Ventures, a venture capital investment firm, since 1989, where he focuses on investments in the IT sector. Prior to joining Sutter Hill Ventures in 1987, he was director of marketing and MIS at Digital Communication Associates. He serves on the board of directors of Mattersight Corp., a customer loyalty software firm, Artisan Partners Asset Management Inc., an institutional money management firm, and several privately held technology companies. Mr. Coxe holds a BA degree in Economics from Dartmouth College and an MBA degree from Harvard Business School.
+Mr. Coxe brings to the Board expertise in financial and transactional analysis and provides valuable perspectives on corporate strategy and emerging technology trends. His significant financial community experience gives the Board an understanding of the methods by which companies can increase value for their stockholders.
+Managing Director, Sutter Hill Ventures
+Age
+:
+59
+Director Since
+:
+1993
+Committees
+:
+CC
+PERSIS S. DRELL
+Persis S. Drell has been the Provost of Stanford University since February 2017. A Professor of Materials Science and Engineering and Professor of Physics, Dr. Drell has been on the faculty at Stanford since 2002, and was the Dean of the Stanford School of Engineering from 2014 to 2017. She served as the Director of the U.S. Department of Energy SLAC National Accelerator Laboratory from 2007 to 2012. Dr. Drell is a member of the National Academy of Sciences and the American Academy of Arts and Sciences, and is a fellow of the American Physical Society. She has been the recipient of a Guggenheim Fellowship and a National Science Foundation Presidential Young Investigator Award. Dr. Drell holds a Ph.D. from the University of California Berkeley and an AB degree in Mathematics and Physics from Wellesley College.
+An accomplished researcher and educator, Dr. Drell brings to the Board expert leadership in guiding innovation in science and technology.
+Provost, Stanford University
+Age
+: 61
+Director Since
+: 2015
+Committees
+:
+CC
+JAMES C. GAITHER
+James C. Gaither has been a partner of Sutter Hill Ventures, a venture capital investment firm, since 2000. He was a partner in the law firm Cooley LLP from 1971 to 2000 and senior counsel to the firm from 2000 to 2003. Prior to practicing law, he served as a law clerk to The Honorable Earl Warren, Chief Justice of the United States Supreme Court, special assistant to the Assistant Attorney General in the U.S. Department of Justice and staff assistant to U.S. President Lyndon Johnson. Mr. Gaither is a former president of the Board of Trustees at Stanford University, former vice chairman of the board of directors of The William and Flora Hewlett Foundation and past chairman of the Board of Trustees of the Carnegie Endowment for International Peace. Mr. Gaither holds a BA degree in Economics from Princeton University and a JD degree from Stanford University Law School.
+Mr. Gaither brings to the Board expertise in corporate strategy and negotiating complex transactions. He also provides valuable perspectives on the roles and responsibilities of a corporate board, including oversight of a public company’s legal and regulatory compliance and engagement with regulatory authorities. His significant financial community experience gives the Board an understanding of the methods by which companies can increase value for their stockholders.
+Managing Director, Sutter Hill Ventures
+Age
+:
+79
+Director Since
+: 1998
+Committees
+:
+NCGC
+13
+Table of Contents
+JEN-HSUN HUANG
+Jen-Hsun Huang co-founded NVIDIA in 1993 and has since served as president, chief executive officer, and a member of the board of directors. Mr. Huang held a variety of positions from 1985 to 1993 at LSI Logic Corp., a computer chip manufacturer, including leading the business unit responsible for the company’s system-on-a-chip strategy. He was a microprocessor designer from 1984 to 1985 at Advanced Micro Devices, Inc., a semiconductor company. Mr. Huang holds a BSEE degree from Oregon State University and an MSEE degree from Stanford University.
+Mr. Huang is one of the technology industry’s most respected executives, having taken NVIDIA from a startup to a world leader in visual computing. Under his guidance, NVIDIA has compiled a record of consistent innovation and sharp execution, marked by products that have gained strong market share.
+President and Chief Executive Officer, NVIDIA Corporation
+Age
+:
+54
+Director Since
+: 1993
+Committees
+:
+None
+DAWN HUDSON
+Dawn Hudson has served as Chief Marketing Officer for the National Football League since 2014. Previously, she served from 2009 to 2014 as vice chairman of The Parthenon Group, an advisory firm focused on strategy consulting. She was president and chief executive officer of Pepsi-Cola North America, the beverage division of PepsiCo, Inc. for the U.S. and Canada, from 2005 to 2007 and president from 2002, and simultaneously served as chief executive officer of the foodservice division of PepsiCo, Inc. from 2005 to 2007. Previously, she spent 13 years in marketing, advertising and branding strategy, holding leadership positions at major agencies, such as D’Arcy Masius Benton & Bowles and Omnicom. She currently serves on the boards of directors of The Interpublic Group of Companies, Inc., an advertising holding company, and Amplify Snack Brands, Inc., a snack food company. She was a director of P.F. Chang’s China Bistro, Inc., a restaurant chain, from 2010 until 2012, of Allergan, Inc., a biopharmaceutical company, from 2008 until 2014, and of Lowes Companies, Inc., a home improvement retailer, from 2001 until 2015. She holds a BA degree in English from Dartmouth College.
+Ms. Hudson brings to the board experience in executive leadership. As a longtime marketing executive, she has valuable expertise and insights in leveraging brands, brand development and consumer behavior. She also has considerable corporate governance experience, gained from more than 10 years of serving on the boards of public companies.
+Chief Marketing Officer, National Football League
+Age
+:
+59
+Director Since
+: 2013
+Committees
+:
+CC
+14
+Table of Contents
+HARVEY C. JONES
+Harvey C. Jones has been the managing partner of Square Wave Ventures, a private investment firm, since 2004. Mr. Jones has been an entrepreneur, high technology executive and active venture investor for over 30 years. In 1981, he co-founded Daisy Systems Corp., a computer-aided engineering company, ultimately serving as its president and chief executive officer until 1987. Between 1987 and 1998, he led Synopsys. Inc., a major electronic design automation company, serving as its chief executive officer for seven years and then as executive chairman. In 1997, Mr. Jones co-founded Tensilica Inc., a privately held technology IP company that developed and licensed high performance embedded processing cores. He served as chairman of the Tensilica board of directors from inception through its 2013 acquisition by Cadence Design Systems, Inc. In 2014, coincident with his investment in the company, Mr. Jones joined the board of directors of Tintri Inc., a private company that builds data storage solutions for virtual and cloud environments. In 2016, Mr. Jones joined the board of directors of and invested in TempoQuest, a development stage company seeking to develop advanced weather forecasting systems that exploit accelerated GPU technology. He also served as lead director on the board of directors of Wind River Systems, Inc. from 2006 until its sale to Intel Corporation in 2009. Mr. Jones holds a BS degree in Mathematics and Computer Sciences from Georgetown University and an MS degree in Management from Massachusetts Institute of Technology.
+Mr. Jones brings to the board an executive management background, an understanding of semiconductor technologies and complex system design. He provides valuable insight into innovation strategies, research and development efforts, as well as management and development of our technical employees. His financial expertise qualifies him to serve as an “audit committee financial expert” within the meaning of SEC rules, and his significant financial community experience gives the Board an understanding of the methods by which companies can increase value for their stockholders.
+Managing Partner, Square Wave Ventures
+Age
+:
+64
+Director Since
+: 1993
+Committees
+:
+CC, NCGC
+MICHAEL G. MCCAFFERY
+Michael G. McCaffery
+is the Chairman and a Managing Director of Makena Capital Management, an investment management firm. From 2005 to 2013, he was the Chief Executive Officer of Makena Capital Management. From 2000 to 2006, he was the President and Chief Executive Officer of the Stanford Management Company, the university subsidiary charged with managing Stanford University’s financial and real estate investments. Prior to Stanford Management Company, Mr. McCaffery was President and Chief Executive Officer of Robertson Stephens and Company, a San Francisco-based investment bank and investment management firm, from 1993 to 2009, and also served as Chairman in 2000. Mr. McCaffery serves on the board of directors, or on the advisory boards, of several privately held companies and non-profits. He was a director of KB Home, a homebuilding company, from 2003 until 2015. Mr. McCaffery is a Trustee of the Rhodes Scholarship Trust. Mr. McCaffery holds a BA degree from the Woodrow Wilson School of Public and International Affairs at Princeton University, a BA Honours degree and an MA degree in Politics, Philosophy and Economics from Merton College, Oxford University, Oxford, England, and an MBA degree from the Stanford Graduate School of Business.
+Mr. McCaffery brings to the Board a broad array of business, investment and real estate experience and recognized expertise in financial matters, as well as a demonstrated commitment to good corporate governance. His financial expertise qualifies him to serve as an “audit committee financial expert” within the meaning of SEC rules.
+Chairman and Managing Director, Makena Capital Management
+Age
+:
+63
+Director Since
+: 2015
+Committees
+:
+AC
+15
+Table of Contents
+WILLIAM J. MILLER
+William J. Miller
+has served as an independent consultant since 1999 and is on the board of directors of Waters Corp., a scientific instrument manufacturing company; and Digimarc Corp., a developer and supplier of secure identification products and digital watermarking technology. Mr. Miller served as a director of Glu Mobile, Inc., a publisher of mobile games, from 2007 to March 2017. He was president, chief executive officer and chairman of the board of directors from 1996 to 1999 of Avid Technology, Inc., a provider of digital tools for multimedia. He was chief executive officer and a board director from 1992 to 1995 of Quantum Corp., a mass storage company, where he was chairman for three years. From 1981 to 1992, he held various positions at Control Data Corp., a supplier of computer hardware, software and services, including executive vice president and president, information services. He holds a BA degree in Communications and a JD degree from the University of Minnesota.
+Mr. Miller brings to the Board considerable leadership and corporate governance experience and an understanding of the roles and responsibilities of a corporate board. His financial expertise qualifies him to serve as an “audit committee financial expert” within the meaning of SEC rules.
+Independent Consultant
+Age
+:
+71
+Director Since
+: 1994
+Committees
+:
+NCGC
+MARK L. PERRY
+Mark L. Perry serves on the boards of, and consults for, various companies and non-profit organizations. From 2012 to 2015, Mr. Perry served as an Entrepreneur-in-Residence at Third Rock Ventures, a venture capital firm. He served from 2007 to 2011 as president and chief executive officer of Aerovance, Inc., a biopharmaceutical company. He was an executive officer from 1994 to 2004 at Gilead Sciences, Inc., a biopharmaceutical company, serving in a variety of capacities, including general counsel, chief financial officer, and executive vice president of operations, responsible for worldwide sales and marketing, legal, manufacturing and facilities; he was also its senior business advisor until 2007. From 1981 to 1994, Mr. Perry was with the law firm Cooley LLP, where he was a partner for seven years. He serves on the boards of directors of Global Blood Therapeutics, Inc. and MyoKardia, Inc., both biopharmaceutical companies. Mr. Perry holds a BA degree in History from the University of California, Berkeley, and a JD degree from the University of California, Davis.
+Mr. Perry brings to the Board operating and finance experience gained in a large corporate setting. He has varied experience in legal affairs and corporate governance, and a deep understanding of the roles and responsibilities of a corporate board. His financial expertise qualifies him to serve as an “audit committee financial expert” within the meaning of SEC rules.
+Independent Consultant
+Age
+:
+61
+Director Since
+: 2005
+Committees
+:
+AC
+16
+Table of Contents
+A. BROOKE SEAWELL
+A. Brooke Seawell has served since 2005 as a venture partner at New Enterprise Associates, and was a partner from 2000 to 2005 at Technology Crossover Ventures. He was executive vice president from 1997 to 1998 at NetDynamics, Inc., an application server software company, which was acquired by Sun Microsystems, Inc. He was senior vice president and chief financial officer from 1991 to 1997 of Synopsys, Inc., an electronic design automation software company. He serves on the board of directors of Tableau Software, Inc., a business intelligence software company, and several privately held companies. Mr. Seawell served on the board of directors of Glu Mobile, Inc., a publisher of mobile games, from 2006 to 2014, and of Informatica Corp., a data integration software company, from 1997 to 2015. Mr. Seawell is a member of the Stanford University Athletic Board and previously served on the Management Board of the Stanford Graduate School of Business. Mr. Seawell holds a BA degree in Economics and an MBA degree in Finance from Stanford University.
+Mr. Seawell brings to the Board operational expertise and senior management experience, including knowledge of the complex issues facing public companies, and a deep understanding of accounting principles and financial reporting. His financial expertise qualifies him to serve as an “audit committee financial expert” within the meaning of SEC rules and his significant financial community experience gives the Board an understanding of the methods by which companies can increase value for their stockholders.
+Venture Partner, New Enterprise Associates
+Age
+:
+69
+Director Since
+: 1997
+Committees
+:
+AC
+MARK A. STEVENS
+Mark A. Stevens
+has been the managing partner of S-Cubed Capital, a private family office investment firm, since 2012. He was a managing partner from 1993 to 2011 of Sequoia Capital, a venture capital investment firm, where he had been an associate for the preceding four years. Previously, he held technical sales and marketing positions at Intel Corporation, and was a member of the technical staff at Hughes Aircraft Co. Mr. Stevens serves as a member of the board of directors of Quantenna Communications, Inc., a provider of Wi-Fi solutions, and served from 2006 to 2012 as a member of the board of directors of Alpha and Omega Semiconductor Limited. He is a Trustee of the University of Southern California and a part-time lecturer at the Stanford University Graduate School of Business. Mr. Stevens holds a BSEE degree, a BA degree in Economics and an MS degree in Computer Engineering from the University of Southern California and an MBA degree from Harvard Business School.
+Mr. Stevens brings to the Board a deep understanding of the technology industry, and the drivers of structural change and high-growth opportunities. He provides valuable insight regarding corporate strategy development and the analysis of acquisitions and divestitures. His significant financial community experience gives the Board an understanding of the methods by which companies can increase value for their stockholders.
+Managing Partner, S-Cubed Capital
+Age
+:
+57
+Director Since
+: 2008
+(previously served 1993-2006)
+Committees
+:
+AC, NCGC
+17
+Table of Contents
+Information About the Board of Directors and Corporate Governance
+Independence of the Members of the Board of Directors
+Consistent with the requirements of NASDAQ, our Corporate Governance Policies require our Board to affirmatively determine that a majority of our directors do not have a relationship that would interfere with their exercise of independent judgment in carrying out their responsibilities and meet any other qualification requirements required by the SEC and NASDAQ. After considering all relevant relationships and transactions, the Board determined all members of the Board are “independent” as defined by NASDAQ’s rules and regulations, except for Mr. Huang, our President and CEO. Thus, as of the date of the mailing of this proxy statement, 92% of the members of our Board are independent. The Board also determined that all members of our AC, CC and NCGC are independent under applicable NASDAQ listing standards. In addition, Messrs. McCaffery, Perry and Seawell of the AC are “audit committee financial experts” under SEC rules.
+Board Leadership Structure
+We believe that all members of our Board should have an equal voice in the affairs and the management of NVIDIA. Consistent with this philosophy, while our Bylaws and Corporate Governance Policies allow for the appointment of a chairperson of the board, we have chosen at this time not to have one. Given that we do not have a chairperson of the board, the Board believes that our stockholders are best served at this time by having an independent Lead Director, who is an integral part of our Board structure and a critical aspect of effective corporate governance. The independent directors consider the role and designation of the Lead Director on an annual basis. Mr. Miller has been our Lead Director since 2009. Mr. Miller brings such skills and experience, as described above, to the role. In addition, Mr. Miller is the chairperson of our NCGC, which affords him increased engagement with Board governance and composition. While the CEO has primary responsibility for preparing the agendas for Board meetings and presiding over the portion of the meetings of the Board where he is present, our Lead Director has significant responsibilities, which are set forth in our Corporate Governance Policies, and include, in part:
+•
+Determining an appropriate schedule of Board meetings, seeking to ensure that the independent members of the Board can perform their duties responsibly while not interfering with the flow of our operations;
+•
+Working with the CEO, and seeking input from all directors and other relevant management, as to the preparation of the agendas for Board meetings;
+•
+Advising the CEO on a regular basis as to the quality, quantity and timeliness of the flow of information requested by the Board from our management with the goal of providing what is necessary for the independent members of the Board to effectively and responsibly perform their duties, and, although our management is responsible for the preparation of materials for the Board, the Lead Director may specifically request the inclusion of certain material; and
+•
+Coordinating, developing the agenda for, and moderating executive sessions of the independent members of the Board, and acting as principal liaison between the independent members of the Board and the CEO on sensitive issues.
+As discussed above, except for Mr. Huang, our Board is comprised of independent directors. The active involvement of these independent directors, combined with the qualifications and significant responsibilities of our Lead Director, provide balance on the Board and promote strong, independent oversight of our management and affairs.
+Role of the Board in Risk Oversight
+The Board is responsible for overseeing risk management at NVIDIA. The Board exercises direct oversight of strategic risks to NVIDIA and other risk areas not delegated to one of its committees. Our AC has the responsibility to consider and discuss our major financial risk exposures and the steps our management has taken to monitor and control these exposures. The AC also monitors compliance with certain legal and regulatory requirements and oversees the performance of our
+18
+Table of Contents
+internal audit function. Our NCGC monitors the effectiveness of our anonymous tip process and corporate governance guidelines, including whether they are successful in preventing illegal or improper liability-creating conduct. Our CC assesses and monitors whether any of our compensation policies and programs has the potential to encourage excessive risk-taking.
+Management periodically reports to the Board or relevant committee, which provides guidance on risk assessment and mitigation. Each committee charged with risk oversight reports up to the Board on those matters.
+Corporate Governance Policies of the Board of Directors
+The Board has documented our governance practices by adopting Corporate Governance Policies to ensure that the Board will have the necessary authority and practices in place to review and evaluate our business operations as needed and to make decisions that are independent of our management. The Corporate Governance Policies set forth the practices the Board follows with respect to board composition and selection, regular evaluations of the Board and its committees, board meetings and involvement of senior management, chief executive officer performance evaluation, and board committees and compensation. Our Corporate Governance Policies may be viewed under Corporate Governance in the Investor Relations section of our website at
+www.nvidia.com
+.
+Executive Sessions of the Board
+As required under NASDAQ’s listing standards, our independent directors have in the past met, and will continue to meet, regularly in scheduled executive sessions at which only independent directors are present. In Fiscal 2017, our independent directors met in executive session at all of the four regularly scheduled Board meetings.
+In addition, independent directors have in the past met, and will continue to meet, regularly in scheduled executive sessions with our CEO. In Fiscal 2017, our independent directors met in executive session with the CEO at all of the four regularly scheduled Board meetings.
+Director Attendance at Annual Meeting
+We do not have a formal policy regarding attendance by members of the Board at our annual meetings. We generally schedule a Board meeting in conjunction with our annual meeting and expect that all of our directors will attend each annual meeting, absent a valid reason. Ten of our twelve Board members attended our 2016 Meeting.
+Board Self-Assessments
+In Fiscal 2017, the NCGC oversaw an evaluation process, conducted at least annually, whereby outside corporate counsel for NVIDIA interviewed each director to obtain his or her evaluation of the Board as a whole, and of the committees on which he or she serves. The interviews solicited ideas from the directors about, among other things, improving quality of Board and/or committee oversight effectiveness regarding strategic direction, financial and audit matters, executive compensation and other key matters. The interviews also focused on Board process and identifying specific issues which should be discussed in the future. After these evaluations were complete, our outside corporate counsel summarized the results, reviewed with our Lead Director and then submitted the summary for discussion by the NCGC. Action plans were developed by the NCGC and recommended for discussion and approval by the full Board.
+In response to the evaluations conducted in Fiscal 2017, our Board implemented a quarterly self-assessment process to supplement its continuing annual self-assessment process. The quarterly self-assessment occurs at the end of each Board meeting during executive session with the CEO and outside legal counsel. During this quarterly self-assessment the Board discusses Board agenda and process as well as other Board matters with the goal of implementing any improvements immediately for future meetings.
+19
+Table of Contents
+Director Orientation and Continuing Education
+The NCGC and our General Counsel are responsible for director orientation programs and for director continuing education programs to assist directors in maintaining the skills and knowledge necessary or appropriate for the performance of their responsibilities. Orientation programs are designed to familiarize new directors with our businesses, strategies, and policies and to assist new directors in developing the skills and knowledge required for their service on the Board. Continuing education programs for directors may include a combination of internally developed materials and presentations, programs presented by third parties, and financial and administrative support for attendance at qualifying academic or other independent programs.
+Director Stock Ownership Guidelines
+The Board believes that directors should hold a significant equity interest in NVIDIA. Our Corporate Governance Policies require each non-employee director to hold a number of shares of our common stock with a value equal to six times the annual cash retainer for Board service during the period in which he or she serves as a director (or six times the base salary, in the case of the CEO). The shares may include vested deferred stock and shares held in trust and by immediate family members. Non-employee directors have until five years after their Board appointment to reach the ownership threshold. The stock ownership guidelines are intended to further align director interests with stockholder interests.
+Each of our non-employee directors and Mr. Huang currently meets or exceeds the stock ownership requirements. Furthermore, due to the level of their respective stock ownership, during Fiscal 2017, each of Messrs. Coxe, Huang and Stevens were required to make a filing with the Federal Trade Commission under the Hart-Scott-Rodino Antitrust Improvements Act of 1976 and pay a filing fee of $45,000 (or $280,000 in the case of Mr. Huang) as required. Consistent with our approach to compensation and perks, each of these individuals chose to pay this filing fee themselves.
+Hedging and Pledging Policy
+Our directors and executive officers may not hedge their ownership of NVIDIA stock, including trading in options, puts, calls, or other derivative instruments related to NVIDIA stock or debt. Directors and executive officers may not purchase NVIDIA stock on margin, borrow against NVIDIA stock held in a margin account, or pledge NVIDIA stock as collateral for a loan.
+Outside Advisors
+The Board and each of its principal committees may retain outside advisors and consultants of their choosing at our expense. The Board need not obtain management’s consent to retain outside advisors. In addition, the principal committees need not obtain either the Board’s or management’s consent to retain outside advisors.
+Code of Conduct
+We have a Code of Conduct that applies to our executive officers, directors and employees, including our principal executive officer, principal financial officer and principal accounting officer. We also have a Financial Team Code of Conduct that applies to our executive officers, directors and members of our finance, accounting and treasury departments. The Code of Conduct and the Financial Team Code of Conduct are available under Corporate Governance in the Investor Relations section of our website at
+www.nvidia.com
+. If we make any amendments to the Code of Conduct or the Financial Team Code of Conduct or grant any waiver from a provision of either code to any executive officer or director, we will promptly disclose the nature of the amendment or waiver on our website.
+We expect our directors, executives and employees to conduct themselves with the highest degree of integrity, ethics and honesty. Our credibility and reputation depend upon the good judgment, ethical standards and personal integrity of each director, executive and employee. In order to better protect us and our stockholders, we regularly review our Code of Conduct and related policies to ensure that they provide clear guidance to our directors, executives and employees.
+20
+Table of Contents
+Corporate Hotline
+We have established an independent corporate hotline to allow any employee to confidentially and anonymously lodge a complaint about any accounting, internal control, auditing, Code of Conduct or other matter of concern (unless prohibited by local privacy laws for employees located in the European Union).
+Stockholder Communications with the Board of Directors
+Stockholders who wish to communicate with the Board regarding nominations of directors or other matters may do so by sending written communications addressed to Timothy S. Teter, our Secretary, at NVIDIA Corporation, 2701 San Tomas Expressway, Santa Clara, California 95050. All stockholder communications we receive that are addressed to the Board will be compiled by our Secretary. If no particular director is named, letters will be forwarded, depending on the subject matter, to the chairperson of the AC, CC or NCGC. Matters put forth by our stockholders will be reviewed by the NCGC, which will determine whether these matters should be presented to the Board. The NCGC will give serious consideration to all such matters and will make its determination in accordance with its charter and applicable laws.
+Nomination of Directors
+The NCGC identifies, reviews and evaluates candidates to serve as directors and recommends candidates for election to the Board. The NCGC may engage a professional search firm to identify and assist the NCGC in identifying, evaluating and conducting due diligence on potential director nominees. The NCGC conducts any appropriate and necessary inquiries into the backgrounds and qualifications of possible candidates after considering the function and needs of the Board. The NCGC meets to discuss and consider the candidates’ qualifications and then selects a nominee for recommendation to the Board. For an explanation of the factors the NCGC considers when evaluating candidates and the Board as a whole, please see
+Director Qualifications
+above.
+The NCGC evaluates candidates proposed by stockholders using the same criteria as it uses for other candidates. Stockholders seeking to recommend a prospective nominee should follow the instructions under
+Stockholder Communications with the Board of Directors
+above. Stockholder submissions must include the full name of the proposed nominee, a description of the proposed nominee’s business experience for at least the previous five years, complete biographical information, a description of the proposed nominee’s qualifications as a director and a representation that the nominating stockholder is a beneficial or record owner of our stock. Any such submission must be accompanied by the written consent of the proposed nominee to be named as a nominee and to serve as a director if elected.
+In addition, in November 2016, our Board voluntarily adopted proxy access by amending our Bylaws. As a result, our Bylaws provide that under certain circumstances, information regarding a director candidate or candidates nominated by a stockholder or group of stockholders will be included in our proxy statement. Information will be included regarding the greater of two candidates or 20% of the Board, if nominated by a stockholder (or group of up to 20 stockholders) owning at least 3% of the voting power of our outstanding capital stock, continuously for at least three years. The stockholder or group must provide timely written notice of such nomination and the stockholder(s) and nominee must satisfy the other requirements specified in our Bylaws.
+Stockholders are advised to review our Bylaws and Corporate Governance Policies, which contain the requirements for director nominations. The NCGC did not receive any stockholder nominations during Fiscal 2017.
+Majority Vote Standard
+Our Bylaws provide that in a non-contested election if the votes cast
+FOR
+an incumbent director do not exceed the number of
+WITHHOLD
+votes, such incumbent director shall promptly tender his or her resignation to the Board. The NCGC will then review the circumstances surrounding the
+WITHHOLD
+vote and promptly make a recommendation to the Board on whether to accept or reject the resignation or whether other action should be taken. The Board will act on the
+21
+Table of Contents
+NCGC’s recommendation and publicly disclose its decision and the rationale behind it within 90 days from the date of certification of the stockholder vote.
+In a contested election, which is an election in which the number of nominees exceeds the number of directors to be elected, our directors will be elected by a plurality of the shares represented at any such meeting or by proxy and entitled to vote on the election of directors at that meeting. Under this provision, the directors receiving the greatest number of
+FOR
+votes will be elected.
+Board Meeting Information
+The Board met five times during Fiscal 2017, and held a two day meeting, during which the Board discussed the strategic direction of NVIDIA, explored and discussed new business opportunities and the product roadmap, and addressed challenges facing NVIDIA. We expect each Board member to attend each meeting of the Board and the committees on which he or she serves. Each Board member attended 75% or more of the meetings of the Board and of each committee on which he or she served.
+Committees of the Board of Directors
+The Board has three standing committees: an AC, a CC and a NCGC. Each of these committees operates under a written charter, which may be viewed under Corporate Governance in the Investor Relations section of our website at
+www.nvidia.com
+.
+The composition and various functions of our committees are set forth below. Committee assignments are determined based on background and the expertise which individual directors can bring to a committee. Our Board believes that rotations among committees are a good corporate governance practice which allows all members to be more fully informed regarding the full scope of the Board and our activities. In February 2017, upon the recommendations of the NCGC, the Board examined the composition and chairmanship of the Board’s committees and approved certain rotations, effective immediately following the 2017 Meeting as set forth below:
+AC
+CC
+NCGC
+Director
+Before 2017 Meeting
+After 2017 Meeting
+Before 2017 Meeting
+After 2017 Meeting
+Before 2017 Meeting
+After 2017 Meeting
+Robert K. Burgess
+Chair
+Tench Coxe
+Member
+Persis S. Drell
+Member
+James C. Gaither
+Member
+Jen-Hsun Huang*
+Dawn Hudson
+Member
+Harvey C. Jones
+Member
+Michael G. McCaffery
+Member
+William J. Miller
+Chair
+Mark L. Perry
+Chair
+A. Brooke Seawell
+Member
+Mark A. Stevens
+Member
+* Mr. Huang does not serve on any committees.
+22
+Table of Contents
+AC
+CC
+NCGC
+Fiscal 2017 Members
+Mark L. Perry (
+Chair
+)
+Michael G. McCaffery
+A. Brooke Seawell
+Mark A. Stevens
+Robert K. Burgess (
+Chair
+)
+Tench Coxe
+Persis S. Drell
+Dawn Hudson
+Harvey C. Jones
+William J. Miller (
+Chair
+)
+James C. Gaither
+Harvey C. Jones
+Mark A. Stevens
+Meetings in Fiscal 2017
+13
+6
+3
+•
+Oversees our corporate accounting and financial reporting process;
+•
+Oversees our internal audit function;
+•
+Determines and approves the engagement, retention and termination of the independent registered public accounting firm, or any new independent registered public accounting firm;
+•
+Evaluates the performance of and assesses the qualifications of our independent registered public accounting firm;
+•
+Reviews and approves the retention of the independent registered public accounting firm to perform any proposed permissible non-audit services;
+•
+Confers with management and our independent registered public accounting firm regarding the results of the annual audit, the results of our quarterly financial statements and the effectiveness of internal control over financial reporting;
+•
+Reviews the financial statements to be included in our quarterly report on Form 10-Q and annual report on Form 10-K;
+•
+Reviews earnings press releases, as well as the substance of financial information and earnings guidance provided to analysts on our quarterly earnings calls;
+•
+Prepares the report required to be included by the SEC rules in our annual proxy statement or annual report on Form 10-K; and
+•
+Establishes procedures for the receipt, retention and treatment of complaints we receive regarding accounting, internal accounting controls or auditing matters and the confidential and anonymous submission by employees of concerns regarding questionable accounting or auditing matters.
+•
+Reviews and approves our overall compensation strategy and policies;
+•
+Reviews and recommends to the Board the compensation of our Board members;
+•
+Reviews and approves the compensation and other terms of employment of Mr. Huang and other executive officers;
+•
+Reviews and approves corporate performance goals and objectives relevant to the compensation of our executive officers and other senior management;
+•
+Reviews and approves the disclosure contained in CD&A and considers whether to recommend that it be included in the proxy statement and Form 10-K;
+•
+Administers our stock option and purchase plans, variable compensation plans and other similar programs; and
+•
+Assesses and monitors whether any of our compensation policies and programs has the potential to encourage excessive risk-taking.
+•
+Identifies, reviews and evaluates candidates to serve as directors;
+•
+Recommends candidates for election to our Board;
+•
+Makes recommendations to the Board regarding committee membership and chairs;
+•
+Assesses the performance of the Board and its committees;
+•
+Reviews and assesses our corporate governance principles and practices;
+•
+Monitors changes in corporate governance practices and rules and regulations;
+•
+Approves related party transactions;
+•
+Establishes procedures for the receipt, retention and treatment of complaints we receive regarding violations of our Code of Conduct; and
+•
+Monitors the effectiveness of our anonymous tip process and corporate governance guidelines.
+23
+Table of Contents
+Director Compensation
+In reviewing our non-employee directors’ compensation for the year starting on the date of our 2016 Meeting, the CC consulted with Exequity and reviewed data from our Fiscal 2016 peer group. The CC subsequently recommended, and the Board approved, a mix of cash and equity awards for our non-employee directors with an approximate annual value of $300,000. This value approximates the average total annual compensation, both cash and equity, paid by technology peer companies of similar size and market capitalization to their non-employee directors. We refer to this as the 2016 Program. We do not pay any additional fees for serving as a chairperson or member of Board committees or for meeting attendance, and directors who are also employees do not receive any fees or equity compensation for service on the Board.
+Cash Compensation
+The cash portion of the annual retainer, representing $75,000 on an annualized basis, was paid quarterly.
+Equity Compensation
+2016 Program
+The value of the equity award, in the form of RSUs, was $225,000. The number of shares subject to each RSU equaled this value, divided by the average closing market price over the 60 calendar days ending the business day before the 2016 Meeting to smooth for any daily volatility. The RSUs were granted on the first trading day following the date of our 2016 Meeting.
+To correlate the vesting of the RSUs to the non-employee directors’ service on the Board and its committees over the following year, the RSUs vested as to 50% on November 16, 2016 (the third Wednesday in November 2016) and will vest as to the remaining 50% on May 17, 2017 (the third Wednesday in May 2017). If a non-employee director’s service terminates due to death, his or her RSU grants will immediately fully vest. Non-employee directors do not receive dividend equivalents on unvested RSUs.
+Deferral of Settlement
+Non-employee directors could elect to defer settlement of RSUs upon vesting, to be issued on the earliest of (a) the date of the director’s “separation from service” (as defined under Treasury Regulation Section 1.409A-1(h)), unless a six month delay would be required under such Section, (b) the date of a change in control of NVIDIA that also would constitute a “change in control event” (as defined under Treasury Regulation Section 1.409A-3(i)(5)), and (c) the third Wednesday in March of the year elected by the director, which year must have been no earlier than 2018. Messrs. Burgess, Gaither, Jones, McCaffery and Miller, and Ms. Hudson elected to defer settlement of the RSUs granted during Fiscal 2017.
+Other Compensation/Benefits
+Our non-employee directors are reimbursed for expenses incurred in attending Board and committee meetings, as well as in attending continuing educational programs pursuant to our Corporate Governance Policies. However, we do not offer change-in-control benefits to our directors, except for the change-in-control vesting acceleration provisions in our equity plans that are applicable to all holders of stock awards under such plans in the event that an acquiring company does not assume or substitute for such outstanding stock awards.
+24
+Table of Contents
+Fiscal 2017 Compensation
+The following table provides information regarding Fiscal 2017 compensation for our non-employee directors:
+Director Compensation for Fiscal 2017
+Name
+Fees Earned or Paid in Cash ($)
+Stock Awards ($)
+(1)
+Total ($)
+Robert K. Burgess
+75,000
+267,718
+342,718
+Tench Coxe
+75,000
+267,718
+342,718
+Persis S. Drell
+75,000
+267,718
+342,718
+James C. Gaither
+75,000
+267,718
+342,718
+Dawn Hudson
+75,000
+267,718
+342,718
+Harvey C. Jones
+75,000
+267,718
+342,718
+Michael G. McCaffery
+75,000
+267,718
+342,718
+William J. Miller
+75,000
+267,718
+342,718
+Mark L. Perry
+75,000
+267,718
+342,718
+A. Brooke Seawell
+75,000
+267,718
+342,718
+Mark A. Stevens
+75,000
+267,718
+342,718
+__________
+(1)
+On May 19, 2016, each non-employee director received his or her 2016 Program RSU grant for 6,213 shares. Amounts shown in this column do not reflect dollar amounts actually received by the director. Instead, these amounts reflect the aggregate full grant date fair value calculated in accordance with FASB Accounting Standards Codification Topic 718, or FASB ASC Topic 718, for awards granted during Fiscal 2017. The assumptions used in the calculation of values of the awards are set forth under Note 2 to our consolidated financial statements titled “Stock-Based Compensation” in our Form 10-K. The grant date fair value per share for these awards as determined under FASB ASC Topic 718 was $43.09.
+The following table provides information regarding the aggregate number of RSUs and stock options held by each of our non-employee directors as of January 29, 2017:
+Name
+RSUs
+Stock Options
+Name
+RSUs
+Stock Options
+Robert K. Burgess
+16,496
+66,041
+Michael G. McCaffery
+27,152
+—
+Tench Coxe
+3,107
+—
+William J. Miller
+28,704
+167,820
+Persis S. Drell
+24,046
+—
+Mark L. Perry
+3,107
+—
+James C. Gaither
+16,496
+47,269
+A. Brooke Seawell
+3,107
+132,820
+Dawn Hudson
+23,706
+105,177
+Mark A. Stevens
+3,107
+120,942
+Harvey C. Jones
+16,496
+—
+The following aggregate number of RSUs for which settlement was previously deferred were ultimately issued in Fiscal 2017: 2,361 RSUs for Dr. Drell, 12,208 RSUs for Mr. Gaither, 12,208 RSUs for Mr. Jones, and 2,361 RSUs for Mr. McCaffery.
+25
+Table of Contents
+Review of Transactions with Related Persons
+It is our policy that all employees, officers and directors must avoid any activity that is in conflict with, or has the appearance of conflicting with, our interests. This policy is included in our Code of Conduct and our Financial Team Code of Conduct. We conduct a review of all related party transactions for potential conflict of interest situations on an ongoing basis and all transactions involving executive officers or directors must be approved by the NCGC or another independent body of the Board. Except as discussed below, we did not conduct any transactions with related persons in Fiscal 2017 that would require disclosure in this proxy statement or approval by the NCGC.
+Transactions with Related Persons
+We have entered into indemnity agreements with our executive officers and directors which provide, among other things, that we will indemnify such executive officer or director, under the circumstances and to the extent provided for therein, for expenses, damages, judgments, fines and settlements he or she may be required to pay in actions or proceedings which he or she is or may be made a party by reason of his or her position as a director, executive officer or other agent of NVIDIA, and otherwise to the fullest extent permitted under Delaware law and our Bylaws. We intend to execute similar agreements with our future executive officers and directors.
+See the section below titled
+Employment, Severance and Change-in-Control Arrangements
+for a description of the terms of the 2007 Plan, related to a change-in-control of NVIDIA.
+During Fiscal 2017, we have granted RSUs to our non-employee directors, and RSUs and PSUs to our executive officers. See the section above titled
+Director Compensation
+and the section below titled
+Executive Compensation
+.
+26
+Table of Contents
+Security Ownership of Certain Beneficial Owners and Management
+The following table sets forth information as of January 29, 2017 as to shares of our common stock beneficially owned by each of our NEOs, each of our directors, all of our directors and executive officers as a group, and all known by us to be beneficial owners of 5% or more of our common stock. Beneficial ownership is determined in accordance with the SEC’s rules and generally includes voting or investment power with respect to securities as well as shares of common stock subject to options exercisable, or PSUs or RSUs that will vest, within 60 days of January 29, 2017.
+This table is based upon information provided to us by our executive officers and directors. Information about principal stockholders, other than percentages of beneficial ownership, is based solely on Schedules 13G/A filed with the SEC. Unless otherwise indicated and subject to community property laws where applicable, we believe that each of the stockholders named in the table has sole voting and investment power with respect to the shares indicated as beneficially owned. Percentages are based on 584,907,117 shares of our common stock outstanding as of January 29, 2017, adjusted as required by SEC rules.
+Name of Beneficial Owner
+Shares Owned
+Shares Issuable Within 60 Days
+Total Shares Beneficially Owned
+Percent
+NEOs:
+Jen-Hsun Huang
+21,481,120
+(1)
+2,090,460
+23,571,580
+4.02%
+Colette M. Kress
+22,999
+108,812
+131,811
+*
+Ajay K. Puri
+180,246
+306,748
+486,994
+*
+David M. Shannon
+269,048
+(2)
+84,363
+353,411
+*
+Debora Shoquist
+52,027
+102,925
+154,952
+*
+Directors, not including Mr. Huang:
+Robert K. Burgess
+45,796
+76,324
+122,120
+*
+Tench Coxe
+1,459,839
+(3)
+—
+1,459,839
+*
+Persis S. Drell
+3,106
+10,283
+13,389
+*
+James C. Gaither
+185,074
+(4)
+57,552
+242,626
+*
+Dawn Hudson
+6,104
+105,177
+111,281
+*
+Harvey C. Jones
+834,698
+(5)
+10,283
+844,981
+*
+Michael G. McCaffery
+2,361
+10,283
+12,644
+*
+William J. Miller
+290,000
+(6)
+167,820
+457,820
+*
+Mark L. Perry
+109,185
+(7)
+—
+109,185
+*
+A. Brooke Seawell
+130,000
+(8)
+132,820
+262,820
+*
+Mark A. Stevens
+1,936,819
+(9)
+120,942
+2,057,761
+*
+Directors and executive officers as a group (17 persons)
+27,008,422
+(10)
+3,384,792
+30,393,214
+5.17%
+5% Stockholders:
+FMR LLC
+69,928,236
+(11)
+—
+69,928,236
+11.96%
+The Vanguard Group, Inc.
+34,983,002
+(12)
+—
+34,983,002
+5.98%
+BlackRock, Inc.
+33,570,738
+(13)
+—
+33,570,738
+5.74%
+__________
+* Represents less than 1% of the outstanding shares of our common stock.
+27
+Table of Contents
+(1)
+Includes (a) 15,945,917 shares of common stock held by Jen-Hsun Huang and Lori Huang, as co-trustees of the Jen-Hsun and Lori Huang Living Trust, u/a/d May 1, 1995, or the Huang Trust; (b) 1,237,239 shares of common stock held by J. and L. Huang Investments, L.P., of which the Huang Trust is the general partner; (c) 557,000 shares of common stock held by The Huang 2012 Irrevocable Trust, of which Mr. Huang and his wife are co-trustees; (d) 769,705 shares of common stock held by The Jen-Hsun Huang 2016 Annuity Trust I, of which Mr. Huang is trustee; (e) 769,705 shares of common stock held by The Jen-Hsun Huang 2016 Annuity Trust II, of which Mr. Huang is trustee; (f) 769,705 shares of common stock held by The Lori Lynn Huang 2016 Annuity Trust I, of which Mr. Huang’s wife is trustee; and (g) 769,705 shares of common stock held by The Lori Lynn Huang 2016 Annuity Trust II, of which Mr. Huang’s wife is trustee. By virtue of their status as co-trustees of the Huang Trust and The Huang 2012 Irrevocable Trust, each of Mr. Huang and his wife may be deemed to have shared beneficial ownership of the shares referenced in (a) - (c), and to have shared power to vote or to direct the vote or to dispose of or direct the disposition of such shares.
+(2)
+Includes (a) 30,800 shares of common stock held by the Shannon Revocable Trust, of which Mr. Shannon and his wife are co-trustees and of which Mr. Shannon exercises shared voting and investment power; (b) 40,000 shares of common stock held by The David M. Shannon 2016 Annuity Trust dtd 10/12/16, of which Mr. Shannon is trustee; and (c) 40,000 shares of common stock held by The Maureen M. Shannon 2016 Annuity Trust dtd 10/12/16, of which Mr. Shannon‘s wife is trustee.
+(3)
+Includes (a) 171,312 shares of common stock held in a retirement trust over which Mr. Coxe exercises sole voting and investment power, and (b) 1,285,421 shares of common stock held in the Coxe Revocable Trust, of which Mr. Coxe and his wife are co-trustees and of which Mr. Coxe exercises shared voting and investment power. Mr. Coxe disclaims beneficial ownership in the shares held in the retirement trust and by the Coxe Revocable Trust, except to the extent of his pecuniary interest therein.
+(4)
+Includes 175,266 shares of common stock held by the James C. Gaither Revocable Trust U/A/D 9/28/2000, of which Mr. Gaither is the trustee and of which Mr. Gaither exercises sole voting and investment power.
+(5)
+Includes (a) 756,970 shares of common stock held in the H.C. Jones Living Trust, of which Mr. Jones is trustee and of which Mr. Jones exercises sole voting and investment power, and (b) (i) 21,840 shares of common stock owned by the Gregory C. Jones Trust, of which Mr. Jones is co-trustee and of which Mr. Jones exercises shared voting and investment power, (ii) 21,840 shares of common stock owned by the Carolyn E. Jones Trust, of which Mr. Jones is a co-trustee and of which Mr. Jones exercises shared voting and investment power, and (iii) 21,840 shares of common stock owned by the Harvey C. Jones III Trust, of which Mr. Jones is a co-trustee and of which Mr. Jones exercises shared voting and investment power, or collectively, the Jones Children Trusts. Mr. Jones disclaims beneficial ownership of the 65,520 shares of common stock held by the Jones Children Trusts, except to the extent of his pecuniary interest therein.
+(6)
+Represents shares of common stock held by the Millbor Family Trust, of which Mr. Miller and his wife are co-trustees and of which Mr. Miller exercises shared voting and investment power.
+(7)
+Includes 50,000 shares of common stock held by The Perry & Pena Family Trust, of which Mr. Perry and his wife are co-trustees and of which Mr. Perry exercises shared voting and investment power.
+(8)
+Represents shares of common stock held by the Rosemary & A. Brooke Seawell Revocable Trust U/A dated 1/20/2009, of which Mr. Seawell and his wife are co-trustees and of which Mr. Seawell exercises shared voting and investment power.
+(9)
+Includes 1,904,602 shares of common stock held by the 3rd Millennium Trust, of which Mr. Stevens and his wife are co-trustees and of which Mr. Stevens exercises shared voting and investment power.
+(10)
+Includes shares owned by all directors and executive officers.
+(11)
+This information is based solely on a Schedule 13G/A, dated February 13, 2017, filed with the SEC on February 14, 2017 by FMR LLC, or FMR, reporting its beneficial ownership as of December 30, 2016. The Schedule 13G/A reports that FMR has sole voting power with respect to 14,598,748 shares and sole dispositive power with respect to 69,928,236 shares. FMR is located at 245 Summer Street, Boston, Massachusetts 02210.
+(12)
+This information is based solely on a Schedule 13G/A, dated February 9, 2017, filed with the SEC on February 10, 2017 by The Vanguard Group, Inc., or Vanguard, reporting its beneficial ownership as of December 31, 2016. The Schedule 13G/A reports that Vanguard has sole voting power with respect to 837,592 shares and sole dispositive power with respect to 34,054,895 shares. Vanguard is located at 100 Vanguard Boulevard, Malvern, Pennsylvania 19355.
+(13)
+This information is based solely on a Schedule 13G/A, dated January 25, 2017, filed with the SEC on January 25, 2017 by BlackRock, Inc., or BlackRock, reporting its beneficial ownership as of December 31, 2016. The Schedule 13G/A reports that BlackRock has sole voting power with respect to 29,046,901 shares and sole dispositive power with respect to 33,570,783 shares. BlackRock is located at 55 East 52nd Street, New York, New York 10055.
+28
+Table of Contents
+Proposal 2—Approval of Executive Compensation
+What am I voting on?
+A non-binding vote, known as “say-on-pay,” to approve our Fiscal 2017 NEO compensation.
+Vote recommendation
+:
+FOR
+the approval of our Fiscal 2017 NEO compensation.
+Vote required
+: A majority of the shares present or represented by proxy.
+Effect of abstentions
+: Same as a vote AGAINST.
+Effect of broker non-votes
+: None.
+In accordance with Section 14A of the Exchange Act, we are asking our stockholders to vote on an advisory basis, commonly referred to as “say-on-pay”, to approve the compensation paid to our NEOs as disclosed in the CD&A, the compensation tables and the related narrative disclosure contained in this proxy statement. In response to our stockholders’ preference, our Board has adopted a policy of providing for annual “say-on-pay” votes. This vote is not intended to address any specific item of compensation, but rather the overall compensation of our NEOs and the philosophy, policies and practices described in this proxy statement.
+This advisory proposal is not binding on the Board or us. Nevertheless, the views expressed by the stockholders, whether through this vote or otherwise, are important to management and the Board and, accordingly, the Board and the CC intend to consider the results of this vote in making determinations in the future regarding NEO compensation arrangements.
+Recommendation of the Board
+The Board recommends that our stockholders adopt the following resolution:
+“
+R
+ESOLVED
+, that the compensation paid to the Company’s named executive officers, as disclosed pursuant to Item 402 of Regulation S-K, including the Compensation Discussion and Analysis, compensation tables and narrative discussion is hereby
+APPROVED
+.”
+.
+29
+Table of Contents
+Executive Compensation
+Compensation Discussion and Analysis
+This section describes the Fiscal 2017 executive compensation for our NEOs. Our CC, with input from its independent compensation consultant and management, oversees our NEO compensation program and determines pay for our NEOs. Our Fiscal 2017 NEOs were:
+Jen-Hsun Huang
+President and Chief Executive Officer
+Colette M. Kress
+Executive Vice President and Chief Financial Officer
+Ajay K. Puri
+Executive Vice President, Worldwide Field Operations
+David M. Shannon
+Executive Vice President, Chief Administrative Officer and Secretary*
+Debora Shoquist
+Executive Vice President, Operations
+*
+Mr. Shannon served in this role until the end of Fiscal 2017. As of the beginning of Fiscal 2018, Mr. Shannon continues to lead human resources and is no longer an executive officer.
+Table of Contents to Compensation Discussion and Analysis
+Page
+Executive Summary
+31
+The Evolution of Our Executive Pay Program
+32
+Executive Compensation Goals
+33
+Our Compensation Practices
+34
+How We Determine Executive Compensation
+35
+Fiscal 2017 Components of Pay
+38
+Compensation Actions and Achievement for Fiscal 2017
+39
+Additional Executive Compensation Practices, Policies and Procedures
+47
+30
+Table of Contents
+EXECUTIVE SUMMARY
+Executive Compensation Goals
+Consistent with our goal of attracting, motivating and retaining a high-caliber executive team, our executive compensation program is designed to pay for performance. We utilize compensation elements that meaningfully align our NEOs’ interests with those of our stockholders to create long-term value. As such, our NEO pay is heavily weighted toward “at-risk,” performance-based compensation, in the form of equity awards and variable cash that is only earned if we achieve multiple corporate financial metrics. In Fiscal 2017, “at-risk” pay for our CEO and other NEOs constituted 91% and 77%, respectively, of their total target pay.
+Fiscal 2017 Financial Highlights
+Please see
+Reconciliation of Non-GAAP Financial Measures
+in
+this
+Compensation Discussion and Analysis
+for a reconciliation between the non-GAAP measures and GAAP results.
+Say-on-Pay Feedback
+Our Fiscal 2016 executive compensation program received over 97% “say-on-pay” approval from our stockholders. After careful consideration of the results of this advisory vote and the feedback we received during our annual stockholder outreach efforts, our CC concluded that our program continues to align executive pay with stockholder interests. Accordingly, the CC determined not to make significant changes to our Fiscal 2017 executive pay program and to continue to evaluate and refine our program to strengthen the link between our corporate performance and our NEO pay, as further described under “The Evolution of Our Executive Pay Program”.
+Fiscal 2017 Executive Compensation Program
+31
+Table of Contents
+THE EVOLUTION OF OUR EXECUTIVE PAY PROGRAM
+Our CC has evolved our executive compensation program over the last several years in response to stockholder feedback as well as to further strengthen the link between our corporate performance and our NEO pay. Key changes to NEO compensation since 2013 include:
+•
+Transitioning equity compensation to 100% PSUs (comprised of 67% SY PSUs and 33% MY PSUs) for our CEO, and 100% RSUs and PSUs (the latter comprised of 91% SY PSUs and 9% MY PSUs) for our other NEOs, in Fiscal 2017
+•
+Increasing the proportion of “at-risk” compensation to total target pay
+•
+Introducing MY PSUs based on TSR
+•
+Establishing separate financial metrics for each separate type of performance-based compensation
+CEO Compensation
+______
+(1)
+Represents the cash payable under the Variable Cash Plan for Target Compensation Plan performance on the applicable goal.
+(2)
+Represents the aggregate fair value of the target amount of the equity awards the CC intended to deliver, when approved by the CC, for Target Compensation Plan performance on the annual Non-GAAP Operating Income goal for SY PSUs and on the relative 3-year TSR goal for MY PSUs.
+32
+Table of Contents
+Other NEO Compensation
+______
+(1)
+Represents the cash payable under the Variable Cash Plan for Target Compensation Plan performance on the applicable goal.
+(2)
+Represents the aggregate fair value of the target amount of the equity awards the CC intended to deliver, when approved by the CC. Our CC considers RSUs inherently “at-risk” pay because their value is dependent upon our stock price, a financial performance measure.
+(3)
+Represents the aggregate fair value of the target amount of the equity awards the CC intended to deliver, when approved by the CC, for Target Compensation Plan performance on the annual Non-GAAP Operating Income goal for SY PSUs and on the relative 3-year TSR goal for MY PSUs.
+(4)
+Includes compensation for Karen Burns, our then-interim Chief Financial Officer, instead of Ms. Kress, who was appointed Chief Financial Officer partway through Fiscal 2014.
+(5)
+Excludes a one-time sign-on bonus paid in Fiscal 2014 to Ms. Kress pursuant to her 2013 offer letter, and earned in Fiscal 2015 when Ms. Kress reached her anniversary of employment with us.
+(6)
+Excludes a one-time anniversary bonus paid in Fiscal 2015 to Ms. Kress pursuant to her 2013 offer letter, and earned in Fiscal 2016 when Ms. Kress reached her second anniversary of employment with us.
+EXECUTIVE COMPENSATION GOALS
+The primary goals for our executive compensation program are:
+•
+Attracting, motivating and retaining a high-caliber executive team to provide leadership for our success in a dynamic, competitive market
+–We design our executive compensation program to position NVIDIA competitively among the companies against which we recruit and compete for talent. Our CC considers the total compensation necessary to attract, motivate and retain our NEOs.
+•
+Paying for performance
+–Our NEOs’ compensation is heavily weighted toward “at-risk” compensation in the form of PSUs and variable cash compensation that are only earned upon achievement of pre-determined financial and operating performance metrics.
+•
+Aligning our NEOs’ interests with those of our stockholders to create long-term value
+–Our CC uses cash to reward NEOs for near-term results, and equity to further motivate NEOs to increase and sustain shareholder value in the longer term. Equity compensation aligns the interests of stockholders and NEOs by creating a strong, direct link between stock price appreciation and operational performance (where applicable) and the ultimate value that NEOs realize. Our CC believes that if our NEOs own a significant amount of shares, they will be motivated to maximize longer-term shareholder value instead of short-term gain. Therefore, equity represents a significant portion of the total target value of the annual compensation opportunity for each NEO.
+33
+Table of Contents
+OUR COMPENSATION PRACTICES
+Below are key elements of our compensation program, as well as problematic pay practices that we avoid:
+What We Do
+What We Don’t Do
+ü
+Heavily weight our NEO compensation toward “at-risk”, performance-based compensation
+ü
+Impose a 12-month minimum vesting requirement for all NEO equity awards
+ü
+Structure our SY PSUs and RSUs with 4-year vesting (and SY PSUs are additionally subject to an annual performance measure)
+ü
+Structure our MY PSUs with a 3-year performance measure
+ü
+Engage at least annually with our stockholders and corporate governance groups to discuss our executive compensation program and make changes to our pay practices based on their feedback
+ü
+Utilize separate, distinct metrics for the “at-risk” components of our compensation where the amount of the award is subject to achievement of performance criteria
+ü
+Grant a portion of our PSU awards with a multi-year performance metric for all NEOs
+ü
+Structure our executive compensation program to minimize inappropriate risk-taking
+ü
+Cap SY PSU, MY PSU and Variable Cash Plan payouts
+ü
+Select peer companies with which we compete with for executive talent, and that have a similar business and are of similar size as us, and review their pay practices
+ü
+Solicit advice from the CC’s independent compensation consultant
+ü
+Rely on long-standing, consistently-applied practices on the timing of equity grants
+ü
+Have meaningful stock ownership guidelines for NEOs
+ü
+Enforce “no-hedging” and “no-pledging” policies
+ü
+Maintain a “clawback” policy for the recovery of performance-based cash and equity compensation
+ü
+Make internal comparisons among executive officers when determining compensation
+ü
+Have three or more independent non-employee directors serve on the CC
+x
+Have employment contracts or severance agreements with NEOs providing for specific terms of employment or severance benefits, respectively
+x
+Provide change-in-control benefits to our executive officers
+x
+Provide for automatic equity vesting upon a change-in-control except for the provisions in our equity plans that are applicable to all of our employees if an acquiring company does not assume or substitute our outstanding stock awards
+x
+Offer our NEOs supplemental retirement benefits or perquisites that are not available to all NVIDIA employees
+x
+Provide tax gross-ups
+x
+Allow for the repricing of stock options without stockholder approval
+x
+Use discretion in performance incentive award determination
+x
+Pay dividends or dividend equivalents on unearned shares
+34
+Table of Contents
+HOW WE DETERMINE EXECUTIVE COMPENSATION
+Our CC makes all NEO compensation decisions. Below is the cycle by which our CC manages our executive compensation program.
+Our CC solicits the input of our CEO on all other NEO compensation and works with Exequity, the independent compensation consultant that reports directly to our CC and takes direction from our CC chairperson. The roles of the CC, its compensation consultant and management in determining our Fiscal 2017 NEO compensation program are summarized below.
+Management (CEO, Chief Financial Officer, Human Resources, Legal)
+•
+Our Chief Financial Officer and Human Resources and Legal departments (along with our Lead Director) conducted annual stockholder outreach efforts
+•
+Gathered peer group compensation data from the Radford Global Technology Survey based on parameters established by the CC
+•
+Developed and recommended to the CC performance goals for incentive plans based on annual financial operating plan, prior year results and market expectations
+•
+Conducted annual analysis and potential risk assessment related to compensation plans and structure and presented to the CC
+•
+Our CEO recommended to the CC the salary, target variable cash and target equity-based compensation to be awarded to our other NEOs
+Exequity
+•
+Reviewed and provided recommendations to the CC on the composition of our peer group
+•
+Analyzed the Radford survey data
+•
+Reviewed peer group and Radford data against our CEO’s pay
+•
+Conducted an analysis and review of our CEO’s compensation and advised our CC regarding his pay components
+•
+Advised the CC on equity grants to non-employee directors
+•
+Reviewed and provided feedback to the CC on our compensation risk analysis
+CC
+•
+Deliberated and made decisions regarding our CEO’s fiscal year salary, target variable cash and target equity-based compensation, as well as performance-based compensation payouts for the prior fiscal year
+•
+Solicited the input of the CEO in setting compensation for our other NEOs
+•
+Solely responsible for making all final NEO compensation decisions
+35
+Table of Contents
+During Fiscal 2017, our CC continued to use Exequity for its experience working with compensation committees at other technology companies, the familiarity of the senior consultant at Exequity with our compensation structure and the availability of Exequity to attend all regular CC meetings. Our CC analyzed whether the work of Exequity as a compensation consultant in Fiscal 2017 raised any conflict of interest, taking into consideration the following:
+•
+Exequity does not provide any services directly to NVIDIA (although NVIDIA does pay the cost of Exequity’s services on behalf of the CC)
+•
+The amount of fees paid to Exequity by NVIDIA as a percentage of Exequity’s total revenue
+•
+Exequity’s policies and procedures that are designed to prevent conflicts of interest
+•
+Any business or personal relationship of Exequity or its individual compensation advisors with an NEO
+•
+Any business or personal relationship of the individual compensation advisors with any member of our CC
+•
+Any NVIDIA stock owned by Exequity or its individual compensation advisors
+After considering these factors, our CC determined that the work of Exequity and its individual compensation advisors did not create any conflict of interest.
+Peer Companies and Market Compensation Data
+Exequity and our human resources department recommended, and our CC approved, our peer companies for Fiscal 2017, which were companies:
+•
+With which we think we generally compete for executive talent;
+•
+That have an established business, market presence, and complexity similar to us; and
+•
+That are of similar size to us as measured by revenue and market capitalization at roughly 0.5-3.5x NVIDIA.
+Our peer group for Fiscal 2017 remained the same as it was for Fiscal 2016, except the changes footnoted below:
+Fiscal 2017 Peer Group
+(1)
+Activision Blizzard
+Autodesk, Inc.
+Juniper Networks, Inc.
+Symantec Corporation
+Adobe Systems, Incorporated
+Citrix Systems Inc.
+Lam Research
+(2)
+Tesla Motors, Inc.
+(3)
+Advanced Micro Devices
+Electronic Arts, Inc.
+Micron Technology, Inc.
+VMWare
+(3)
+Agilent Technologies, Inc.
+Intuit, Inc.
+Network Appliance, Inc.
+Xilinx
+Analog Devices, Inc.
+__________
+(1)
+The following companies, previously each a Fiscal 2016 peer, were removed for Fiscal 2017: Altera Corporation (merged with Intel Corporation), Avago Technologies and Broadcom Corporation (merged with each other, resulting in a market capitalization above our targeted range), KLA-Tencor Corporation (planned acquisition by Lam Research), Marvell Technology Group (market capitalization below our targeted range), and SanDisk Corporation (merged with Western Digital).
+(2)
+Added because it had announced a planned acquisition of KLA-Tencor, a Fiscal 2016 peer.
+(3)
+Added because it has similar market presence and revenue.
+36
+Table of Contents
+As of late Fiscal 2016 when the CC determined our Fiscal 2017 peer group, our forecasted Fiscal 2016 revenue and market capitalization closely approximated our peer group’s median revenue and median market capitalization, respectively:
+Our CC reviews market practices and compensation data for our peer companies’ comparably-situated executives when making decisions about compensating our NEOs. Radford survey data is used to obtain compensation data for the companies in our peer group for the three major components of our compensation program and total target compensation. When reviewing and analyzing the amount of each major component and the total compensation opportunity for our NEOs, our CC reviews each component at the 25th, 50th and 75th percentiles of our peer companies’ comparably-situated executives for guidance. Our CC reviews these pay levels as reference points in its overall decision making, as indicative of the level of compensation necessary to attract, retain and motivate our NEOs. Our CC sets the actual amount of each element of compensation and the total compensation opportunity of each NEO based in part on its review of peer group data and in part on the factors discussed below and in
+Compensation Actions for Fiscal 2017
+.
+Factors Used in Determining Executive Compensation
+When establishing the elements of executive compensation, our CC may take into consideration one or more of the following factors. The relative weight, if any, given to each of the factors below varies with each individual NEO and with respect to each element of compensation at the sole discretion of our CC.
+ü
+The need to attract new talent to our executive team and retain existing talent in a highly competitive industry
+ü
+The need to motivate NEOs to address particular business challenges that are unique to any given year
+ü
+Feedback from our stockholders regarding our executive pay practices
+ü
+A review of an NEO’s current total compensation
+ü
+An NEO’s past performance and expected contribution to future results
+ü
+The CEO’s recommendations (other than for himself), because of his direct knowledge of the results delivered and leadership demonstrated by each NEO
+ü
+The Company’s performance and forecasted financial results
+ü
+The independent judgment of the members of our CC
+ü
+The trends in compensation paid to similarly situated officers at our peer companies
+ü
+The philosophy that the total compensation opportunity and the percentage of total compensation “at-risk” should increase with the level of responsibility
+ü
+The 25th, 50th and 75th percentiles of compensation paid to similarly situated executives at our peer companies based on the data gathered from the Radford Global Technology Survey
+ü
+The total compensation cost and stockholder dilution from executive compensation actions, in order to help us maintain a responsible cost structure for our compensation programs*
+ü
+Internal pay equity
+–
+an NEO’s responsibilities, the scope of each NEO’s position and the complexity of the department or function the NEO manages, relative to the NEO’s internal peers, compared to similarly situated executives
+__________
+*
+For a discussion of stock-based compensation cost, see Note 2 to our consolidated financial statements titled “Stock-Based Compensation” in our Form 10-K.
+37
+Table of Contents
+FISCAL 2017 COMPONENTS OF PAY
+The primary elements of NVIDIA’s Fiscal 2017 executive compensation program are summarized below:
+“Fixed” Compensation
+“At-Risk” Compensation
+Base Salary
+Variable Cash
+SY PSUs
+MY PSUs
+RSUs
+(1)
+Form
+Cash
+Equity
+Who Receives
+All NEOs
+All NEOs except the CEO
+When Granted or Determined
+Annually in Fiscal Q1
+On 3rd Wednesday in March
+On 3rd Wednesday in March and 6th business day of September
+(2)
+When Paid or Earned
+Paid retroactively to start of fiscal year, via biweekly payroll
+Earned after fiscal year end, paid the following April, if performance threshold achieved
+Shares eligible to vest determined after fiscal year end based on performance metric achievement
+Shares eligible to vest determined after 3rd fiscal year end based on performance metric achievement
+On each vesting date, subject to the NEO’s continued service on each such date
+Performance Measure
+N/A
+Revenue (determines cash payout)
+Non-GAAP Operating Income (determines number of shares eligible to vest)
+TSR relative to the S&P 500 (determines number of shares eligible to vest)
+N/A
+Performance Period
+N/A
+1 year
+3 years
+N/A
+Vesting
+N/A
+If performance threshold achieved, 25% on approximately the 1-year anniversary of the date of grant; 12.5% semi-annually thereafter
+If performance threshold achieved, 100% on approximately the 3-year anniversary of the date of grant
+For March 2016 awards, 25% on approximately the 1-year anniversary of the date of grant; 12.5% semi-annually thereafter
+For September 2016 awards, 25% on approximately the 1-year anniversary of the date of grant; 6.25% quarterly thereafter
+(3)
+Timeframe Emphasized
+Annual
+Long-term because of 4-year vesting schedule
+Long-term because of 3-year performance period
+Long-term because of 4-year vesting schedule
+Maximum Amount That Can Be Earned
+N/A
+200% of Variable Compensation Target
+200% of Target Compensation Plan SY PSU amount (capped at 150% for the CEO)
+Ultimate value delivered depends on stock price on date earned shares vest
+200% of Target Compensation Plan MY PSU amount (capped at 150% for the CEO)
+Ultimate value delivered depends on stock price on date earned shares vest
+100% of grant
+Ultimate value delivered depends on stock price on date shares vest
+_______
+(1)
+Our CC considers RSUs “at-risk” pay because the realized value depends on our stock price, which is a financial performance measure.
+(2)
+Beginning May 2016, NEO equity grants are effective on the 6th business day of March, and, if applicable, on the 6th business day of September.
+(3)
+Beginning May 2016, NEO equity grants vest 25% on approximately the 1-year anniversary of the date of grant and 6.25% quarterly thereafter.
+In addition to the above key elements of our NEOs’ compensation, we maintain medical, vision, dental and accidental death and disability insurance as well as time off and paid holidays for all of our NEOs, on the same basis as our other employees. Our NEOs, as well as our other full-time employees, are eligible to participate in our 2012 ESPP, unless otherwise prohibited by the rules of the Internal Revenue Service, and our 401(k) plan. We have a Company match under our 401(k) plan. In calendar 2016, we matched, on a dollar-for-dollar basis, each participant’s salary deferral contributions to the 401(k) plan, up to a maximum of $2,500, provided the participant was an employee on December 31, 2016. Each of our NEOs received a $2,500 match in Fiscal 2017 except for Mr. Huang, who did not participate in our 401(k) plan.
+38
+Table of Contents
+The features of our Fiscal 2017 compensation program were intended to align with the following objectives:
+Objectives of Fiscal 2017 Compensation Program
+ü
+Demonstrate our commitment to stockholder engagement and consideration by continuing features of our executive compensation program that they support
+ü
+Increase focus on “at-risk” pay, particularly long-term PSUs that only become eligible to vest based on achievement of specific performance goals
+ü
+Motivate our NEOs to achieve maximum results by giving them increased opportunity for reward upon financial, operational and stock price performance achievements
+ü
+Achieve strong alignment of our NEOs’ interests with those of our stockholders with the use of MY PSUs that only become eligible to vest based on our relative multi-year TSR performance against a widely-recognized benchmark
+ü
+Use different performance metrics for variable cash compensation, SY PSUs and MY PSUs to reward our NEOs separately for each performance achievement goal
+ü
+Maintain pay practices competitive with our peers by granting PSUs and RSUs, which helps us manage dilution and retain our NEOs
+ü
+Provide effective retention incentive award levels by granting equity to our NEOs in the form of RSUs and SY PSUs that are subject to a 4-year vesting schedule and MY PSUs that cliff vest after 3 years
+ü
+Reinforce our culture of stock ownership by increasing the value of equity granted to our NEOs
+COMPENSATION ACTIONS AND ACHIEVEMENTS FOR FISCAL 2017
+Stockholder Outreach
+We value feedback from our stockholders and maintain an annual stockholder outreach program to ensure that they view our pay practices as well-structured. During the Fall of 2015, we contacted our top 20 institutional stockholders (except for brokerage firms and institutional stockholders whom we know do not engage in individual conversations with issuers), representing an aggregate ownership of approximately 50%. Our Lead Director, Chief Financial Officer, Vice President of Corporate Affairs and Vice President of Human Resources ultimately held meetings with the corporate governance groups of stockholders representing an aggregate of approximately 30% of our common stock to obtain their feedback on our executive compensation. Several expressed support for our introduction in Fiscal 2016 of PSUs with a multi-year performance period as well as separate, distinct financial performance metrics for each component of our “at-risk” compensation.
+Total Target Compensation Approach
+In making Fiscal 2017 compensation decisions, our CC reviewed and considered each element of pay independently and in the context of overall target pay opportunity for each NEO. As part of that process, our CC also reviewed the target cash opportunity (base salary plus variable cash compensation), target equity opportunity and total target pay for similarly situated executives of our peer companies. The CC considered the factors discussed in
+Factors Used in Determining Executive Compensation
+above, the CC’s specific compensation objectives for Fiscal 2017 and, for NEOs other than the CEO, the CEO’s recommendation. Our CC did not use a formula or assign a particular weight to any one factor in determining each NEO’s target pay. Rather, our CC’s determination of the total target compensation, mix of cash and equity and fixed and “at-risk” pay opportunities was subjective for each NEO and was a function of the CC’s overall objectives for total pay positioning and balancing the pay mix. When the CC made changes to one element of pay, those changes were made primarily in the context of the levels of the other elements of pay, and resulting total target pay for such NEO. Resulting total target compensation for the NEOs was between the 50th and 75th percentile of the peer market data. In approving this structure, the CC was mindful that the value of equity awards granted would only be realized at above-market levels upon exceptional corporate performance.
+39
+Table of Contents
+Continued Emphasis on Long-Term, “At-Risk,” Performance-Based Equity Awards
+The CC determined that for our NEOs, long-term, “at-risk,” performance-based equity awards would again comprise a meaningful portion of their Fiscal 2017 total target compensation, and more so than in Fiscal 2016. Accordingly, each NEO received a greater portion of total target compensation for Fiscal 2017 in the form of equity awards, with the exception of Mr. Shannon, who announced his planned retirement in June 2016 and did not receive a mid-year RSU grant in Fiscal 2017, as described below. The CC emphasized long-term equity awards by increasing the size of the annual PSU component, which included MY PSUs most significantly for our CEO. The CC’s overall goal was to enhance the long-term, “at-risk” opportunities to drive results and increase alignment with stockholders while maintaining a sufficient level of annual cash compensation for competitive and retentive purposes. The PSUs and RSUs deliver additional long-term incentive and retentive benefits because the NEO must remain in service with us, the annual performance goal must be attained for SY PSUs, the MY PSUs are earned only after a 3-year performance period, and the SY PSUs and RSUs vest over a 4-year period.
+The CC concluded that a majority of the NEOs’ target equity opportunity should be “at-risk” and performance-based, and that, given Mr. Huang’s level of equity ownership and focus, 100% of his grant should be “at-risk” and performance-based, in order to tightly align his interest with stockholders. For each NEO other than Mr. Shannon and Mr. Huang, the CC delivered roughly 65% of the target equity opportunity in the form of PSUs and 35% of the target equity opportunity in the form of RSUs, which percentages fluctuated by NEO based on individual adjustments as determined by the CC. Due to Mr. Shannon’s planned retirement, he did not receive a mid-year RSU grant, and therefore, over 80% of Mr. Shannon’s target equity opportunity was in the form of PSUs. Mr. Huang’s target equity opportunity was granted 100% in the form of SY PSUs (which value is aligned with our Non-GAAP Operating income performance) and MY PSUs (which value is aligned with our relative stock price performance).
+Based primarily on an evaluation of market positioning, internal pay equity, individual performance and level of unvested equity for retention purposes, the CC used its judgment to determine a target equity opportunity value that it wanted to deliver to each NEO in Fiscal 2017 as described above. Generally, this target equity opportunity fell at the higher end of the peer market data, which the CC determined was appropriate based on the CC’s emphasis on long-term, “at-risk,” performance-based compensation and allowing for above-market rewards for exceptional corporate performance. To determine actual shares awarded to achieve the target equity opportunity value, the CC used the 120-day trailing average of our stock price, as opposed to our stock price on the grant date, to smooth for any daily volatility to inform it on the number of shares to deliver for RSUs and the target number of shares to deliver for SY PSUs and MY PSUs.
+For RSUs, our CC makes grants twice each year because it wants to re-assess our executive equity compensation mid-year. In Fiscal 2017, our CC granted RSUs to each NEO (other than Mr. Huang) in March 2016 representing 50% of the RSU target opportunity value that the CC established at the start of Fiscal 2017 for each such NEO. In August 2016, our CC reviewed the potential grant sizes for the second half of the year, based on the RSU target opportunity value established at the start of Fiscal 2017, and decided not to change the overall value awarded to the NEOs, except with respect to Mr. Shannon, who had announced his planned retirement and therefore did not receive a second RSU grant. However, due to the increase in our stock price at that time, the CC determined to decrease by 40% the number of RSUs comprising the other NEOs’ remaining 50% of the RSU target opportunity value. Therefore, in September 2016, the CC granted RSUs to each NEO, other than Mr. Huang and Mr. Shannon, representing another 50% of the RSU target opportunity value established at the start of Fiscal 2017 (with the number of RSUs decreasing by 40% compared to the first half of the year). All of the RSUs vest over a four year period beginning on the date of grant (with 25% vesting on approximately the one year anniversary of the date of grant), subject to each NEO’s continued service with us.
+For SY PSUs and MY PSUs, the target numbers of shares awarded to each NEO for Fiscal 2017 represented the numbers of shares eligible to vest upon achievement of Target Compensation Plan performance on the Fiscal 2017 Non-GAAP Operating Income goal and on the goal of TSR over a 3-year period relative to the S&P 500, respectively. For each of our NEOs, the minimum number of shares eligible to vest was 50% of the Target Compensation Plan number of shares for SY PSUs and 25% of the Target Compensation Plan number of shares for MY PSUs if Threshold performance was achieved, and the maximum number of shares eligible to vest was capped at 200% of the Target Compensation Plan number of shares
+40
+Table of Contents
+(or 150% for Mr. Huang) if Stretch Operating Plan performance was achieved. No shares were eligible to vest if Threshold performance was not achieved. If at least Threshold performance was achieved with respect to the SY PSUs, 25% of the eligible SY PSU shares would vest on the one-year anniversary of the grant date and 12.5% of the eligible SY PSU shares would vest every six months thereafter over the next three years, subject to each NEO’s continued service with us. If at least Threshold performance was achieved with respect to the MY PSUs, 100% of the eligible MY PSUs would vest at the end of the 3-year performance period. Shares underlying any PSUs that are not earned will be cancelled.
+Goals for Certain Performance-Based Compensation
+Based on the Fiscal 2017 strategic plan as approved by the Board, the CC set the following performance metrics and goals:
+Variable Cash Plan
+SY PSUs
+MY PSUs
+Performance Metric
+Revenue
+Non-GAAP Operating Income (see
+Definitions
+above)
+TSR relative to the S&P 500
+Performance Timeframe
+1 year
+3 years
+CC’s Rationale for Performance Metric
+Key indicator of our annual performance which drives value and contributes to Company’s long-term success
+Our executive team focuses on growth in the Company's specialized markets where our
+technologies did not previously exist; revenue growth is the best predictor of the Company's future success
+Distinct, separate metric from Non-GAAP Operating Income
+Key indicator of our annual performance which drives value and contributes to Company’s long-term success
+Reflects both our annual revenue generation and
+effective management of operating expenses
+To ensure long-term performance emphasis,
+structured to vest over a 4-year period
+Aligns directly with shareholder value creation over a 3-year period
+Provides direct comparison of our stock price
+performance (including dividends) against an
+index that represents a broader capital market
+with which we compete
+Relative (as opposed to absolute) nature of goals accounts for macroeconomic factors impacting the broader market and do not require financial forecasting
+Threshold Goal (25% payout for MY PSUs, 50% payout for Variable Cash and SY PSUs)
+(1)(2)
+$4,800 million
+$900 million
+25
+th
+percentile
+Target Compensation Plan Goal (100% payout)
+(2)
+$5,200 million
+$1,180 million
+50
+th
+percentile
+Stretch Operating Plan Goal (200% payout)
+(2)(3)
+$5,700 million
+$1,435 million
+75
+th
+percentile
+__________
+(1)
+Achievement less than the Threshold goal would result in no payout.
+(2)
+For achievement between Threshold and Target Compensation Plan and between Target Compensation Plan and Stretch Operating Plan, payouts would be determined using straight-line interpolation.
+(3)
+Our CEO’s SY PSU and MY PSU payouts were capped at 150% of Target Compensation Plan to help manage internal pay equity.
+41
+Table of Contents
+CC’s Rationale for Performance Goals
+The CC set the goals for our performance metrics after careful evaluation of the levels necessary to achieve the desired objectives of our executive pay program, with the following rationales:
+Variable Cash Plan
+SY PSUs
+MY PSUs
+Stretch Operating Plan goals require significant achievement; only possible with strong market factors and a very high level of management execution and corporate performance
+ü
+Target Compensation Plan goals:
+•
+Attainable with significant effort and success in execution, and was not certain
+ü
+•
+Include budgeted investments in future growth businesses and revenue growth (as well as, for SY PSUs and MY PSUs, gross margin growth) that take into account both macroeconomic conditions and reasonable but challenging growth estimates for our ongoing and new businesses
+ü
+•
+Set higher than Fiscal 2016 actual revenue and actual Non-GAAP Operating Income, as applicable, to recognize strong growth performance
+ü
+•
+Relative TSR performance must be at or above 50
+th
+percentile of market to earn awards at competitive compensation levels
+ü
+Threshold goals appropriately decelerate payout below Target Compensation Plan; set at attainable levels, high enough to create modest value, but not certain
+ü
+Fiscal 2017 Achievement
+The CC reviewed our Fiscal 2017 financial results against the compensation targets set at the beginning of the year:
+Variable Cash Plan
+________
+(1)
+Fiscal 2017 Threshold was set close to Fiscal 2016 actual achievement. Thus, our CC provided a greater Fiscal 2017 Threshold payout opportunity of 50% (compared to 25% in Fiscal 2016).
+42
+Table of Contents
+SY PSUs
+________
+(1)
+Fiscal 2017 Threshold was set close to Fiscal 2016 actual achievement. Thus, our CC provided a greater Fiscal 2017 Threshold payout opportunity of 50% (compared to 25% in Fiscal 2016).
+(2)
+See
+Definitions
+above.
+MY PSUs
+Achievement of the MY PSU goals for grants in Fiscal 2016 will be determined after January 28, 2018, the ending date of the three year measurement period for the MY PSUs granted in Fiscal 2016.
+Achievement of the MY PSU goals for grants in Fiscal 2017 will be determined after January 27, 2019, the ending date of the three year measurement period for the MY PSUs granted in Fiscal 2017.
+43
+Table of Contents
+Target Fiscal 2017 Compensation Decisions
+Below is a summary, for each NEO separately, of the target Fiscal 2017 compensation decisions and changes made by the CC. All target equity compensation values presented below reflect the target aggregate fair value of equity awards at the time of CC approval. In making the NEO Fiscal 2017 compensation decisions and changes, the CC considered the factors set forth in
+Factors Used in Determining Executive Compensation
+and focused primarily on the overall target pay opportunity for each NEO. For all of our NEOs, increases in overall target pay opportunities were delivered primarily, or entirely, in the form of increases to performance-based equity opportunities, in line with the CC’s goal to deliver a substantial, and greater, proportion of target compensation in the form of such awards that align our NEO interests with those of our stockholders and our company performance over the longer-term. Differences amongst individual NEO target pay levels were a result of different pay markets for different positions, and subjective factors considered by the CC relating to individual performance, capability and contributions, as based on Mr. Huang’s assessment (other than for himself), and internal pay equity among our NEOs.
+Jen-Hsun Huang - President, Chief Executive Officer and Director
+Fiscal 2016 Pay ($)
+Fiscal 2017 Pay ($)
+Change
+Fiscal 2017 Pay Relative to Peer Group (percentile)
+Fiscal 2017 Shares
+Threshold
+Target Compensation Plan
+Stretch Operating Plan
+Target Cash
+2,000,000
+—
+Base Salary
+1,000,000
+Target Variable Cash
+1,000,000
+(1)
+Target Equity
+7,000,000
+8,640,000
+up 23%
+SY PSUs
+4,600,000
+5,760,000
+95,000
+190,000
+285,000
+(2) (3)
+MY PSUs
+2,400,000
+2,880,000
+47,500
+95,000
+142,500
+(2)
+Target Total
+9,000,000
+10,640,000
+up 18%
+50th
+(4)
+__________
+(1)
+Based on our revenue achievement of 200% of Target Compensation Plan, Mr. Huang earned $2,000,000.
+(2)
+Stretch Operating Plan payout capped at 150% of Target Compensation Plan to help manage internal pay equity.
+(3)
+Based on Non-GAAP Operating Income achievement, the Stretch Operating Plan number of SY PSUs became eligible to vest over a four-year period beginning on the date of grant, with 25% vesting on March 15, 2017.
+(4)
+Market position of target total compensation was set at the median as a result of the CC’s objective to balance internal pay equity with other NEOs and external market competitiveness with other peer CEOs. Mr. Huang’s Fiscal 2017 target equity compensation reflected an increase to bring it closer to market practices for our peer companies’ CEOs, while still remaining at the median of market, which the CC determined was appropriate to emphasize performance-based equity compensation in particular for Mr. Huang due to his responsibility as CEO.
+44
+Table of Contents
+Colette M. Kress - Executive Vice President and Chief Financial Officer
+Fiscal 2016 Pay ($)
+(1)
+Fiscal 2017 Pay ($)
+Change
+Fiscal 2017 Pay Relative to Peer Group (percentile)
+Fiscal 2017 Shares
+Threshold
+Target Compensation Plan
+Stretch Operating Plan
+Target Cash
+1,050,000
+—
+Base Salary
+775,000
+Target Variable Cash
+275,000
+(2)
+Target Equity
+2,392,335
+3,011,500
+up 26%
+SY PSUs
+1,358,610
+1,811,797
+27,750
+55,500
+111,000
+(3)
+MY PSUs
+147,675
+195,870
+3,000
+6,000
+12,000
+RSUs
+886,050
+1,003,833
+(4)
+Target Total
+3,442,335
+4,061,500
+up 18%
+50th
+(5)
+__________
+(1)
+Excludes an anniversary bonus of $1.0 million earned in Fiscal 2016 pursuant to Ms. Kress’ offer letter. The CC determined that this special bonus was necessary to attract Ms. Kress, in consideration of her compensation opportunity at her prior employer.
+(2)
+Based on our revenue achievement of 200% of Target Compensation Plan, Ms. Kress earned $550,000.
+(3)
+Based on Non-GAAP Operating Income achievement, the Stretch Operating Plan number of SY PSUs became eligible to vest over a four-year period beginning on the date of grant, with 25% vesting on March 15, 2017.
+(4)
+In Fiscal 2017, Ms. Kress was granted a total of 30,750 RSUs.
+(5)
+Market position of target total compensation was set at the median as a result of the CC’s objective to provide external market competitiveness with other peer chief financial officers. The target total compensation increase for Fiscal 2017 was structured primarily in the form of performance-based equity, to further align Ms. Kress’ interests with stockholders and long-term company performance.
+Ajay K. Puri - Executive Vice President, Worldwide Field Operations
+Fiscal 2016 Pay ($)
+Fiscal 2017 Pay ($)
+Change
+Fiscal 2017 Pay Relative to Peer Group (percentile)
+Fiscal 2017 Shares
+Threshold
+Target Compensation Plan
+Stretch Operating Plan
+Target Cash
+1,350,000
+1,400,000
+(1)
+up 4%
+Base Salary
+875,000
+900,000
+Target Variable Cash
+475,000
+500,000
+Target Equity
+2,549,855
+3,119,350
+up 22%
+SY PSUs
+1,417,680
+1,878,143
+28,750
+57,500
+115,000
+(2)
+MY PSUs
+147,675
+195,980
+3,000
+6,000
+12,000
+RSUs
+984,500
+1,045,227
+(3)
+Target Total
+3,899,855
+4,519,350
+up 16%
+75th
+(4)
+__________
+(1)
+Mr. Puri’s base salary and target variable cash were increased in Fiscal 2017 due to his level of responsibility as head of worldwide field operations; a greater proportion of his cash increase was in the form of variable cash to further align his interest with our stockholders. Based on our revenue achievement of 200% of Target Compensation Plan, Mr. Puri earned $1,000,000.
+(2)
+Based on Non-GAAP Operating Income achievement, the Stretch Operating Plan number of SY PSUs became eligible to vest over a four-year period beginning on the date of grant, with 25% vesting on March 15, 2017.
+(3)
+In Fiscal 2017, Mr. Puri was granted a total of 32,000 RSUs.
+(4)
+Market position of total target compensation was set at the 75th percentile due to Mr. Puri’s revenue-generating position as head of worldwide field operations and his role in helping the Company enter into new markets. The target total compensation increase for Fiscal 2017 was structured largely in the form of performance-based equity, to further align Mr. Puri’s interests with our stockholders and long-term company performance.
+45
+Table of Contents
+David M. Shannon - Executive Vice President, Chief Administrative Officer and Secretary*
+Fiscal 2016 Pay ($)
+Fiscal 2017 Pay ($)
+Change
+Fiscal 2017 Pay Relative to Peer Group (percentile)
+Fiscal 2017 Shares
+Threshold
+Target Compensation Plan
+Stretch Operating Plan
+Target Cash
+1,000,000
+—
+Base Salary
+800,000
+Target Variable Cash
+200,000
+(1)
+Target Equity
+1,506,285
+1,365,300
+down 9%
+SY PSUs
+984,500
+1,046,730
+17,250
+34,500
+69,000
+(2)
+MY PSUs
+78,760
+84,952
+1,400
+2,800
+5,600
+RSUs
+443,025
+233,618
+(3)
+Target Total
+2,506,285
+2,365,300
+down 6%
+50th
+(4)
+__________
+*
+Mr. Shannon served in this role until the end of Fiscal 2017. As of the beginning of Fiscal 2018, Mr. Shannon continues to lead human resources and is no longer an executive officer.
+(1)
+Based on our revenue achievement of 200% of Target Compensation Plan, Mr. Shannon earned $400,000.
+(2)
+Based on Non-GAAP Operating Income achievement, the Stretch Operating Plan number of SY PSUs became eligible to vest over a four-year period beginning on the date of grant, with 25% vesting on March 15, 2017.
+(3)
+In Fiscal 2017, Mr. Shannon was granted a total of 7,700 RSUs, representing the first 50% of the RSU value to be delivered. No additional RSU grant was made to Mr. Shannon after he announced his planned retirement.
+(4)
+Market position of total target compensation was set at the median due to responsibility and scope as head of human resources and legal, but decreased from Fiscal 2016 due to Mr. Shannon’s planned retirement.
+Debora Shoquist - Executive Vice President, Operations
+Fiscal 2016 Pay ($)
+Fiscal 2017 Pay ($)
+Change
+Fiscal 2017 Pay Relative to Peer Group (percentile)
+Fiscal 2017 Shares
+Threshold
+Target Compensation Plan
+Stretch Operating Plan
+Target Cash
+850,000
+—
+Base Salary
+700,000
+Target Variable Cash
+150,000
+(1)
+Target Equity
+1,752,410
+2,104,850
+up 20%
+SY PSUs
+984,500
+1,272,700
+19,500
+39,000
+78,000
+(2)
+MY PSUs
+118,140
+130,533
+2,000
+4,000
+8,000
+RSUs
+649,770
+701,617
+(3)
+Target Total
+2,602,410
+2,954,850
+up 14%
+65th
+(4)
+__________
+(1)
+Based on our revenue achievement of 200% of Target Compensation Plan, Ms. Shoquist earned $300,000.
+(2)
+Based on Non-GAAP Operating Income achievement, the Stretch Operating Plan number of SY PSUs became eligible to vest over a four-year period beginning on the date of grant, with 25% vesting on March 15, 2017.
+(3)
+In Fiscal 2017, Ms. Shoquist was granted a total of 21,500 RSUs.
+(4)
+Market position of total target compensation was set at the 65th percentile due to responsibility and scope as head of chips and systems operations, facilities and information technology. The target total compensation increase for Fiscal 2017 was structured primarily in the form of performance-based equity, to further align Ms. Shoquist’s interests with stockholders and long-term company performance.
+46
+Table of Contents
+ADDITIONAL EXECUTIVE COMPENSATION PRACTICES, POLICIES AND PROCEDURES
+Stock Ownership Guidelines
+The Board believes that executive officers should hold a significant equity interest in NVIDIA. Our Corporate Governance Policies require the CEO to hold a number of shares of our common stock with a value equal to six times his base salary, and our other NEOs to hold a number of shares of our common stock with a value equal to his or her respective base salary. The shares may include shares held in trust and by immediate family members. NEOs have up to five years from appointment to reach the ownership threshold. The stock ownership guidelines are intended to further align NEO interests with stockholder interests.
+Each of our NEOs currently exceeds the stock ownership requirements. Mr. Huang holds stock with a value equal to 2,400 times his annual base salary, based on our closing price as of January 27, 2017, the last business day of Fiscal 2017. Each of our other NEOs holds stock with a value equal to three times or more his or her respective base salary, based on our closing price as of January 27, 2017.
+Due to the level of his stock ownership, during Fiscal 2017, Mr. Huang was required to make a filing with the Federal Trade Commission and pay a $280,000 filing fee as required under the Hart-Scott-Rodino Antitrust Improvements Act of 1976. Consistent with our approach to compensation and perks, Mr. Huang chose to pay this filing fee himself.
+Compensation Recovery (“Clawback”) Policy
+In April 2009, our Board adopted a Compensation Recovery Policy which covers all of our employees. Under this policy, if we are required to prepare an accounting restatement to correct an accounting error on an interim or annual financial statement included in a report on Form 10-Q or Form 10-K due to material noncompliance with any financial reporting requirement under the federal securities laws, or a Restatement, and if the Board or a committee of independent directors concludes that our CEO, our Chief Financial Officer or any other officer or employee received a variable compensation payment that would not have been payable if the original interim or annual financial statements reflected the Restatement, then under the Compensation Recovery Policy:
+•
+Our CEO and our Chief Financial Officer will be required to disgorge the net after-tax amount of that portion of the variable compensation payment that would not have been payable if the original interim or annual financial statements reflected the Restatement; and
+•
+The Board or the committee of independent directors may require any other officer or employee to repay all (or a portion of) the variable compensation payment that would not have been payable if the original interim or annual financial statements reflected the Restatement, as determined by the Board or such committee in its sole discretion. In using its discretion, the Board or the independent committee may consider whether such person was involved in the preparation of our financial statements or otherwise caused the need for the Restatement and may, to the extent permitted by applicable law, recoup amounts by (1) requiring partial or full repayment by such person of any variable or incentive compensation or any gains realized on the exercise of stock options or on the open-market sale of vested shares, (2) canceling (in full or in part) any outstanding equity awards held by such person and/or (3) adjusting the future compensation of such person.
+We will review and update the Compensation Recovery Policy as necessary for compliance with the clawback policy provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act when the final regulations related to that policy are issued.
+Tax and Accounting Implications
+Section 162(m) of the Internal Revenue Code limits the amount that we may deduct from our federal income taxes for remuneration paid to our CEO and our three most highly compensated executive officers (other than our Chief Financial
+47
+Table of Contents
+Officer) to $1 million per person covered per year, unless certain requirements are met. Section 162(m) of the Internal Revenue Code provides an exception from this deduction limitation for certain forms of “performance-based compensation”. While our CC is mindful of the benefit to NVIDIA’s performance of full deductibility of compensation, our CC believes that it should not be constrained by the requirements of Section 162(m) of the Internal Revenue Code where those requirements would impair flexibility in compensating our NEOs in a manner that can best promote our corporate objectives. Therefore, our CC has not adopted a policy that requires that all compensation be deductible and approval of compensation, including the grant of “performance-based compensation” to our NEOs, by our CC is not a guarantee of deductibility under the Internal Revenue Code. Our CC intends to continue to compensate our NEOs in a manner consistent with the best interests of NVIDIA and our stockholders.
+Our CC also considers the impact of Section 409A of the Internal Revenue Code, and in general, our executive plans and programs are designed to comply with the requirements of that section so as to avoid the possible adverse tax consequences that may arise from non-compliance.
+Reconciliation of Non-GAAP Financial Measures
+A reconciliation between our Non-GAAP Operating Income and GAAP operating income is as follows:
+Fiscal 2017
+Fiscal 2016
+GAAP operating income
+$
+1,934
+$
+747
+Stock-based compensation expense
+248
+205
+Legal settlement costs
+16
+—
+Acquisition-related costs
+16
+22
+Contributions
+4
+—
+Restructuring and other charges
+3
+131
+Product warranty charge
+—
+20
+Non-GAAP Operating Income
+$
+2,221
+$
+1,125
+48
+Table of Contents
+Risk Analysis of Our Compensation Plans
+With the oversight of the CC, members from the Company’s legal, human resources and finance departments, collectively Management, and Exequity, the independent consultant engaged by the CC, performed an assessment of the Company’s compensation programs and policies for Fiscal 2017 as generally applicable to our employees to ascertain any potential material risks that may be created by our compensation programs. The assessment focused on programs with variability of payout and the ability of participants to directly affect payout and the controls over participant action and payout. Specifically, Management and Exequity reviewed the Company’s variable cash compensation and equity compensation programs. Management and Exequity identified the key terms of these programs, potential concerns regarding risk taking behavior and specific risk mitigation features. Management’s assessment was first presented to our Senior Vice President, Human Resources, our Chief Financial Officer and our General Counsel. The assessment was then presented to the CC.
+The CC considered the findings of the assessment described above and concluded that our compensation programs, which are structured to recognize both short-term and long-term contributions to the Company, do not create risks which are reasonably likely to have a material adverse effect on our business or financial condition.
+The CC believes that the following compensation design features guard against excessive risk-taking:
+Compensation Design Features that Guard Against Excessive Risk-Taking
+ü
+Our compensation program encourages our employees to remain focused on both our short-term and long-term goals
+ü
+We design our variable cash and PSU compensation programs for executives so that payouts are based on achievement of corporate performance targets, and we cap the potential award payout
+ü
+We have internal controls over our financial accounting and reporting which is used to measure and determine the eligible compensation awards under our Variable Cash Plan and our SY PSUs
+ü
+Financial plan target goals and final awards under our Variable Cash Plan and our SY PSUs are approved by the CC and consistent with the annual operating plan approved by the full Board each year
+ü
+MY PSUs are designed with a relative goal
+ü
+We have a compensation recovery policy applicable to all employees that allows NVIDIA to recover compensation paid in situations of fraud or material financial misconduct
+ü
+All executive officer equity awards have multi-year vesting
+ü
+We have stock ownership guidelines that we believe are reasonable and are designed to align our executive officers’ interests with those of our stockholders
+ü
+We enforce a “no-hedging” policy and a “no-pledging” policy involving our common stock which prevents our employees from insulating themselves from the effects of NVIDIA stock price performance
+49
+Table of Contents
+Summary Compensation Table for Fiscal 2017, 2016 and 2015
+The following table summarizes information regarding the compensation earned by our NEOs during Fiscal 2017, 2016 and 2015. Fiscal 2017 and 2015 were 52-week years and Fiscal 2016 was a 53-week year.
+Name and Principal Position
+Fiscal
+Year
+Salary
+($)
+Bonus
+($)
+Stock
+Awards ($)
+(1)
+Non-Equity
+Incentive Plan
+Compensation
+($)
+(2)
+All Other
+Compensation
+($)
+Total
+($)
+Jen-Hsun Huang
+2017
+996,216
+—
+9,188,400
+2,000,000
+9,622
+(3)
+12,194,238
+President and Chief Executive Officer
+2016
+1,018,941
+—
+7,456,900
+1,490,566
+4,694
+(4)
+9,971,101
+2015
+998,418
+—
+6,896,000
+1,400,000
+2,622
+(5)
+9,297,040
+Colette M. Kress
+2017
+769,609
+—
+3,299,770
+550,000
+4,286
+(6)
+4,623,665
+Executive Vice President and Chief Financial Officer
+2016
+789,680
+1,000,000
+(7)
+2,692,935
+409,906
+3,710
+(6)
+4,896,231
+2015
+773,774
+1,500,000
+(8)
+2,247,920
+550,000
+3,210
+(6)
+5,074,904
+Ajay K. Puri
+2017
+889,573
+—
+3,378,130
+1,000,000
+11,283
+(9)
+5,278,986
+Executive Vice President, Worldwide Field Operations
+2016
+891,574
+—
+2,865,555
+708,019
+10,096
+(9)
+4,475,244
+2015
+873,616
+—
+1,734,325
+750,000
+9,024
+(6)
+3,366,965
+David M. Shannon
+2017
+794,435
+—
+1,442,128
+400,000
+10,225
+(6)
+2,646,788
+Executive Vice President, Chief Administrative Officer and Secretary*
+2016
+815,153
+—
+1,688,220
+298,113
+9,656
+(6)
+2,811,142
+2015
+798,735
+—
+1,455,830
+400,000
+6,511
+(6)
+2,661,076
+Debora Shoquist
+2017
+695,131
+—
+2,278,170
+300,000
+10,024
+(6)
+3,283,325
+Executive Vice President, Operations
+2016
+713,259
+—
+1,977,660
+223,585
+9,524
+(6)
+2,924,028
+2015
+698,893
+—
+1,510,205
+300,000
+9,024
+(6)
+2,518,122
+__________
+*
+Mr. Shannon served in this role until the end of Fiscal 2017. As of the beginning of Fiscal 2018, Mr. Shannon continues to lead human resources and is no longer an executive officer.
+(1)
+Amounts shown in this column do not reflect dollar amounts actually received by the NEO. Instead, these amounts reflect the aggregate full grant date fair value calculated in accordance with FASB ASC Topic 718 for the respective fiscal year. The assumptions used in the calculation of values of the awards are set forth under Note 2 to our consolidated financial statements titled “Stock-Based Compensation” in our Form 10-K. With regard to the NEOs’ stock awards with performance-based vesting conditions, the reported grant date fair value assumes the probable outcome of the conditions at Target Compensation Plan, determined in accordance with applicable accounting standards. Based on the performance that was actually achieved for SY PSUs in Fiscal 2017, the grant date fair values of all stock awards would be $12,161,900 for Mr. Huang, $5,036,920 for Ms. Kress, $5,177,880 for Mr. Puri, $2,521,978 for Mr. Shannon and $3,498,870 for Ms. Shoquist.
+(2)
+As applicable, reflects amounts earned in Fiscal 2017, 2016 and 2015 and paid in March or April of each respective year pursuant to our Variable Cash Plan for each respective year. For further information please see our
+Compensation Discussion and Analysis
+above.
+(3)
+Represents an award for the filing of patents of which Mr. Huang is a named inventor with the U.S. Patent and Trademark Office, a contribution to a health savings account and imputed income from life insurance coverage. These benefits are available to all eligible NVIDIA employees.
+(4)
+Represents a contribution to a health savings account and imputed income from life insurance coverage. These benefits are available to all eligible NVIDIA employees.
+(5)
+Represents imputed income from life insurance coverage, which we provide to all eligible NVIDIA employees.
+(6)
+Represents a match of contributions to our 401(k) savings plan and imputed income from life insurance coverage, which we provide to all eligible employees.
+(7)
+Represents an anniversary bonus paid in Fiscal 2015 that was earned in Fiscal 2016.
+(8)
+Represents a sign-on bonus paid in Fiscal 2014 that was earned in Fiscal 2015.
+(9)
+Represents a match of contributions to our 401(k) savings plan, a contribution to a health savings account and imputed income from life insurance coverage, which we provide to all eligible employees.
+50
+Table of Contents
+Grants of Plan-Based Awards for Fiscal 2017
+The following table provides information regarding all grants of plan-based awards that were made to or earned by our NEOs during Fiscal 2017. Disclosure on a separate line item is provided for each grant of an award made to an NEO. The information in this table supplements the dollar value of stock and other awards set forth in the
+Summary Compensation Table for Fiscal Years 2017, 2016 and 2015
+by providing additional details about the awards. The PSUs and RSUs set forth in the following table were made under our 2007 Plan. PSUs are eligible to vest based on performance against pre-established criteria. Both SY PSUs and RSUs are subject to service-based vesting.
+Name
+Grant
+Date
+Approval
+Date
+Estimated Possible Payouts Under Non-Equity Incentive Plan Awards
+(1)
+Estimated Future Payouts Under Equity Incentive Plan Awards
+All Other Stock
+Awards: Number of Shares of Stock
+or Units (#)
+Grant Date
+Fair Value
+of Stock
+Awards ($)
+(2)
+Threshold ($)
+Target ($)
+Maximum ($)
+Threshold (#)
+Target (#)
+Maximum (#)
+Jen-Hsun Huang
+3/16/16
+3/8/16
+(3)
+—
+95,000
+190,000
+285,000
+—
+5,947,000
+(4)
+3/16/16
+3/8/16
+(5)
+—
+47,500
+95,000
+142,500
+—
+3,241,400
+3/8/16
+500,000
+1,000,000
+2,000,000
+—
+Colette M. Kress
+3/16/16
+3/8/16
+(3)
+—
+27,750
+55,500
+111,000
+—
+1,737,150
+(4)
+3/16/16
+3/8/16
+(5)
+—
+3,000
+6,000
+12,000
+—
+259,860
+3/16/16
+3/8/16
+—
+19,250
+(6)
+602,525
+9/15/16
+8/24/16
+—
+11,500
+(7)
+700,235
+3/8/16
+137,500
+275,000
+550,000
+—
+Ajay K. Puri
+3/16/16
+3/8/16
+(3)
+—
+28,750
+57,500
+115,000
+—
+1,799,750
+(4)
+3/16/16
+3/8/16
+(5)
+—
+3,000
+6,000
+12,000
+—
+259,860
+3/16/16
+3/8/16
+—
+20,000
+(6)
+626,000
+9/9/16
+8/24/16
+—
+12,000
+(7)
+692,520
+3/8/16
+250,000
+500,000
+1,000,000
+—
+David M. Shannon
+3/16/16
+3/8/16
+(3)
+—
+17,250
+34,500
+69,000
+—
+1,079,850
+(4)
+3/16/16
+3/8/16
+(5)
+—
+1,400
+2,800
+5,600
+—
+121,268
+3/16/16
+3/8/16
+—
+7,700
+(6)
+241,010
+3/8/16
+100,000
+200,000
+400,000
+—
+Debora Shoquist
+3/16/16
+3/8/16
+(3)
+—
+19,500
+39,000
+78,000
+—
+1,220,700
+(4)
+3/16/16
+3/8/16
+(5)
+—
+2,000
+4,000
+8,000
+—
+173,240
+3/16/16
+3/8/16
+—
+13,500
+(6)
+422,550
+9/9/16
+8/24/16
+—
+8,000
+(7)
+461,680
+3/8/16
+75,000
+150,000
+300,000
+—
+__________
+(1)
+Represents range of awards payable under our 2017 Variable Cash Plan.
+(2)
+Amounts shown in this column do not reflect dollar amounts actually received by the NEO. Instead, these amounts reflect the aggregate full grant date fair value calculated in accordance with FASB ASC Topic 718 for the awards. The assumptions used in the calculation of values of the awards are set forth under Note 2 to our consolidated financial statements titled “Stock-Based Compensation” in our Form 10-K. With regard to the stock awards with performance-based vesting conditions, the reported grant date fair value assumes the probable outcome of the conditions at Target Compensation Plan, determined in accordance with applicable accounting standards.
+(3)
+Represents range of possible shares able to be earned with respect to SY PSUs.
+(4)
+Based on the performance that was actually achieved for Fiscal 2017, the grant date fair value for the NEOs’ SY PSUs would be: $8,920,500 for Mr. Huang, $3,474,300 for Ms. Kress, $3,599,500 for Mr. Puri, $2,159,700 for Mr. Shannon and $2,441,400 for Ms. Shoquist.
+51
+Table of Contents
+(5)
+Represents range of possible shares able to be earned with respect to MY PSUs.
+(6)
+Represents RSUs granted to Messrs. Puri and Shannon and Mses. Kress and Shoquist in the first quarter of Fiscal 2017 pursuant to the 2007 Plan. The CC approved these grants on March 8, 2016 for grant on March 16, 2016, the same day that semi-annual grants were made to all of our other eligible employees.
+(7)
+Represents RSUs granted to Mr. Puri and Mses. Kress and Shoquist in the third quarter of Fiscal 2017 pursuant to the 2007 Plan. The CC approved these grants on August 24, 2016 for grant on September 9, 2016, the same day that semi-annual grants were made to all of our other eligible employees. Due to a trading window closure, Ms. Kress’ RSUs were instead granted on September 15, 2016.
+52
+Table of Contents
+Outstanding Equity Awards as of January 29, 2017
+The following table presents information regarding outstanding equity awards held by our NEOs as of January 29, 2017.
+Name
+Option Awards
+Stock Awards
+Number of Securities
+Underlying Unexercised
+Options (#)
+Exercisable
+Number of Securities
+Underlying Unexercised
+Options (#)
+Unexercisable
+Option
+Exercise
+Price ($)
+(1)
+Option
+Expiration
+Date
+Number of
+Units of Stock
+That Have
+Not Vested (#)
+Market Value of Units of Stock That Have Not
+Vested ($)
+(2)
+Equity Incentive Plan Awards: Number of Unearned Shares That Have Not Vested (#)
+Equity Incentive Plan Awards: Market Value of Unearned Shares That Have Not
+Vested ($)
+(2)
+Jen-Hsun Huang
+83,336
+—
+18.10
+3/16/2017
+—
+250,000
+—
+10.56
+9/14/2020
+—
+250,000
+—
+17.62
+3/17/2021
+—
+250,000
+—
+14.465
+9/20/2021
+—
+300,000
+—
+14.46
+3/20/2022
+—
+300,000
+—
+13.71
+9/18/2022
+—
+222,656
+14,844
+(3)
+12.62
+3/19/2023
+—
+192,968
+44,532
+(4)
+16.00
+9/17/2023
+—
+24,312
+(5)
+2,717,352
+—
+225,000
+(6)
+25,148,250
+—
+206,250
+(7)
+23,052,563
+—
+285,000
+(8)
+31,854,450
+—
+110,000
+(9)
+12,294,700
+—
+95,000
+(10)
+10,618,150
+Colette M. Kress
+—
+55,000
+(11)
+6,147,350
+—
+9,750
+(12)
+1,089,758
+—
+58,125
+(6)
+6,496,631
+—
+13,000
+(13)
+1,453,010
+—
+14,063
+(14)
+1,571,822
+—
+86,250
+(7)
+9,640,163
+—
+16,875
+(15)
+1,886,119
+—
+111,000
+(8)
+12,406,470
+—
+19,250
+(16)
+2,151,573
+—
+11,500
+(17)
+1,285,355
+—
+7,500
+(9)
+838,275
+—
+6,000
+(10)
+670,620
+53
+Table of Contents
+Ajay K. Puri
+39,505
+—
+17.53
+3/15/2021
+—
+38,806
+—
+14.465
+9/20/2021
+—
+56,662
+—
+13.71
+9/18/2022
+—
+43,125
+2,875
+(3)
+12.62
+3/19/2023
+—
+37,375
+8,625
+(4)
+16.00
+9/17/2023
+—
+3,450
+(18)
+385,607
+—
+6,900
+(11)
+771,213
+—
+6,563
+(12)
+733,547
+—
+48,750
+(6)
+5,448,788
+—
+8,750
+(13)
+977,988
+—
+12,500
+(14)
+1,397,125
+—
+90,000
+(7)
+10,059,300
+—
+22,500
+(15)
+2,514,825
+—
+115,000
+(8)
+12,853,550
+—
+20,000
+(16)
+2,235,400
+—
+12,000
+(17)
+1,341,240
+—
+7,500
+(9)
+838,275
+—
+6,000
+(10)
+670,620
+David M. Shannon
+6,250
+—
+13.71
+9/18/2022
+—
+7,462
+2,488
+(3)
+12.62
+3/19/2023
+—
+7,462
+7,463
+(4)
+16.00
+9/17/2023
+—
+2,988
+(18)
+333,969
+—
+5,975
+(11)
+667,826
+—
+4,875
+(12)
+544,879
+—
+43,500
+(6)
+4,861,995
+—
+6,500
+(13)
+726,505
+—
+7,032
+(14)
+785,967
+—
+62,500
+(7)
+6,985,625
+—
+8,438
+(15)
+943,115
+—
+69,000
+(8)
+7,712,130
+—
+7,700
+(16)
+860,629
+—
+4,000
+(9)
+447,080
+—
+2,800
+(10)
+312,956
+Debora Shoquist
+5,000
+—
+14.46
+3/20/2022
+—
+10,000
+—
+13.71
+9/18/2022
+—
+10,781
+2,157
+(3)
+12.62
+3/19/2023
+—
+10,781
+6,469
+(4)
+16.00
+9/17/2023
+—
+2,588
+(18)
+289,261
+—
+5,175
+(11)
+578,410
+—
+6,563
+(12)
+733,547
+—
+39,000
+(6)
+4,359,030
+—
+8,750
+(13)
+977,988
+—
+10,313
+(14)
+1,152,684
+—
+62,500
+(7)
+6,985,625
+—
+12,375
+(15)
+1,383,154
+—
+78,000
+(8)
+8,718,060
+—
+13,500
+(16)
+1,508,895
+—
+8,000
+(17)
+894,160
+—
+6,000
+(9)
+670,620
+—
+4,000
+(10)
+447,080
+54
+Table of Contents
+__________
+(1)
+Unless otherwise noted, represents the closing price of our common stock as reported by NASDAQ on the date of grant which is the exercise price of stock option grants made pursuant to our 2007 Plan.
+(2)
+Calculated by multiplying the number of RSUs or PSUs by the closing price ($111.77) of NVIDIA’s common stock on January 27, 2017, the last trading day before the end of our Fiscal 2017, as reported by NASDAQ.
+(3)
+The option vested as to 25% of the shares on March 20, 2014, and vested as to 6.25% at the end of each quarterly period thereafter such that the option was fully vested on March 20, 2017.
+(4)
+The option vested as to 25% of the shares on September 18, 2014, and vests as to 6.25% at the end of each quarterly period thereafter such that the option will be fully vested on September 18, 2017.
+(5)
+The RSU was earned on January 26, 2014 based on achievement of a pre-established performance goal. The RSU vested as to 25% of the shares on March 19, 2014, and vested as to 12.50% approximately every six months thereafter over the next three years such that the RSU was fully vested on March 15, 2017.
+(6)
+The RSU was earned on January 25, 2015 based on achievement of a pre-established performance goal. The RSU vested as to 25% of the shares on March 18, 2015, and vests as to 12.50% approximately every six months thereafter over the next three years such that the RSU will be fully vested on March 21, 2018.
+(7)
+The RSU was earned on January 31, 2016 based on achievement of a pre-established performance goal. The RSU vested as to 25% of the shares on March 16, 2016, and vests as to 12.50% approximately every six months thereafter over the next three years such that the RSU will be fully vested on March 20, 2019.
+(8)
+The RSU was earned on January 29, 2017 based on achievement of a pre-established performance goal. The RSU vested as to 25% of the shares on March 15, 2017, and vests as to 12.50% approximately every six months thereafter over the next three years such that the RSU will be fully vested on March 18, 2020.
+(9)
+Represents the number of shares based on achieving Target Compensation Plan performance goals. The number of PSUs that will be earned, if at all, is based on our TSR relative to the S&P 500 from January 26, 2015 through January 28, 2018. If the pre-established performance goal is achieved, the shares earned will vest as to 100% on March 21, 2018. If the Threshold performance goal is achieved, 27,500 shares will be earned by Mr. Huang, 1,875 shares will be earned by Ms. Kress, 1,875 shares will be earned by Mr. Puri, 1,000 shares will be earned by Mr. Shannon, and 1,500 shares will be earned by Ms. Shoquist. If the Stretch Operating Plan performance goal is achieved, 165,000 shares will be earned by Mr. Huang, 15,000 shares will be earned by Ms. Kress, 15,000 shares will be earned by Mr. Puri, 8,000 shares will be earned by Mr. Shannon, and 12,000 shares will be earned by Ms. Shoquist.
+(10)
+Represents the number of shares based on achieving Target Compensation Plan performance goals. The number of PSUs that will be earned, if at all, is based on our TSR relative to the S&P 500 from February 1, 2016 through January 27, 2019. If the pre-established performance goal is achieved, the shares earned will vest as to 100% on March 20, 2019. If the Threshold performance goal is achieved, 47,500 shares will be earned by Mr. Huang, 3,000 shares will be earned by Ms. Kress, 3,000 shares will be earned by Mr. Puri, 1,400 shares will be earned by Mr. Shannon, and 2,000 shares will be earned by Ms. Shoquist. If the Stretch Operating Plan performance goal is achieved, 142,500 shares will be earned by Mr. Huang, 12,000 shares will be earned by Ms. Kress, 12,000 shares will be earned by Mr. Puri, 5,600 shares will be earned by Mr. Shannon, and 8,000 shares will be earned by Ms. Shoquist.
+(11)
+The RSU vested as to 25% on September 17, 2014, and vests as to 12.50% approximately every six months thereafter over the next three years such that the RSU will be fully vested on September 20, 2017.
+(12)
+The RSU vested as to 25% on March 18, 2015, and vests as to 12.50% approximately every six months thereafter over the next three years such that the RSU will be fully vested on March 21, 2018.
+(13)
+The RSU vested as to 25% on September 16, 2015, and vests as to 12.50% approximately every six months thereafter over the next three years such that the RSU will be fully vested on September 19, 2018.
+(14)
+The RSU vested as to 25% on March 16, 2016, and vests as to 12.50% approximately every six months thereafter over the next three years such that the RSU will be fully vested on March 20, 2019.
+55
+Table of Contents
+(15)
+The RSU vested as to 25% on September 21, 2016, and vests as to 12.50% approximately every six months thereafter over the next three years such that the RSU will be fully vested on September 18, 2019.
+(16)
+The RSU vested as to 25% on March 15, 2017, and vests as to 12.50% approximately every six months thereafter over the next three years such that the RSU will be fully vested on March 18, 2020.
+(17)
+The RSU will vest as to 25% on September 20, 2017, and vests as to 6.25% approximately every three months thereafter over the next three years such that the RSU will be fully vested on September 16, 2020.
+(18)
+The RSU vested as to 25% on March 19, 2014, and vested as to 12.50% approximately every six months thereafter over the next three years such that the RSU was fully vested on March 15, 2017.
+56
+Table of Contents
+Option Exercises and Stock Vested in Fiscal 2017
+The following table shows information regarding option exercises and stock vested by our NEOs during Fiscal 2017.
+Name
+Option Awards
+Stock Awards
+Number of
+Shares
+Acquired on
+Exercise (#)
+Value
+Realized
+on
+Exercise ($)
+(1)
+Number of
+Shares
+Acquired on
+Vesting (#)
+Value
+Realized
+on
+Vesting ($)
+(2)
+Jen-Hsun Huang
+666,664
+(3)
+23,896,310
+322,373
+(4)
+15,134,764
+Colette M. Kress
+—
+172,562
+(5)
+8,222,811
+Ajay K. Puri
+120,081
+(6)
+3,541,997
+128,738
+(7)
+6,074,343
+David M. Shannon
+318,475
+(8)
+8,313,940
+96,668
+(9)
+4,533,821
+Debora Shoquist
+55,304
+1,152,435
+97,600
+(10)
+4,589,888
+__________
+(1)
+The value realized on cashless exercise represents the difference between the exercise price per share of the stock option and either (a) the fair market value of our common stock as reported by NASDAQ at cashless exercise or (b) the closing price of our common stock as reported by NASDAQ on the trading day prior to the date of cash exercise, multiplied by the number of shares of common stock underlying the stock options exercised. The exercise price of each such stock option was equal to the closing price of our common stock as reported by NASDAQ on the date of grant. The value realized was determined without considering any taxes that may have been owed.
+(2)
+The value realized on vesting represents the number of shares acquired on vesting multiplied by the fair market value of our common stock as reported by NASDAQ on the date of vesting.
+(3)
+Mr. Huang exercised stock options and sold an aggregate of 660,391 shares during Fiscal 2017. Mr. Huang also exercised stock options for an additional 6,273 shares during Fiscal 2017 for an aggregate exercise price of $99,992.
+(4)
+The number of shares acquired on vesting includes an aggregate of 168,217 shares that were withheld to pay taxes due upon vesting.
+(5)
+The number of shares acquired on vesting includes an aggregate of 85,627 shares that were withheld to pay taxes due upon vesting.
+(6)
+Mr. Puri exercised stock options and sold an aggregate of 94,842 shares during Fiscal 2017. Mr. Puri also exercised stock options for an additional 25,239 shares during Fiscal 2017 for an aggregate exercise price of $368,615.
+(7)
+The number of shares acquired on vesting includes an aggregate of 62,768 shares that were withheld to pay taxes due upon vesting.
+(8)
+Mr. Shannon exercised stock options and sold an aggregate of 303,025 shares during Fiscal 2017. Mr. Shannon also exercised stock options for an additional 15,450 shares during Fiscal 2017 for an aggregate exercise price of $241,189.
+(9)
+The number of shares acquired on vesting includes an aggregate of 47,801 shares that were withheld to pay taxes due upon vesting.
+(10)
+The number of shares acquired on vesting includes an aggregate of 50,936 shares that were withheld to pay taxes due upon vesting.
+57
+Table of Contents
+Employment, Severance and Change-in-Control Arrangements
+Employment Agreements.
+Our executive officers are “at-will” employees and we do not have employment, severance or change-in-control agreements with our executive officers.
+Change-in-Control Arrangements.
+Our 2007 Plan provides that in the event of a corporate transaction or a change-in-control, outstanding stock awards may be assumed, continued, or substituted by the surviving corporation. If the surviving corporation does not assume, continue, or substitute such stock awards, then (a) with respect to any stock awards that are held by individuals performing services for NVIDIA immediately prior to the effective time of the transaction, the vesting and exercisability provisions of such stock awards will be accelerated in full and such stock awards will be terminated if not exercised prior to the effective date of the corporate transaction or change-in-control, and (b) all other outstanding stock awards will be terminated if not exercised on or prior to the effective date of the corporate transaction or change-in-control.
+Potential Payments Upon Termination or Change-in-Control
+Upon a change-in-control or certain other corporate transactions of NVIDIA, unvested options, RSUs and PSUs will fully vest in some cases as described above under
+Employment, Severance and Change-in-Control Arrangements—Change-in-Control Arrangements.
+The table below shows our estimates of the amount of the benefit each of our NEOs would have received if the unvested options, RSUs and PSUs held by them as of January 29, 2017 had become fully vested as a result of a change-in-control. The estimated benefit amount of unvested options was calculated by multiplying the number of in-the-money unvested options held by the applicable NEO by the difference between the $111.77 closing price of our common stock on January 27, 2017, the last trading day of Fiscal 2017, as reported by NASDAQ, and the exercise price of the option. The estimated benefit amount of unvested RSUs and unvested PSUs was calculated by multiplying the number of RSUs or PSUs held by the applicable NEO by the $111.77 closing price of our common stock on January 27, 2017.
+Name
+Unvested In-the-Money Options, RSUs and PSUs at January 29, 2017 (#)
+(1)
+Total Estimated Benefit ($)
+Jen-Hsun Huang
+909,938
+95,067,315
+Colette M. Kress
+352,813
+39,433,909
+Ajay K. Puri
+313,913
+34,911,774
+David M. Shannon
+200,759
+22,288,027
+Debora Shoquist
+226,390
+25,172,885
+________
+(1)
+The amounts in this column include unvested SY PSUs granted in Fiscal 2017 and MY PSUs for each NEO, representing the probable outcome of the performance-related conditions at Target Compensation Plan on the respective grant dates. The number of SY PSUs granted in Fiscal 2017 at Target Compensation Plan are set forth below under “Estimated SY PSUs at Target Compensation Plan”. The actual number of such NEO’s SY PSUs granted in Fiscal 2017 that became eligible to vest upon certification by our CC in February 2017 are set forth under “Actual SY PSUs Eligible to Vest”.
+The actual number of MY PSUs granted in Fiscal 2016 that will become eligible to vest will be determinable after January 28, 2018, the ending date of the three year measurement period for MY PSUs.
+The actual number of MY PSUs granted in Fiscal 2017 that will become eligible to vest will be determinable after January 27, 2019, the ending date of the three year measurement period for MY PSUs.
+Name
+Estimated SY PSUs at Target Compensation Plan
+Actual SY PSUs Eligible to Vest
+Jen-Hsun Huang
+190,000
+285,000
+Colette M. Kress
+55,500
+111,000
+Ajay K. Puri
+57,500
+115,000
+David M. Shannon
+34,500
+69,000
+Debora Shoquist
+39,000
+78,000
+58
+Table of Contents
+Compensation Committee Interlocks and Insider Participation
+For Fiscal 2017, the CC consisted of Messrs. Burgess, Coxe and Jones and Mses. Drell and Hudson. No member of the CC is an officer or employee of NVIDIA, and none of our executive officers serve as a director or member of a compensation committee of any entity that has one or more executive officers serving as a member of our Board or CC.
+Compensation Committee Report
+The Compensation Committee of the Board of Directors oversees the compensation programs of NVIDIA on behalf of the Board of Directors. In fulfilling its oversight responsibilities, the Compensation Committee reviewed and discussed with management the Compensation Discussion and Analysis included in this proxy statement.
+In reliance on the review and discussions referred to above, the Compensation Committee recommended to the Board of Directors that the Compensation Discussion and Analysis be included in the Annual Report on Form 10-K of NVIDIA for the year ended January 29, 2017 and in this proxy statement.
+COMPENSATION COMMITTEE
+Robert K. Burgess, Chairperson
+Tench Coxe
+Persis S. Drell
+Dawn Hudson
+Harvey C. Jones
+59
+Table of Contents
+Proposal 3—Approval of the Frequency of Holding an Advisory Vote on Executive Compensation
+What am I voting on?
+A non-binding vote, known as “say-on-frequency,” to approve how frequently we should solicit an advisory vote on our NEO compensation.
+Vote recommendation
+: for
+ONE YEAR
+.
+Vote required
+: A majority of the shares present or represented by proxy.
+Effect of abstentions
+: Same as a vote against.
+Effect of broker non-votes
+: None.
+The Dodd-Frank Act and Section 14A of the Exchange Act also enable our stockholders to indicate their preference regarding how frequently we should solicit a non-binding advisory vote on the compensation of our NEOs. Accordingly, we are asking stockholders to indicate whether they would prefer an advisory vote every one, two or three years. Alternatively, stockholders may abstain from casting a vote.
+After considering the benefits and consequences of each alternative, the Board recommends that the advisory vote on the compensation of our NEOs be submitted to the stockholders every one year. In formulating its recommendation, the Board considered that an annual advisory vote on executive compensation will allow stockholders to provide direct input on the Company’s compensation philosophy, policies and practices every year.
+Accordingly, the Board is asking stockholders to indicate their preferred voting frequency by voting for one, two or three years or abstaining from voting on the resolution below:
+“
+RESOLVED
+, that the alternative of soliciting advisory stockholder approval of the compensation of the Company’s executive officers once every one, two or three years that receives a majority of votes cast for this resolution will be determined to be the preferred frequency with which the Company is to hold a stockholder vote to approve the compensation of the named executive officers.”
+The Board and the CC value the opinions of the stockholders in this matter, and the Board intends to hold say-on-pay votes in the future in accordance with the alternative that receives the most stockholder support, even if that alternative does not receive the support of a majority of the shares present and entitled to vote either in person or represented by proxy and entitled to vote at the 2017 Meeting.
+60
+Table of Contents
+Proposal 4—Ratification of Selection of Independent Registered Public Accounting Firm
+for Fiscal 2018
+What am I voting on?
+Ratification of the selection of PwC as our independent registered public accounting firm for Fiscal 2018.
+Vote recommendation
+:
+FOR
+the ratification of PwC.
+Vote required
+: A majority of the shares present or represented by proxy.
+Effect of abstentions
+: Same as a vote AGAINST.
+Effect of broker non-votes
+: None (because this is a routine proposal, there are no broker non-votes).
+The AC has selected PwC, which has audited our financial statements annually since 2004, to serve as our independent registered public accounting firm for Fiscal 2018. Our lead audit partner at PwC serves no more than five consecutive years in that role. Stockholder ratification of the AC’s selection of PwC is not required by our Bylaws or any other governing documents or laws. As a matter of good corporate governance, we are submitting the selection of PwC to our stockholders for ratification. If our stockholders do not ratify the selection, the AC will reconsider whether or not to retain PwC. Even if the selection is ratified, the AC in its sole discretion may direct the appointment of a different independent registered public accounting firm at any time during the fiscal year if it determines that such a change would be in our best interests and those of our stockholders. The AC believes it is in the best interests of NVIDIA and our stockholders to retain PwC.
+We expect that a representative of PwC will attend the 2017 Meeting. The PwC representative will have an opportunity to make a statement at the 2017 Meeting if he or she so desires. The representative will also be available to respond to appropriate stockholder questions.
+Fees Billed by the Independent Registered Public Accounting Firm
+The following is a summary of fees billed by PwC for Fiscal 2017 and 2016 for audit, tax and other professional services during each fiscal year:
+Fiscal 2017
+Fiscal 2016
+Audit Fees
+(1)
+$
+4,390,711
+$
+4,083,453
+Audit-Related Fees
+(2)
+—
+300,000
+Tax Fees
+(3)
+394,680
+309,974
+All Other Fees
+(4)
+3,600
+Total Fees
+$
+4,788,991
+$
+4,697,027
+__________
+(1)
+Audit fees included fees for the audit of our consolidated financial statements, the audit of our internal control over financial reporting, reviews of our quarterly financial statements and annual report, reviews of SEC registration statements and related consents, fees related to statutory audits of some of our international entities, and comfort letter fees related to our corporate bond offering in Fiscal 2017.
+(2)
+Audit-related fees in Fiscal 2016 consisted of fees for accounting consultation in connection with a build-to-suit operating lease financing arrangement.
+(3)
+Tax fees consisted of fees for tax compliance and consultation services.
+(4)
+All other fees consisted of fees for products or services other than those included above, including payment to PwC related to the use of an accounting regulatory database.
+61
+Table of Contents
+All of the services provided for Fiscal 2017 and 2016 described above were pre-approved by the AC or the Chairperson of the AC through the authority granted to him by the AC, which is described below.
+Our AC determined that the rendering of services other than audit services by PwC was compatible with maintaining PwC’s independence.
+Pre-Approval Policies and Procedures
+The AC has adopted policies and procedures for the pre-approval of all audit and permissible non-audit services rendered by our independent registered public accounting firm. The policy generally permits pre-approvals of specified permissible services in the defined categories of audit services, audit-related services and tax services up to specified amounts. Pre-approval may also be given as part of the AC’s approval of the scope of the engagement of our independent registered public accounting firm or on an individual case-by-case basis before the independent registered public accounting firm is engaged to provide each service. In some cases the full AC provides pre-approval for up to a year related to a particular defined task or scope. In other cases, the AC has delegated power to Mr. Perry, the Chairperson of our AC, to pre-approve additional non-audit services if the need for the service was unanticipated and approval is required prior to the next scheduled meeting of the AC. Mr. Perry then communicates such pre-approval to the full AC at its next meeting.
+62
+Table of Contents
+Report of the Audit Committee of the Board of Directors
+The material in this report is not “soliciting material,” is not deemed “filed” with the SEC and is not to be incorporated by reference in any of our filings under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date hereof and irrespective of any general incorporation language in any such filing, except to the extent specifically incorporated by reference therein.
+The Audit Committee oversees accounting, financial reporting, internal control over financial reporting, financial practices and audit activities of NVIDIA and its subsidiaries. The Audit Committee reviews the results and scope of the audit and other services provided by the independent registered public accounting firm and reviews financial statements and the accounting policies followed by NVIDIA prior to the issuance of the financial statements with both management and the independent registered public accounting firm.
+Management is responsible for the financial reporting process, the preparation of consolidated financial statements in accordance with accounting principles generally accepted in the United States, or GAAP, the system of internal control over financial reporting, and the procedures designed to facilitate compliance with accounting standards and applicable laws and regulations. PricewaterhouseCoopers LLP, or PwC, our independent registered public accounting firm for Fiscal 2017, was responsible for performing an independent audit of the consolidated financial statements and issuing a report on the consolidated financial statements and of the effectiveness of our internal control over financial reporting as of January 29, 2017. PwC’s judgments as to the quality, not just the acceptability, of our accounting principles and such other matters are required to be disclosed to the Audit Committee under applicable standards. The Audit Committee oversees these processes. Also, the Audit Committee has ultimate authority and responsibility to select, evaluate and, when appropriate, terminate the independent registered public accounting firm. The Audit Committee approves audit fees and non-audit services provided by and fees paid to the independent registered public accounting firm.
+NVIDIA has an internal audit function that reports to the Audit Committee. This function is responsible for objectively reviewing and evaluating the adequacy, effectiveness and quality of our system of internal controls and the operating effectiveness of our business processes. The Audit Committee approves an annual internal audit plan and monitors the activities and performance of our internal audit function throughout the year to ensure the plan objectives are carried out and met.
+The Audit Committee members are not professional accountants or auditors, and their functions are not intended to duplicate or to certify the activities of management or the independent registered public accounting firm. The Audit Committee does not plan or conduct audits, determine that our financial statements are complete and accurate and in accordance with GAAP or assess our internal control over financial reporting. The Audit Committee relies, without additional independent verification, on the information provided by our management and on the representations made by management that the financial statements have been prepared with integrity and objectivity, and the opinion of PwC that such financial statements have been prepared in conformity with GAAP.
+In this context, the Audit Committee reviewed and discussed the audited consolidated financial statements for Fiscal 2017 with management and our internal control over financial reporting with management and PwC. Specifically, the Audit Committee discussed with PwC the matters required to be discussed by Statement on Auditing Standard No. 1301,
+Communications with Audit Committees,
+as adopted by the Public Company Accounting Oversight Board. We have received from PwC the written disclosures and letter required by the applicable requirements of the Public Company Accounting Oversight Board regarding PwC’s communications with the Audit Committee concerning independence. The Audit Committee also considered whether the provision of certain permitted non-audit services by PwC is compatible with PwC’s independence and discussed PwC’s independence with PwC.
+Based on the Audit Committee’s review and discussions, the Audit Committee recommended to the Board of Directors that the audited consolidated financial statements be included in the Annual Report on Form 10-K of NVIDIA for the fiscal year ended January 29, 2017.
+AUDIT COMMITTEE
+Mark L. Perry, Chairperson
+Michael G. McCaffery
+A. Brooke Seawell
+Mark A. Stevens
+63
+Table of Contents
+Equity Compensation Plan Information
+The number of shares issuable upon exercise of outstanding stock options, RSUs and PSUs, the weighted-average exercise price of outstanding stock options, and the number of stock awards remaining for future issuance under each of our equity compensation plans as of January 29, 2017 are summarized as follows:
+Plan Category
+Number of securities to be
+issued upon exercise of outstanding options, warrants and rights
+(a)
+Weighted-average
+exercise price of
+outstanding
+options, warrants
+and rights ($)
+(b)
+Number of securities remaining available for
+future issuance under equity compensation plans (excluding securities reflected in column (a))
+(c)
+Equity compensation plans approved by security holders
+(1)
+7,429,315
+14.47
+(2)
+73,877,178
+(3)
+Equity compensation plans not approved by security holders
+—
+Total
+7,429,315
+14.47
+(2)
+73,877,178
+(3)
+__________
+(1)
+This row includes our 2007 Plan and our 2012 ESPP. Under our 2012 ESPP, participants are permitted to purchase our common stock at a discount on certain dates through payroll deductions within a pre-determined purchase period. Accordingly, the number of shares to be issued upon exercise of outstanding rights under our 2012 ESPP as of January 29, 2017 is not determinable.
+(2)
+Represents the weighted-average exercise price of outstanding stock options only.
+(3)
+As of January 29, 2017, the number of shares that remained available for future issuance under the 2007 Plan is 21,582,192, and the number of shares that remained available for future issuance under the 2012 ESPP is 52,294,986, of which up to a maximum of 26,595,000 shares may be purchased in the current purchase period which runs until August 31, 2017 under the 2012 ESPP.
+64
+Table of Contents
+Additional Information
+Section 16(a) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Exchange Act requires our executive officers, directors and persons who own more than 10% of a registered class of our equity securities to file initial reports of ownership and reports of changes in ownership of our common stock and other equity securities with the SEC. Executive officers, directors and greater than 10% stockholders are required by SEC regulations to furnish us with copies of all Section 16(a) forms they file.
+To our knowledge, based solely on a review of the copies of such reports furnished to us and written representations that no other reports were required, during Fiscal 2017, all Section 16(a) filing requirements applicable to our executive officers, directors and greater than 10% beneficial owners were complied with, except for Mr. Byron, who filed a Form 4/A to report one late stock option exercise transaction; Mr. Puri, who filed a Form 5 to report two late stock option exercise transactions; and Mr. Shannon, who filed a Form 5 to report one late stock option exercise transaction.
+Other Matters
+The Board knows of no other matters that will be presented for consideration at the 2017 Meeting. If any other matters are properly brought before the 2017 Meeting, it is the intention of the persons named in the accompanying proxy to vote on such matters in accordance with their best judgment.
+By Order of the Board of Directors
+Timothy S. Teter
+Secretary
+April 7, 2017
+A COPY OF OUR ANNUAL REPORT ON FORM 10-K FOR THE FISCAL YEAR ENDED JANUARY 29, 2017 AS FILED WITH THE SEC IS BEING FURNISHED TO STOCKHOLDERS CONCURRENTLY HEREWITH. STOCKHOLDERS MAY SUBMIT A WRITTEN REQUEST FOR AN ADDITIONAL COPY OF THE ANNUAL REPORT ON FORM 10-K FOR THE FISCAL YEAR ENDED JANUARY 29, 2017 TO: INVESTOR RELATIONS, NVIDIA CORPORATION, 2701 SAN TOMAS EXPRESSWAY, SANTA CLARA, CALIFORNIA 95050. WE WILL ALSO FURNISH A COPY OF ANY EXHIBIT TO THE ANNUAL REPORT ON FORM 10-K IF SPECIFICALLY REQUESTED IN WRITING.
+NVIDIA and the NVIDIA logo are either registered trademarks or trademarks of NVIDIA Corporation in the United States and other countries. Other company names used in this publication are for identification purposes only and may be trademarks of their respective companies.
+65
+Table of Contents
+66
+Table of Contents
+67

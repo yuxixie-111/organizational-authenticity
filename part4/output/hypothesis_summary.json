@@ -1,0 +1,468 @@
+{
+  "stated_inclusion_share_pre_to_shock": {
+    "n": 25,
+    "mean_delta": 0.0047,
+    "median_delta": 0.0,
+    "share_positive": 0.32,
+    "share_negative": 0.2
+  },
+  "stated_inclusion_share_pre_to_shock__Consumer Discretionary": {
+    "n": 5,
+    "mean_delta": 0.0027,
+    "median_delta": 0.0,
+    "share_positive": 0.4,
+    "share_negative": 0.2
+  },
+  "stated_inclusion_share_pre_to_shock__Energy": {
+    "n": 2,
+    "mean_delta": -0.0268,
+    "median_delta": -0.0268,
+    "share_positive": 0.0,
+    "share_negative": 0.5
+  },
+  "stated_inclusion_share_pre_to_shock__Financials": {
+    "n": 8,
+    "mean_delta": -0.0153,
+    "median_delta": 0.0,
+    "share_positive": 0.375,
+    "share_negative": 0.25
+  },
+  "stated_inclusion_share_pre_to_shock__Healthcare": {
+    "n": 6,
+    "mean_delta": 0.0164,
+    "median_delta": 0.0,
+    "share_positive": 0.1667,
+    "share_negative": 0.0
+  },
+  "stated_inclusion_share_pre_to_shock__Technology": {
+    "n": 4,
+    "mean_delta": 0.0456,
+    "median_delta": 0.0078,
+    "share_positive": 0.5,
+    "share_negative": 0.25
+  },
+  "stated_inclusion_emphasized_pre_to_shock": {
+    "n": 25,
+    "mean_delta": -0.06,
+    "median_delta": 0.0,
+    "share_positive": 0.12,
+    "share_negative": 0.2
+  },
+  "stated_inclusion_emphasized_pre_to_shock__Consumer Discretionary": {
+    "n": 5,
+    "mean_delta": -0.1,
+    "median_delta": 0.0,
+    "share_positive": 0.0,
+    "share_negative": 0.2
+  },
+  "stated_inclusion_emphasized_pre_to_shock__Energy": {
+    "n": 2,
+    "mean_delta": -0.5,
+    "median_delta": -0.5,
+    "share_positive": 0.0,
+    "share_negative": 0.5
+  },
+  "stated_inclusion_emphasized_pre_to_shock__Financials": {
+    "n": 8,
+    "mean_delta": -0.125,
+    "median_delta": 0.0,
+    "share_positive": 0.0,
+    "share_negative": 0.25
+  },
+  "stated_inclusion_emphasized_pre_to_shock__Healthcare": {
+    "n": 6,
+    "mean_delta": 0.0833,
+    "median_delta": 0.0,
+    "share_positive": 0.1667,
+    "share_negative": 0.0
+  },
+  "stated_inclusion_emphasized_pre_to_shock__Technology": {
+    "n": 4,
+    "mean_delta": 0.125,
+    "median_delta": 0.25,
+    "share_positive": 0.5,
+    "share_negative": 0.25
+  },
+  "operational_dei_pre_to_shock": {
+    "n": 50,
+    "mean_delta": 0.17,
+    "median_delta": 0.0,
+    "share_positive": 0.3,
+    "share_negative": 0.02
+  },
+  "operational_dei_pre_to_shock__Consumer Discretionary": {
+    "n": 10,
+    "mean_delta": 0.15,
+    "median_delta": 0.0,
+    "share_positive": 0.3,
+    "share_negative": 0.0
+  },
+  "operational_dei_pre_to_shock__Energy": {
+    "n": 10,
+    "mean_delta": 0.1,
+    "median_delta": 0.0,
+    "share_positive": 0.2,
+    "share_negative": 0.0
+  },
+  "operational_dei_pre_to_shock__Financials": {
+    "n": 10,
+    "mean_delta": 0.15,
+    "median_delta": 0.0,
+    "share_positive": 0.4,
+    "share_negative": 0.1
+  },
+  "operational_dei_pre_to_shock__Healthcare": {
+    "n": 10,
+    "mean_delta": 0.3,
+    "median_delta": 0.0,
+    "share_positive": 0.4,
+    "share_negative": 0.0
+  },
+  "operational_dei_pre_to_shock__Technology": {
+    "n": 10,
+    "mean_delta": 0.15,
+    "median_delta": 0.0,
+    "share_positive": 0.2,
+    "share_negative": 0.0
+  },
+  "lived_inclusion_per_1k_pre_to_shock": {
+    "n": 50,
+    "mean_delta": 0.446,
+    "median_delta": 0.3566,
+    "share_positive": 0.86,
+    "share_negative": 0.14
+  },
+  "lived_inclusion_per_1k_pre_to_shock__Consumer Discretionary": {
+    "n": 10,
+    "mean_delta": 0.5692,
+    "median_delta": 0.4451,
+    "share_positive": 0.8,
+    "share_negative": 0.2
+  },
+  "lived_inclusion_per_1k_pre_to_shock__Energy": {
+    "n": 10,
+    "mean_delta": 0.0557,
+    "median_delta": 0.0982,
+    "share_positive": 0.7,
+    "share_negative": 0.3
+  },
+  "lived_inclusion_per_1k_pre_to_shock__Financials": {
+    "n": 10,
+    "mean_delta": 0.88,
+    "median_delta": 0.5403,
+    "share_positive": 0.9,
+    "share_negative": 0.1
+  },
+  "lived_inclusion_per_1k_pre_to_shock__Healthcare": {
+    "n": 10,
+    "mean_delta": 0.3987,
+    "median_delta": 0.3659,
+    "share_positive": 1.0,
+    "share_negative": 0.0
+  },
+  "lived_inclusion_per_1k_pre_to_shock__Technology": {
+    "n": 10,
+    "mean_delta": 0.3265,
+    "median_delta": 0.1106,
+    "share_positive": 0.9,
+    "share_negative": 0.1
+  },
+  "oai_pre_to_shock": {
+    "n": 25,
+    "mean_delta": 9.1315,
+    "median_delta": 2.6723,
+    "share_positive": 0.68,
+    "share_negative": 0.32
+  },
+  "oai_pre_to_shock__Consumer Discretionary": {
+    "n": 5,
+    "mean_delta": 8.4558,
+    "median_delta": 2.1363,
+    "share_positive": 1.0,
+    "share_negative": 0.0
+  },
+  "oai_pre_to_shock__Energy": {
+    "n": 2,
+    "mean_delta": 0.248,
+    "median_delta": 0.248,
+    "share_positive": 0.5,
+    "share_negative": 0.5
+  },
+  "oai_pre_to_shock__Financials": {
+    "n": 8,
+    "mean_delta": -0.743,
+    "median_delta": -1.4692,
+    "share_positive": 0.375,
+    "share_negative": 0.625
+  },
+  "oai_pre_to_shock__Healthcare": {
+    "n": 6,
+    "mean_delta": 12.83,
+    "median_delta": 13.5358,
+    "share_positive": 0.8333,
+    "share_negative": 0.1667
+  },
+  "oai_pre_to_shock__Technology": {
+    "n": 4,
+    "mean_delta": 28.6191,
+    "median_delta": 30.0492,
+    "share_positive": 0.75,
+    "share_negative": 0.25
+  },
+  "stated_inclusion_share_shock_to_backlash": {
+    "n": 29,
+    "mean_delta": 0.0262,
+    "median_delta": 0.0,
+    "share_positive": 0.3448,
+    "share_negative": 0.2414
+  },
+  "stated_inclusion_share_shock_to_backlash__Consumer Discretionary": {
+    "n": 5,
+    "mean_delta": 0.0266,
+    "median_delta": 0.0,
+    "share_positive": 0.4,
+    "share_negative": 0.4
+  },
+  "stated_inclusion_share_shock_to_backlash__Energy": {
+    "n": 4,
+    "mean_delta": -0.0037,
+    "median_delta": -0.0012,
+    "share_positive": 0.0,
+    "share_negative": 0.5
+  },
+  "stated_inclusion_share_shock_to_backlash__Financials": {
+    "n": 7,
+    "mean_delta": 0.0049,
+    "median_delta": 0.0,
+    "share_positive": 0.2857,
+    "share_negative": 0.1429
+  },
+  "stated_inclusion_share_shock_to_backlash__Healthcare": {
+    "n": 7,
+    "mean_delta": 0.0668,
+    "median_delta": 0.0682,
+    "share_positive": 0.5714,
+    "share_negative": 0.1429
+  },
+  "stated_inclusion_share_shock_to_backlash__Technology": {
+    "n": 6,
+    "mean_delta": 0.0234,
+    "median_delta": 0.0,
+    "share_positive": 0.3333,
+    "share_negative": 0.1667
+  },
+  "stated_inclusion_emphasized_shock_to_backlash": {
+    "n": 29,
+    "mean_delta": 0.0345,
+    "median_delta": 0.0,
+    "share_positive": 0.1034,
+    "share_negative": 0.069
+  },
+  "stated_inclusion_emphasized_shock_to_backlash__Consumer Discretionary": {
+    "n": 5,
+    "mean_delta": 0.0,
+    "median_delta": 0.0,
+    "share_positive": 0.2,
+    "share_negative": 0.2
+  },
+  "stated_inclusion_emphasized_shock_to_backlash__Energy": {
+    "n": 4,
+    "mean_delta": 0.0,
+    "median_delta": 0.0,
+    "share_positive": 0.0,
+    "share_negative": 0.0
+  },
+  "stated_inclusion_emphasized_shock_to_backlash__Financials": {
+    "n": 7,
+    "mean_delta": 0.0,
+    "median_delta": 0.0,
+    "share_positive": 0.0,
+    "share_negative": 0.0
+  },
+  "stated_inclusion_emphasized_shock_to_backlash__Healthcare": {
+    "n": 7,
+    "mean_delta": 0.2143,
+    "median_delta": 0.0,
+    "share_positive": 0.2857,
+    "share_negative": 0.0
+  },
+  "stated_inclusion_emphasized_shock_to_backlash__Technology": {
+    "n": 6,
+    "mean_delta": -0.0833,
+    "median_delta": 0.0,
+    "share_positive": 0.0,
+    "share_negative": 0.1667
+  },
+  "operational_dei_shock_to_backlash": {
+    "n": 50,
+    "mean_delta": 0.12,
+    "median_delta": 0.0,
+    "share_positive": 0.24,
+    "share_negative": 0.02
+  },
+  "operational_dei_shock_to_backlash__Consumer Discretionary": {
+    "n": 10,
+    "mean_delta": 0.1,
+    "median_delta": 0.0,
+    "share_positive": 0.2,
+    "share_negative": 0.0
+  },
+  "operational_dei_shock_to_backlash__Energy": {
+    "n": 10,
+    "mean_delta": 0.35,
+    "median_delta": 0.5,
+    "share_positive": 0.6,
+    "share_negative": 0.0
+  },
+  "operational_dei_shock_to_backlash__Financials": {
+    "n": 10,
+    "mean_delta": 0.1,
+    "median_delta": 0.0,
+    "share_positive": 0.3,
+    "share_negative": 0.1
+  },
+  "operational_dei_shock_to_backlash__Healthcare": {
+    "n": 10,
+    "mean_delta": 0.05,
+    "median_delta": 0.0,
+    "share_positive": 0.1,
+    "share_negative": 0.0
+  },
+  "operational_dei_shock_to_backlash__Technology": {
+    "n": 10,
+    "mean_delta": 0.0,
+    "median_delta": 0.0,
+    "share_positive": 0.0,
+    "share_negative": 0.0
+  },
+  "lived_inclusion_per_1k_shock_to_backlash": {
+    "n": 50,
+    "mean_delta": 0.1151,
+    "median_delta": 0.1203,
+    "share_positive": 0.62,
+    "share_negative": 0.38
+  },
+  "lived_inclusion_per_1k_shock_to_backlash__Consumer Discretionary": {
+    "n": 10,
+    "mean_delta": -0.077,
+    "median_delta": 0.005,
+    "share_positive": 0.5,
+    "share_negative": 0.5
+  },
+  "lived_inclusion_per_1k_shock_to_backlash__Energy": {
+    "n": 10,
+    "mean_delta": 0.3014,
+    "median_delta": 0.4321,
+    "share_positive": 0.9,
+    "share_negative": 0.1
+  },
+  "lived_inclusion_per_1k_shock_to_backlash__Financials": {
+    "n": 10,
+    "mean_delta": -0.1152,
+    "median_delta": 0.03,
+    "share_positive": 0.5,
+    "share_negative": 0.5
+  },
+  "lived_inclusion_per_1k_shock_to_backlash__Healthcare": {
+    "n": 10,
+    "mean_delta": 0.4631,
+    "median_delta": 0.4108,
+    "share_positive": 0.8,
+    "share_negative": 0.2
+  },
+  "lived_inclusion_per_1k_shock_to_backlash__Technology": {
+    "n": 10,
+    "mean_delta": 0.0032,
+    "median_delta": -0.2557,
+    "share_positive": 0.4,
+    "share_negative": 0.6
+  },
+  "oai_shock_to_backlash": {
+    "n": 29,
+    "mean_delta": -6.7998,
+    "median_delta": -5.6269,
+    "share_positive": 0.3103,
+    "share_negative": 0.6897
+  },
+  "oai_shock_to_backlash__Consumer Discretionary": {
+    "n": 5,
+    "mean_delta": -3.2276,
+    "median_delta": -9.3167,
+    "share_positive": 0.4,
+    "share_negative": 0.6
+  },
+  "oai_shock_to_backlash__Energy": {
+    "n": 4,
+    "mean_delta": -8.0719,
+    "median_delta": -12.7168,
+    "share_positive": 0.25,
+    "share_negative": 0.75
+  },
+  "oai_shock_to_backlash__Financials": {
+    "n": 7,
+    "mean_delta": -5.9122,
+    "median_delta": -7.0585,
+    "share_positive": 0.1429,
+    "share_negative": 0.8571
+  },
+  "oai_shock_to_backlash__Healthcare": {
+    "n": 7,
+    "mean_delta": -2.9812,
+    "median_delta": -2.3086,
+    "share_positive": 0.4286,
+    "share_negative": 0.5714
+  },
+  "oai_shock_to_backlash__Technology": {
+    "n": 6,
+    "mean_delta": -14.4193,
+    "median_delta": -23.8169,
+    "share_positive": 0.3333,
+    "share_negative": 0.6667
+  },
+  "H1": {
+    "n": 25,
+    "mean_delta": -0.26,
+    "median_delta": 0.0,
+    "share_positive": 0.08,
+    "share_negative": 0.44,
+    "mean_stated_delta": -0.06,
+    "mean_operational_delta": 0.2,
+    "interpretation": "Supported if mean_stated_delta exceeds mean_operational_delta. The difference itself is in the mean_delta field."
+  },
+  "H2": {
+    "consumer_facing_tech_and_discretionary": {
+      "n": 11,
+      "mean_delta": 0.0248,
+      "median_delta": 0.0,
+      "share_positive": 0.3636,
+      "share_negative": 0.2727
+    },
+    "energy": {
+      "n": 4,
+      "mean_delta": -0.0037,
+      "median_delta": -0.0012,
+      "share_positive": 0.0,
+      "share_negative": 0.5
+    },
+    "healthcare": {
+      "n": 7,
+      "mean_delta": 0.0668,
+      "median_delta": 0.0682,
+      "share_positive": 0.5714,
+      "share_negative": 0.1429
+    },
+    "financials": {
+      "n": 7,
+      "mean_delta": 0.0049,
+      "median_delta": 0.0,
+      "share_positive": 0.2857,
+      "share_negative": 0.1429
+    },
+    "interpretation": "Supported if the consumer-facing mean delta is more negative than the energy mean delta."
+  },
+  "H3": {
+    "n": 25,
+    "correlation_gap_with_oai_change": 0.2301,
+    "interpretation": "Supported if the correlation is negative: a larger rhetoric-minus-practice jump coincides with a fall in the authenticity index."
+  }
+}

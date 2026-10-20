@@ -1,0 +1,14 @@
+{
+  "ticker": "SBUX",
+  "company_name": "Starbucks",
+  "sector": "Consumer Discretionary",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/829224/000082922423000007/a2023proxystatementfinal.htm",
+  "accession": "0000829224-23-000007",
+  "filing_date": "2023-01-27",
+  "cik_used": 829224,
+  "primary_document": "a2023proxystatementfinal.htm",
+  "word_count": 56291
+}

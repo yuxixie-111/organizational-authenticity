@@ -1,0 +1,13 @@
+{
+  "ticker": "BMY",
+  "company_name": "Bristol-Myers Squibb",
+  "sector": "Healthcare",
+  "year": 2016,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.bms.com/about-us.html",
+    "https://www.bms.com/about-us/our-company.html"
+  ],
+  "candidates_considered": 0
+}

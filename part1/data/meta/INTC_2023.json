@@ -1,0 +1,12 @@
+{
+  "ticker": "INTC",
+  "company_name": "Intel",
+  "sector": "Technology",
+  "year": 2023,
+  "status": "gap",
+  "gap_reason": "extraction_empty",
+  "seeds_queried": [
+    "https://www.intel.com/content/www/us/en/company-overview/company-overview.html"
+  ],
+  "candidates_considered": 12
+}

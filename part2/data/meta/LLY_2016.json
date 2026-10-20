@@ -1,0 +1,14 @@
+{
+  "ticker": "LLY",
+  "company_name": "Eli Lilly",
+  "sector": "Healthcare",
+  "year": 2016,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947816000331/proxy2016.htm",
+  "accession": "0000059478-16-000331",
+  "filing_date": "2016-03-21",
+  "cik_used": 59478,
+  "primary_document": "proxy2016.htm",
+  "word_count": 31407
+}

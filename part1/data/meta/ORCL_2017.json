@@ -1,0 +1,13 @@
+{
+  "ticker": "ORCL",
+  "company_name": "Oracle",
+  "sector": "Technology",
+  "year": 2017,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.oracle.com/corporate/",
+    "https://www.oracle.com/us/corporate/index.html"
+  ],
+  "candidates_considered": 0
+}

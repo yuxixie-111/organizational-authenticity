@@ -1,0 +1,13 @@
+{
+  "ticker": "LLY",
+  "company_name": "Eli Lilly",
+  "sector": "Healthcare",
+  "year": 2023,
+  "status": "gap",
+  "gap_reason": "extraction_empty",
+  "seeds_queried": [
+    "https://www.lilly.com/who-we-are",
+    "https://www.lilly.com/about"
+  ],
+  "candidates_considered": 1
+}

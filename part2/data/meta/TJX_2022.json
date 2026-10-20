@@ -1,0 +1,14 @@
+{
+  "ticker": "TJX",
+  "company_name": "TJX Companies",
+  "sector": "Consumer Discretionary",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919822000024/a2022proxystatement.htm",
+  "accession": "0000109198-22-000024",
+  "filing_date": "2022-04-28",
+  "cik_used": 109198,
+  "primary_document": "a2022proxystatement.htm",
+  "word_count": 66982
+}

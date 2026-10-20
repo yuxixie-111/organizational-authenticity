@@ -1,0 +1,19 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA",
+  "sector": "Technology",
+  "year": 2017,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20170711212914",
+  "original_url": "http://www.nvidia.com:80/object/about-nvidia.html",
+  "wayback_url": "https://web.archive.org/web/20170711212914id_/http://www.nvidia.com:80/object/about-nvidia.html",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 877,
+  "seeds_queried": [
+    "https://www.nvidia.com/en-us/about-nvidia/",
+    "https://www.nvidia.com/object/about-nvidia.html"
+  ],
+  "candidates_considered": 10
+}

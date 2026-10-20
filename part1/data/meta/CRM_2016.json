@@ -1,0 +1,20 @@
+{
+  "ticker": "CRM",
+  "company_name": "Salesforce",
+  "sector": "Technology",
+  "year": 2016,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20160706192016",
+  "original_url": "http://www.salesforce.com:80/company/",
+  "wayback_url": "https://web.archive.org/web/20160706192016id_/http://www.salesforce.com:80/company/",
+  "redirect_hops": 0,
+  "page_score": 0,
+  "text_chars": 3732,
+  "seeds_queried": [
+    "https://www.salesforce.com/company/our-story/",
+    "https://www.salesforce.com/company/",
+    "https://www.salesforce.com/company/values/"
+  ],
+  "candidates_considered": 12
+}

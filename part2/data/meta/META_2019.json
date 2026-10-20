@@ -1,0 +1,14 @@
+{
+  "ticker": "META",
+  "company_name": "Meta Platforms",
+  "sector": "Technology",
+  "year": 2019,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680119000025/facebook2019definitiveprox.htm",
+  "accession": "0001326801-19-000025",
+  "filing_date": "2019-04-12",
+  "cik_used": 1326801,
+  "primary_document": "facebook2019definitiveprox.htm",
+  "word_count": 40477
+}

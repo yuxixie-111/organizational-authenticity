@@ -1,0 +1,14 @@
+{
+  "ticker": "MPC",
+  "company_name": "Marathon Petroleum",
+  "sector": "Energy",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029521000046/a2021mpcproxystatement.htm",
+  "accession": "0001510295-21-000046",
+  "filing_date": "2021-03-15",
+  "cik_used": 1510295,
+  "primary_document": "a2021mpcproxystatement.htm",
+  "word_count": 73063
+}

@@ -1,0 +1,15 @@
+{
+  "ticker": "MCD",
+  "company_name": "McDonald's",
+  "sector": "Consumer Discretionary",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/63908/000120677422000894/mcd3962181-pre14a.htm",
+  "accession": "0001206774-22-000894",
+  "filing_date": "2022-03-28",
+  "form": "PRE 14A",
+  "cik_used": 63908,
+  "primary_document": "mcd3962181-pre14a.htm",
+  "word_count": 61544
+}

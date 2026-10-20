@@ -1,0 +1,13 @@
+{
+  "ticker": "TJX",
+  "company_name": "TJX Companies",
+  "sector": "Consumer Discretionary",
+  "year": 2016,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.tjx.com/company",
+    "https://www.tjx.com/company/about-tjx"
+  ],
+  "candidates_considered": 0
+}

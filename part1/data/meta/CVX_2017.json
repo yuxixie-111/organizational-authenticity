@@ -1,0 +1,13 @@
+{
+  "ticker": "CVX",
+  "company_name": "Chevron",
+  "sector": "Energy",
+  "year": 2017,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.chevron.com/about",
+    "https://www.chevron.com/about/who-we-are"
+  ],
+  "candidates_considered": 0
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "JNJ",
+  "company_name": "Johnson & Johnson",
+  "sector": "Healthcare",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20220628210243",
+  "original_url": "https://www.jnj.com/our-company",
+  "wayback_url": "https://web.archive.org/web/20220628210243id_/https://www.jnj.com/our-company",
+  "redirect_hops": 0,
+  "page_score": 5,
+  "text_chars": 2141,
+  "seeds_queried": [
+    "https://www.jnj.com/about-jnj",
+    "https://www.jnj.com/our-company"
+  ],
+  "candidates_considered": 16
+}

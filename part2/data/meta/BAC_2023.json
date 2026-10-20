@@ -1,0 +1,14 @@
+{
+  "ticker": "BAC",
+  "company_name": "Bank of America",
+  "sector": "Financials",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/70858/000119312523062686/d294559ddef14a.htm",
+  "accession": "0001193125-23-062686",
+  "filing_date": "2023-03-07",
+  "cik_used": 70858,
+  "primary_document": "d294559ddef14a.htm",
+  "word_count": 94884
+}

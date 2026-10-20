@@ -1,0 +1,15 @@
+{
+  "ticker": "META",
+  "company_name": "Meta Platforms",
+  "sector": "Technology",
+  "year": 2018,
+  "status": "gap",
+  "gap_reason": "extraction_empty",
+  "seeds_queried": [
+    "https://about.meta.com/",
+    "https://about.facebook.com/",
+    "https://about.fb.com/",
+    "https://www.facebook.com/about"
+  ],
+  "candidates_considered": 1
+}

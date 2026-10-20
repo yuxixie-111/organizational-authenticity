@@ -1,0 +1,19 @@
+{
+  "ticker": "SBUX",
+  "company_name": "Starbucks",
+  "sector": "Consumer Discretionary",
+  "year": 2016,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20160703073131",
+  "original_url": "http://www.starbucks.com:80/about-us",
+  "wayback_url": "https://web.archive.org/web/20160703073131id_/http://www.starbucks.com:80/about-us",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 817,
+  "seeds_queried": [
+    "https://about.starbucks.com/",
+    "https://www.starbucks.com/about-us/"
+  ],
+  "candidates_considered": 12
+}

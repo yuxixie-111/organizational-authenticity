@@ -1,0 +1,13 @@
+{
+  "ticker": "PFE",
+  "company_name": "Pfizer",
+  "sector": "Healthcare",
+  "year": 2019,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.pfizer.com/about",
+    "https://www.pfizer.com/about/purpose"
+  ],
+  "candidates_considered": 0
+}

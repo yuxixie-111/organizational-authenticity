@@ -1,0 +1,13 @@
+{
+  "ticker": "TMO",
+  "company_name": "Thermo Fisher Scientific",
+  "sector": "Healthcare",
+  "year": 2019,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://corporate.thermofisher.com/us/en/index/about.html",
+    "https://www.thermofisher.com/us/en/home/about-us.html"
+  ],
+  "candidates_considered": 0
+}

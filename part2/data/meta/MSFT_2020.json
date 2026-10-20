@@ -1,0 +1,14 @@
+{
+  "ticker": "MSFT",
+  "company_name": "Microsoft",
+  "sector": "Technology",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312520272025/d31295ddef14a.htm",
+  "accession": "0001193125-20-272025",
+  "filing_date": "2020-10-19",
+  "cik_used": 789019,
+  "primary_document": "d31295ddef14a.htm",
+  "word_count": 41208
+}

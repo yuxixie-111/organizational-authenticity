@@ -1,0 +1,13 @@
+{
+  "ticker": "HD",
+  "company_name": "Home Depot",
+  "sector": "Consumer Discretionary",
+  "year": 2024,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://corporate.homedepot.com/about",
+    "https://corporate.homedepot.com/page/about"
+  ],
+  "candidates_considered": 0
+}

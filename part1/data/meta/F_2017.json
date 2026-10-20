@@ -1,0 +1,14 @@
+{
+  "ticker": "F",
+  "company_name": "Ford Motor",
+  "sector": "Consumer Discretionary",
+  "year": 2017,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://corporate.ford.com/about.html",
+    "https://corporate.ford.com/about/our-purpose.html",
+    "https://corporate.ford.com/about-ford/our-purpose.html"
+  ],
+  "candidates_considered": 0
+}

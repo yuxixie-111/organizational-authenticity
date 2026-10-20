@@ -1,0 +1,14 @@
+{
+  "ticker": "MDT",
+  "company_name": "Medtronic",
+  "sector": "Healthcare",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1613103/000119312521259369/d220554ddef14a.htm",
+  "accession": "0001193125-21-259369",
+  "filing_date": "2021-08-27",
+  "cik_used": 1613103,
+  "primary_document": "d220554ddef14a.htm",
+  "word_count": 73728
+}

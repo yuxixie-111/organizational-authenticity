@@ -1,0 +1,14 @@
+{
+  "ticker": "ORCL",
+  "company_name": "Oracle",
+  "sector": "Technology",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312521282422/d162163ddef14a.htm",
+  "accession": "0001193125-21-282422",
+  "filing_date": "2021-09-24",
+  "cik_used": 1341439,
+  "primary_document": "d162163ddef14a.htm",
+  "word_count": 67204
+}

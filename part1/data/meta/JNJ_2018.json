@@ -1,0 +1,19 @@
+{
+  "ticker": "JNJ",
+  "company_name": "Johnson & Johnson",
+  "sector": "Healthcare",
+  "year": 2018,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20180701200238",
+  "original_url": "https://www.jnj.com/about-jnj",
+  "wayback_url": "https://web.archive.org/web/20180701200238id_/https://www.jnj.com/about-jnj",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 1283,
+  "seeds_queried": [
+    "https://www.jnj.com/about-jnj",
+    "https://www.jnj.com/our-company"
+  ],
+  "candidates_considered": 9
+}

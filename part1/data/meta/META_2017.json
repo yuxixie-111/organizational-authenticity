@@ -1,0 +1,21 @@
+{
+  "ticker": "META",
+  "company_name": "Meta Platforms",
+  "sector": "Technology",
+  "year": 2017,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20170201034547",
+  "original_url": "https://www.facebook.com/about/",
+  "wayback_url": "https://web.archive.org/web/20170201034547id_/https://www.facebook.com/about/",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 1504,
+  "seeds_queried": [
+    "https://about.meta.com/",
+    "https://about.facebook.com/",
+    "https://about.fb.com/",
+    "https://www.facebook.com/about"
+  ],
+  "candidates_considered": 2
+}

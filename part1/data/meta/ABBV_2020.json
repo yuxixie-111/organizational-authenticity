@@ -1,0 +1,19 @@
+{
+  "ticker": "ABBV",
+  "company_name": "AbbVie",
+  "sector": "Healthcare",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20200701034547",
+  "original_url": "https://www.abbvie.com/our-company.html",
+  "wayback_url": "https://web.archive.org/web/20200701034547id_/https://www.abbvie.com/our-company.html",
+  "redirect_hops": 0,
+  "page_score": 5,
+  "text_chars": 3117,
+  "seeds_queried": [
+    "https://www.abbvie.com/who-we-are.html",
+    "https://www.abbvie.com/our-company.html"
+  ],
+  "candidates_considered": 11
+}

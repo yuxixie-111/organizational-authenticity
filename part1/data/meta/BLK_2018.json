@@ -1,0 +1,19 @@
+{
+  "ticker": "BLK",
+  "company_name": "BlackRock",
+  "sector": "Financials",
+  "year": 2018,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20180628205037",
+  "original_url": "https://www.blackrock.com/corporate/about-us",
+  "wayback_url": "https://web.archive.org/web/20180628205037id_/https://www.blackrock.com/corporate/about-us",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 1918,
+  "seeds_queried": [
+    "https://www.blackrock.com/corporate/about-us",
+    "https://www.blackrock.com/corporate/about-blackrock"
+  ],
+  "candidates_considered": 5
+}

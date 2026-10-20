@@ -1,0 +1,14 @@
+{
+  "ticker": "EOG",
+  "company_name": "EOG Resources",
+  "sector": "Energy",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/821189/000119312522071943/d286077ddef14a.htm",
+  "accession": "0001193125-22-071943",
+  "filing_date": "2022-03-10",
+  "cik_used": 821189,
+  "primary_document": "d286077ddef14a.htm",
+  "word_count": 41364
+}

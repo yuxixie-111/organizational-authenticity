@@ -1,0 +1,13 @@
+{
+  "ticker": "IBM",
+  "company_name": "IBM",
+  "sector": "Technology",
+  "year": 2016,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.ibm.com/about",
+    "https://www.ibm.com/us-en/about"
+  ],
+  "candidates_considered": 0
+}

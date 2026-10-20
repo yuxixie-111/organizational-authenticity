@@ -1,0 +1,14 @@
+{
+  "ticker": "AXP",
+  "company_name": "American Express",
+  "sector": "Financials",
+  "year": 2021,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://about.americanexpress.com/",
+    "https://www.americanexpress.com/about/",
+    "https://www.americanexpress.com/us/company.html"
+  ],
+  "candidates_considered": 0
+}

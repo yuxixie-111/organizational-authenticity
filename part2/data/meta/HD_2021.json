@@ -1,0 +1,14 @@
+{
+  "ticker": "HD",
+  "company_name": "Home Depot",
+  "sector": "Consumer Discretionary",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495021000116/hd-2021proxystatementng.htm",
+  "accession": "0000354950-21-000116",
+  "filing_date": "2021-04-05",
+  "cik_used": 354950,
+  "primary_document": "hd-2021proxystatementng.htm",
+  "word_count": 47660
+}

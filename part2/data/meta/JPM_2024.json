@@ -1,0 +1,14 @@
+{
+  "ticker": "JPM",
+  "company_name": "JPMorgan Chase",
+  "sector": "Financials",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/19617/000001961724000273/jpm-20240406.htm",
+  "accession": "0000019617-24-000273",
+  "filing_date": "2024-04-08",
+  "cik_used": 19617,
+  "primary_document": "jpm-20240406.htm",
+  "word_count": 76964
+}

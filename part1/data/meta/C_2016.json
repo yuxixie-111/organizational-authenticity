@@ -1,0 +1,13 @@
+{
+  "ticker": "C",
+  "company_name": "Citigroup",
+  "sector": "Financials",
+  "year": 2016,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.citigroup.com/global/about-us",
+    "https://www.citigroup.com/citi/about/"
+  ],
+  "candidates_considered": 0
+}

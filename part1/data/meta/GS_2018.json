@@ -1,0 +1,20 @@
+{
+  "ticker": "GS",
+  "company_name": "Goldman Sachs",
+  "sector": "Financials",
+  "year": 2018,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20180707170636",
+  "original_url": "http://www.goldmansachs.com:80/who-we-are/",
+  "wayback_url": "https://web.archive.org/web/20180707170636id_/http://www.goldmansachs.com:80/who-we-are/",
+  "redirect_hops": 0,
+  "page_score": 5,
+  "text_chars": 2756,
+  "seeds_queried": [
+    "https://www.goldmansachs.com/about-us/",
+    "https://www.goldmansachs.com/our-firm/index.html",
+    "https://www.goldmansachs.com/who-we-are/"
+  ],
+  "candidates_considered": 8
+}

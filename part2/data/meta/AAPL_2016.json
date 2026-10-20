@@ -1,0 +1,14 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple",
+  "sector": "Technology",
+  "year": 2016,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/320193/000119312516422528/d79474ddef14a.htm",
+  "accession": "0001193125-16-422528",
+  "filing_date": "2016-01-06",
+  "cik_used": 320193,
+  "primary_document": "d79474ddef14a.htm",
+  "word_count": 47752
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "PFE",
+  "company_name": "Pfizer",
+  "sector": "Healthcare",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20240704132438",
+  "original_url": "https://www.pfizer.com/about/purpose",
+  "wayback_url": "https://web.archive.org/web/20240704132438id_/https://www.pfizer.com/about/purpose",
+  "redirect_hops": 0,
+  "page_score": 8,
+  "text_chars": 7446,
+  "seeds_queried": [
+    "https://www.pfizer.com/about",
+    "https://www.pfizer.com/about/purpose"
+  ],
+  "candidates_considered": 24
+}

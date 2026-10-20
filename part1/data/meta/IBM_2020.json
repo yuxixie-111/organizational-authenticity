@@ -1,0 +1,19 @@
+{
+  "ticker": "IBM",
+  "company_name": "IBM",
+  "sector": "Technology",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20201117025607",
+  "original_url": "https://www.ibm.com/about",
+  "wayback_url": "https://web.archive.org/web/20201117025607id_/https://www.ibm.com/about",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 10287,
+  "seeds_queried": [
+    "https://www.ibm.com/about",
+    "https://www.ibm.com/us-en/about"
+  ],
+  "candidates_considered": 2
+}

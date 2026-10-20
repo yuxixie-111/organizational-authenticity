@@ -1,0 +1,13 @@
+{
+  "ticker": "AMZN",
+  "company_name": "Amazon",
+  "sector": "Consumer Discretionary",
+  "year": 2017,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.aboutamazon.com/",
+    "https://www.aboutamazon.com/about-us"
+  ],
+  "candidates_considered": 0
+}

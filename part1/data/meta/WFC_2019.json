@@ -1,0 +1,18 @@
+{
+  "ticker": "WFC",
+  "company_name": "Wells Fargo",
+  "sector": "Financials",
+  "year": 2019,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20190709170333",
+  "original_url": "https://www.wellsfargo.com/about/",
+  "wayback_url": "https://web.archive.org/web/20190709170333id_/https://www.wellsfargo.com/about/",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 4205,
+  "seeds_queried": [
+    "https://www.wellsfargo.com/about/"
+  ],
+  "candidates_considered": 9
+}

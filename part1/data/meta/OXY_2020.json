@@ -1,0 +1,13 @@
+{
+  "ticker": "OXY",
+  "company_name": "Occidental Petroleum",
+  "sector": "Energy",
+  "year": 2020,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.oxy.com/about/",
+    "https://www.oxy.com/about/our-company/"
+  ],
+  "candidates_considered": 0
+}

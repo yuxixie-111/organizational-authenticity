@@ -1,0 +1,14 @@
+{
+  "ticker": "UNH",
+  "company_name": "UnitedHealth Group",
+  "sector": "Healthcare",
+  "year": 2017,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/731766/000104746917002810/a2231776zdef14a.htm",
+  "accession": "0001047469-17-002810",
+  "filing_date": "2017-04-21",
+  "cik_used": 731766,
+  "primary_document": "a2231776zdef14a.htm",
+  "word_count": 43354
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA",
+  "sector": "Technology",
+  "year": 2018,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581018000047/nvda2018proxystatementsecf.htm",
+  "accession": "0001045810-18-000047",
+  "filing_date": "2018-04-06",
+  "cik_used": 1045810,
+  "primary_document": "nvda2018proxystatementsecf.htm",
+  "word_count": 64150
+}

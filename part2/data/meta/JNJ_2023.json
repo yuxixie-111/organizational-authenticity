@@ -1,0 +1,14 @@
+{
+  "ticker": "JNJ",
+  "company_name": "Johnson & Johnson",
+  "sector": "Healthcare",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040623000023/jnj-20230313.htm",
+  "accession": "0000200406-23-000023",
+  "filing_date": "2023-03-15",
+  "cik_used": 200406,
+  "primary_document": "jnj-20230313.htm",
+  "word_count": 61844
+}

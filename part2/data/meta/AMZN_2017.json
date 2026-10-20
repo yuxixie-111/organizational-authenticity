@@ -1,0 +1,14 @@
+{
+  "ticker": "AMZN",
+  "company_name": "Amazon",
+  "sector": "Consumer Discretionary",
+  "year": 2017,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312517120195/d334778ddef14a.htm",
+  "accession": "0001193125-17-120195",
+  "filing_date": "2017-04-12",
+  "cik_used": 1018724,
+  "primary_document": "d334778ddef14a.htm",
+  "word_count": 28530
+}

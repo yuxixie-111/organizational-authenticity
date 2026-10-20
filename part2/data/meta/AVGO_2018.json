@@ -1,0 +1,14 @@
+{
+  "ticker": "AVGO",
+  "company_name": "Broadcom",
+  "sector": "Technology",
+  "year": 2018,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1649338/000119312518076991/d528591ddef14a.htm",
+  "accession": "0001193125-18-076991",
+  "filing_date": "2018-03-09",
+  "cik_used": 1649338,
+  "primary_document": "d528591ddef14a.htm",
+  "word_count": 78209
+}

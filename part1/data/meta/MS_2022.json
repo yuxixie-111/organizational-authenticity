@@ -1,0 +1,18 @@
+{
+  "ticker": "MS",
+  "company_name": "Morgan Stanley",
+  "sector": "Financials",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20220707131519",
+  "original_url": "https://www.morganstanley.com/about-us",
+  "wayback_url": "https://web.archive.org/web/20220707131519id_/https://www.morganstanley.com/about-us",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 1040,
+  "seeds_queried": [
+    "https://www.morganstanley.com/about-us"
+  ],
+  "candidates_considered": 12
+}

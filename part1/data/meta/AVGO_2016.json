@@ -1,0 +1,13 @@
+{
+  "ticker": "AVGO",
+  "company_name": "Broadcom",
+  "sector": "Technology",
+  "year": 2016,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.broadcom.com/company/about-us",
+    "https://www.broadcom.com/company/about-us/about-us"
+  ],
+  "candidates_considered": 0
+}

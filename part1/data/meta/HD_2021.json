@@ -1,0 +1,19 @@
+{
+  "ticker": "HD",
+  "company_name": "Home Depot",
+  "sector": "Consumer Discretionary",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20210705003348",
+  "original_url": "https://corporate.homedepot.com/about",
+  "wayback_url": "https://web.archive.org/web/20210705003348id_/https://corporate.homedepot.com/about",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 3357,
+  "seeds_queried": [
+    "https://corporate.homedepot.com/about",
+    "https://corporate.homedepot.com/page/about"
+  ],
+  "candidates_considered": 11
+}

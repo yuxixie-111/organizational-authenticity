@@ -1,0 +1,13 @@
+{
+  "ticker": "PSX",
+  "company_name": "Phillips 66",
+  "sector": "Energy",
+  "year": 2024,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.phillips66.com/about",
+    "https://www.phillips66.com/about-us"
+  ],
+  "candidates_considered": 0
+}

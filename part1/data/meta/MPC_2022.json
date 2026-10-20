@@ -1,0 +1,19 @@
+{
+  "ticker": "MPC",
+  "company_name": "Marathon Petroleum",
+  "sector": "Energy",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20220618224228",
+  "original_url": "https://www.marathonpetroleum.com/About/",
+  "wayback_url": "https://web.archive.org/web/20220618224228id_/https://www.marathonpetroleum.com/About/",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 1677,
+  "seeds_queried": [
+    "https://www.marathonpetroleum.com/About/",
+    "https://www.marathonpetroleum.com/About/Our-Company/"
+  ],
+  "candidates_considered": 7
+}

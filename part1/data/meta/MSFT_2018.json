@@ -1,0 +1,18 @@
+{
+  "ticker": "MSFT",
+  "company_name": "Microsoft",
+  "sector": "Technology",
+  "year": 2018,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20180703085306",
+  "original_url": "https://www.microsoft.com/en-us/about",
+  "wayback_url": "https://web.archive.org/web/20180703085306id_/https://www.microsoft.com/en-us/about",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 2352,
+  "seeds_queried": [
+    "https://www.microsoft.com/en-us/about"
+  ],
+  "candidates_considered": 12
+}

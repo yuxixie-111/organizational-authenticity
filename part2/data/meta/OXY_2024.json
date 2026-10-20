@@ -1,0 +1,14 @@
+{
+  "ticker": "OXY",
+  "company_name": "Occidental Petroleum",
+  "sector": "Energy",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/797468/000079746824000075/oxy-20240321.htm",
+  "accession": "0000797468-24-000075",
+  "filing_date": "2024-03-21",
+  "cik_used": 797468,
+  "primary_document": "oxy-20240321.htm",
+  "word_count": 49188
+}

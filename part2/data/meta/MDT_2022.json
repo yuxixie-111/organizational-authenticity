@@ -1,0 +1,14 @@
+{
+  "ticker": "MDT",
+  "company_name": "Medtronic",
+  "sector": "Healthcare",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1613103/000119312522225369/d382106ddef14a.htm",
+  "accession": "0001193125-22-225369",
+  "filing_date": "2022-08-19",
+  "cik_used": 1613103,
+  "primary_document": "d382106ddef14a.htm",
+  "word_count": 46625
+}

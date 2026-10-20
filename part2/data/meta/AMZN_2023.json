@@ -1,0 +1,14 @@
+{
+  "ticker": "AMZN",
+  "company_name": "Amazon",
+  "sector": "Consumer Discretionary",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465923044708/tm233694d2_def14a.htm",
+  "accession": "0001104659-23-044708",
+  "filing_date": "2023-04-13",
+  "cik_used": 1018724,
+  "primary_document": "tm233694d2_def14a.htm",
+  "word_count": 83620
+}

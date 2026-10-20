@@ -1,0 +1,14 @@
+{
+  "ticker": "CRM",
+  "company_name": "Salesforce",
+  "sector": "Technology",
+  "year": 2020,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.salesforce.com/company/our-story/",
+    "https://www.salesforce.com/company/",
+    "https://www.salesforce.com/company/values/"
+  ],
+  "candidates_considered": 0
+}

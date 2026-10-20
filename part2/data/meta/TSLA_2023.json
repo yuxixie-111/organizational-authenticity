@@ -1,0 +1,14 @@
+{
+  "ticker": "TSLA",
+  "company_name": "Tesla",
+  "sector": "Consumer Discretionary",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312523094075/d451342ddef14a.htm",
+  "accession": "0001193125-23-094075",
+  "filing_date": "2023-04-06",
+  "cik_used": 1318605,
+  "primary_document": "d451342ddef14a.htm",
+  "word_count": 35253
+}

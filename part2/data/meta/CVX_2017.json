@@ -1,0 +1,14 @@
+{
+  "ticker": "CVX",
+  "company_name": "Chevron",
+  "sector": "Energy",
+  "year": 2017,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/93410/000119312517119801/d304635ddef14a.htm",
+  "accession": "0001193125-17-119801",
+  "filing_date": "2017-04-11",
+  "cik_used": 93410,
+  "primary_document": "d304635ddef14a.htm",
+  "word_count": 54229
+}

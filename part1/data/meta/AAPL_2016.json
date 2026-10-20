@@ -1,0 +1,18 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple",
+  "sector": "Technology",
+  "year": 2016,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20160708085219",
+  "original_url": "http://www.apple.com/about/",
+  "wayback_url": "https://web.archive.org/web/20160708085219id_/http://www.apple.com/about/",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 306,
+  "seeds_queried": [
+    "https://www.apple.com/about/"
+  ],
+  "candidates_considered": 12
+}

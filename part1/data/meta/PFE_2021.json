@@ -1,0 +1,19 @@
+{
+  "ticker": "PFE",
+  "company_name": "Pfizer",
+  "sector": "Healthcare",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20211216141830",
+  "original_url": "https://www.pfizer.com/about",
+  "wayback_url": "https://web.archive.org/web/20211216141830id_/https://www.pfizer.com/about",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 25372,
+  "seeds_queried": [
+    "https://www.pfizer.com/about",
+    "https://www.pfizer.com/about/purpose"
+  ],
+  "candidates_considered": 1
+}

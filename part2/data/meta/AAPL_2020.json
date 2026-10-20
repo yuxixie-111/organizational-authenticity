@@ -1,0 +1,14 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple",
+  "sector": "Technology",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/320193/000119312520001450/d799303ddef14a.htm",
+  "accession": "0001193125-20-001450",
+  "filing_date": "2020-01-03",
+  "cik_used": 320193,
+  "primary_document": "d799303ddef14a.htm",
+  "word_count": 29697
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "NKE",
+  "company_name": "Nike",
+  "sector": "Consumer Discretionary",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/320187/000032018724000045/nke-20240725.htm",
+  "accession": "0000320187-24-000045",
+  "filing_date": "2024-07-25",
+  "cik_used": 320187,
+  "primary_document": "nke-20240725.htm",
+  "word_count": 39507
+}

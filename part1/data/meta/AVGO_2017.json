@@ -1,0 +1,19 @@
+{
+  "ticker": "AVGO",
+  "company_name": "Broadcom",
+  "sector": "Technology",
+  "year": 2017,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20170712084805",
+  "original_url": "https://www.broadcom.com/company/about-us/",
+  "wayback_url": "https://web.archive.org/web/20170712084805id_/https://www.broadcom.com/company/about-us/",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 145,
+  "seeds_queried": [
+    "https://www.broadcom.com/company/about-us",
+    "https://www.broadcom.com/company/about-us/about-us"
+  ],
+  "candidates_considered": 4
+}

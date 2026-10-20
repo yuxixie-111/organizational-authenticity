@@ -1,0 +1,19 @@
+{
+  "ticker": "JPM",
+  "company_name": "JPMorgan Chase",
+  "sector": "Financials",
+  "year": 2019,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20190710143621",
+  "original_url": "https://www.jpmorganchase.com/corporate/About-JPMC/about-us.htm",
+  "wayback_url": "https://web.archive.org/web/20190710143621id_/https://www.jpmorganchase.com/corporate/About-JPMC/about-us.htm",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 841,
+  "seeds_queried": [
+    "https://www.jpmorganchase.com/about",
+    "https://www.jpmorganchase.com/corporate/About-JPMC/about-us.htm"
+  ],
+  "candidates_considered": 10
+}

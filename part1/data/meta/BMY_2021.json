@@ -1,0 +1,19 @@
+{
+  "ticker": "BMY",
+  "company_name": "Bristol-Myers Squibb",
+  "sector": "Healthcare",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20210711173814",
+  "original_url": "https://www.bms.com/about-us/our-company.html",
+  "wayback_url": "https://web.archive.org/web/20210711173814id_/https://www.bms.com/about-us/our-company.html",
+  "redirect_hops": 0,
+  "page_score": 8,
+  "text_chars": 2498,
+  "seeds_queried": [
+    "https://www.bms.com/about-us.html",
+    "https://www.bms.com/about-us/our-company.html"
+  ],
+  "candidates_considered": 24
+}

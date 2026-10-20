@@ -1,0 +1,14 @@
+{
+  "ticker": "TMO",
+  "company_name": "Thermo Fisher Scientific",
+  "sector": "Healthcare",
+  "year": 2018,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774518000011/a2018proxy.htm",
+  "accession": "0000097745-18-000011",
+  "filing_date": "2018-04-10",
+  "cik_used": 97745,
+  "primary_document": "a2018proxy.htm",
+  "word_count": 34557
+}

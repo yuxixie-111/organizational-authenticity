@@ -1,0 +1,14 @@
+{
+  "ticker": "SBUX",
+  "company_name": "Starbucks",
+  "sector": "Consumer Discretionary",
+  "year": 2018,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/829224/000119312518021792/d440699ddef14a.htm",
+  "accession": "0001193125-18-021792",
+  "filing_date": "2018-01-26",
+  "cik_used": 829224,
+  "primary_document": "d440699ddef14a.htm",
+  "word_count": 45928
+}

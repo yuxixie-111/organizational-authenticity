@@ -1,0 +1,20 @@
+{
+  "ticker": "NKE",
+  "company_name": "Nike",
+  "sector": "Consumer Discretionary",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20200701040440",
+  "original_url": "https://about.nike.com/",
+  "wayback_url": "https://web.archive.org/web/20200701040440id_/https://about.nike.com/",
+  "redirect_hops": 0,
+  "page_score": 8,
+  "text_chars": 6919,
+  "seeds_queried": [
+    "https://about.nike.com/",
+    "https://purpose.nike.com/",
+    "https://www.nike.com/about"
+  ],
+  "candidates_considered": 24
+}

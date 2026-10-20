@@ -1,0 +1,14 @@
+{
+  "ticker": "SLB",
+  "company_name": "SLB (Schlumberger)",
+  "sector": "Energy",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/87347/000130817923000057/slb-20221231.htm",
+  "accession": "0001308179-23-000057",
+  "filing_date": "2023-02-23",
+  "cik_used": 87347,
+  "primary_document": "slb-20221231.htm",
+  "word_count": 39789
+}

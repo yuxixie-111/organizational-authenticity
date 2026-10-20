@@ -1,0 +1,14 @@
+{
+  "ticker": "PSX",
+  "company_name": "Phillips 66",
+  "sector": "Energy",
+  "year": 2018,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1534701/000157104918000199/tv488480_phillips66-2018pxy.htm",
+  "accession": "0001571049-18-000199",
+  "filing_date": "2018-03-28",
+  "cik_used": 1534701,
+  "primary_document": "tv488480_phillips66-2018pxy.htm",
+  "word_count": 37599
+}

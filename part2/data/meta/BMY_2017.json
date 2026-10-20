@@ -1,0 +1,14 @@
+{
+  "ticker": "BMY",
+  "company_name": "Bristol-Myers Squibb",
+  "sector": "Healthcare",
+  "year": 2017,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/14272/000104746917001940/a2231412zdef14a.htm",
+  "accession": "0001047469-17-001940",
+  "filing_date": "2017-03-23",
+  "cik_used": 14272,
+  "primary_document": "a2231412zdef14a.htm",
+  "word_count": 71638
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "C",
+  "company_name": "Citigroup",
+  "sector": "Financials",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/831001/000120677421000735/citi3828191-def14a.htm",
+  "accession": "0001206774-21-000735",
+  "filing_date": "2021-03-17",
+  "cik_used": 831001,
+  "primary_document": "citi3828191-def14a.htm",
+  "word_count": 85237
+}

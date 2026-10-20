@@ -1,0 +1,19 @@
+{
+  "ticker": "MDT",
+  "company_name": "Medtronic",
+  "sector": "Healthcare",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20220702114916",
+  "original_url": "https://www.medtronic.com/us-en/our-company.html",
+  "wayback_url": "https://web.archive.org/web/20220702114916id_/https://www.medtronic.com/us-en/our-company.html",
+  "redirect_hops": 0,
+  "page_score": 5,
+  "text_chars": 4325,
+  "seeds_queried": [
+    "https://www.medtronic.com/us-en/our-company.html",
+    "https://www.medtronic.com/en-us/our-company.html"
+  ],
+  "candidates_considered": 12
+}

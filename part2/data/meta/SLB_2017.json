@@ -1,0 +1,14 @@
+{
+  "ticker": "SLB",
+  "company_name": "SLB (Schlumberger)",
+  "sector": "Energy",
+  "year": 2017,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/87347/000130817917000018/lslb2017_def14a.htm",
+  "accession": "0001308179-17-000018",
+  "filing_date": "2017-02-21",
+  "cik_used": 87347,
+  "primary_document": "lslb2017_def14a.htm",
+  "word_count": 61448
+}

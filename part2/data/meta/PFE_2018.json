@@ -1,0 +1,14 @@
+{
+  "ticker": "PFE",
+  "company_name": "Pfizer",
+  "sector": "Healthcare",
+  "year": 2018,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/78003/000093041318000973/c90444_def14a.htm",
+  "accession": "0000930413-18-000973",
+  "filing_date": "2018-03-15",
+  "cik_used": 78003,
+  "primary_document": "c90444_def14a.htm",
+  "word_count": 73591
+}

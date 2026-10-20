@@ -1,0 +1,18 @@
+{
+  "ticker": "TSLA",
+  "company_name": "Tesla",
+  "sector": "Consumer Discretionary",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20230706192013",
+  "original_url": "https://www.tesla.com/about",
+  "wayback_url": "https://web.archive.org/web/20230706192013id_/https://www.tesla.com/about",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 1450,
+  "seeds_queried": [
+    "https://www.tesla.com/about"
+  ],
+  "candidates_considered": 12
+}

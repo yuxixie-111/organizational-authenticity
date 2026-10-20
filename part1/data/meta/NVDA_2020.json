@@ -1,0 +1,13 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA",
+  "sector": "Technology",
+  "year": 2020,
+  "status": "gap",
+  "gap_reason": "extraction_empty",
+  "seeds_queried": [
+    "https://www.nvidia.com/en-us/about-nvidia/",
+    "https://www.nvidia.com/object/about-nvidia.html"
+  ],
+  "candidates_considered": 11
+}

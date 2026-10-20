@@ -1,0 +1,19 @@
+{
+  "ticker": "VLO",
+  "company_name": "Valero Energy",
+  "sector": "Energy",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20210722083028",
+  "original_url": "https://www.valero.com/about",
+  "wayback_url": "https://web.archive.org/web/20210722083028id_/https://www.valero.com/about",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 1365,
+  "seeds_queried": [
+    "https://www.valero.com/about",
+    "https://www.valero.com/about-us"
+  ],
+  "candidates_considered": 11
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "AXP",
+  "company_name": "American Express",
+  "sector": "Financials",
+  "year": 2019,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20190701021841",
+  "original_url": "https://about.americanexpress.com/",
+  "wayback_url": "https://web.archive.org/web/20190701021841id_/https://about.americanexpress.com/",
+  "redirect_hops": 0,
+  "page_score": 8,
+  "text_chars": 3249,
+  "seeds_queried": [
+    "https://about.americanexpress.com/",
+    "https://www.americanexpress.com/about/",
+    "https://www.americanexpress.com/us/company.html"
+  ],
+  "candidates_considered": 12
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "BLK",
+  "company_name": "BlackRock",
+  "sector": "Financials",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1364742/000119312524087282/d577664ddef14a.htm",
+  "accession": "0001193125-24-087282",
+  "filing_date": "2024-04-04",
+  "cik_used": 1364742,
+  "primary_document": "d577664ddef14a.htm",
+  "word_count": 78530
+}

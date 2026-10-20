@@ -1,0 +1,19 @@
+{
+  "ticker": "HAL",
+  "company_name": "Halliburton",
+  "sector": "Energy",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20240701173643",
+  "original_url": "https://www.halliburton.com/en/about-us",
+  "wayback_url": "https://web.archive.org/web/20240701173643id_/https://www.halliburton.com/en/about-us",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 4320,
+  "seeds_queried": [
+    "https://www.halliburton.com/en/about-us",
+    "https://www.halliburton.com/en-us/about-us.html"
+  ],
+  "candidates_considered": 11
+}

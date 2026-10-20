@@ -1,0 +1,20 @@
+{
+  "ticker": "MCD",
+  "company_name": "McDonald's",
+  "sector": "Consumer Discretionary",
+  "year": 2017,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20170816061542",
+  "original_url": "https://www.mcdonalds.com/us/en-us/about-us.html",
+  "wayback_url": "https://web.archive.org/web/20170816061542id_/https://www.mcdonalds.com/us/en-us/about-us.html",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 727,
+  "seeds_queried": [
+    "https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are.html",
+    "https://corporate.mcdonalds.com/corpmcd/our-company.html",
+    "https://www.mcdonalds.com/us/en-us/about-us.html"
+  ],
+  "candidates_considered": 7
+}

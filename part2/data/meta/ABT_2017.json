@@ -1,0 +1,14 @@
+{
+  "ticker": "ABT",
+  "company_name": "Abbott Laboratories",
+  "sector": "Healthcare",
+  "year": 2017,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1800/000104746917001713/a2230920zdef14a.htm",
+  "accession": "0001047469-17-001713",
+  "filing_date": "2017-03-17",
+  "cik_used": 1800,
+  "primary_document": "a2230920zdef14a.htm",
+  "word_count": 59537
+}

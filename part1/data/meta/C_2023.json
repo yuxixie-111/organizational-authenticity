@@ -1,0 +1,19 @@
+{
+  "ticker": "C",
+  "company_name": "Citigroup",
+  "sector": "Financials",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20230722101707",
+  "original_url": "https://www.citigroup.com/global/about-us",
+  "wayback_url": "https://web.archive.org/web/20230722101707id_/https://www.citigroup.com/global/about-us",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 683,
+  "seeds_queried": [
+    "https://www.citigroup.com/global/about-us",
+    "https://www.citigroup.com/citi/about/"
+  ],
+  "candidates_considered": 11
+}

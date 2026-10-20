@@ -1,0 +1,13 @@
+{
+  "ticker": "ABBV",
+  "company_name": "AbbVie",
+  "sector": "Healthcare",
+  "year": 2016,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.abbvie.com/who-we-are.html",
+    "https://www.abbvie.com/our-company.html"
+  ],
+  "candidates_considered": 0
+}

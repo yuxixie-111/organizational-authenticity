@@ -1,0 +1,14 @@
+{
+  "ticker": "JPM",
+  "company_name": "JPMorgan Chase",
+  "sector": "Financials",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/19617/000001961722000303/a2022proxystatement.htm",
+  "accession": "0000019617-22-000303",
+  "filing_date": "2022-04-04",
+  "cik_used": 19617,
+  "primary_document": "a2022proxystatement.htm",
+  "word_count": 64044
+}

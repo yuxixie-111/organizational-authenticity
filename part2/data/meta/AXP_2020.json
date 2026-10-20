@@ -1,0 +1,14 @@
+{
+  "ticker": "AXP",
+  "company_name": "American Express",
+  "sector": "Financials",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/4962/000119312520083487/d804770ddef14a.htm",
+  "accession": "0001193125-20-083487",
+  "filing_date": "2020-03-24",
+  "cik_used": 4962,
+  "primary_document": "d804770ddef14a.htm",
+  "word_count": 56502
+}

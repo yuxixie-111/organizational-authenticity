@@ -1,0 +1,14 @@
+{
+  "ticker": "MRK",
+  "company_name": "Merck",
+  "sector": "Healthcare",
+  "year": 2019,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/310158/000114036119006720/mrk-def14a_052819.htm",
+  "accession": "0001140361-19-006720",
+  "filing_date": "2019-04-08",
+  "cik_used": 310158,
+  "primary_document": "mrk-def14a_052819.htm",
+  "word_count": 59089
+}

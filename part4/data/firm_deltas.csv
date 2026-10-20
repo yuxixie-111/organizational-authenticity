@@ -1,0 +1,363 @@
+ticker,sector,start,end,delta,outcome,contrast
+ABBV,Healthcare,0.0,0.0,0.0,stated_inclusion_share,pre_to_shock
+AMZN,Consumer Discretionary,0.0625,0.0,-0.0625,stated_inclusion_share,pre_to_shock
+AXP,Financials,0.04545,0.0968,0.05135,stated_inclusion_share,pre_to_shock
+BLK,Financials,0.0,0.0,0.0,stated_inclusion_share,pre_to_shock
+BMY,Healthcare,0.0,0.0,0.0,stated_inclusion_share,pre_to_shock
+BRK.B,Financials,0.0,0.0,0.0,stated_inclusion_share,pre_to_shock
+GOOGL,Technology,0.0,0.35,0.35,stated_inclusion_share,pre_to_shock
+GS,Financials,0.1724,0.0,-0.1724,stated_inclusion_share,pre_to_shock
+HD,Consumer Discretionary,0.0,0.0,0.0,stated_inclusion_share,pre_to_shock
+JNJ,Healthcare,0.0,0.0,0.0,stated_inclusion_share,pre_to_shock
+JPM,Financials,0.0,0.0238,0.0238,stated_inclusion_share,pre_to_shock
+LLY,Healthcare,0.0,0.0,0.0,stated_inclusion_share,pre_to_shock
+MCD,Consumer Discretionary,0.0,0.07275000000000001,0.07275000000000001,stated_inclusion_share,pre_to_shock
+META,Technology,0.0,0.0,0.0,stated_inclusion_share,pre_to_shock
+MPC,Energy,0.125,0.0714,-0.053599999999999995,stated_inclusion_share,pre_to_shock
+MRK,Healthcare,0.025,0.12345,0.09845000000000001,stated_inclusion_share,pre_to_shock
+MS,Financials,0.0,0.0,0.0,stated_inclusion_share,pre_to_shock
+MSFT,Technology,0.18335,0.0,-0.18335,stated_inclusion_share,pre_to_shock
+NKE,Consumer Discretionary,0.1032,0.1064,0.0031999999999999945,stated_inclusion_share,pre_to_shock
+ORCL,Technology,0.09545000000000001,0.1111,0.015649999999999997,stated_inclusion_share,pre_to_shock
+SBUX,Consumer Discretionary,0.0,0.0,0.0,stated_inclusion_share,pre_to_shock
+SCHW,Financials,0.0625,0.03335,-0.029150000000000002,stated_inclusion_share,pre_to_shock
+SLB,Energy,0.0,0.0,0.0,stated_inclusion_share,pre_to_shock
+UNH,Healthcare,0.0,0.0,0.0,stated_inclusion_share,pre_to_shock
+WFC,Financials,0.087,0.0909,0.0039000000000000007,stated_inclusion_share,pre_to_shock
+ABBV,Healthcare,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+AMZN,Consumer Discretionary,0.5,0.0,-0.5,stated_inclusion_emphasized,pre_to_shock
+AXP,Financials,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+BLK,Financials,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+BMY,Healthcare,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+BRK.B,Financials,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+GOOGL,Technology,0.0,1.0,1.0,stated_inclusion_emphasized,pre_to_shock
+GS,Financials,0.5,0.0,-0.5,stated_inclusion_emphasized,pre_to_shock
+HD,Consumer Discretionary,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+JNJ,Healthcare,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+JPM,Financials,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+LLY,Healthcare,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+MCD,Consumer Discretionary,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+META,Technology,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+MPC,Energy,1.0,0.0,-1.0,stated_inclusion_emphasized,pre_to_shock
+MRK,Healthcare,0.0,0.5,0.5,stated_inclusion_emphasized,pre_to_shock
+MS,Financials,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+MSFT,Technology,1.0,0.0,-1.0,stated_inclusion_emphasized,pre_to_shock
+NKE,Consumer Discretionary,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+ORCL,Technology,0.0,0.5,0.5,stated_inclusion_emphasized,pre_to_shock
+SBUX,Consumer Discretionary,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+SCHW,Financials,0.5,0.0,-0.5,stated_inclusion_emphasized,pre_to_shock
+SLB,Energy,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+UNH,Healthcare,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+WFC,Financials,0.0,0.0,0.0,stated_inclusion_emphasized,pre_to_shock
+AAPL,Technology,1.0,1.0,0.0,operational_dei,pre_to_shock
+ABBV,Healthcare,0.0,0.5,0.5,operational_dei,pre_to_shock
+ABT,Healthcare,1.0,1.0,0.0,operational_dei,pre_to_shock
+AMZN,Consumer Discretionary,0.5,1.0,0.5,operational_dei,pre_to_shock
+AVGO,Technology,0.0,0.0,0.0,operational_dei,pre_to_shock
+AXP,Financials,1.0,1.0,0.0,operational_dei,pre_to_shock
+BAC,Financials,1.0,1.0,0.0,operational_dei,pre_to_shock
+BLK,Financials,0.5,1.0,0.5,operational_dei,pre_to_shock
+BMY,Healthcare,1.0,1.0,0.0,operational_dei,pre_to_shock
+BRK.B,Financials,0.0,0.5,0.5,operational_dei,pre_to_shock
+C,Financials,1.0,1.0,0.0,operational_dei,pre_to_shock
+COP,Energy,1.0,1.0,0.0,operational_dei,pre_to_shock
+CRM,Technology,1.0,1.0,0.0,operational_dei,pre_to_shock
+CVX,Energy,0.0,0.5,0.5,operational_dei,pre_to_shock
+EOG,Energy,0.0,0.0,0.0,operational_dei,pre_to_shock
+F,Consumer Discretionary,1.0,1.0,0.0,operational_dei,pre_to_shock
+GOOGL,Technology,1.0,1.0,0.0,operational_dei,pre_to_shock
+GS,Financials,1.0,1.0,0.0,operational_dei,pre_to_shock
+HAL,Energy,0.0,0.0,0.0,operational_dei,pre_to_shock
+HD,Consumer Discretionary,1.0,1.0,0.0,operational_dei,pre_to_shock
+IBM,Technology,0.0,1.0,1.0,operational_dei,pre_to_shock
+INTC,Technology,1.0,1.0,0.0,operational_dei,pre_to_shock
+JNJ,Healthcare,0.0,1.0,1.0,operational_dei,pre_to_shock
+JPM,Financials,0.5,1.0,0.5,operational_dei,pre_to_shock
+LLY,Healthcare,1.0,1.0,0.0,operational_dei,pre_to_shock
+LOW,Consumer Discretionary,0.0,0.5,0.5,operational_dei,pre_to_shock
+MCD,Consumer Discretionary,1.0,1.0,0.0,operational_dei,pre_to_shock
+MDT,Healthcare,1.0,1.0,0.0,operational_dei,pre_to_shock
+META,Technology,1.0,1.0,0.0,operational_dei,pre_to_shock
+MPC,Energy,0.5,0.5,0.0,operational_dei,pre_to_shock
+MRK,Healthcare,0.0,1.0,1.0,operational_dei,pre_to_shock
+MS,Financials,0.0,0.5,0.5,operational_dei,pre_to_shock
+MSFT,Technology,0.5,1.0,0.5,operational_dei,pre_to_shock
+NKE,Consumer Discretionary,1.0,1.0,0.0,operational_dei,pre_to_shock
+NVDA,Technology,1.0,1.0,0.0,operational_dei,pre_to_shock
+ORCL,Technology,1.0,1.0,0.0,operational_dei,pre_to_shock
+OXY,Energy,1.0,1.0,0.0,operational_dei,pre_to_shock
+PFE,Healthcare,1.0,1.0,0.0,operational_dei,pre_to_shock
+PSX,Energy,0.5,0.5,0.0,operational_dei,pre_to_shock
+SBUX,Consumer Discretionary,1.0,1.0,0.0,operational_dei,pre_to_shock
+SCHW,Financials,1.0,0.5,-0.5,operational_dei,pre_to_shock
+SLB,Energy,1.0,1.0,0.0,operational_dei,pre_to_shock
+TGT,Consumer Discretionary,1.0,1.0,0.0,operational_dei,pre_to_shock
+TJX,Consumer Discretionary,1.0,1.0,0.0,operational_dei,pre_to_shock
+TMO,Healthcare,0.0,0.5,0.5,operational_dei,pre_to_shock
+TSLA,Consumer Discretionary,0.0,0.5,0.5,operational_dei,pre_to_shock
+UNH,Healthcare,1.0,1.0,0.0,operational_dei,pre_to_shock
+VLO,Energy,0.0,0.5,0.5,operational_dei,pre_to_shock
+WFC,Financials,1.0,1.0,0.0,operational_dei,pre_to_shock
+XOM,Energy,1.0,1.0,0.0,operational_dei,pre_to_shock
+AAPL,Technology,0.675,0.8187,0.14369999999999994,lived_inclusion_per_1k,pre_to_shock
+ABBV,Healthcare,0.34199999999999997,0.6653,0.32330000000000003,lived_inclusion_per_1k,pre_to_shock
+ABT,Healthcare,0.20695,0.8688,0.66185,lived_inclusion_per_1k,pre_to_shock
+AMZN,Consumer Discretionary,1.4518,3.45205,2.00025,lived_inclusion_per_1k,pre_to_shock
+AVGO,Technology,0.10435,0.1819,0.07755000000000001,lived_inclusion_per_1k,pre_to_shock
+AXP,Financials,0.9382999999999999,2.8008,1.8625000000000003,lived_inclusion_per_1k,pre_to_shock
+BAC,Financials,0.9026,1.4301,0.5275,lived_inclusion_per_1k,pre_to_shock
+BLK,Financials,0.79565,1.27845,0.4828000000000001,lived_inclusion_per_1k,pre_to_shock
+BMY,Healthcare,0.51595,0.8666,0.35065,lived_inclusion_per_1k,pre_to_shock
+BRK.B,Financials,0.2711,2.3631,2.092,lived_inclusion_per_1k,pre_to_shock
+C,Financials,0.45694999999999997,0.86205,0.4051,lived_inclusion_per_1k,pre_to_shock
+COP,Energy,0.47434999999999994,0.6182,0.14385000000000003,lived_inclusion_per_1k,pre_to_shock
+CRM,Technology,0.27785,0.30074999999999996,0.022899999999999976,lived_inclusion_per_1k,pre_to_shock
+CVX,Energy,0.44294999999999995,0.57985,0.13690000000000002,lived_inclusion_per_1k,pre_to_shock
+EOG,Energy,0.19974999999999998,0.26144999999999996,0.06169999999999998,lived_inclusion_per_1k,pre_to_shock
+F,Consumer Discretionary,0.2311,0.5602,0.32910000000000006,lived_inclusion_per_1k,pre_to_shock
+GOOGL,Technology,1.2047500000000002,1.1208,-0.08395000000000019,lived_inclusion_per_1k,pre_to_shock
+GS,Financials,0.5878,1.1408,0.553,lived_inclusion_per_1k,pre_to_shock
+HAL,Energy,0.2094,0.19715,-0.012250000000000011,lived_inclusion_per_1k,pre_to_shock
+HD,Consumer Discretionary,1.52095,1.43635,-0.08460000000000001,lived_inclusion_per_1k,pre_to_shock
+IBM,Technology,0.5494,1.4604,0.9109999999999999,lived_inclusion_per_1k,pre_to_shock
+INTC,Technology,0.8389,2.2374,1.3985,lived_inclusion_per_1k,pre_to_shock
+JNJ,Healthcare,0.34355,1.0208,0.6772499999999999,lived_inclusion_per_1k,pre_to_shock
+JPM,Financials,0.8593500000000001,1.95645,1.0971,lived_inclusion_per_1k,pre_to_shock
+LLY,Healthcare,0.3797,0.8582,0.4785,lived_inclusion_per_1k,pre_to_shock
+LOW,Consumer Discretionary,0.17005,0.5725,0.40245,lived_inclusion_per_1k,pre_to_shock
+MCD,Consumer Discretionary,0.7898499999999999,1.27755,0.4877,lived_inclusion_per_1k,pre_to_shock
+MDT,Healthcare,0.18845,0.3456,0.15715,lived_inclusion_per_1k,pre_to_shock
+META,Technology,1.3455,1.4105,0.06500000000000017,lived_inclusion_per_1k,pre_to_shock
+MPC,Energy,0.3236,0.49140000000000006,0.16780000000000006,lived_inclusion_per_1k,pre_to_shock
+MRK,Healthcare,0.36705,0.73635,0.36929999999999996,lived_inclusion_per_1k,pre_to_shock
+MS,Financials,0.4032,0.8528,0.4496,lived_inclusion_per_1k,pre_to_shock
+MSFT,Technology,1.4973999999999998,1.5083,0.010900000000000132,lived_inclusion_per_1k,pre_to_shock
+NKE,Consumer Discretionary,1.01725,2.3242000000000003,1.3069500000000003,lived_inclusion_per_1k,pre_to_shock
+NVDA,Technology,0.3183,0.7431,0.42479999999999996,lived_inclusion_per_1k,pre_to_shock
+ORCL,Technology,1.0323,1.32725,0.29495000000000005,lived_inclusion_per_1k,pre_to_shock
+OXY,Energy,0.5455,0.44635,-0.09914999999999996,lived_inclusion_per_1k,pre_to_shock
+PFE,Healthcare,0.23135,0.7455499999999999,0.5142,lived_inclusion_per_1k,pre_to_shock
+PSX,Energy,0.45994999999999997,0.9443,0.48435000000000006,lived_inclusion_per_1k,pre_to_shock
+SBUX,Consumer Discretionary,1.09375,1.96185,0.8681000000000001,lived_inclusion_per_1k,pre_to_shock
+SCHW,Financials,1.1094,0.7942,-0.3151999999999999,lived_inclusion_per_1k,pre_to_shock
+SLB,Energy,0.42605000000000004,0.4393,0.013249999999999984,lived_inclusion_per_1k,pre_to_shock
+TGT,Consumer Discretionary,0.26775000000000004,0.3993,0.13154999999999994,lived_inclusion_per_1k,pre_to_shock
+TJX,Consumer Discretionary,0.9894999999999999,0.58715,-0.40235,lived_inclusion_per_1k,pre_to_shock
+TMO,Healthcare,0.5126999999999999,0.6049,0.09220000000000006,lived_inclusion_per_1k,pre_to_shock
+TSLA,Consumer Discretionary,0.1667,0.82005,0.65335,lived_inclusion_per_1k,pre_to_shock
+UNH,Healthcare,0.584,0.9466,0.36260000000000003,lived_inclusion_per_1k,pre_to_shock
+VLO,Energy,0.304,0.43865000000000004,0.13465000000000005,lived_inclusion_per_1k,pre_to_shock
+WFC,Financials,1.51615,3.1613499999999997,1.6451999999999996,lived_inclusion_per_1k,pre_to_shock
+XOM,Energy,0.87245,0.3987,-0.47374999999999995,lived_inclusion_per_1k,pre_to_shock
+ABBV,Healthcare,35.00893072119234,32.26684916704056,-2.742081554151781,oai,pre_to_shock
+AMZN,Consumer Discretionary,33.134320175972036,33.90393989668505,0.7696197207130169,oai,pre_to_shock
+AXP,Financials,59.49100464681509,14.547335276273168,-44.943669370541926,oai,pre_to_shock
+BLK,Financials,48.736112679286165,68.27242521726818,19.536312537982013,oai,pre_to_shock
+BMY,Healthcare,40.98569432538129,53.20424658441294,12.218552259031654,oai,pre_to_shock
+BRK.B,Financials,70.91074454226381,70.41083355337156,-0.49991098889225327,oai,pre_to_shock
+GOOGL,Technology,45.00995041148498,63.56128093384851,18.55133052236353,oai,pre_to_shock
+GS,Financials,33.634830357980064,21.18441780140642,-12.450412556573646,oai,pre_to_shock
+HD,Consumer Discretionary,21.04888884085947,23.185224564458608,2.1363357235991387,oai,pre_to_shock
+JNJ,Healthcare,9.434144722914166,24.522106341872416,15.08796161895825,oai,pre_to_shock
+JPM,Financials,25.29865541423628,63.687876105433915,38.389220691197636,oai,pre_to_shock
+LLY,Healthcare,45.24966530920105,47.9219745218576,2.6723092126565504,oai,pre_to_shock
+MCD,Consumer Discretionary,5.142509656943571,14.34560115130341,9.203091494359839,oai,pre_to_shock
+META,Technology,9.772480802307754,73.96842374642526,64.1959429441175,oai,pre_to_shock
+MPC,Energy,53.9869127370713,55.771169586610185,1.7842568495388846,oai,pre_to_shock
+MRK,Healthcare,39.858027000500954,54.71099257347048,14.852965572969524,oai,pre_to_shock
+MS,Financials,63.31182177051952,72.47269568747626,9.160873916956739,oai,pre_to_shock
+MSFT,Technology,40.61035642295195,30.7923859852328,-9.81797043771915,oai,pre_to_shock
+NKE,Consumer Discretionary,31.016051827652497,31.305502555681578,0.289450728029081,oai,pre_to_shock
+ORCL,Technology,5.084398282257849,46.631433223415996,41.547034941158145,oai,pre_to_shock
+SBUX,Consumer Discretionary,5.513127144722652,35.39383441378943,29.880707269066775,oai,pre_to_shock
+SCHW,Financials,20.96394427834397,8.266173545221653,-12.697770733122317,oai,pre_to_shock
+SLB,Energy,25.674022191854096,24.385771946203214,-1.2882502456508824,oai,pre_to_shock
+UNH,Healthcare,17.72148727348784,52.611929772944045,34.890442499456206,oai,pre_to_shock
+WFC,Financials,56.247841260725934,53.80940888816623,-2.438432372559703,oai,pre_to_shock
+ABBV,Healthcare,0.0,0.1579,0.1579,stated_inclusion_share,shock_to_backlash
+AMZN,Consumer Discretionary,0.0,0.16665,0.16665,stated_inclusion_share,shock_to_backlash
+BLK,Financials,0.0,0.0476,0.0476,stated_inclusion_share,shock_to_backlash
+BMY,Healthcare,0.0,0.0,0.0,stated_inclusion_share,shock_to_backlash
+BRK.B,Financials,0.0,0.0,0.0,stated_inclusion_share,shock_to_backlash
+CRM,Technology,0.0,0.0,0.0,stated_inclusion_share,shock_to_backlash
+F,Consumer Discretionary,0.08335,0.0,-0.08335,stated_inclusion_share,shock_to_backlash
+GOOGL,Technology,0.35,0.5,0.15000000000000002,stated_inclusion_share,shock_to_backlash
+GS,Financials,0.0,0.0,0.0,stated_inclusion_share,shock_to_backlash
+HAL,Energy,0.0556,0.04295,-0.012649999999999995,stated_inclusion_share,shock_to_backlash
+IBM,Technology,0.060649999999999996,0.0278,-0.03285,stated_inclusion_share,shock_to_backlash
+JNJ,Healthcare,0.0,0.16665,0.16665,stated_inclusion_share,shock_to_backlash
+JPM,Financials,0.0238,0.0238,0.0,stated_inclusion_share,shock_to_backlash
+LOW,Consumer Discretionary,0.0,0.0,0.0,stated_inclusion_share,shock_to_backlash
+MCD,Consumer Discretionary,0.07275000000000001,0.0667,-0.006050000000000014,stated_inclusion_share,shock_to_backlash
+MDT,Healthcare,0.1818,0.25,0.06820000000000001,stated_inclusion_share,shock_to_backlash
+META,Technology,0.0,0.0,0.0,stated_inclusion_share,shock_to_backlash
+MPC,Energy,0.0714,0.06905,-0.002350000000000005,stated_inclusion_share,shock_to_backlash
+MRK,Healthcare,0.12345,0.20365,0.0802,stated_inclusion_share,shock_to_backlash
+MS,Financials,0.0,0.0,0.0,stated_inclusion_share,shock_to_backlash
+MSFT,Technology,0.0,0.0,0.0,stated_inclusion_share,shock_to_backlash
+ORCL,Technology,0.1111,0.1345,0.023400000000000004,stated_inclusion_share,shock_to_backlash
+OXY,Energy,0.0,0.0,0.0,stated_inclusion_share,shock_to_backlash
+PFE,Healthcare,0.072,0.0667,-0.005299999999999999,stated_inclusion_share,shock_to_backlash
+SBUX,Consumer Discretionary,0.0,0.05555,0.05555,stated_inclusion_share,shock_to_backlash
+SCHW,Financials,0.03335,0.0,-0.03335,stated_inclusion_share,shock_to_backlash
+TMO,Healthcare,0.0,0.0,0.0,stated_inclusion_share,shock_to_backlash
+VLO,Energy,0.0,0.0,0.0,stated_inclusion_share,shock_to_backlash
+WFC,Financials,0.0909,0.1111,0.02020000000000001,stated_inclusion_share,shock_to_backlash
+ABBV,Healthcare,0.0,1.0,1.0,stated_inclusion_emphasized,shock_to_backlash
+AMZN,Consumer Discretionary,0.0,0.5,0.5,stated_inclusion_emphasized,shock_to_backlash
+BLK,Financials,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+BMY,Healthcare,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+BRK.B,Financials,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+CRM,Technology,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+F,Consumer Discretionary,0.5,0.0,-0.5,stated_inclusion_emphasized,shock_to_backlash
+GOOGL,Technology,1.0,0.5,-0.5,stated_inclusion_emphasized,shock_to_backlash
+GS,Financials,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+HAL,Energy,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+IBM,Technology,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+JNJ,Healthcare,0.0,0.5,0.5,stated_inclusion_emphasized,shock_to_backlash
+JPM,Financials,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+LOW,Consumer Discretionary,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+MCD,Consumer Discretionary,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+MDT,Healthcare,1.0,1.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+META,Technology,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+MPC,Energy,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+MRK,Healthcare,0.5,0.5,0.0,stated_inclusion_emphasized,shock_to_backlash
+MS,Financials,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+MSFT,Technology,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+ORCL,Technology,0.5,0.5,0.0,stated_inclusion_emphasized,shock_to_backlash
+OXY,Energy,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+PFE,Healthcare,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+SBUX,Consumer Discretionary,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+SCHW,Financials,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+TMO,Healthcare,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+VLO,Energy,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+WFC,Financials,0.0,0.0,0.0,stated_inclusion_emphasized,shock_to_backlash
+AAPL,Technology,1.0,1.0,0.0,operational_dei,shock_to_backlash
+ABBV,Healthcare,0.5,1.0,0.5,operational_dei,shock_to_backlash
+ABT,Healthcare,1.0,1.0,0.0,operational_dei,shock_to_backlash
+AMZN,Consumer Discretionary,1.0,1.0,0.0,operational_dei,shock_to_backlash
+AVGO,Technology,0.0,0.0,0.0,operational_dei,shock_to_backlash
+AXP,Financials,1.0,1.0,0.0,operational_dei,shock_to_backlash
+BAC,Financials,1.0,1.0,0.0,operational_dei,shock_to_backlash
+BLK,Financials,1.0,1.0,0.0,operational_dei,shock_to_backlash
+BMY,Healthcare,1.0,1.0,0.0,operational_dei,shock_to_backlash
+BRK.B,Financials,0.5,1.0,0.5,operational_dei,shock_to_backlash
+C,Financials,1.0,1.0,0.0,operational_dei,shock_to_backlash
+COP,Energy,1.0,1.0,0.0,operational_dei,shock_to_backlash
+CRM,Technology,1.0,1.0,0.0,operational_dei,shock_to_backlash
+CVX,Energy,0.5,1.0,0.5,operational_dei,shock_to_backlash
+EOG,Energy,0.0,1.0,1.0,operational_dei,shock_to_backlash
+F,Consumer Discretionary,1.0,1.0,0.0,operational_dei,shock_to_backlash
+GOOGL,Technology,1.0,1.0,0.0,operational_dei,shock_to_backlash
+GS,Financials,1.0,1.0,0.0,operational_dei,shock_to_backlash
+HAL,Energy,0.0,0.5,0.5,operational_dei,shock_to_backlash
+HD,Consumer Discretionary,1.0,1.0,0.0,operational_dei,shock_to_backlash
+IBM,Technology,1.0,1.0,0.0,operational_dei,shock_to_backlash
+INTC,Technology,1.0,1.0,0.0,operational_dei,shock_to_backlash
+JNJ,Healthcare,1.0,1.0,0.0,operational_dei,shock_to_backlash
+JPM,Financials,1.0,0.5,-0.5,operational_dei,shock_to_backlash
+LLY,Healthcare,1.0,1.0,0.0,operational_dei,shock_to_backlash
+LOW,Consumer Discretionary,0.5,1.0,0.5,operational_dei,shock_to_backlash
+MCD,Consumer Discretionary,1.0,1.0,0.0,operational_dei,shock_to_backlash
+MDT,Healthcare,1.0,1.0,0.0,operational_dei,shock_to_backlash
+META,Technology,1.0,1.0,0.0,operational_dei,shock_to_backlash
+MPC,Energy,0.5,1.0,0.5,operational_dei,shock_to_backlash
+MRK,Healthcare,1.0,1.0,0.0,operational_dei,shock_to_backlash
+MS,Financials,0.5,1.0,0.5,operational_dei,shock_to_backlash
+MSFT,Technology,1.0,1.0,0.0,operational_dei,shock_to_backlash
+NKE,Consumer Discretionary,1.0,1.0,0.0,operational_dei,shock_to_backlash
+NVDA,Technology,1.0,1.0,0.0,operational_dei,shock_to_backlash
+ORCL,Technology,1.0,1.0,0.0,operational_dei,shock_to_backlash
+OXY,Energy,1.0,1.0,0.0,operational_dei,shock_to_backlash
+PFE,Healthcare,1.0,1.0,0.0,operational_dei,shock_to_backlash
+PSX,Energy,0.5,1.0,0.5,operational_dei,shock_to_backlash
+SBUX,Consumer Discretionary,1.0,1.0,0.0,operational_dei,shock_to_backlash
+SCHW,Financials,0.5,1.0,0.5,operational_dei,shock_to_backlash
+SLB,Energy,1.0,1.0,0.0,operational_dei,shock_to_backlash
+TGT,Consumer Discretionary,1.0,1.0,0.0,operational_dei,shock_to_backlash
+TJX,Consumer Discretionary,1.0,1.0,0.0,operational_dei,shock_to_backlash
+TMO,Healthcare,0.5,0.5,0.0,operational_dei,shock_to_backlash
+TSLA,Consumer Discretionary,0.5,1.0,0.5,operational_dei,shock_to_backlash
+UNH,Healthcare,1.0,1.0,0.0,operational_dei,shock_to_backlash
+VLO,Energy,0.5,1.0,0.5,operational_dei,shock_to_backlash
+WFC,Financials,1.0,1.0,0.0,operational_dei,shock_to_backlash
+XOM,Energy,1.0,1.0,0.0,operational_dei,shock_to_backlash
+AAPL,Technology,0.8187,3.1736500000000003,2.3549500000000005,lived_inclusion_per_1k,shock_to_backlash
+ABBV,Healthcare,0.6653,1.1515,0.48619999999999997,lived_inclusion_per_1k,shock_to_backlash
+ABT,Healthcare,0.8688,1.40745,0.5386500000000001,lived_inclusion_per_1k,shock_to_backlash
+AMZN,Consumer Discretionary,3.45205,2.4795499999999997,-0.9725000000000001,lived_inclusion_per_1k,shock_to_backlash
+AVGO,Technology,0.1819,0.40180000000000005,0.21990000000000004,lived_inclusion_per_1k,shock_to_backlash
+AXP,Financials,2.8008,1.35145,-1.4493500000000001,lived_inclusion_per_1k,shock_to_backlash
+BAC,Financials,1.4301,1.5058500000000001,0.0757500000000002,lived_inclusion_per_1k,shock_to_backlash
+BLK,Financials,1.27845,1.00255,-0.27590000000000003,lived_inclusion_per_1k,shock_to_backlash
+BMY,Healthcare,0.8666,2.3396500000000002,1.4730500000000002,lived_inclusion_per_1k,shock_to_backlash
+BRK.B,Financials,2.3631,2.4619,0.09879999999999978,lived_inclusion_per_1k,shock_to_backlash
+C,Financials,0.86205,1.7296,0.86755,lived_inclusion_per_1k,shock_to_backlash
+COP,Energy,0.6182,0.6285499999999999,0.01034999999999997,lived_inclusion_per_1k,shock_to_backlash
+CRM,Technology,0.30074999999999996,0.51835,0.21760000000000002,lived_inclusion_per_1k,shock_to_backlash
+CVX,Energy,0.57985,0.99585,0.41600000000000004,lived_inclusion_per_1k,shock_to_backlash
+EOG,Energy,0.26144999999999996,0.33385,0.07240000000000002,lived_inclusion_per_1k,shock_to_backlash
+F,Consumer Discretionary,0.5602,0.39344999999999997,-0.16675000000000006,lived_inclusion_per_1k,shock_to_backlash
+GOOGL,Technology,1.1208,0.9012499999999999,-0.21955000000000013,lived_inclusion_per_1k,shock_to_backlash
+GS,Financials,1.1408,1.4997,0.3589,lived_inclusion_per_1k,shock_to_backlash
+HAL,Energy,0.19715,0.6454,0.44825,lived_inclusion_per_1k,shock_to_backlash
+HD,Consumer Discretionary,1.43635,1.27615,-0.16020000000000012,lived_inclusion_per_1k,shock_to_backlash
+IBM,Technology,1.4604,0.9283,-0.5320999999999999,lived_inclusion_per_1k,shock_to_backlash
+INTC,Technology,2.2374,1.2779500000000001,-0.9594499999999999,lived_inclusion_per_1k,shock_to_backlash
+JNJ,Healthcare,1.0208,1.07815,0.05735000000000001,lived_inclusion_per_1k,shock_to_backlash
+JPM,Financials,1.95645,1.5401500000000001,-0.4162999999999999,lived_inclusion_per_1k,shock_to_backlash
+LLY,Healthcare,0.8582,1.8606000000000003,1.0024000000000002,lived_inclusion_per_1k,shock_to_backlash
+LOW,Consumer Discretionary,0.5725,0.79445,0.22194999999999998,lived_inclusion_per_1k,shock_to_backlash
+MCD,Consumer Discretionary,1.27755,1.5579,0.2803500000000001,lived_inclusion_per_1k,shock_to_backlash
+MDT,Healthcare,0.3456,0.6811,0.3355,lived_inclusion_per_1k,shock_to_backlash
+META,Technology,1.4105,0.44535,-0.9651500000000001,lived_inclusion_per_1k,shock_to_backlash
+MPC,Energy,0.49140000000000006,1.0894,0.5979999999999999,lived_inclusion_per_1k,shock_to_backlash
+MRK,Healthcare,0.73635,0.8782000000000001,0.14185000000000014,lived_inclusion_per_1k,shock_to_backlash
+MS,Financials,0.8528,0.83705,-0.015750000000000042,lived_inclusion_per_1k,shock_to_backlash
+MSFT,Technology,1.5083,1.2165,-0.29180000000000006,lived_inclusion_per_1k,shock_to_backlash
+NKE,Consumer Discretionary,2.3242000000000003,2.4943999999999997,0.17019999999999946,lived_inclusion_per_1k,shock_to_backlash
+NVDA,Technology,0.7431,1.4092,0.6661,lived_inclusion_per_1k,shock_to_backlash
+ORCL,Technology,1.32725,0.8687500000000001,-0.4584999999999999,lived_inclusion_per_1k,shock_to_backlash
+OXY,Energy,0.44635,0.9442999999999999,0.4979499999999999,lived_inclusion_per_1k,shock_to_backlash
+PFE,Healthcare,0.7455499999999999,0.72515,-0.020399999999999974,lived_inclusion_per_1k,shock_to_backlash
+PSX,Energy,0.9443,0.59155,-0.35275,lived_inclusion_per_1k,shock_to_backlash
+SBUX,Consumer Discretionary,1.96185,1.7587,-0.20315000000000016,lived_inclusion_per_1k,shock_to_backlash
+SCHW,Financials,0.7942,2.4368,1.6425999999999998,lived_inclusion_per_1k,shock_to_backlash
+SLB,Energy,0.4393,1.10665,0.6673499999999999,lived_inclusion_per_1k,shock_to_backlash
+TGT,Consumer Discretionary,0.3993,0.72585,0.32655,lived_inclusion_per_1k,shock_to_backlash
+TJX,Consumer Discretionary,0.58715,0.81165,0.22450000000000003,lived_inclusion_per_1k,shock_to_backlash
+TMO,Healthcare,0.6049,0.50985,-0.09504999999999997,lived_inclusion_per_1k,shock_to_backlash
+TSLA,Consumer Discretionary,0.82005,0.32915,-0.49089999999999995,lived_inclusion_per_1k,shock_to_backlash
+UNH,Healthcare,0.9466,1.6581000000000001,0.7115000000000001,lived_inclusion_per_1k,shock_to_backlash
+VLO,Energy,0.43865000000000004,1.0243,0.58565,lived_inclusion_per_1k,shock_to_backlash
+WFC,Financials,3.1613499999999997,1.1233,-2.0380499999999997,lived_inclusion_per_1k,shock_to_backlash
+XOM,Energy,0.3987,0.46985,0.07114999999999999,lived_inclusion_per_1k,shock_to_backlash
+ABBV,Healthcare,32.26684916704056,53.24439982643605,20.97755065939549,oai,shock_to_backlash
+AMZN,Consumer Discretionary,33.90393989668505,58.13087970519557,24.226939808510515,oai,shock_to_backlash
+BLK,Financials,68.27242521726818,49.85527055882459,-18.417154658443586,oai,shock_to_backlash
+BMY,Healthcare,53.20424658441294,47.577341400477664,-5.626905183935278,oai,shock_to_backlash
+BRK.B,Financials,70.41083355337156,63.35231021676041,-7.058523336611152,oai,shock_to_backlash
+CRM,Technology,43.38726523373065,9.272646126870251,-34.1146191068604,oai,shock_to_backlash
+F,Consumer Discretionary,51.0934061146943,20.80952417719034,-30.283881937503956,oai,shock_to_backlash
+GOOGL,Technology,63.56128093384851,36.88324791405621,-26.678033019792295,oai,shock_to_backlash
+GS,Financials,21.18441780140642,20.720240172860994,-0.4641776285454249,oai,shock_to_backlash
+HAL,Energy,55.470595030285295,32.35603481597456,-23.114560214310735,oai,shock_to_backlash
+IBM,Technology,12.385579812094178,39.83069452848771,27.445114716393533,oai,shock_to_backlash
+JNJ,Healthcare,24.522106341872416,33.15005586289598,8.627949521023567,oai,shock_to_backlash
+JPM,Financials,63.687876105433915,52.328346987724736,-11.35952911770918,oai,shock_to_backlash
+LOW,Consumer Discretionary,39.62615393705494,15.491317789295298,-24.13483614775964,oai,shock_to_backlash
+MCD,Consumer Discretionary,14.34560115130341,37.716317774711,23.370716623407592,oai,shock_to_backlash
+MDT,Healthcare,32.633772161985256,30.325199055794204,-2.3085731061910515,oai,shock_to_backlash
+META,Technology,73.96842374642526,19.729759742884337,-54.23866400354092,oai,shock_to_backlash
+MPC,Energy,55.771169586610185,53.45211077730794,-2.3190588093022484,oai,shock_to_backlash
+MRK,Healthcare,54.71099257347048,57.64050770183345,2.929515128362972,oai,shock_to_backlash
+MS,Financials,72.47269568747626,52.66067554658723,-19.812020140889032,oai,shock_to_backlash
+MSFT,Technology,30.7923859852328,52.818455139616745,22.026069154383944,oai,shock_to_backlash
+ORCL,Technology,46.631433223415996,25.675606669410705,-20.95582655400529,oai,shock_to_backlash
+OXY,Energy,84.63065398025805,60.70292663110699,-23.927727349151056,oai,shock_to_backlash
+PFE,Healthcare,54.10124620845986,13.353045934202193,-40.74820027425767,oai,shock_to_backlash
+SBUX,Consumer Discretionary,35.39383441378943,26.077113679804253,-9.316720733985175,oai,shock_to_backlash
+SCHW,Financials,8.266173545221653,25.685198301368057,17.419024756146406,oai,shock_to_backlash
+TMO,Healthcare,28.090784525695028,23.3712869485052,-4.719497577189827,oai,shock_to_backlash
+VLO,Energy,65.92823197024272,83.00216170251781,17.07392973227509,oai,shock_to_backlash
+WFC,Financials,53.80940888816623,52.11626287565208,-1.6931460125141484,oai,shock_to_backlash

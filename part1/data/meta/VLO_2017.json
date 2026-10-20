@@ -1,0 +1,13 @@
+{
+  "ticker": "VLO",
+  "company_name": "Valero Energy",
+  "sector": "Energy",
+  "year": 2017,
+  "status": "gap",
+  "gap_reason": "no_capture",
+  "seeds_queried": [
+    "https://www.valero.com/about",
+    "https://www.valero.com/about-us"
+  ],
+  "candidates_considered": 0
+}

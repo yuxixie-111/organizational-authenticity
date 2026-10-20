@@ -1,0 +1,4 @@
+ticker,company_name,sector,year,gap_reason,source_url
+AAPL,Apple,Technology,2018,no_def14a,
+SBUX,Starbucks,Consumer Discretionary,2024,no_def14a,
+XOM,ExxonMobil,Energy,2021,no_def14a,

@@ -1,0 +1,14 @@
+{
+  "ticker": "VLO",
+  "company_name": "Valero Energy",
+  "sector": "Energy",
+  "year": 2019,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1035002/000119312519080420/d684656ddef14a.htm",
+  "accession": "0001193125-19-080420",
+  "filing_date": "2019-03-20",
+  "cik_used": 1035002,
+  "primary_document": "d684656ddef14a.htm",
+  "word_count": 33675
+}

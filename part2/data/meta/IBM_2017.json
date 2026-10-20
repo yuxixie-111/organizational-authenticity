@@ -1,0 +1,14 @@
+{
+  "ticker": "IBM",
+  "company_name": "IBM",
+  "sector": "Technology",
+  "year": 2017,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/51143/000110465917016116/a17-2254_1def14a.htm",
+  "accession": "0001104659-17-016116",
+  "filing_date": "2017-03-13",
+  "cik_used": 51143,
+  "primary_document": "a17-2254_1def14a.htm",
+  "word_count": 50484
+}

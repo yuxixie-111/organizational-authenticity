@@ -1,0 +1,14 @@
+{
+  "ticker": "OXY",
+  "company_name": "Occidental Petroleum",
+  "sector": "Energy",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/797468/000120677422000870/oxy3995601-def14a.htm",
+  "accession": "0001206774-22-000870",
+  "filing_date": "2022-03-25",
+  "cik_used": 797468,
+  "primary_document": "oxy3995601-def14a.htm",
+  "word_count": 57482
+}

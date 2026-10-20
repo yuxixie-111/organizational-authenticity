@@ -1,0 +1,20 @@
+{
+  "ticker": "CRM",
+  "company_name": "Salesforce",
+  "sector": "Technology",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20240727215541",
+  "original_url": "https://www.salesforce.com/company/our-story/",
+  "wayback_url": "https://web.archive.org/web/20240727215541id_/https://www.salesforce.com/company/our-story/",
+  "redirect_hops": 0,
+  "page_score": 5,
+  "text_chars": 860,
+  "seeds_queried": [
+    "https://www.salesforce.com/company/our-story/",
+    "https://www.salesforce.com/company/",
+    "https://www.salesforce.com/company/values/"
+  ],
+  "candidates_considered": 2
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "TGT",
+  "company_name": "Target",
+  "sector": "Consumer Discretionary",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/27419/000130817921000258/ltgt2021_def14a.htm",
+  "accession": "0001308179-21-000258",
+  "filing_date": "2021-04-26",
+  "cik_used": 27419,
+  "primary_document": "ltgt2021_def14a.htm",
+  "word_count": 37210
+}

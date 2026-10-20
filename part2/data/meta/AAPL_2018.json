@@ -1,0 +1,8 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple",
+  "sector": "Technology",
+  "year": 2018,
+  "status": "gap",
+  "gap_reason": "no_def14a"
+}

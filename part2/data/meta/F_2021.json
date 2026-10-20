@@ -1,0 +1,14 @@
+{
+  "ticker": "F",
+  "company_name": "Ford Motor",
+  "sector": "Consumer Discretionary",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/37996/000104746921000813/a2243092zdef14a.htm",
+  "accession": "0001047469-21-000813",
+  "filing_date": "2021-04-01",
+  "cik_used": 37996,
+  "primary_document": "a2243092zdef14a.htm",
+  "word_count": 58668
+}

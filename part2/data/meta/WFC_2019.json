@@ -1,0 +1,14 @@
+{
+  "ticker": "WFC",
+  "company_name": "Wells Fargo",
+  "sector": "Financials",
+  "year": 2019,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/72971/000119312519073314/d699854ddef14a.htm",
+  "accession": "0001193125-19-073314",
+  "filing_date": "2019-03-13",
+  "cik_used": 72971,
+  "primary_document": "d699854ddef14a.htm",
+  "word_count": 101505
+}

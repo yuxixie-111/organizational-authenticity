@@ -1,0 +1,20 @@
+{
+  "ticker": "GS",
+  "company_name": "Goldman Sachs",
+  "sector": "Financials",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20240701114915",
+  "original_url": "https://www.goldmansachs.com/about-us/",
+  "wayback_url": "https://web.archive.org/web/20240701114915id_/https://www.goldmansachs.com/about-us/",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 1703,
+  "seeds_queried": [
+    "https://www.goldmansachs.com/about-us/",
+    "https://www.goldmansachs.com/our-firm/index.html",
+    "https://www.goldmansachs.com/who-we-are/"
+  ],
+  "candidates_considered": 9
+}

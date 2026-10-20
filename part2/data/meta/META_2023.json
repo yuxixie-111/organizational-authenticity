@@ -1,0 +1,14 @@
+{
+  "ticker": "META",
+  "company_name": "Meta Platforms",
+  "sector": "Technology",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000050/meta-20230414.htm",
+  "accession": "0001326801-23-000050",
+  "filing_date": "2023-04-14",
+  "cik_used": 1326801,
+  "primary_document": "meta-20230414.htm",
+  "word_count": 59020
+}

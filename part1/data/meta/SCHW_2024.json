@@ -1,0 +1,18 @@
+{
+  "ticker": "SCHW",
+  "company_name": "Charles Schwab",
+  "sector": "Financials",
+  "year": 2024,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20240701134033",
+  "original_url": "https://www.aboutschwab.com/",
+  "wayback_url": "https://web.archive.org/web/20240701134033id_/https://www.aboutschwab.com/",
+  "redirect_hops": 0,
+  "page_score": 4,
+  "text_chars": 4195,
+  "seeds_queried": [
+    "https://www.aboutschwab.com/"
+  ],
+  "candidates_considered": 12
+}

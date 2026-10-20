@@ -1,0 +1,14 @@
+{
+  "ticker": "ABBV",
+  "company_name": "AbbVie",
+  "sector": "Healthcare",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1551152/000104746920001710/a2241076zdef14a.htm",
+  "accession": "0001047469-20-001710",
+  "filing_date": "2020-03-23",
+  "cik_used": 1551152,
+  "primary_document": "a2241076zdef14a.htm",
+  "word_count": 39460
+}

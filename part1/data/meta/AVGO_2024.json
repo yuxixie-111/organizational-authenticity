@@ -1,0 +1,13 @@
+{
+  "ticker": "AVGO",
+  "company_name": "Broadcom",
+  "sector": "Technology",
+  "year": 2024,
+  "status": "gap",
+  "gap_reason": "extraction_empty",
+  "seeds_queried": [
+    "https://www.broadcom.com/company/about-us",
+    "https://www.broadcom.com/company/about-us/about-us"
+  ],
+  "candidates_considered": 12
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "LOW",
+  "company_name": "Lowe's",
+  "sector": "Consumer Discretionary",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/60667/000119312523099980/d392221ddef14a.htm",
+  "accession": "0001193125-23-099980",
+  "filing_date": "2023-04-13",
+  "cik_used": 60667,
+  "primary_document": "d392221ddef14a.htm",
+  "word_count": 47132
+}

@@ -1,0 +1,20 @@
+{
+  "firm_years": 450,
+  "with_text": 265,
+  "coverage_rate": 0.5889,
+  "gap_reasons": {
+    "no_capture": 115,
+    "extraction_empty": 64,
+    "download_failed": 6
+  },
+  "changed_share_of_comparable": 0.3571,
+  "median_similarity": 0.953,
+  "median_words": 355.0,
+  "by_sector": {
+    "Consumer Discretionary": 0.6,
+    "Energy": 0.3556,
+    "Financials": 0.7444,
+    "Healthcare": 0.6667,
+    "Technology": 0.5778
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "ORCL",
+  "company_name": "Oracle",
+  "sector": "Technology",
+  "year": 2019,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20190702191714",
+  "original_url": "https://www.oracle.com/corporate/",
+  "wayback_url": "https://web.archive.org/web/20190702191714id_/https://www.oracle.com/corporate/",
+  "redirect_hops": 0,
+  "page_score": 0,
+  "text_chars": 1898,
+  "seeds_queried": [
+    "https://www.oracle.com/corporate/",
+    "https://www.oracle.com/us/corporate/index.html"
+  ],
+  "candidates_considered": 12
+}

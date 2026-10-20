@@ -1,0 +1,14 @@
+{
+  "ticker": "HD",
+  "company_name": "Home Depot",
+  "sector": "Consumer Discretionary",
+  "year": 2018,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/354950/000119312518104990/d504528ddef14a.htm",
+  "accession": "0001193125-18-104990",
+  "filing_date": "2018-04-02",
+  "cik_used": 354950,
+  "primary_document": "d504528ddef14a.htm",
+  "word_count": 44970
+}

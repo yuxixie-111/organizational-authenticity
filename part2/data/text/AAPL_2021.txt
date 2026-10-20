@@ -1,0 +1,3294 @@
+DEF 14A
+1
+d767770ddef14a.htm
+DEFINITIVE PROXY STATEMENT
+Definitive Proxy Statement
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.
+20549
+SCHEDULE 14A
+Proxy Statement Pursuant to
+Section 14(a) of the Securities Exchange Act of 1934
+(Amendment No. )
+Filed by the Registrant x
+Filed
+by a party other than the Registrant
+Check the appropriate box:
+Preliminary Proxy Statement
+Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+x
+Definitive Proxy Statement
+Definitive Additional Materials
+Soliciting Material under §240.14a-12
+Apple Inc.
+(Name of Registrant as
+Specified In Its Charter)
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Payment of Filing Fee (Check the appropriate box):
+x
+No fee required.
+Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
+(1) Title of each class of securities to which
+transaction applies:
+(2) Aggregate number of securities to which
+transaction applies:
+(3) Per unit price or other underlying value of
+transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):
+(4) Proposed maximum aggregate value of
+transaction:
+(5) Total fee paid:
+Fee paid previously with preliminary materials.
+Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing
+for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.
+(1) Amount Previously Paid:
+(2) Form, Schedule or Registration Statement
+No.:
+(3) Filing Party:
+(4) Date Filed:
+Table of Contents
+Apple Inc.
+Notice of 2021 Annual Meeting of Shareholders and Proxy Statement
+Table of Contents
+Attending the Annual Meeting
+We are pleased to welcome shareholders to the 2021 Annual Meeting. Due to the COVID-19 pandemic,
+the Annual Meeting will be held in a virtual format only to provide a safe experience for our shareholders and employees.
+To attend, vote, and submit questions during the Annual Meeting visit
+www.virtualshareholdermeeting.com/AAPL2021
+and enter the 16-digit control number included in your Notice of Internet
+Availability of Proxy Materials, voting instruction form, or proxy card. Online access to the webcast will open approximately 15 minutes prior to the start of the Annual Meeting. Attendance at the Annual Meeting is subject to capacity limits set by
+the virtual meeting platform provider. To submit questions in advance of the Annual Meeting, visit
+proxyvote.com
+before 8:59 P.M. Pacific Time on February 22, 2021 and enter the 16-digit control number.
+Even if you plan on attending the Annual Meeting, we encourage you to vote your shares in advance
+online, or if you requested printed copies of the proxy materials, by phone or by mail, to ensure that your vote will be represented at the Annual Meeting. For more detailed information, see the section entitled “Voting Procedures”
+beginning on page 77 of this Proxy Statement.
+In this Proxy Statement, the terms “Apple,”
+“we,” and “our” refer to Apple Inc. Information presented in this Proxy Statement is based on Apple’s fiscal calendar. All share, restricted stock unit, and per share or per restricted stock unit information has been
+retroactively adjusted to reflect Apple’s four-for-one stock split effected on August 28, 2020.
+These
+materials were first sent or made available to shareholders on January 5, 2021.
+Table of Contents
+Apple Inc.
+Notice of 2021 Annual Meeting of Shareholders
+Virtual Meeting Site:
+www.virtualshareholdermeeting.com/AAPL2021
+February 23, 2021
+9:00 a.m. Pacific Time
+The Notice of Meeting, Proxy
+Statement, and Annual Report on
+Form 10-K
+are available free of charge at
+proxyvote.com
+and at
+investor.apple.com
+.
+Items of Business
+(1)
+To elect to the Board of Directors the following eight nominees presented by the Board: James
+Bell, Tim Cook, Al Gore, Andrea Jung, Art Levinson, Monica Lozano, Ron Sugar, and Sue Wagner;
+(2)
+To ratify the appointment of Ernst & Young LLP as the independent registered public
+accounting firm for 2021;
+(3)
+To vote on an advisory resolution to approve executive compensation;
+(4)
+To vote on the shareholder proposals set forth in the Proxy Statement, if properly presented at
+the Annual Meeting; and
+(5)
+To transact such other business as may properly come before the Annual Meeting and any
+postponements or adjournments thereof.
+Record Date
+Close of business on December 28, 2020
+Sincerely,
+Katherine
+Adams
+Senior Vice President,
+General Counsel and Secretary
+Cupertino, California
+January 5, 2021
+Your vote is
+important. Please vote.
+Table of Contents
+Apple Inc. |
+2021 Proxy Statement
+Table of Contents
+Leading With Our Values
+1
+Proxy Statement Summary
+7
+Corporate Governance
+13
+Role of the Board of Directors
+14
+Composition of the Board and its Committees
+14
+Corporate Governance Policies and Practices
+16
+Board Oversight of Risk Management
+17
+Annual Board and Committee Self-Evaluations
+19
+Attendance of Directors at Annual Meetings of Shareholders
+19
+Code of Ethics
+19
+Review, Approval, or Ratification of Transactions with Related
+Persons
+20
+Transactions with Related Persons
+21
+Reporting and Transparency
+21
+Shareholder Engagement
+21
+Communications with the Board
+21
+Directors
+23
+Directors
+24
+Nominees for Election
+24
+Compensation of Directors
+29
+Director Compensation – 2020
+30
+Executive Officers
+31
+Executive Compensation
+33
+Compensation Committee Report
+34
+Compensation Discussion and Analysis
+34
+Executive Compensation Tables
+46
+Summary Compensation Table – 2020, 2019, and 2018
+46
+Grants of Plan-Based Awards – 2020
+48
+Description of Plan-Based Awards
+49
+Outstanding Equity Awards – 2020
+50
+Stock Vested – 2020
+53
+Non-Qualified Deferred Compensation –
+2020
+54
+Description of Non-Qualified Deferred Compensation
+54
+Potential Payments Upon Termination or Change of
+Control
+55
+Equity Acceleration Upon Death or Disability
+55
+CEO Pay Ratio – 2020
+56
+Apple Inc. |
+2021 Proxy Statement
+Table of Contents
+Proposals
+57
+Proposal No. 1 – Election of
+Directors
+58
+Proposal No.
+2 – Ratification of Appointment of Independent Registered Public Accounting Firm
+59
+Proposal No.
+3 – Advisory Vote to Approve Executive Compensation
+61
+Proposal No. 4 – Shareholder Proposal
+62
+Proposal No. 5 – Shareholder
+Proposal
+65
+Identification of Proponents
+67
+Other Matters
+67
+Other Information
+69
+Audit and Finance Committee Report
+70
+Security Ownership of Certain Beneficial Owners and Management
+71
+Equity Compensation Plan Information
+73
+General Information
+74
+Apple Inc. |
+2021 Proxy Statement
+Table of Contents
+Leading With Our Values
+In 2020, guided by our values, Apple teams around the world managed unprecedented challenges—seeing in every obstacle an opportunity to do something new, something creative, something better on behalf of our communities,
+customers, and teams.
+Apple Inc. |
+2021 Proxy Statement | 1
+Table of Contents
+We believe that business, at its best, serves the public good, empowers people around the world, and binds us together as never before
+.
+Tim Cook, CEO
+Apple Inc. |
+2021 Proxy Statement | 2
+Table of Contents
+Apple Values
+Apple Values reflect our commitment to leave the world better than we found it and to create powerful tools for others to do the
+same.
+Accessibility
+apple.com/accessibility
+Apple believes accessibility is a human right and technology should be accessible to everyone. Our products are
+powerful and affordable assistive devices, with
+built-in
+accessibility features such as VoiceOver, Voice Control, and support for Made for iPhone hearing aids. New features, such as Sound Recognition, Back
+Tap, and People Detection, continue Apple’s mission to make our technology customizable to the diverse needs of all our users.
+Education
+apple.com/education
+For more than 40 years, Apple has worked alongside educators to inspire the next generation of learners. From
+primary through post-secondary school, teachers and students are using Apple products to express their creativity and to teach and learn the skills needed to succeed in a rapidly changing world. Through our Community Education Initiatives, such
+as ConnectED, our products, services, and support have reached learners of all ages in underserved communities that need them the most.
+Environment
+apple.com/environment
+Apple has dedicated our resources and best thinking to considering the environment in everything we do: the
+energy that powers our operations, the materials in our devices, the companies we do business with, and the health and safety of those who make and use our products. We’ve led the industry in reducing our environmental footprint for years
+and are committed to one day sourcing 100% recycled and renewable materials across all of our products and packaging.
+Inclusion & Diversity
+apple.com/diversity
+At Apple, we believe diversity drives innovation and is key to our success. We are deeply committed to hiring
+and promoting inclusively, championing pay equity, increasing diverse representation at all levels, and fostering an inclusive culture that gives every employee the opportunity to do the best work of their lives. We are challenging the systemic
+barriers to opportunity and dignity that exist for communities of color in the United States and globally.
+Privacy & Security
+apple.com/privacy
+Apple believes privacy is a human right. Great experiences do not have to come at the expense of privacy and
+security. Every Apple product is designed from the ground up to protect privacy and security. To give users more control over personal information, we provide privacy management tools on each user’s Data and Privacy page. Hand in hand with the
+privacy of our users is our commitment to freedom of information and expression. Our products help our customers communicate, learn, express their creativity, and exercise their ingenuity.
+Supplier Responsibility
+apple.com/supplier-responsibility
+Apple cares deeply about the people who build our products and the planet we all share. Through our Supplier
+Code of Conduct, we hold ourselves and our suppliers to the highest standards of labor and human rights, environmental protections, and ethics. And we go further to empower the people in our supply chain through initiatives like our supplier
+employee wellness and education programs.
+Apple Inc. |
+2021 Proxy Statement | 3
+Table of Contents
+Responding to COVID-19
+In a year that brought everyone’s health sharply into focus, our first priority was the health and safety of our communities,
+customers, and teams. We supported the COVID-19 public health response, delivered new innovative tools, and adapted our business to empower people with the information and technology they needed most.
+Our Communities
+We made significant contributions toward relief efforts
+supporting healthcare professionals, first responders, and impacted communities worldwide. This included sourcing 30 million masks and 10 million custom-built face shields, and matching our employees’ charitable donations. Additionally, we
+invested to help scale the production of COVID-19 sample collection kits for hospitals across the United States. And we collaborated to create a new exposure notifications system for governments and health agencies, with user privacy and security
+central to its design.
+A healthcare worker in Zambia wears an
+Apple-produced face shield.
+Our Customers
+We brought our most powerful ever generation of hardware,
+software, and services into customers’ hands, helping them stay safe, connected, and entertained. We also tailored our services to promote easy access to trusted information on COVID-19: launching a new section on Apple News; prioritizing
+visibility of essential services locations on Apple Maps; and offering a curated collection of telehealth apps on the App Store. To meet the extraordinary challenges of virtual education, we delivered new content and services for students, parents,
+and teachers to foster creativity and learning in a digital environment, and worked with mobile carriers and school administrators to deliver iPads with LTE support to students in need.
+Our Teams and Business Partners
+Apple was one of the first major companies to lead the
+COVID-19 response, temporarily closing our retail stores and moving to flexible work arrangements for our corporate offices globally. We have continued to pay our teams during temporary store and office closures; expanded our paid leave policies;
+provided team members with personal protective equipment; and established policies and procedures for a safe work environment. Together with our suppliers, we also implemented new health and safety procedures for supplier workforces, and worked to
+support our suppliers’ ability to pay their hourly workers. And we have further supported our business partners by accelerating our payments to suppliers and extending payment and credit terms for our resellers.
+Apple
+COVID-19
+app,
+containing
+up-to-date
+information from trusted sources and a screening tool to help users learn what they should do to assist themselves and their loved
+ones.
+Apple Inc. |
+2021 Proxy Statement | 4
+Table of Contents
+Making a Difference
+Across every team at Apple, resilience, resolve, hard work, and innovation have defined this year of challenges.
+Advancing Inclusion, Diversity, and Racial Justice
+We recognize that much more work is needed to advance inclusion, diversity, and racial justice both within our
+company and externally, and to this work, we are deeply committed. Internally, we further sharpened our focus on hiring inclusively, providing greater growth and development opportunities, and expanding our diversity network associations so that
+everyone at Apple can feel that they belong. Externally, beginning in the United States, we announced a $100 million Racial Equity and Justice Initiative to challenge the systemic barriers to opportunity and dignity that exist for communities of
+color, with a focus on education, economic equality, and criminal justice reform, particularly in Black communities.
+The Montague wind farm in Oregon is one of Apple’s largest projects at
+200 megawatts
+and powers Apple’s Prineville data center.
+Protecting Our Shared Planet
+Apple’s innovation and passion to change the world led to one of our most significant environmental
+commitments yet. This year we unveiled an ambitious roadmap to become carbon neutral across our entire business, manufacturing supply chain, and product life cycle by 2030. We are already carbon neutral for our corporate emissions—resulting
+from our use of 100 percent renewable electricity for our facilities and investing in high-quality projects that protect and restore forests, wetlands, and grasslands.
+Investing in Our Communities
+Apple serves communities around the world, investing in causes that reflect our values and belief that we need
+to leave the world better than we found it. In 2020, Apple allocated more than $400 million toward affordable housing projects and homeowner assistance programs in our home-state of California, marking a major milestone in our multi-year
+$2.5 billion commitment to combat the housing crisis in the state. Through our Community Education Initiatives, we deepened our enduring educational partnerships. From collaborating with Boys & Girls Clubs nationally on innovative new
+workforce development programs to establishing or expanding our partnerships with 36 Historically Black Colleges and Universities—10 of which were added as regional coding centers to serve as technology hubs—we brought coding, creativity,
+and workforce development opportunities to communities traditionally underrepresented in technology.
+Affordable housing project in San Jose,
+California.
+Apple Inc. |
+2021 Proxy Statement | 5
+Table of Contents
+Apple Inc. |
+2021 Proxy Statement | 6
+Table of Contents
+Proxy Statement Summary
+This summary highlights the proposals to be acted upon, as well as selected executive compensation and corporate governance information described in more detail in this Proxy Statement.
+Apple Inc. |
+2021 Proxy Statement | 7
+Table of Contents
+Apple Inc. |
+2021 Proxy Statement | 8
+Table of Contents
+Annual Meeting
+2021 Annual Meeting of Shareholders
+Virtual Meeting Site:
+February 23, 2021
+www.virtualshareholdermeeting.com/AAPL2021
+9:00 a.m. Pacific Time
+The Record Date for the Annual Meeting is December 28, 2020. Only shareholders of record as of the
+close of business on this date are entitled to vote at the Annual Meeting.
+Proposal
+Recommendation
+of the Board
+1.
+Election of Directors
+FOR
+each of the nominees
+2.
+Ratification of Appointment of
+Independent Registered
+Public Accounting Firm
+FOR
+3.
+Advisory Vote to Approve
+Executive Compensation
+FOR
+4.
+Shareholder Proposal
+Shareholder
+Proxy Access Amendments
+AGAINST
+5.
+Shareholder Proposal
+Shareholder Proposal to Improve Executive Compensation Program
+AGAINST
+How to Vote
+You may vote online prior to the meeting by visiting
+proxyvote.com
+and entering the
+control number found in your Notice of Internet Availability of Proxy Materials, or, if you requested printed copies of the proxy materials, by phone or by mail. You may also vote during the Annual Meeting by visiting
+www.virtualshareholdermeeting.com/AAPL2021
+, entering the control number, and following the instructions. For more
+detailed information, see the section entitled “Voting Procedures” beginning on page 77.
+Apple Inc. |
+2021 Proxy Statement | 9
+Table of Contents
+2020 Business Highlights
+Amid the most challenging global environment in which we have ever operated,
+we continued to grow our business and deliver exceptional shareholder value.
+Achievements and Milestones
+•
+Achieved
+all-time
+record revenue of $274.5 billion, up 6% year-over-year, and
+all-time
+record earnings per share of
+$3.28, up 10% year-over-year
+•
+Reached an
+all-time
+high in our installed base of active devices in all major product categories
+•
+Grew revenue year-over-year in each quarter in the fiscal year
+•
+Doubled our fiscal 2016 Services revenue in the June 2020 quarter, six months ahead of our goal
+•
+Grew our paid subscriptions to over 585 million, up 135 million year-over-year
+•
+Returned $90 billion to shareholders in dividends and share repurchases
+•
+Empowered our customers to take control of their health and fitness by introducing powerful new hardware and software features to Apple Watch
+•
+Announced the transition to Apple silicon for Mac to deliver industry-leading performance and a common architecture across all Apple products
+•
+Set new standards with our first ever all-online Worldwide Developers Conference watched by more than 22 million viewers
+•
+Sourced and donated millions of face masks, designed and manufactured millions of face shields, and scaled the production of millions of COVID-19 test kits
+•
+Reached over 150,000 teachers and millions of parents and students around the world with free tools and trainings in response to
+COVID-19
+challenges
+•
+Committed to be 100% carbon neutral for our supply chain and products by 2030
+Apple Inc. |
+2021 Proxy Statement | 10
+Table of Contents
+Executive Compensation Program
+Our executive compensation program is designed with sound compensation policies and practices and clear guiding principles that
+align the compensation of our named executive officers with our shareholders’ interests. The overall design of our compensation program and each of its three primary components have remained consistent year-over-year, and we did not modify our
+incentive programs during 2020 due to COVID-19.
+Annual Base Salary
+•
+Fixed
+element of annual compensation
+•
+No change to base salary levels for 20
+20
+Annual Cash Incentive
+•
+Short-term
+cash incentive with variable payout opportunities based on net sales and operating income results measured against annual performance goals
+•
+No change to payout opportunities for 20
+20
+Long-Term Equity Awards
+•
+Long-term
+equity incentives in the form of time-based and performance-based restricted stock units with multi-year vesting schedules
+•
+No change to equity award design for 20
+20
+Our 2020 executive compensation program was consistent, resilient, and effective.
+Looking Forward
+We manage Apple for the long-term. Consistent with this approach, our 2021 executive compensation
+program will reflect the following changes:
+•
+2021 Annual Cash Incentive:
+Beginning in 2021, an environmental, social, and governance
+modifier based on Apple Values and other key community initiatives will be incorporated into our annual cash incentive program. This change will further motivate Apple’s executive team to meet exceptionally high standards of values-driven
+leadership in addition to delivering strong financial results.
+•
+CEO Compensation:
+For the first time since he was promoted to the CEO role in 2011, Mr.
+Cook’s 2021 compensation will include a long-term equity award. This award will better align the structure of his time-based and performance-based equity incentives with the awards of our other named executive officers.
+“Tim has brought unparalleled innovation and
+focus to his role as CEO and demonstrated what it means to lead with values and integrity. For the first time in nearly a decade, we are awarding Tim a new stock grant that will vest over time in recognition of his outstanding leadership and with
+great optimism for Apple
+’
+s future as he carries these efforts forward.”
+— Apple Board of Directors, September 29, 2020
+For a detailed discussion of our executive compensation program, see the section entitled “Compensation Discussion and
+Analysis” beginning on page 34.
+Apple Inc. |
+2021 Proxy Statement | 11
+Table of Contents
+Corporate Governance
+Responsible Stewardship
+Apple’s
+Board and governance structure is designed to foster principled actions, informed and effective decision-making, and appropriate monitoring of compliance and performance, assuring that the long-term interests of shareholders are being served. To
+satisfy the Board’s duties, directors are expected to take a proactive, focused approach to their positions to ensure that Apple is committed to business success through the maintenance of high standards of responsibility and ethics. The
+separation of Chairman and CEO roles allows our CEO to focus on managing Apple, and annual board evaluations led by the independent Chairman, including self-evaluations and peer reviews, drive accountability at the Board level.
+Selected Areas of Board and Committee Oversight in 2020
+Audit and
+Finance
+Committee
+Compensation
+Committee
+Nominating
+and Corporate
+Governance
+Committee
+Full Board of
+Directors
+Corporate and Product Strategy
+Enterprise Risk Management
+Legal and Regulatory Compliance
+Tax
+Privacy and Data Security
+Environment
+COVID-19
+Response
+People
+Inclusion and Diversity
+Governance and Stakeholder Engagement
+Board and Executive Succession
+Diverse Board Representation
+50%
+Half of the leadership
+positions on our Board are held by women
+Half of our directors
+are from underrepresented communities
+Apple Inc. |
+2021 Proxy Statement | 12
+Table of Contents
+Corporate Governance
+This section describes the role and structure of Apple’s Board and our corporate governance framework.
+Apple Inc. |
+2021 Proxy Statement | 13
+Table of Contents
+Role of the Board of Directors
+Apple’s Board oversees the CEO and other senior management in the competent and ethical operation of Apple on a
+day-to-day
+basis and assures that the long-term interests of shareholders are being served. To satisfy the Board’s duties, directors are expected to take a proactive,
+focused approach to their positions to ensure that Apple is committed to business success through the maintenance of high standards of responsibility and ethics.
+Apple’s key governance documents, including our Corporate Governance Guidelines, are available at
+investor.apple.com/leadership-and-governance
+. The Board met four times during 2020, and each member of the Board who served during 2020 attended or participated in 75% or more of the aggregate of (i) the total number of meetings
+of the Board held during 2020, and (ii)
+the total number of meetings held by each committee of the Board on which such member served during 2020.
+Composition of the
+Board and its Committees
+The Board believes that its current leadership structure, in which the roles of Chairman and CEO
+are separated, best serves the Board’s ability to carry out its roles and responsibilities on behalf of Apple’s shareholders, including its oversight of management, and Apple’s overall corporate governance. The Board also believes
+that the current structure allows our CEO to focus on managing Apple, while leveraging our independent Chairman’s experience to drive accountability at the Board level. The Board periodically reviews its leadership structure to determine
+whether it continues to best serve Apple and its shareholders. The Board has determined that all Board members, other than Mr. Cook, are independent under applicable rules of The Nasdaq Stock Market LLC (“Nasdaq”).
+Apple’s Board has a standing Audit and Finance Committee (the “Audit Committee”), Compensation Committee, and
+Nominating and Corporate Governance Committee (the “Nominating Committee”). The Board has determined that all committee members are independent under applicable Nasdaq and Securities and Exchange Commission (“SEC”) rules for
+committee memberships, and that each member of the Audit Committee also meets the additional independence criteria set forth in Rule 10A-3(b)(1) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”). The Board has also
+determined that each Audit Committee member qualifies as an “audit committee financial expert.”
+Each
+committee operates under a written charter adopted by the Board, which is available at
+investor.apple.com/leadership-and-governance
+. The current composition of the Board and its committees is as follows:
+Audit and
+Finance
+Committee
+Compensation
+Committee
+Nominating
+and Corporate
+Governance
+Committee
+Independent
+# of Other Public
+Company Boards
+James Bell
+2
+Tim Cook
+CEO
+1
+Al Gore
+0
+Andrea Jung
+Chair
+2
+Art Levinson
+Independent Chairman
+0
+Monica Lozano
+2
+Ron Sugar
+Chair
+3
+Sue Wagner
+Chair
+2
+Apple Inc. |
+2021 Proxy Statement | 14
+Table of Contents
+Audit Committee
+The Audit Committee assists the Board in oversight and monitoring of Apple’s financial statements and other financial
+information provided by Apple to its shareholders and others; compliance with legal, regulatory, and public disclosure requirements; the independent auditors, including their qualifications and independence; Apple’s systems of internal
+controls, including the internal audit function; treasury and finance matters; enterprise risk management, privacy, and data security; and the auditing, accounting, and financial reporting process generally. The Audit Committee also appoints
+Apple’s independent registered public accounting firm and
+pre-approves
+the services performed by such firm. The Audit Committee met eight times during 2020.
+Compensation Committee
+The
+Compensation Committee reviews and approves the compensation arrangements for the CEO, Apple’s other executive officers, and, to the extent it deems appropriate, other employees; administers Apple’s equity compensation plans; reviews and
+makes recommendations to the Board regarding the compensation of members of the Board and Board committees; and performs such other duties and responsibilities as set forth in its charter. The Compensation Committee may delegate its authority under
+its charter to Apple’s officers or employees, or any of the members of the Compensation Committee, except to the extent otherwise prohibited by applicable law, or SEC or Nasdaq rules. The Compensation Committee’s authority to grant equity
+awards or to take any other action with respect to equity awards (other than the performance of ministerial duties) may not be delegated to Apple’s management or others. For a description of the Compensation Committee’s processes and
+procedures, including the roles of its independent compensation consultant and the CEO in support of the Compensation Committee’s decision-making process, see the section entitled “Compensation Discussion and Analysis” beginning on
+page 34. The Compensation Committee met six times during 2020.
+Nominating Committee
+The Nominating Committee’s duties and responsibilities include assisting the Board on matters relating to the identification,
+selection, and qualification of Board members and candidates nominated to the Board; making recommendations to the Board concerning the size, structure, and composition of the Board and its committees; and overseeing and making recommendations
+regarding corporate governance matters, including Apple’s Corporate Governance Guidelines. The Nominating Committee also oversees the annual Board performance self-evaluation process, including its format. The Nominating Committee met four
+times during 2020.
+In accordance with its charter and Apple’s Corporate Governance Guidelines, the Nominating
+Committee has evaluated and recommended to the full Board each of the nominees named in this Proxy Statement for election to the Board.
+Apple Inc. |
+2021 Proxy Statement | 15
+Table of Contents
+Corporate Governance Policies and Practices
+Apple’s governance framework is designed to foster principled actions, informed and effective decision-making, and
+appropriate monitoring of compliance and performance.
+Annual director
+elections
+All directors are elected annually for a
+one-year
+term.
+Majority
+voting
+We have a majority voting standard for uncontested elections of directors.
+One share equals one
+vote
+We have a single class of shares with equal voting rights.
+Proxy access
+Up to 20 shareholders owning at least 3% of shares continuously for three years may nominate up to 20% of our Board.
+Special
+meetings
+Shareholders owning at least 10% of our outstanding shares have the right to call a special meeting of the shareholders.
+Separation of
+Chairman and CEO roles
+Our CEO is able to focus on managing Apple and our independent Chairman drives accountability at the board level.
+Financial
+expertise
+All members of our Audit Committee qualify as audit committee financial experts.
+Prohibitions on
+hedging, pledging, and other transactions
+We prohibit short sales, transactions in derivatives, and hedging of Apple securities by directors, executive officers, and employees; and prohibit pledging of Apple securities by directors and executive officers.
+Stock ownership
+guidelines
+We have robust stock ownership guidelines for our directors and executive officers.
+Succession
+planning
+Our Board regularly reviews Board and executive succession planning.
+Education and
+training
+Our Board regularly receives training and updates on ethics, compliance, and governance.
+Board and committee self-evaluations
+Our Board and committees conduct annual performance self-evaluations led by our independent
+Chairman.
+Apple Inc. |
+2021 Proxy Statement | 16
+Table of Contents
+Board Oversight of Risk Management
+The Board believes that evaluating the executive team’s management of the risks confronting Apple is one of its most
+important areas of oversight. In carrying out this responsibility, the Board is assisted by each of its committees that considers risks within its areas of responsibility and apprises the full Board of any significant risks and management’s
+response to those risks. The Board has retained primary oversight of certain areas of risk and management’s response, including corporate and product strategy. While the Board and its committees exercise oversight of risk management, management
+is responsible for implementing and supervising
+day-to-day
+risk management processes and reporting to the Board and its committees.
+Audit Committee’s Role in Oversight of Risk Management
+The Audit Committee is charged with the primary responsibility for overseeing enterprise risk management. In accordance with this
+responsibility, the Audit Committee reviews and discusses with management management’s program to identify, assess, monitor, manage, and mitigate Apple’s significant business risks, including financial; operational; privacy; data security;
+business continuity; tax; legal and regulatory compliance, including antitrust compliance; and reputational risks.
+The
+Audit Committee is assisted in its risk oversight duties by a management Risk Oversight Committee, which includes among its members Apple’s Chief Financial Officer, General Counsel, and head of Business Assurance. The Risk Oversight Committee
+reports regularly to the Audit Committee.
+Selected Areas of Audit Committee Oversight
+Privacy and Data Security.
+The Audit Committee regularly
+reviews and discusses with management Apple’s privacy and data security risks. The Audit Committee reviews reports on privacy and data security matters from Apple’s General Counsel, and from the heads of Information Security, Business
+Conduct and Compliance, Business Assurance, and Internal Audit. These reports include updates on Apple’s privacy program, risk management, and relevant legislative, regulatory, and technical developments.
+Apple also has a management Privacy Steering Committee, which includes among its members Apple’s General Counsel,
+Apple’s Senior Vice President of Machine Learning and Artificial Intelligence Strategy, the head of Business Assurance, and senior representatives from the Internet Software and Services, Software Engineering, Product Marketing, Corporate
+Communications, Information Services & Technology, Information Security, and Privacy Legal teams. The Privacy Steering Committee sets privacy standards for teams across Apple and acts as an escalation point for addressing privacy compliance
+issues for decision or further escalation.
+Business Conduct and Compliance.
+The Audit Committee regularly reviews and discusses with management Apple’s business conduct and compliance risks. Apple’s Chief Compliance Officer is
+responsible for the development, review, and execution of Apple’s Business Conduct and Compliance program and regularly reports to the Audit Committee. These reports cover, among other matters, the alignment of the program with Apple’s
+principles of honesty, respect, confidentiality, and compliance; the effectiveness of the program’s design in detecting and preventing business conduct violations and promoting ethical business conduct and compliance with laws and Apple
+policies; as well as results of program evaluations.
+Antitrust.
+The Audit Committee and Board regularly review and discuss with management Apple’s antitrust risks. Apple’s Antitrust Compliance Officer is responsible for the development, review,
+and execution of Apple’s Antitrust Compliance Program and regularly reports to the Audit Committee. These reports cover, among other
+Apple Inc. |
+2021 Proxy Statement | 17
+Table of Contents
+matters, the alignment of the program with Apple’s potential antitrust risks, and the effectiveness of the program’s design in detecting and preventing antitrust issues and promoting
+compliance with laws and Apple policies.
+Tax.
+The Audit Committee regularly reviews and discusses with management Apple’s tax risks. The Audit Committee reviews reports on tax matters from Apple’s Chief Financial Officer, General Counsel, the heads of global Tax, Business Assurance,
+and Internal Audit, and from Apple’s independent auditor. These reports include, among other matters, updates on significant domestic and international
+tax-related
+developments, worldwide tax audits,
+international tax structure, international tax policy, and other
+tax-related
+legislative matters.
+Compensation
+Committee’s Role in Oversight of Risk Management
+Apple’s Compensation Committee has primary responsibility to
+oversee risks related to Apple’s compensation programs.
+In establishing and reviewing Apple’s compensation
+programs, the Compensation Committee evaluated whether the design and operation of Apple’s compensation programs or policies encourage our executive officers or our employees to take unnecessary or excessive risks. The Compensation Committee
+concluded that Apple’s compensation programs and policies provide an effective and appropriate mix of incentives to help ensure performance is focused on long-term shareholder value creation, and do not encourage short-term risk taking at the
+expense of long-term results or create risks that are reasonably likely to have a material adverse effect on Apple.
+In
+making that determination, the Compensation Committee considered the program features that mitigate against potential risks for our executive officers such as: fixed base salaries; goals that are tied to specific company financial measures and
+payout caps for the annual cash incentive program; clawbacks for our cash and equity incentives; the quantity and mix of long-term performance-based and time-based equity incentives; and stock ownership requirements. The Compensation Committee also
+generally considered the program features that mitigate against potential risks for our
+non-executive
+officer employees.
+Nominating Committee’s Role in Oversight of Risk Management
+Apple’s Nominating Committee has the primary responsibility to oversee risks related to Board structure and composition, and
+corporate governance. Among other responsibilities, the Nominating Committee oversees the annual Board performance self-evaluation process and makes recommendations to the Board concerning the size, structure, and composition of the Board and its
+committees and other corporate governance matters.
+Board Oversight of Apple Values and Our People
+As part of the Board’s oversight of corporate and product strategy, the Board and its committees also review and discuss with
+management Apple’s strategies and progress relating to Apple Values: Accessibility, Education, Environment, Inclusion and Diversity, Privacy and Security, and Supplier Responsibility. In 2020, the Board adopted Apple’s human rights policy
+statement – Our Commitment to Human Rights – on behalf of the company and is responsible for overseeing and periodically reviewing the policy. Apple’s General Counsel oversees the implementation of the policy and reports to the Board
+and its committees on Apple’s progress and significant issues.
+Apple Inc. |
+2021 Proxy Statement | 18
+Table of Contents
+Apple also has internal systems and procedures for managing environmental,
+social, and governance topics, including engagement with external stakeholders to learn about their priorities and get their feedback; coordination of relevant company projects and initiatives; and alignment with Apple Values strategies and
+implementation.
+Further, the Board and its committees review and discuss with management matters related to human
+capital management, including Apple’s commitments and progress on inclusion and diversity, employee engagement, compensation and benefits, business conduct and compliance, and executive succession planning. During 2020, the Board and its
+committees also reviewed and discussed with management the impact of
+COVID-19
+on Apple’s employees, supply chain, and business, and management’s strategies and initiatives to respond to, and
+mitigate, adverse impacts, including enhanced health and safety measures for Apple’s and its supply chain’s workforce.
+Annual Board and Committee Self-Evaluations
+Annual Board Self-Evaluations
+The
+Board conducts an annual self-evaluation that is intended to determine whether the Board, its committees, and each member of the Board are functioning effectively, and to provide an opportunity to reflect upon, and improve, processes and
+effectiveness.
+Dr. Levinson, the independent Chairman of the Board, leads the evaluation process.
+Dr. Levinson conducts
+one-on-one
+discussions with each director to obtain their assessment of the effectiveness and performance of the Board, its committees, and a
+peer review of each member of the Board. Additional discussion topics include, among others, Board and committee composition and refreshment; timing, agenda, and content of Board and committee meetings; Board dynamics and function; and executive
+succession planning. Board members are also invited to discuss the performance of Dr. Levinson directly with the Chair of the Nominating Committee. A summary of the results is presented to the Board on an anonymous basis, identifying any themes
+or issues that have emerged. The Board considers the results and ways in which Board processes and effectiveness may be improved.
+Annual Committee
+Self-Evaluations
+Each committee conducts its own annual self-evaluation and reports the results to the Board. Each
+committee’s evaluation includes an assessment of the committee’s compliance with Apple’s Corporate Governance Guidelines and the committee’s charter, as well as ways in which committee processes and effectiveness may be improved.
+Attendance of Directors at Annual Meetings of Shareholders
+Apple expects all of its directors to attend the Annual Meeting. All directors serving at the time attended the 2020 annual
+meeting of shareholders.
+Code of Ethics
+Apple seeks to conduct business ethically, honestly, and in compliance with applicable laws and regulations. Apple’s code of
+ethics, titled “Business Conduct: The way we do business,” set outs the principles that guide
+Apple Inc. |
+2021 Proxy Statement | 19
+Table of Contents
+Apple’s business practices – honesty, respect, confidentiality, and compliance. The code applies to all employees, including Apple’s principal executive officer, principal
+financial officer, and principal accounting officer. Relevant sections of the code also apply to the Board. Apple expects its suppliers, contractors, consultants, and other business partners to follow the principles set forth in the code when
+providing goods and services to Apple or acting on its behalf. The code is available at
+investor.apple.com/leadership-and-governance
+. Apple intends to disclose any changes or waivers from this code by posting such information to our website if such disclosure is required by SEC or Nasdaq rules.
+Apple’s code is managed by the Business Conduct organization, under the oversight of Apple’s Chief Compliance Officer.
+Employees receive the code upon joining Apple and participate annually in required training. With input from relevant stakeholders and executive leadership, we regularly review and update Apple’s code and related policies to ensure they provide
+clear, actionable guidance to our employees, executive officers, and directors.
+Review, Approval, or Ratification of
+Transactions with Related Persons
+The Board has adopted a written policy for approval of transactions between Apple and
+its directors, director nominees, executive officers, greater than 5% beneficial owners of Apple’s common stock or any other class of Apple’s equity securities, and each of their respective immediate family members, where the amount
+involved in the transaction exceeds or is expected to exceed $120,000 in a single fiscal year and the related party has or will have a direct or indirect interest in the transaction (other than solely as a result of being a director or less than 10%
+beneficial owner of another entity). A copy of this policy is available at
+investor.apple.com/leadership-and-governance
+. The policy provides that the Audit Committee reviews transactions subject to the policy and determines whether or not to approve or ratify those transactions. In addition, the Audit
+Committee has delegated authority to the Chair of the Audit Committee to
+pre-approve
+or ratify transactions under certain circumstances. In reviewing transactions subject to the policy, the Audit Committee or
+the Chair of the Audit Committee, as applicable, considers among other factors it deems appropriate:
+•
+The nature and extent of the related person’s interest in the transaction;
+•
+The approximate dollar value of the amount involved in the transaction;
+•
+The approximate dollar value of the amount of the related person’s interest in the
+transaction without regard to the amount of any profit or loss;
+•
+Whether the transaction was undertaken in the ordinary course of Apple’s business;
+•
+The material terms of the transaction, including whether the transaction with the related person
+is proposed to be, or was entered into, on terms no less favorable to Apple than terms that could have been reached with an unrelated third-party;
+•
+The business purpose of, and the potential benefits to Apple of, the transaction;
+•
+Whether the transaction would impair the independence of a
+non-employee
+director;
+•
+Required public disclosure, if any; and
+•
+Any other information regarding the transaction or the related person in the context of the
+proposed transaction that would be material to the Audit Committee’s decision, in its business judgment, in light of the circumstances of the particular transaction.
+Apple Inc. |
+2021 Proxy Statement | 20
+Table of Contents
+A summary of new transactions covered by standing
+pre-approvals
+established by the Audit Committee, or transactions approved or ratified by the Chair of the Audit Committee, if any, is provided to the Audit Committee for its review.
+Transactions with Related Persons
+Several of Apple’s Board members and executive officers serve as directors or executive officers of other organizations,
+including organizations with which Apple has commercial and charitable relationships. Apple does not believe that any director had a direct or indirect material interest in any such relationships during 2020 and through the date of this Proxy
+Statement.
+Reporting and Transparency
+Apple publicly discloses substantial information about our business across a number of important topics, including in our
+Environment, Supplier Responsibility, and Transparency Reports which detail our commitments, programs, and progress on the environment; labor and human rights, environmental protections, and ethics in our supply chain; and privacy, respectively. In
+addition, in response to shareholder feedback, we have mapped and linked our many disclosures on a range of environmental, social, and governance topics to metrics outlined by the Global Reporting Initiative (GRI), Sustainability Accounting
+Standards Board (SASB), and the Task Force on Climate-Related Financial Disclosures (TCFD) voluntary disclosure frameworks in a document we call our “ESG Index,” available at
+investor.apple.com/esg
+.
+Shareholder Engagement
+We proactively engage with shareholders and other stakeholders throughout the year to
+learn their perspectives on significant issues, including company performance and strategy, corporate governance, executive compensation, and environmental, social, and governance topics. This engagement helps us better understand shareholder
+priorities and perspectives, gives us an opportunity to elaborate upon our initiatives and practices, and fosters constructive dialogue. We take feedback and insights from our engagement with shareholders and other stakeholders into consideration as
+we review and evolve our practices and disclosures, and further share them with our Board as appropriate.
+Communications with
+the Board
+Any matter intended for the Board, or for any individual member of the Board, should be directed to
+Apple’s Secretary at One Apple Park Way, MS:
+169-5GC,
+Cupertino, CA 95014 USA, with a request to forward the communication to the intended recipient. In general, any shareholder communication delivered to
+Apple for forwarding to Board members will be forwarded in accordance with the shareholder’s instructions. However, Apple reserves the right not to forward to Board members any abusive, threatening, or otherwise inappropriate materials.
+Information regarding the submission of comments or complaints relating to Apple’s accounting, internal accounting controls, or auditing matters is available under our Policy on Reporting Questionable Accounting or Auditing Matters at
+investor.apple.com/leadership-and-governance
+.
+Apple Inc. |
+2021 Proxy Statement | 21
+Table of Contents
+Apple Inc. |
+2021 Proxy Statement | 22
+Table of Contents
+Directors
+This section describes the experience and qualifications of our Board members and how they are compensated.
+Apple Inc. |
+2021 Proxy Statement | 23
+Table of Contents
+Directors
+Apple’s Board consists of a diverse group of highly qualified leaders in their respective fields. Most of our directors have
+senior leadership experience at major domestic and multinational companies. In these positions, they have gained significant and diverse management experience, including strategic and financial planning, public company financial reporting,
+compliance, risk management, and leadership development. They also have public company experience serving as executive officers, or on boards of directors and board committees, and have an understanding of corporate governance practices and trends.
+In addition, many of our directors have experience as directors or trustees of significant academic, research, nonprofit, and philanthropic institutions, and bring unique perspectives to the Board.
+The Board and the Nominating Committee believe the skills, qualities, attributes, and experience of our directors provide Apple
+with business acumen and a diverse range of perspectives to engage each other and management to effectively address Apple’s evolving needs and represent the best interests of Apple’s shareholders.
+The Nominating Committee considers candidates for director who are recommended by its members, by other Board members, by
+shareholders, and by management, as well as those identified by third-party search firms retained to assist in identifying and evaluating possible candidates. In evaluating potential nominees to the Board, the Nominating Committee considers, among
+other things: independence; character; ability to exercise sound judgment; diversity; age; demonstrated leadership; and relevant skills and experience, including financial literacy, antitrust compliance, and other experience in the context of the
+needs of the Board. The Nominating Committee is committed to actively seeking out highly-qualified women and individuals from minority groups to include in the pool from which Board nominees are chosen.
+The Nominating Committee, with the assistance of an outside search firm, and input from our independent directors, Chairman of the Board, and CEO, identified Monica Lozano as a potential
+candidate and recommended her to the Board.
+Among our eight nominees for election to the Board, three self-identify as
+women, and four self-identify as individuals from underrepresented communities (meaning, an individual who self-identifies as Black, African American, Hispanic, Latino, Asian, Pacific Islander, Native American, Native Hawaiian, or Alaska Native, or
+who self-identifies as gay, lesbian, bisexual, or transgender).
+The Nominating Committee evaluates candidates
+recommended by shareholders using the same criteria as for other candidates recommended by its members, other members of the Board, or other persons. In addition, our bylaws provide that a shareholder, or a group of up to 20 shareholders, owning at
+least 3% of our outstanding shares continuously for at least three years, may nominate director nominees constituting up to 20% of Apple’s Board for inclusion in our proxy statement pursuant to our proxy access provisions. Nominating
+shareholders and nominees must satisfy the requirements set forth in our bylaws, which can be found at
+investor.apple.com/leadership-and-governance
+.
+Nominees for Election
+The following biographies describe the skills, qualities, attributes, and experience of the nominees that led the Board and the
+Nominating Committee to determine that it is appropriate to nominate these directors for election to the Board.
+Apple Inc. |
+2021 Proxy Statement | 24
+Table of Contents
+Art Levinson, 70, has served as the Chief Executive Officer
+of Calico, a company focused on health, aging, and well-being, since September 2013.
+Dr. Levinson previously
+served as Chief Executive Officer of Genentech, Inc., a medical drug developer, from July 1995 to April 2009, and served as Genentech’s Chairman from September 1999 to September 2014.
+Among other qualifications, Dr. Levinson brings to the Board executive leadership experience, including his service as a
+board chair and chief executive officer of a large international public company, along with extensive financial expertise and brand marketing experience.
+Selected Directorships and Memberships
+Board of Directors, Broad Institute of Harvard and MIT
+Board of Scientific Consultants, Memorial Sloan Kettering Cancer Center
+Industrial Advisory Board, California Institute for Quantitative Biomedical Research
+Science Advisory Board, Chan Zuckerberg Initiative
+Tim Cook, 60, has been Apple’s Chief Executive Officer since August 2011 and was
+previously Apple’s Chief Operating Officer since October 2005.
+Mr. Cook joined Apple in March 1998 and
+served as Executive Vice President, Worldwide Sales and Operations from February 2002 to October 2005. From October 2000 to February 2002, Mr. Cook served as Senior Vice President, Worldwide Operations, Sales, Service and Support. From March
+1998 to October 2000, Mr. Cook served as Senior Vice President, Worldwide Operations.
+Among other
+qualifications, Mr. Cook brings to the Board extensive executive leadership experience in the technology industry, including the management of worldwide operations, sales, service, and support.
+Other Current Public Company Directorships
+NIKE, Inc.
+Selected Directorships
+and Memberships
+Board of Directors, The National Football Foundation & College Hall of Fame, Inc.
+Board of Trustees, Duke University
+Leadership Council, Malala Fund
+Apple Inc. |
+2021 Proxy Statement | 25
+Table of Contents
+James Bell, 72, is the retired Executive Vice President, Corporate President and Chief
+Financial Officer of The Boeing Company, an aerospace company. Mr. Bell served in this role from June 2008 to April 2012, having previously served as Executive Vice President, Finance and Chief Financial Officer from November 2003 to
+June 2008, and as Senior Vice President of Finance and Corporate Controller from October 2000 to November 2003. From 1992 to 2000, Mr. Bell held a series of positions with increasing responsibility at Boeing.
+Among other qualifications, Mr. Bell brings to the Board financial and accounting expertise as a former chief financial
+officer of a large international public company, experience in strategic planning and leadership of complex organizations, and a global business perspective from his service on other boards.
+Other Current Public Company Directorships
+CDW Corporation
+Dow Inc.
+Selected Directorships and Memberships
+Board of Trustees, Rush University Medical Center
+Former Public Company Directorships Within the Last Five Years
+DowDupont Inc.
+JPMorgan Chase & Co.
+Al Gore, 72, has served as Chairman of Generation Investment Management, an investment
+management firm, since 2004, and as a partner of Kleiner Perkins Caufield & Byers, a venture capital firm, since November 2007.
+Mr. Gore is also Chairman of The Climate Reality Project.
+Mr. Gore was elected to the
+U.S. House of Representatives four times, to the U.S. Senate two times, and served two terms as Vice President of the United States.
+Among other qualifications, Mr. Gore brings to the Board executive leadership experience, a valuable and different perspective due to his extensive background in digital communication and technology policy, politics, and
+environmental rights, along with experience in asset management and venture capital.
+Apple Inc. |
+2021 Proxy Statement | 26
+Table of Contents
+Andrea Jung, 62, has served as the President and Chief Executive Officer of Grameen
+America LLC, a nonprofit microfinance organization, since April 2014, where she also serves on the Board of Directors.
+Ms. Jung previously served as Executive Chairman of Avon Products, Inc., a personal care products company, from April 2012 to
+December 2012, and as Chairman of the Board of Avon from September 2001 to April 2012. Ms. Jung served as Chief Executive Officer of Avon from November 1999 to April 2012, and served as a member of the Board of Avon from January 1998 to
+December 2012.
+Among other qualifications, Ms. Jung brings to the Board executive leadership experience,
+including her service as a board chair and chief executive officer of a large international public company, along with extensive brand marketing and consumer products experience, and a global business perspective from her service on other boards.
+Other Current Public Company Directorships
+Unilever PLC and Unilever N.V.
+Wayfair Inc.
+Selected Directorships and Memberships
+Board of Directors, Rockefeller Capital Management
+Board of Directors, JUST Capital
+Former Public Company Directorships Within the Last Five Years
+Daimler AG
+General Electric Company
+Monica Lozano, 64, has served as the President and Chief Executive Officer of The College
+Futures Foundation, a charitable foundation working to increase the rate of college graduation for low-income California students, since December 2017.
+Ms. Lozano previously served as Chair of the Board of Directors of U.S. Hispanic Media, Inc., the parent company of ImpreMedia,
+LLC, a Hispanic news and information company, from June 2014 to January 2016. Ms. Lozano previously served as Chair of ImpreMedia, LLC, from July 2012 to January 2016, and Chief Executive Officer of ImpreMedia, LLC, from May 2010 to May 2014.
+Among other qualifications, Ms. Lozano brings to the Board executive leadership experience, including her service as a
+board chair and chief executive officer, experience in operations, strategic planning and marketing, and a global business perspective from her service on other boards.
+Other Current Public Company Directorships
+Bank of America Corporation
+Target Corporation
+Selected Directorships and Memberships
+Board of Directors, Weingart Foundation
+Member, American Academy of Arts and Sciences
+Former Public Company Directorships Within the Last Five Years
+The Walt Disney Company
+Apple Inc. |
+2021 Proxy Statement | 27
+Table of Contents
+Ron Sugar, 72, is the retired Chairman of the Board and Chief Executive Officer of
+Northrop Grumman Corporation, a global security company. Dr. Sugar served in this role from April 2003 to June 2010 and served as President and Chief Operating Officer from 2001 to 2003. Previous to Northrop Grumman, he held executive positions
+at Litton Industries and TRW Inc., where he served as Chief Financial Officer.
+Among other qualifications,
+Dr. Sugar brings to the Board executive leadership experience as a board chair and chief executive officer of a large international public company, financial expertise as a former chief financial officer, understanding of advanced technology,
+experience with government relations and public policy, and a global business perspective from his service on other boards.
+Other Current Public Company
+Directorships
+Amgen Inc.
+Chevron Corporation
+Uber Technologies, Inc.
+Selected Directorships and Memberships
+Member, National Academy of Engineering
+Board of Trustees, University of Southern California
+Board of Directors, Los Angeles Philharmonic Association
+Operating Advisor, Ares Management Corporation
+Member, Temasek Americas Advisory Panel
+Former Public Company Directorships Within the Last Five Years
+Air Lease Corporation
+Sue Wagner, 59, is a
+co-founder
+of BlackRock,
+Inc., an asset management company. Ms. Wagner served as BlackRock’s Vice Chairman from January 2006 until her retirement in July 2012, and also served as a member of BlackRock’s Global Executive Committee and Global Operating
+Committee. During her tenure at BlackRock, Ms. Wagner served as BlackRock’s Chief Operating Officer and Head of Corporate Strategy, and led the alternative investments and international client businesses.
+Among other qualifications, Ms. Wagner brings to the Board operational experience, including her service as chief operating
+officer of a large multinational public company, along with extensive financial expertise and experience in the financial services industry, and a global business perspective from her service on other boards.
+Other Current Public Company Directorships
+BlackRock, Inc.
+Swiss Re
+Selected Directorships and Memberships
+Board of Directors, Color Genomics, Inc.
+Board of Trustees, Wellesley College
+Board of Directors, Samsara Networks Inc.
+Apple Inc. |
+2021 Proxy Statement | 28
+Table of Contents
+Compensation of Directors
+Members of the Board who are not Apple employees
+(“Non-Employee
+Directors”)
+receive compensation for their service. As an Apple employee, Mr. Cook, our CEO, does not receive compensation for his service as a member of the Board. The Compensation Committee annually reviews the total compensation of our
+Non-Employee
+Directors and each element of our
+Non-Employee
+Director compensation program. As part of this process, the Compensation Committee evaluates market data provided
+by its independent compensation consultant, Pay Governance LLC (“Pay Governance”), and makes a recommendation to the Board. The Board determines the form and amount of
+Non-Employee
+Director
+compensation after reviewing the Compensation Committee’s recommendation. The Apple Inc.
+Non-Employee
+Director Stock Plan (“Director Stock Plan”) provides for an annual limit of
+$1.5 million for all compensation paid to a
+Non-Employee
+Director. The compensation of our
+Non-Employee
+Directors did not change for 2020.
+Cash Retainers.
+Our
+Non-Employee
+Directors receive an annual cash retainer of $100,000. In 2020, the Chairman of the Board, Dr. Levinson, received an additional cash retainer of $200,000; the Chair of the Audit Committee,
+Dr. Sugar, received an additional cash retainer of $35,000; the Chair of the Compensation Committee, Ms. Jung, received an additional cash retainer of $30,000; and the Chair of the Nominating Committee, Ms. Wagner, received an
+additional cash retainer of $25,000. All retainers are paid in quarterly installments.
+Equity-Based
+Awards.
+A substantial portion of each
+Non-Employee
+Director’s annual retainer is in the form of equity awards. Under the Director Stock Plan,
+Non-Employee
+Directors are granted restricted stock units (“RSUs”) on the date of each annual meeting of shareholders (each, an “Annual Director Award”). All Annual Director Awards vest on
+February 1 of the following year, subject to continued service on the Board through the vesting date. For 2020, the number of RSUs underlying each Annual Director Award was determined by dividing $250,000 by the per share closing price of
+Apple’s common stock on the date of grant.
+A
+Non-Employee
+Director who is
+newly appointed to the Board other than in connection with an annual meeting of shareholders will receive a grant of RSUs upon appointment (an “Initial Director Award”), except that a
+Non-Employee
+Director who first joins the Board on or after February 1 of a particular year and prior to the annual meeting for that year, or a director who was an employee of Apple immediately prior to first becoming a
+Non-Employee
+Director, will not receive an Initial Director Award. The number of RSUs subject to each Initial Director Award is determined in the same manner as described above for Annual Director Awards, but
+the award is
+pro-rated
+based on the portion of the period that has passed since the last annual meeting. Initial Director Awards are scheduled to vest on the next February 1 following the grant of the
+award.
+Each RSU granted under the Director Stock Plan will be credited with an amount equal to any ordinary dividend
+paid by Apple, multiplied by the total number of RSUs subject to the award that are outstanding immediately prior to the record date for such dividend. The amounts credited to each RSU are referred to as “dividend equivalents.” Any
+dividend equivalents credited to an RSU granted under the Director Stock Plan will be subject to the same vesting, payment, and other terms and conditions as the RSUs to which the dividend equivalents relate. The dividend equivalents are meant to
+treat the RSU award holders consistently with shareholders.
+Equipment and Matching Gifts
+Programs.
+Apple has an equipment program for the Board under which each
+Non-Employee
+Director is eligible to receive, upon request and free of charge,
+one of each new product introduced by Apple, and is eligible to purchase additional equipment at a discount. Additionally, each
+Non-Employee
+Director is eligible to participate in Apple’s matching gifts
+program to the same extent as Apple employees.
+Apple Inc. |
+2021 Proxy Statement | 29
+Table of Contents
+Deferred Compensation
+Plan.
+We adopted the Apple Inc. Deferred Compensation Plan (“DCP”) in 2018, effective for deferrals beginning in 2019. The DCP
+allows eligible participants, including our
+Non-Employee
+Directors, to defer a portion of their eligible compensation, subject to the terms of the DCP. The DCP is unfunded and unsecured. We do not
+provide any matching contributions under the DCP or allow for deferral of RSUs. None of our
+Non-Employee
+Directors participated in the DCP in 2020.
+Stock Ownership Guidelines.
+Apple has stock ownership
+guidelines for our CEO, executive officers, and
+Non-Employee
+Directors. Under the guidelines, each
+Non-Employee
+Director is expected, within five years after the
+individual first becomes subject to the guidelines, to own shares of Apple’s common stock that have a value equal to five times their annual cash retainer for serving as a director. Shares may be owned directly by the individual, owned jointly
+with, or separately by, the individual’s spouse, or held in trust for the benefit of the individual, the individual’s spouse, or the individual’s children. Other than Ms. Lozano, who joined the Board in January 2021, each
+Non-Employee
+Director currently satisfies the stock ownership guidelines.
+Director
+Compensation – 2020
+The following table shows information regarding the compensation earned or paid during 2020 to
+Non-Employee
+Directors who served on the Board during the year. Mr. Cook’s compensation is shown in the table entitled “Summary Compensation Table – 2020, 2019, and 2018” and the related
+tables under the section entitled “Executive Compensation.” Ms. Lozano joined the Board in January 2021, after the end of the fiscal year.
+Name
+Fees Earned or
+Paid in Cash
+($)
+Stock Awards
+($)
+(1)
+All Other
+Compensation
+($)
+(2)
+Total
+($)
+James Bell
+100,000
+249,923
+9,179
+359,102
+Al Gore
+100,000
+249,923
+8,398
+358,321
+Andrea Jung
+130,000
+249,923
+22,282
+402,205
+Art Levinson
+300,000
+249,923
+28,222
+578,145
+Ron Sugar
+135,000
+249,923
+13,704
+398,627
+Sue Wagner
+125,000
+249,923
+224
+375,147
+(1)
+In accordance with SEC rules, the amounts shown reflect the aggregate grant date fair value of
+stock awards granted to
+Non-Employee
+Directors during 2020, computed in accordance with Financial Accounting Standards Board Accounting Standards Codification Topic 718 (“FASB ASC 718”). The grant
+date fair value for RSUs is measured based on the closing price of Apple’s common stock on the date of grant. See Note 1 – Summary of Significant Accounting Policies found in Part II, Item 8, “Financial Statements and Supplementary
+Data” in the Notes to Consolidated Financial Statements in the Annual Report on Form
+10-K
+for the year ended September 26, 2020.
+Each
+Non-Employee
+Director received an Annual Director
+Award of 3,416 RSUs on February 26, 2020, and the grant date fair value for each RSU was $73.16. As of September 26, 2020, each
+Non-Employee
+Director held 3,416 RSUs.
+(2)
+The amounts shown reflect the value of one or more products received under Apple’s Board of
+Directors Equipment Program. The amounts also include matching charitable contributions under Apple’s matching gifts program of $20,000 for Ms. Jung and $10,000 for Dr. Sugar.
+Apple Inc. |
+2021 Proxy Statement | 30
+Table of Contents
+Executive Officers
+This section describes the experience and qualifications of our named executive officers, other than Mr. Cook.
+Apple Inc. |
+2021 Proxy Statement | 31
+Table of Contents
+Ms. Adams, 56, oversees all legal matters, including corporate governance, intellectual property,
+litigation, compliance, global security, and privacy.
+Kate joined Apple as General Counsel in November 2017. Prior to joining Apple, Kate served as General Counsel of Honeywell International Inc., a diversified technology and manufacturing company, from September 2008. Prior to joining
+Honeywell in 2003, Kate was a partner at the law firm of Sidley Austin LLP.
+Mr. Maestri, 57, oversees Apple’s accounting, business support, financial planning and analysis,
+treasury, real estate, investor relations, internal audit, and tax functions.
+Luca joined Apple in March 2013 and assumed his current position in May 2014, after previously serving as Apple’s Vice
+President and Corporate Controller. Prior to joining Apple, Luca was Executive Vice President, Chief Financial Officer of Xerox Corporation, a business services and technology company, from February 2011 to February 2013; Chief Financial
+Officer at Nokia Siemens Networks; and had a
+20-year
+career with General Motors Corporation, including serving as Chief Financial Officer of GM Europe and GM Brazil.
+Ms. O’Brien, 54, oversees Apple’s retail and online teams, and Apple’s People team. As the
+leader of Apple’s retail and online teams, Deirdre supports their work to enrich the lives of millions of Apple customers every year. In her role leading the People team, Deirdre works to help Apple connect, develop, and care for its employees
+– and to help those employees do the best work of their lives. Her teams oversee a broad range of functions including talent development and Apple University, recruiting, employee relations and experience, business partnership, benefits,
+compensation, and inclusion and diversity.
+Deirdre joined Apple in July 1988 and assumed her current position in February 2019. Deirdre’s previous positions with Apple include Vice President, People and Vice President, Operations.
+Mr. Williams, 57, oversees Apple’s entire worldwide operations, and customer service and support. He
+also oversees the development of Apple Watch and drives the company’s health initiatives.
+Jeff joined Apple in June 1998 and assumed his current position in December 2015. Jeff’s previous positions with Apple
+include Senior Vice President, Operations and Head of Worldwide Procurement. Prior to joining Apple, Jeff worked in a number of operations and engineering roles at IBM from 1985 to 1998.
+Apple Inc. |
+2021 Proxy Statement | 32
+Table of Contents
+Executive Compensation
+This section describes the compensation program for our named executive officers and includes the required executive compensation tables.
+Apple Inc. |
+2021 Proxy Statement | 33
+Table of Contents
+Compensation Committee Report
+The Compensation Committee has reviewed and discussed with management the disclosures contained
+in the following “Compensation Discussion and Analysis.” Based on this review and discussion, the Compensation Committee recommended to the Board that the section entitled “Compensation Discussion and Analysis” be included in
+this Proxy Statement for the Annual Meeting.
+Members of the Compensation Committee
+Andrea Jung (Chair) | Al Gore | Art Levinson
+Compensation Discussion and Analysis
+We are proud of our commitment to leaving the world better than we found it, leading with values and integrity, and creating
+innovative products for our customers, while delivering strong financial results for our shareholders.
+During 2020, we
+supported the COVID-19 public health response by adapting our business to bring people the information and technology they needed most. We introduced powerful new hardware and software features to Apple Watch to empower our customers to take control
+of their health and fitness and announced the transition to Apple silicon for Mac to deliver industry-leading performance and a common architecture across all Apple products. We also achieved new all-time records for revenue–$274.5 billion, up
+6% year-over-year, and earnings per share–$3.28, up 10% year-over-year; operating income grew 4% year-over-year; and we doubled our 2016 Services revenue in our June 2020 quarter, six months ahead of our goal.
+The 2020 compensation of our named executive officers appropriately reflects and rewards their significant contributions to
+Apple’s strong performance in a year that presented unique and unprecedented challenges for our executive team to manage. This Compensation Discussion and Analysis explains the guiding principles and practices upon which our executive
+compensation program is based and the compensation paid to our named executive officers:
+•
+Tim Cook
+, Chief Executive Officer
+•
+Luca Maestri
+, Senior Vice President, Chief Financial Officer
+•
+Kate Adams
+, Senior Vice President, General Counsel and Secretary
+•
+Deirdre O’Brien
+, Senior Vice President, Retail + People
+•
+Jeff Williams
+, Chief Operating Officer
+Guiding Principles
+Team-Based Approach.
+We apply a team-based approach to the compensation of our named executive officers with internal pay equity as a primary consideration.
+Performance Expectations.
+We establish clear,
+quantitative financial goals and values-driven performance expectations focused on Apple’s overall success and impact.
+Emphasis on Long-Term Equity Incentives.
+We emphasize long-term performance, retention, and alignment between the interests of our named executive officers and
+those of our shareholders by significantly weighting our named executive officers’ compensation toward long-term equity awards.
+Apple Inc. |
+2021 Proxy Statement | 34
+Table of Contents
+Executive Compensation Policies and Practices
+We are committed to sound executive compensation policies and practices, as highlighted in the following table.
+Prohibition on
+hedging, pledging, and short sales
+We prohibit short sales, transactions in derivatives, hedging, and pledging of Apple securities by our named executive officers.
+Stock ownership
+guidelines
+We have robust stock ownership guidelines for our named executive officers.
+Compensation
+clawback policy
+Our compensation clawback policy allows us to recover annual cash incentives, equity awards, or other amounts that may be paid in respect of awards in the event of certain acts of misconduct by our named executive
+officers.
+No repricing
+We do not allow repricing of stock options without shareholder approval.
+No change of control
+payments
+We do not provide change of control payments or
+gross-ups
+of related excise taxes.
+Vesting requirements
+for dividend equivalents
+We apply the same vesting restrictions and performance conditions on dividend equivalents as on the underlying RSUs.
+At-will
+employment
+We employ our named executive officers at will.
+No pension or other
+special benefits
+We do not provide pensions or supplemental executive health or insurance benefits.
+No significant
+perquisites
+We do not provide significant perquisites to our named executive officers. For security and efficiency purposes, Mr. Cook is provided personal security services and is required by the Board to use private aircraft for all
+business and personal travel.
+Annual compensation
+risk assessment
+The Compensation Committee conducts an annual risk assessment of our compensation program.
+Independent compensation consultant
+The Compensation Committee has directly retained an independent compensation consultant that performs no
+services for Apple other than services for the Compensation Committee.
+Apple Inc. |
+2021 Proxy Statement | 35
+Table of Contents
+Compensation Committee Judgment and Discretion
+The Compensation Committee, consisting entirely of independent directors, reviews and approves the compensation of Apple’s
+named executive officers and acts as the administering committee for Apple’s employee equity compensation plans.
+The Compensation Committee’s executive compensation determinations are subjective and the result of the Compensation
+Committee’s business judgment, which is informed by the experience of its members and input provided by its independent compensation consultant, our CEO (other than with respect to his own compensation), other members of management, and
+shareholders.
+Each year, the Compensation Committee conducts an evaluation of Apple’s executive compensation
+program to determine any appropriate changes. In making this determination, the Compensation Committee may consult with its independent compensation consultant and management, as described below; however, the Compensation Committee makes final
+decisions regarding the compensation paid to our named executive officers based on its own judgment.
+In determining
+whether to make changes to our executive compensation program, the Compensation Committee may consider a number of factors, including, but not limited to, the size, scope, and performance of our business, evolving compensation trends, financial
+goals, and shareholders’ interests.
+The Role of the Compensation Consultant.
+The Compensation Committee selects and retains the services of its own independent compensation consultant and annually reviews the performance of the consultant. As part of the review process, the
+Compensation Committee considers the independence of the consultant in accordance with SEC and Nasdaq rules.
+During
+2020, the Compensation Committee’s independent compensation consultant, Pay Governance, provided no services to Apple other than services for the Compensation Committee, and worked with Apple’s management, as directed by the Compensation
+Committee, only on matters for which the Compensation Committee is responsible.
+At the Compensation Committee’s
+request, Pay Governance regularly attends Compensation Committee meetings. Pay Governance also communicates with the Compensation Committee or the Chair of the Compensation Committee outside committee meetings regarding matters related to the
+Compensation Committee’s responsibilities. In 2020, the Compensation Committee generally sought input from Pay Governance on a range of external market factors related to Apple’s compensation programs, CEO pay, environmental, social, and
+governance performance metrics and other evolving compensation trends, appropriate market reference points, and market compensation data. Pay Governance also provided general observations about management’s recommendations regarding the amount
+and form of compensation for our named executive officers.
+The Role of the Chief Executive
+Officer.
+At the Compensation Committee’s request, Mr. Cook provides input regarding the performance and compensation of the other named executive officers. The Compensation
+Committee considers Mr. Cook’s evaluation and his direct knowledge of each named executive officer’s performance and contributions when making compensation decisions. Mr. Cook is not present during Compensation Committee voting
+or deliberations regarding his own compensation.
+The Role of Shareholders.
+Shareholders are provided the opportunity to cast an annual advisory vote on the compensation of our named executive officers and have indicated their strong support for the compensation of our named
+executive officers in each of the past five years. Most recently, 94% of votes cast on the say-on-pay
+Apple Inc. |
+2021 Proxy Statement | 36
+Table of Contents
+proposal at the 2020 Annual Meeting voted in favor of our executive compensation program and there were no significant changes to our executive compensation program for 2020. We have ongoing
+discussions with many of our shareholders regarding various corporate governance topics, including environmental, social, and governance topics, executive compensation, and related trends. The Compensation Committee considers these discussions while
+reviewing our executive compensation program and will continue to consider shareholder feedback and the results of say-on-pay votes when making future compensation decisions.
+The Role of Peer Companies.
+The Compensation Committee
+reviews and approves peer group composition each year. With the assistance of Pay Governance, the Compensation Committee identified groups of companies to serve as market reference points for compensation comparison purposes for 2020. A primary peer
+group was developed for reference consisting of U.S.-based, stand-alone, publicly traded companies in the technology, media, and internet services industries that, in the Compensation Committee’s view, compete with Apple for talent. The
+threshold revenue and market capitalization requirements for a company to be considered for the primary peer group for 2020 were $15 billion and $50 billion, respectively.
+A secondary peer group of premier companies that have iconic brands or are industry or category leaders, rely on significant
+research and development and innovation for growth, and require highly-skilled employees was also developed as an additional reference set for the Compensation Committee.
+Based on the above criteria, Netflix was added to the primary peer group and
+20
+th
+Century Fox and Time Warner were removed from the primary peer group due to acquisitions. The secondary peer group remained the same.
+The chart below lists the companies in the primary and secondary peer groups. References in this Compensation Discussion and
+Analysis to peer companies include both the primary and the secondary peer group companies.
+Primary Peer Group
+Secondary Peer Group
+Alphabet
+IBM
+3M
+Amazon
+Intel
+American Express
+AT&T
+Microsoft
+Boeing
+Charter
+Netflix
+Coca-Cola
+Cisco Systems
+Oracle
+General Electric
+Comcast
+Qualcomm
+Johnson & Johnson
+Disney
+Verizon
+Nike
+Facebook
+Visa
+PepsiCo
+Pfizer
+Procter & Gamble
+UnitedHealth Group
+The Compensation Committee considers peer group data provided by its independent compensation consultant and reviews compensation
+practices and program design at peer companies to inform its decision-making process so it can set total compensation levels that it believes are commensurate with the relative size, scope, and success of Apple. The Compensation Committee, however,
+does not set compensation components to meet specific benchmarks as compared to peer companies, such as targeting salaries at a specific market percentile.
+Apple Inc. |
+2021 Proxy Statement | 37
+Table of Contents
+2020 Named Executive Officer Compensation
+Our executive compensation program is designed to motivate and reward exceptional performance in a straightforward and effective
+way, while also recognizing the size, scope, and success of Apple’s business. The compensation of our named executive officers has three primary components: annual base salary, annual cash incentive, and long-term equity awards.
+2020 Annual Base Salary.
+Base salary is a customary, fixed
+element of compensation intended to attract and retain executives. When setting the annual base salaries of our named executive officers, the Compensation Committee considers market data provided by its independent compensation consultant, internal
+pay equity, and Apple’s financial results and size relative to peer companies. The annual base salaries for our named executive officers did not change for 2020.
+2020 Annual Cash Incentive.
+Our annual cash incentive
+program is a variable,
+at-risk
+component of our named executive officers’ compensation that is aligned with Apple’s annual financial results. Net sales and operating income, as determined in
+accordance with generally accepted accounting principles, are used as the performance measures for the annual cash incentive program because they reflect commonly recognized measures of overall company performance and profitability and are drivers
+of shareholder value creation. Our annual cash incentive program for 2020 retained the same structure as our annual cash incentive program for 2019, with no increases to the threshold, target, and maximum payout opportunities for our named executive
+officers.
+The annual cash incentive program provides payout opportunities based on the achievement of pre-determined
+financial goals that require our named executive officers to meet high standards of performance. Annual cash incentive payouts are determined based on an equal weighting for the net sales and operating income performance measures, as approved by the
+Compensation Committee, and are linearly interpolated for achievement between threshold, target, and maximum goals. The target payout opportunity for each of the net sales and operating income performance measures is 100% of each named executive
+officer’s annual base salary. If the threshold performance level is reached, the total payout opportunity is 50% of the target payout opportunity, and if the maximum performance level is reached, the payout opportunity is capped at 200% of the
+target payout opportunity. Unless the threshold goal is achieved for a performance measure, there is no payout for that performance measure. The Compensation Committee may, in its judgment, reduce the actual payout of any individual’s annual
+cash incentive based on Apple’s performance and the Compensation Committee’s subjective assessment of the named executive officer’s overall performance.
+The Compensation Committee establishes threshold, target, and maximum performance goals under the annual incentive program based
+on factors relevant to the fiscal year. The Compensation Committee also considers financial results from prior years as a reference point, but focuses on setting goals that reflect current business conditions and an appropriate pay-for-performance
+outcome.
+When setting the goals for 2020, the Compensation Committee considered many factors, including, but not
+limited to a complex macroeconomic and socio-political environment, uncertain trade conditions, and the alignment between appropriate payout opportunities and strong financial results at threshold, target, and maximum performance goal levels. The
+Compensation Committee considered the likelihood of a range of scenarios for net sales and factors that were projected to have an impact on 2020 operating income, such as long-term strategic investments and acquisitions, foreign exchange headwinds,
+and tariffs. Based on these considerations, in the first quarter of 2020 the Compensation Committee set annual threshold, target and maximum cash incentive plan goals at levels they considered appropriately rigorous for the year, and that
+Apple Inc. |
+2021 Proxy Statement | 38
+Table of Contents
+represented continued strong financial performance under challenging business conditions. The COVID-19 pandemic was not a consideration at the time the 2020 annual incentive plan goals were set,
+nor did the Compensation Committee modify the annual incentive plan goals during the year due to COVID-19 related circumstances.
+For 2020, we reported net sales of $274.5 billion and operating income of $66.3 billion, representing 6% and 4% growth year-over year, respectively. These results exceeded the target goal for each performance measure and resulted in
+a payout equal to 179% of the total target payout opportunity under the annual cash incentive program.
+2020 Annual Incentive Plan Goals and Results
+Goals and Results in $B
+The Compensation Committee considered the significant efforts of the executive team to deliver
+these strong financial results during 2020 and determined that no downward adjustments to the payouts would be made based on Apple’s 2020 performance and the individual contributions of our named executive officers. Accordingly, bonus payouts
+equal to 179% of the target payout opportunity were approved for each of our named executive officers.
+Looking Forward
+. Beginning in 2021, an environmental, social, and governance modifier based on Apple Values and other key community initiatives will be incorporated into our annual cash incentive program. This change is
+intended to further motivate Apple’s executive team to meet exceptionally high standards of values-driven leadership in addition to delivering strong financial results. The financial performance measures and the threshold, target, and maximum
+payout opportunities under our annual cash incentive program for our named executive officers will not change. However, the Compensation Committee will use the modifier to determine whether to increase or decrease the bonus payouts by up to 10%
+based on the Compensation Committee’s evaluation of our named executive officers’ performance with respect to Apple Values and other key community initiatives during 2021.
+Apple Inc. |
+2021 Proxy Statement | 39
+Table of Contents
+Long-Term Equity Awards
+The equity component of our named executive officers’ compensation emphasizes long-term shareholder value creation through
+performance-based and time-based RSU awards.
+Performance-Based RSUs.
+RSU awards with performance-based vesting are a substantial,
+at-risk
+component of our named executive officers’ compensation tied to Apple’s long-term
+performance. The number of performance-based RSUs that vest depends on Apple’s total shareholder return relative to the other companies in the S&P 500 (“Relative TSR”) for the performance period. The Compensation Committee chose
+Relative TSR as a straightforward and objective metric to evaluate our performance against the performance of other companies and to align the interests of our named executive officers with the interests of our shareholders in creating long-term
+value.
+We measure Relative TSR for the applicable performance period based on the change in each company’s stock
+price during that period, taking into account any dividends paid during that period, which are assumed to be reinvested in the stock. A
+20-trading-day
+averaging period
+is used to determine the beginning and ending stock price values used to calculate the total shareholder return of Apple and the other companies in the S&P 500. This averaging period mitigates the impact on the long-term Relative TSR results of
+one-day
+or short-term stock price fluctuations at the beginning or end of the performance period. The change in stock price value from the beginning to the end of the period is divided by the beginning stock price
+value to determine total shareholder return.
+Time-Based RSUs.
+RSU awards with time-based vesting align the interests of our named executive officers with the interests of our shareholders by promoting the stability and retention of a high-performing executive team
+over the longer term. Vesting schedules for time-based awards are generally longer than typical peer company practices and require continuous service over multiple years, as described below.
+CEO Long-Term Equity
+Mr. Cook
+was granted an RSU Award when he was promoted to CEO in 2011 (the “2011 RSU Award”). At grant, the 2011 RSU Award only had a time-based vesting schedule with 50% of the RSUs vesting on each of the
+5-
+and
+10-year
+anniversaries of the grant date. The 2011 RSU Award was significantly modified in 2013, at Mr. Cook’s request, to put a portion of the award at risk by applying a performance condition based
+on Apple’s Relative TSR performance over the applicable three-year performance period.
+The performance condition
+for Mr. Cook’s 2011 RSU Award requires Apple to outperform
+two-thirds
+of the companies that were included in the S&P 500 for the entirety of each performance period in order for 100% of the
+performance-based RSUs allocated to that period to vest. The 2011 RSU Award has only downside risk to Mr. Cook. It does not contain any upside vesting opportunity above 100%, and there is no interpolation for results between the Relative TSR
+percentile levels set forth below.
+Relative TSR Percentile v.
+S&P 500 Companies
+Performance-Based
+RSUs Vesting
+Top
+Third
+100%
+Middle
+Third
+50%
+Bottom
+Third
+0%
+Apple Inc. |
+2021 Proxy Statement | 40
+Table of Contents
+For the three-year performance period from August 25, 2017 through
+August 24, 2020, 1,120,000 performance-based RSUs were subject to the Relative TSR performance condition. As shown in the table below, Apple’s Relative TSR for the three-year performance period was at the 99th percentile of the companies
+that were included in the S&P 500 for the entire performance period. As a result, 100% of the 1,120,000 performance-based RSUs vested on August 24, 2020. Apple’s total shareholder return during this period was 194.89%.
+Relative TSR Percentile Ranking
+for Three-Year Performance Period
+TSR Results
+for Three-Year Performance Period
+Apple
+99th Percentile
+194.89%
+S&P 500
+Companies
+Top Third
+≥
+48.28%
+Middle Third
+-3.89% – 48.27%
+Bottom Third
+<-3.89%
+Looking Forward
+. The final tranches of time-based and performance-based RSUs from Mr. Cook’s 2011 RSU Award are scheduled to vest in August 2021. During 2021 we will also mark the tenth anniversary of Mr. Cook’s
+leadership as Apple’s CEO. The Board believes Mr. Cook brings unparalleled innovation and focus to the CEO role, demonstrates what it means to lead with values and integrity, and consistently delivers incredible results for our shareholders.
+Since his promotion to the role of CEO on August 24, 2011 through the period ended September 25, 2020, Apple’s market capitalization increased by more than $1.5 trillion and Apple’s total shareholder return, including reinvestment of
+dividends, was 867%. In recognition of his outstanding leadership and with great optimism for Apple’s future as he carries these efforts forward, Mr. Cook was granted an RSU award on September 27, 2020, the first day of Apple’s 2021 fiscal
+year. The RSU award was determined taking into consideration the size, scope, and success of Apple, and Mr. Cook’s tenure and performance as CEO. This is the first RSU award granted to Mr. Cook since his promotion to the role of CEO in 2011,
+and will better align his time-based and performance-based equity incentives with those granted to our other named executive officers.
+Apple Inc. |
+2021 Proxy Statement | 41
+Table of Contents
+Other Named Executive Officers’ Long-Term Equity
+In 2020, the Compensation Committee granted performance-based and time-based RSUs to Ms. Adams, Mr. Maestri,
+Ms. O’Brien, and Mr. Williams (the “2020 RSU Awards”).
+2020 Performance-Based
+RSU Awards.
+The performance-based RSUs awarded to Ms. Adams, Mr. Maestri, Ms. O’Brien, and Mr. Williams were granted on September 29, 2019, which was the first
+day of Apple’s 2020 fiscal year and the first day of the performance period applicable to the awards. These awards have a three-fiscal-year performance period from the beginning of 2020 through the end of 2022.
+The target number of performance-based RSUs granted to Ms. Adams, Mr. Maestri, Ms. O’Brien, and
+Mr. Williams was determined by dividing $10 million by the closing stock price on the date of grant. The grant date fair values for these awards are reported in the table entitled “Summary Compensation Table – 2020, 2019, and
+2018.”
+Between zero and 200% of the target number of performance-based RSUs will vest on October 1, 2022,
+subject to continued employment through that date, depending on Apple’s Relative TSR percentile ranking for the performance period, as follows:
+Relative TSR
+Percentile v.
+S&P 500 Companies
+Performance-Based RSUs Vesting
+As a Percentage of Target
+85th
+Percentile or above
+200%
+55th
+Percentile
+100%
+25th
+Percentile
+25%
+Below
+25th
+0%
+If Apple’s total shareholder return for the performance period is negative, the number of
+performance-based RSUs that will vest is capped at 100% of the target number of performance-based RSUs regardless of our percentile ranking. If Apple’s Relative TSR percentile ranking is above the 25th percentile and between the other levels
+shown in the table above, the portion of the performance-based RSUs that will vest is linearly interpolated between the two nearest vesting percentages.
+2020 Performance-Based RSU Payout Results.
+During 2020,
+Mr. Maestri and Mr. Williams each vested in performance-based RSUs that were granted on September 25, 2016. Similar to the design of the 2020 RSU Awards described above, between zero and 200% of the target number of these
+performance-based RSUs were scheduled to vest based on Apple’s Relative TSR percentile ranking for the applicable performance period, with a maximum 200% vesting for performance at or above the 85th percentile. For the three-year performance
+period from the beginning of fiscal 2017 through the end of fiscal 2019, Mr. Maestri and Mr. Williams each vested in 517,232 performance-based RSUs, representing 200% of the target number of performance-based RSUs. As shown in the table
+below, Apple’s Relative TSR was at the 93
+rd
+percentile of the companies that were included in the S&P 500 for the three-year performance period, and Apple’s total shareholder return
+during this period was 108.28%.
+Apple Inc. |
+2021 Proxy Statement | 42
+Table of Contents
+Relative TSR Percentile Ranking
+for Three-Year Performance Period
+TSR Results
+for Three-Year Performance Period
+Apple
+93
+rd
+Percentile
+108.28%
+S&P 500
+Companies
+85th Percentile
+86.59%
+55th Percentile
+43.22%
+25th Percentile
+0.64%
+Below 25th
+<0.64%
+2020 Time-Based RSU
+Awards.
+The time-based RSUs awarded to Ms. Adams, Mr. Maestri, Ms. O’Brien, and Mr. Williams were granted on September 29, 2019, which was the first day of
+Apple’s 2020 fiscal year. The number of time-based RSUs granted to each of these named executive officers was determined by dividing $10 million by the closing stock price on the date of grant. The grant date fair values for these awards
+are reported in the table entitled “Summary Compensation Table – 2020, 2019, and 2018.”
+The time-based
+RSUs granted to Ms. Adams, Mr. Maestri, Ms. O’Brien, and Mr. Williams vest over approximately four and
+one-half
+years, with three equal installments vesting annually commencing on
+April 1, 2022 (approximately two and
+one-half
+years following the grant date), subject to continued employment through each vesting date. The April vesting dates for the time-based RSUs were selected
+to balance the October vesting of the performance-based RSUs and provide regular vesting intervals.
+Dividend Equivalents
+All RSUs have dividend equivalent rights except Mr. Cook’s 2011 RSU Award, which was not modified to allow for dividend
+equivalents at his request.
+Other Benefits
+Our named executive officers are eligible to participate in our health and welfare programs, Employee Stock Purchase Plan, 401(k) plan, matching gifts program, vacation
+cash-out
+program, and
+other benefit programs on the same basis as other employees.
+Deferred Compensation Plan.
+Under the DCP, our named executive officers are eligible to defer a portion of their eligible compensation, including a portion of their annual
+cash incentive opportunity, subject to the terms of the DCP.
+Security and Private
+Aircraft.
+We provide risk-based, business-related, and personal security services for our employees, including our named executive officers, as determined to be appropriate by our security
+team. We consider the security measures provided to our named executive officers to be reasonable and necessary
+Apple Inc. |
+2021 Proxy Statement | 43
+Table of Contents
+expenses for the benefit of Apple and not a personal benefit. However, in accordance with SEC disclosure rules, the aggregate incremental cost of these services is reported in the table entitled
+“Summary Compensation Table – 2020, 2019, and 2018.”
+In the interests of security and efficiency
+based on our global profile and the highly visible nature of Mr. Cook’s role as CEO, the Board requires that Mr. Cook use private aircraft for all business and personal travel. Mr. Cook recognizes imputed taxable income and is
+not provided a tax reimbursement for personal use of private aircraft.
+Governance and Other Considerations
+Tax Deductibility of Compensation
+Expense.
+Section 162(m) of the Internal Revenue Code generally places a $1 million limit on the amount of compensation a publicly held company can deduct in any tax year on
+compensation paid to “covered employees.” Prior to the passage of the 2017 Tax Cuts and Jobs Act, performance-based compensation paid to our “covered employees,” such as annual cash incentives and performance-based RSUs, was
+generally excluded from this $1 million deduction limit. As a result of changes in the tax law, this previously-available exclusion for performance-based compensation is generally no longer available after 2018. While the Compensation Committee
+considers tax deductibility as one of many factors in determining executive compensation, the Compensation Committee will award compensation that it determines to be consistent with the goals of our executive compensation program even if such
+compensation is not tax deductible by Apple and may modify compensation that was initially intended to be tax deductible if it determines that such modifications are consistent with Apple’s business needs. Thus, a majority of the amounts
+payable under our executive compensation arrangements will not be tax deductible or, if initially intended to be tax deductible, may not actually receive this treatment.
+Compensation Clawback.
+The terms of all outstanding RSU
+awards held by our named executive officers allow us to recoup any shares or other amount that may be paid in respect of RSUs in the event the individual engages in certain acts of misconduct. Beginning in 2020, the Compensation Committee extended
+its compensation recoupment policy to the annual cash incentives awarded to our named executive officers. Apple may recover compensation in the event the named executive officer commits a felony while employed by Apple or, while employed by Apple or
+at any time thereafter, the individual engages in a breach of confidentiality, materially breaches any agreement with Apple, commits an act of theft, embezzlement or fraud, or if Apple is required to prepare an accounting restatement as a result of
+the named executive officer’s misconduct.
+Prohibition on Hedging, Pledging, and Short
+Sales.
+We prohibit short sales, hedging, and transactions in derivatives of Apple securities for all Apple personnel, including directors, officers, employees, independent contractors, and
+consultants. In addition, we prohibit pledging of Apple stock as collateral by directors and executive officers of Apple. We allow for certain portfolio diversification transactions, such as investments in exchange funds.
+Stock Ownership Guidelines.
+Under our stock ownership
+guidelines, Mr. Cook is expected to own shares of Apple stock that have a value equal to 10 times his annual base salary. All other executive officers are expected to own shares that have a value equal to three times their annual base salary
+within five years of the officer first becoming subject to the guidelines. Each executive officer currently holds shares in excess of these guidelines. Shares may be owned directly by the individual, owned jointly with or separately by the
+individual’s spouse, or held in trust for the benefit of the individual, the individual’s spouse, or the individual’s children.
+Apple Inc. |
+2021 Proxy Statement | 44
+Table of Contents
+Risk Considerations.
+In establishing and reviewing Apple’s executive compensation program, the Compensation Committee considers whether the program encourages unnecessary or excessive risk-taking and has concluded that it
+does not. See the section entitled “Corporate Governance–Board Oversight of Risk Management” above for an additional discussion of risk considerations.
+Apple Inc. |
+2021 Proxy Statement | 45
+Table of Contents
+Executive Compensation Tables
+Summary Compensation Table—2020, 2019, and 2018
+The following table, footnotes, and related narrative show information regarding the total compensation of each named executive
+officer for 2020, 2019, and 2018, except in the case of Ms. O’Brien who was not a named executive officer in 2018.
+Name and Principal Position
+(a)
+Year
+(b)
+Salary
+($)(c)
+Bonus
+($)(d)
+Stock
+Awards
+(1)
+($)(e)
+Non-Equity
+Incentive Plan
+Compensation
+(2)
+($)(f)
+All Other
+Compensation
+($)(h)
+Total
+($)(i)
+Tim Cook
+Chief Executive Officer
+2020
+3,000,000
+—
+10,731,000
+1,038,259
+(3)
+14,769,259
+2019
+3,000,000
+—
+7,671,000
+884,466
+11,555,466
+2018
+3,000,000
+—
+12,000,000
+682,219
+15,682,219
+Luca Maestri
+Senior Vice President,
+Chief Financial Officer
+2020
+1,000,000
+21,657,687
+3,577,000
+18,583
+(4)
+26,253,270
+2019
+1,000,000
+—
+21,633,416
+2,557,000
+19,221
+25,209,637
+2018
+1,000,000
+—
+21,491,888
+4,000,000
+17,804
+26,509,692
+Kate Adams
+Senior Vice President,
+General Counsel and
+Secretary
+2020
+1,000,000
+21,657,687
+3,577,000
+14,310
+(5)
+26,248,995
+2019
+1,000,000
+—
+21,633,416
+2,557,000
+41,384
+25,231,800
+2018
+884,615
+—
+21,509,765
+4,000,000
+306,280
+26,700,660
+Deirdre O’Brien
+Senior Vice President,
+Retail + People
+2020
+1,000,000
+21,657,687
+3,577,000
+37,684
+(6)
+26,272,371
+2019
+877,500
+—
+16,469,527
+1,795,000
+17,753
+19,159,780
+Jeff Williams
+Chief Operating Officer
+2020
+1,000,000
+21,657,687
+3,577,000
+17,137
+(7)
+26,251,824
+2019
+1,000,000
+—
+21,633,416
+2,557,000
+17,503
+25,207,919
+2018
+1,000,000
+—
+21,491,888
+4,000,000
+51,818
+26,543,706
+(1)
+The grant date fair value for time-based RSUs is measured in accordance with FASB ASC 718 and
+based on the closing price of Apple’s common stock on the date of grant. The grant date fair value for performance-based RSUs is calculated using a Monte-Carlo model for each award on the date of grant, as determined under FASB ASC 718 based on
+the probable outcome of the performance condition as of the grant date. The fair value for each award may differ based on the applicable data, assumptions, and estimates used in the model. See Note 1—Summary of Significant Accounting Policies
+found in Part II, Item 8, “Financial Statements and Supplementary Data” in the Notes to Consolidated Financial Statements in the Annual Report on Form 10-K for the year ended September 26, 2020, and also see footnote 1 to the table
+entitled “Grants of Plan-Based Awards—2020.”
+(2)
+As described under “Executive Compensation—Compensation Discussion and Analysis,”
+the named executive officers’ annual cash incentives are based on the performance of Apple relative to pre-determined financial goals for the year and the performance of the individual named executive
+Apple Inc. |
+2021 Proxy Statement | 46
+Table of Contents
+officer. The threshold, target, and maximum payout amounts for each named executive officer’s 2020 annual cash incentive opportunity are shown in the table entitled “Grants of
+Plan-Based Awards—2020.” In 2020, Apple’s performance exceeded the target performance goals for both net sales and operating income, resulting in a total payout of 179% of the target payout opportunity for each named executive
+officer. The Compensation Committee determined that no downward adjustments would be made based on Apple’s or an individual’s performance and approved this payout amount for each named executive officer.
+(3)
+This amount represents: (i) Apple’s contributions to Mr. Cook’s account under the
+401(k) plan in the amount of $17,100; (ii) term life insurance premiums paid by Apple in the amount of $2,964; (iii) vacation cash-out in the amount of $115,385; (iv) security expenses in the amount of $470,246, which represents the incremental cost
+to Apple for personal security services provided to Mr. Cook as determined by allocating both direct costs and a percentage of fixed costs incurred by Apple and used to provide such personal security services; and (v) personal air travel expenses in
+the amount of $432,564, which represents the incremental cost to Apple for Mr. Cook’s personal use of private aircraft based on hourly flight charges and other variable costs incurred by Apple for such use, including variable fuel charges,
+departure fees, and landing fees. For security and efficiency reasons, the Board implemented a policy in 2017 that requires Mr. Cook to use private aircraft for all business and personal travel.
+(4)
+This amount represents: (i) Apple’s contributions to Mr. Maestri’s account under the
+401(k) plan in the amount of $17,100; and (ii) term life insurance premiums paid by Apple in the amount of $1,483.
+(5)
+This amount represents: (i) Apple’s contributions to Ms. Adams’ account under the
+401(k) plan in the amount of $12,825; and (ii) term life insurance premiums paid by Apple in the amount of $1,483.
+(6)
+This amount represents: (i) Apple’s contributions to Ms. O’Brien’s account under
+the 401(k) plan in the amount of $17,100; (ii) term life insurance premiums paid by Apple in the amount of $1,353; and (iii) vacation cash-out in the amount of $19,231.
+(7)
+This amount represents: (i) Apple’s contributions to Mr. Williams’ account under the
+401(k) plan in the amount of $17,100; and (ii) term life insurance premiums paid by Apple in the amount of $37.
+The amounts in the salary, bonus, and non-equity incentive plan compensation columns of
+the “Summary Compensation Table—2020, 2019, and 2018” reflect actual amounts earned in the relevant years, while the amounts in the stock awards column reflect accounting values. The tables entitled “Outstanding Equity
+Awards—2020” and “Stock Vested—2020” provide further information on the named executive officers’ potential realizable value and actual value realized with respect to their equity awards. The “Summary Compensation
+Table—2020, 2019, and 2018” should be read in conjunction with the Compensation Discussion and Analysis and the subsequent tables and narrative descriptions.
+Apple Inc. |
+2021 Proxy Statement | 47
+Table of Contents
+Grants of Plan-Based Awards – 2020
+The following table shows information regarding the incentive awards granted to the named executive officers for 2020.
+Grant Date
+(b)
+Estimated Future Payouts Under
+Non-Equity
+Incentive
+Plan Awards
+Estimated Future Payouts Under
+Equity Incentive Plan Awards
+All Other
+Stock
+Awards:
+Number
+of Shares
+of Stock
+or
+Units
+(#)(i)
+Grant Date
+Fair Value of
+Stock and
+Option
+Awards
+(1)
+($)(j)
+Name
+(a)
+Award Type
+Threshold
+($)(c)
+Target
+($)(d)
+Maximum
+($)(e)
+Threshold
+(#)(f)
+Target
+(#)(g)
+Maximum
+(#)(h)
+Tim Cook
+Cash Incentive
+—
+3,000,000
+6,000,000
+12,000,000
+—
+Luca Maestri
+Cash Incentive
+—
+1,000,000
+2,000,000
+4,000,000
+—
+Performance-based RSUs
+9/29/2019
+—
+45,700
+182,800
+365,600
+—
+11,657,613
+Time-based RSUs
+9/29/2019
+—
+182,800
+10,000,074
+Kate Adams
+Cash Incentive
+—
+1,000,000
+2,000,000
+4,000,000
+—
+Performance-based RSUs
+9/29/2019
+—
+45,700
+182,800
+365,600
+—
+11,657,613
+Time-based RSUs
+9/29/2019
+—
+182,800
+10,000,074
+Deirdre O’Brien
+Cash Incentive
+—
+1,000,000
+2,000,000
+4,000,000
+—
+Performance-based RSUs
+9/29/2019
+—
+45,700
+182,800
+365,600
+—
+11,657,613
+Time-based RSUs
+9/29/2019
+—
+182,800
+10,000,074
+Jeff Williams
+Cash Incentive
+—
+1,000,000
+2,000,000
+4,000,000
+—
+Performance-based RSUs
+9/29/2019
+—
+45,700
+182,800
+365,600
+—
+11,657,613
+Time-based RSUs
+9/29/2019
+—
+182,800
+10,000,074
+(1)
+The grant date fair value for time-based RSUs is calculated in accordance with FASB ASC 718
+based on the closing price of Apple’s common stock on the date of grant. The grant date fair value for performance-based RSUs is calculated using a Monte-Carlo model for each award on the date of grant, determined under FASB ASC 718,
+incorporating the following assumptions:
+Assumptions
+Grant Date
+Performance
+Period End Date
+Expected Term
+(years)
+Expected
+Volatility
+Risk-Free
+Interest Rate
+9/29/2019
+9/24/2022
+2.99
+24.48%
+1.57%
+Apple used its historical stock prices as the basis for the volatility assumptions. The
+risk-free interest rates were based on U.S. Treasury rates in effect at the time of grant. The expected term was based on the time remaining in the performance period on the grant date. See Note 1—Summary of Significant Accounting Policies
+found in Part II, Item 8, “Financial Statements and Supplementary Data” in the Notes to Consolidated Financial Statements in the Annual Report on Form
+10-K
+for the year ended September 26,
+2020.
+Apple Inc. |
+2021 Proxy Statement | 48
+Table of Contents
+Description of Plan-Based Awards
+Non-Equity
+Incentive Plan Awards.
+Each of the
+“Non-Equity
+Incentive Plan Awards” shown in the table entitled “Grants of Plan-Based Awards—2020” was granted under the Apple
+Inc. 2014 Employee Stock Plan (the “2014 Plan”), which provides flexibility to grant cash incentive awards and equity awards. The material terms of the 2020
+non-equity
+incentive awards granted under
+the 2014 Plan are described under “Executive Compensation— Compensation Discussion and Analysis” in the section entitled “2020 Annual Cash Incentive.”
+All Other Stock Awards.
+Each of the time-based and
+performance-based RSUs shown in the table entitled “Grants of Plan-Based Awards—2020” was granted under, and is subject to, the terms of the 2014 Plan. The Compensation Committee administers the 2014 Plan.
+Time-Based RSUs.
+The material terms of the time-based RSUs
+granted to our named executive officers other than our CEO are described under “Executive Compensation—Compensation Discussion and Analysis” in the section entitled “Other Named Executive Officers’ Long-Term Equity.”
+Performance-Based RSUs.
+The material terms of
+the performance-based RSUs granted to our named executive officers other than our CEO are described under “Executive Compensation—Compensation Discussion and Analysis” in the section entitled “Other Named Executive Officers’
+Long-Term Equity.”
+Apple Inc. |
+2021 Proxy Statement | 49
+Table of Contents
+Outstanding Equity Awards – 2020
+The following table shows information regarding the outstanding equity awards held by each of the named executive officers as of
+September 26, 2020.
+Name
+(a)
+Grant Date
+(b)
+Number of Shares
+or Units of Stock
+That Have Not
+Vested
+(#)(c)
+Market Value of
+Shares or Units of
+Stock That Have
+Not Vested
+(1)
+($)(d)
+Equity Incentive
+Plan Awards:
+Number of
+Unearned Shares,
+Units or Other
+Rights That
+Have
+Not Vested
+(#)(e)
+Equity Incentive
+Plan Awards:
+Market or Payout
+Value of Unearned
+Shares,
+Units or
+Other Rights That
+Have Not Vested
+(1)
+($)(f)
+Tim Cook
+8/24/2011
+3,920,000
+(2)
+440,137,600
+1,120,000
+(2)
+125,753,600
+Luca Maestri
+10/14/2016
+113,348
+(3)
+12,726,713
+—
+10/1/2017
+—
+259,540
+(4)(5)
+29,141,151
+10/15/2017
+169,864
+(6)
+19,072,330
+—
+9/30/2018
+177,196
+(7)
+19,895,567
+177,196
+(4)(7)
+19,895,567
+9/29/2019
+182,800
+(8)
+20,524,784
+182,800
+(4)(8)
+20,524,784
+Kate Adams
+11/13/2017
+57,480
+(9)
+6,453,854
+229,928
+(4)(9)
+25,816,316
+9/30/2018
+177,196
+(7)
+19,895,567
+177,196
+(4)(7)
+19,895,567
+9/29/2019
+182,800
+(8)
+20,524,784
+182,800
+(4)(8)
+20,524,784
+Deirdre O’Brien
+10/14/2016
+27,628
+(10)
+3,102,072
+—
+10/15/2017
+66,880
+(11)
+7,509,286
+—
+9/30/2018
+83,060
+(12)
+9,325,977
+—
+2/5/2019
+95,688
+(13)
+10,743,849
+95,688
+(4)(13)
+10,743,849
+9/29/2019
+182,800
+(8)
+20,524,784
+182,800
+(4)(8)
+20,524,784
+Jeff Williams
+10/14/2016
+113,348
+(3)
+12,726,713
+—
+10/1/2017
+—
+259,540
+(4)(5)
+29,141,151
+10/15/2017
+169,864
+(6)
+19,072,330
+—
+9/30/2018
+177,196
+(7)
+19,895,567
+177,196
+(4)(7)
+19,895,567
+9/29/2019
+182,800
+(8)
+20,524,784
+182,800
+(4)
+(8)
+20,524,784
+(1)
+The dollar amounts shown in columns (d) and (f) are determined by multiplying the number of
+shares or units shown in column (c) or (e), as applicable, by $112.28, the closing price of Apple’s common stock on September 25, 2020, the last trading day of Apple’s fiscal year.
+Apple Inc. |
+2021 Proxy Statement | 50
+Table of Contents
+(2)
+The remaining 3,920,000 time-based RSUs subject to this award are scheduled to vest on
+August 24, 2021, provided that Mr. Cook continues to be employed with Apple through the vesting date. The remaining target number of 1,120,000 performance-based RSUs subject to this award are scheduled to vest on August 24, 2021,
+provided that Mr. Cook continues to be employed with Apple through the applicable vesting date and that the applicable performance condition is satisfied. As described under “Executive Compensation—Compensation Discussion and
+Analysis,” between 0% and 100% of the target number of performance-based RSUs vest depending on Apple’s Relative TSR compared to the other companies in the S&P 500 for the entire relevant performance period.
+(3)
+The remaining 113,348 time-based RSUs subject to this award are scheduled to vest on
+April 1, 2021, provided that the officer continues to be employed with Apple through the applicable vesting date.
+(4)
+The target number of performance-based RSUs is shown. As described under “Executive
+Compensation—Compensation Discussion and Analysis,” in each case, between 0% and 200% of the target number of performance-based RSUs vest depending on Apple’s Relative TSR compared to the other companies in the S&P 500 over the
+relevant performance period.
+(5)
+The maximum 200% of the 259,540 target number of performance-based RSUs subject to this award
+(totaling 519,080 performance-based RSUs) vested on October 1, 2020 based on Apple’s Relative TSR compared to other companies in the S&P 500 over the relevant performance period.
+(6)
+84,932 time-based RSUs subject to this award vested on April 1, 2020 and the remainder of
+the RSUs are scheduled to vest in two annual installments commencing on April 1, 2021, provided the officer continues to be employed with Apple through the applicable vesting date.
+(7)
+The time-based RSUs subject to this award are scheduled to vest in three annual installments
+commencing on April 1, 2021, provided that the officer continues to be employed with Apple through the applicable vesting date. The performance-based RSUs subject to this award are scheduled to vest on October 1, 2021, provided that the
+officer continues to be employed with Apple through the vesting date and that the applicable performance condition is satisfied.
+(8)
+The time-based RSUs subject to this award are scheduled to vest in three annual installments
+commencing on April 1, 2022, provided that the officer continues to be employed with Apple through the applicable vesting date. The performance-based RSUs subject to this award are scheduled to vest on October 1, 2022, provided that the
+officer continues to be employed with Apple through the vesting date and that the applicable performance condition is satisfied.
+(9)
+57,480 time-based RSUs subject to this award vested on November 13, 2020. The maximum 200%
+of the 229,928 target number of performance-based RSUs subject to this award (totaling 459,856 performance-based RSUs) vested on October 1, 2020 based on Apple’s Relative TSR compared to other companies in the S&P 500 over the relevant
+performance period.
+(10)
+27,628 time-based RSUs subject to this award vested on October 15, 2020.
+(11)
+22,292 time-based RSUs subject to this award vested on October 15, 2020 and the remainder
+of the RSUs are scheduled to vest in two semi-annual installments commencing on April 15, 2021, provided that Ms. O’Brien continues to be employed with Apple through the applicable vesting date.
+(12)
+16,612 time-based RSUs subject to this award vested on October 15, 2020 and the remainder
+of the RSUs are scheduled to vest in four semi-annual installments commencing on April 15, 2021, provided that Ms. O’Brien continues to be employed with Apple through the applicable vesting date.
+Apple Inc. |
+2021 Proxy Statement | 51
+Table of Contents
+(13)
+The time-based RSUs subject to this award are scheduled to vest in three annual installments
+commencing on August 5, 2021, provided that Ms. O’Brien continues to be employed with Apple through the applicable vesting date. The performance-based RSUs subject to this award are scheduled to vest on October 1, 2021, provided
+that Ms. O’Brien continues to be employed with Apple through the vesting date and that the applicable performance condition is satisfied.
+Apple Inc. |
+2021 Proxy Statement | 52
+Table of Contents
+Stock Vested – 2020
+The following table shows information regarding the vesting during 2020 of RSUs previously granted to the named executive
+officers.
+Stock Awards
+Name
+(a)
+Number of Shares
+Acquired on Vesting
+(#)(b)
+Value Realized on
+Vesting
+(1)
+($)(c)
+Tim Cook
+2,240,000
+281,920,800
+Luca Maestri
+859,944
+51,587,355
+Kate Adams
+57,480
+3,884,642
+Deirdre O’Brien
+162,404
+10,673,128
+Jeff Williams
+859,944
+51,587,355
+(1)
+The dollar amounts shown in column (c) are determined by multiplying the number of shares
+that vested by the per share closing price of Apple’s common stock on the vesting date, plus dividend equivalents attributable to such shares in the amount of $1,905,385 for each of Mr. Maestri and Mr. Williams; $84,208 for
+Ms. Adams; and $302,005 for Ms. O’Brien. The RSUs underlying Mr. Cook’s 2011 RSU Award are not credited with dividend equivalents.
+Apple Inc. |
+2021 Proxy Statement | 53
+Table of Contents
+Non-Qualified
+Deferred Compensation – 2020
+The following table shows information regarding the participation of our named executive officers in the DCP as of
+September 26, 2020.
+Name
+(a)
+(1)
+Executive
+Contributions
+($)(b)
+Apple
+Contributions
+($)(c)
+Aggregate
+Earnings
+($)(d)
+Aggregate
+Withdrawals/
+Distributions
+($)(e)
+Aggregate
+Balance at
+September 26,
+2020
+($)(f)
+Kate Adams
+767,100
+(2)
+—
+31,536
+—
+798,636
+(3)
+(1)
+Mr. Cook, Mr. Maestri, Ms. O’Brien, and Mr. Williams did not
+participate in the DCP.
+(2)
+Reflects the portion of Ms. Adams’ annual cash incentive payout deferred and contributed to
+the DCP. The payout was reflected in the “Non-Equity Incentive Plan Compensation” column of the “Summary Compensation Table—2020, 2019, and 2018” under 2019, the year it was earned.
+(3)
+The balance includes $767,100 that was reported as compensation in the “Summary
+Compensation Table” in prior years.
+Description of
+Non-Qualified
+Deferred Compensation
+Our named executive officers and
+Non-Employee
+Directors are eligible to
+participate in the DCP.
+DCP participants may elect to defer up to 50% of their annual base salary
+and commissions and up to 90% of their eligible cash bonus, or up to 100% of their annual cash retainer in the case
+of Non-Employee Directors,
+by timely completing a deferral election
+form. Amounts deferred under the DCP, as adjusted for applicable earnings gains and losses and fees, are credited to an account in the participant’s name and remain fully vested at all times. Participants may select at any time from a
+diversified menu of notional investment options that generally mirror the investment options of Apple’s 401(k) plan, and the value of their DCP account balance may increase or decrease based on the performance of their selected investment
+options. In 2020, annual returns on the investment options available for the DCP generally ranged from -13.2% to 39.4%.
+DCP participants may elect to receive distributions of their deferred amounts either upon separation from service or as of a
+specified
+in-service
+distribution date. Distributions will be made in a lump sum payment unless the participant elects installment payments between two and 10 years. A DCP participant may also request to
+receive a hardship distribution on account of an eligible unforeseeable emergency. If a DCP participant dies prior to receiving a complete distribution of their account, the remaining account will be paid to their beneficiaries in a lump sum by
+December 31 of the year following the participant’s death.
+Apple Inc. |
+2021 Proxy Statement | 54
+Table of Contents
+Potential Payments Upon Termination or Change of Control
+We do not have any cash severance arrangements with our named executive officers, and none of our named executive officers’
+equity awards outstanding as of fiscal year-end provide for acceleration in connection with a change of control or a termination of employment, other than as noted below in connection with death or disability.
+Equity Acceleration Upon Death or Disability
+Time-Based RSUs.
+Time-based RSUs provide for partial
+accelerated vesting of the RSUs scheduled to vest on the next applicable vesting date following a termination of employment due to disability and for full accelerated vesting upon death.
+Performance-Based RSUs.
+Performance-based RSUs provide for
+a partial waiver of the service vesting condition upon the death or disability of the award recipient, with the number of shares that vest determined at the end of the performance period, based on actual performance results and prorated based on the
+recipient’s dates of employment during the performance period.
+The following table shows the estimated amounts
+that the named executive officers would have become entitled to under the terms of all RSUs outstanding as of fiscal year-end had their employment terminated due to either death or disability on September 25, 2020, the last business day of
+Apple’s 2020 fiscal year. The estimated values for performance-based RSUs are shown at the maximum potential payout amounts.
+Name
+Estimated
+Total Value of
+Equity
+Acceleration
+upon Death
+(1)
+($)
+Estimated
+Total Value of
+Equity
+Acceleration
+upon Disability
+(1)
+($)
+Tim Cook
+527,683,327
+355,621,862
+Luca Maestri
+176,359,284
+121,399,865
+Kate Adams
+142,324,558
+108,535,080
+Deirdre O’Brien
+79,222,314
+39,554,042
+Jeff Williams
+176,359,284
+121,399,865
+(1)
+The dollar amounts are determined by (i) multiplying the number of RSUs that would have
+been subject to accelerated vesting if the officer had died or become disabled on September 25, 2020, as applicable, by $112.28, the closing price of Apple’s common stock on that date; and (ii) then adding any accumulated dividend
+equivalents attributable to any such RSUs on that date.
+Apple Inc. |
+2021 Proxy Statement | 55
+Table of Contents
+CEO Pay Ratio – 2020
+The 2020 annual total compensation of our CEO was $14,769,259, the 2020 annual total compensation of our median compensated
+employee was $57,783, and the ratio of these amounts is 256 to 1.
+For 2020, we used the same median employee that was
+identified in 2019 since there has been no change in our employee population or employee compensation arrangements that we reasonably believe would result in a significant change in the pay ratio disclosure.
+We determined our median compensated employee in 2019 by using base salary, bonuses, commissions, and grant date fair value of
+equity awards granted to employees in 2019 as our consistently applied compensation measure. We applied this measure to our global employee population as of September 28, 2019, the last day of our 2019 fiscal year, and annualized base salaries for
+permanent full-time and part-time employees that did not work the full year.
+We calculated the median compensated
+employee’s 2020 annual total compensation using the same methodology that is used to calculate our CEO’s annual total compensation in the table entitled “Summary Compensation Table – 2020, 2019, and 2018.”
+Apple Inc. |
+2021 Proxy Statement | 56
+Table of Contents
+Proposals
+This section sets out each item of business for the Annual Meeting and the Board’s voting recommendation.
+Apple Inc. |
+2021 Proxy Statement | 57
+Table of Contents
+Proposal No. 1 – Election of Directors
+The Board has nominated directors Bell, Cook, Gore, Jung, Levinson, Lozano, Sugar, and Wagner to be elected to serve on our Board
+until the next annual meeting of shareholders and until their successors are duly elected and qualified.
+At the Annual
+Meeting, proxies cannot be voted for a greater number of individuals than the eight nominees named in this Proxy Statement. Holders of proxies solicited by this Proxy Statement will vote the proxies received by them as directed on the proxy card or,
+if no direction is made, for the election of the Board’s eight nominees.
+The term of any incumbent director who
+does not receive the affirmative vote of (i) a majority of the shares present or represented by proxy and voting at the Annual Meeting and (ii) a majority of the shares required to constitute a quorum, and has not earlier resigned, will
+end on the date that is the earlier of (a) 90 days after the date on which the voting results for the Annual Meeting are determined by the inspector of election, or (b) the date on which the Board selects a person to fill the office held by
+that director in accordance with Apple’s bylaws.
+Each of the directors nominated by the Board has consented to
+serving as a nominee, being named in this Proxy Statement, and serving on the Board if elected. Each director elected at the Annual Meeting will be elected to serve a
+one-year
+term. If any nominee is unable to
+serve or for good cause will not serve as a director at the time of the Annual Meeting, the proxy holders may vote for any nominee designated by the present Board to fill the vacancy.
+There are no family relationships among Apple’s executive officers and directors.
+For more information on the director nominees, please see the biographies of the director nominees beginning on page 25.
+The Board recommends that shareholders vote FOR the election of directors Bell, Cook, Gore, Jung,
+Levinson, Lozano, Sugar, and Wagner.
+Vote Required
+Apple has implemented majority voting in uncontested elections of
+directors. Accordingly, Apple’s bylaws provide that in an uncontested election of directors the affirmative vote of (i) a majority of the shares present or represented by proxy and voting at the Annual Meeting and (ii) a majority of
+the shares required to constitute a quorum is required to elect a director.
+Apple Inc. |
+2021 Proxy Statement | 58
+Table of Contents
+Proposal No. 2 – Ratification of Appointment of Independent Registered Public
+Accounting Firm
+The Audit Committee has
+re-appointed
+Ernst & Young LLP
+as Apple’s independent registered public accounting firm and as auditors of Apple’s consolidated financial statements for 2021. The Audit Committee reviews the performance of the independent registered public accounting firm annually. In
+making the determination to
+re-appoint
+Ernst & Young for 2021, the Audit Committee considered, among other factors, the independence and performance of Ernst & Young, and the quality and
+candor of Ernst & Young’s communications with the Audit Committee and management. Ernst & Young has served as Apple’s independent registered public accounting firm since 2009.
+At the Annual Meeting, our shareholders are being asked to ratify the appointment of Ernst & Young as Apple’s
+independent registered public accounting firm for 2021. Although ratification of the Audit Committee’s appointment of Ernst & Young is not required, we value the opinions of our shareholders and believe that shareholder ratification of
+the appointment is a good corporate governance practice. In the event of a negative vote on this proposal, the Audit Committee will reconsider its selection. Even if this appointment is ratified, the Audit Committee may, in its discretion, appoint a
+different independent registered public accounting firm at any time during the year if the Audit Committee determines that such a change would be in the best interests of Apple and its shareholders. Representatives of Ernst & Young are
+expected to be present at the Annual Meeting, will have an opportunity to make a statement if they desire to do so, and will be available to respond to questions.
+Fees Paid to Auditors
+The following
+table shows the fees billed by Apple’s independent registered public accounting firm for the years ended September 26, 2020 and September 28, 2019.
+Ernst & Young
+2020
+($)
+2019
+($)
+Audit Fees
+(1)
+17,568,300
+17,208,700
+Audit-Related Fees
+(2)
+935,900
+942,400
+Tax Fees
+(3)
+3,382,300
+3,019,100
+All Other Fees
+(4)
+297,400
+115,000
+Total
+22,183,900
+21,285,200
+(1)
+Audit fees relate to professional services rendered in connection with the audit of Apple’s
+annual financial statements and internal control over financial reporting, quarterly review of financial statements, and audit services provided in connection with other statutory and regulatory filings.
+(2)
+Audit-related fees relate to professional services that are reasonably related to the
+performance of the audit or review of Apple’s financial statements.
+(3)
+Tax fees relate to professional services rendered in connection with tax compliance and
+preparation relating to tax returns and tax audits, as well as for tax consulting and planning services. Tax fees in 2020 include $1.1 million for tax compliance projects and $2.3 million for tax advisory projects. Tax fees in 2019 include
+$0.9 million for tax compliance projects and $2.1 million for tax advisory projects.
+Apple Inc. |
+2021 Proxy Statement | 59
+Table of Contents
+(4)
+All other fees relate to professional services not included in the categories above, including
+services related to other regulatory reporting requirements.
+Policy on Audit Committee
+Pre-Approval
+of Audit and
+Non-Audit
+Services Performed by the Independent Registered Public Accounting Firm
+Apple maintains an auditor independence policy that, among other things, prohibits Apple’s independent registered public
+accounting firm from performing
+non-financial
+consulting services for Apple, such as information technology consulting and internal audit services. This policy mandates that the Audit Committee approve in
+advance the audit and permissible
+non-audit
+services expected to be performed each year by the independent registered public accounting firm and the related budget, and that the Audit Committee be provided
+with quarterly reporting on actual spending. This policy also mandates that Apple may not enter into engagements with Apple’s independent registered public accounting firm for other permissible
+non-audit
+services without the express
+pre-approval
+of the Audit Committee. In accordance with this policy, the Audit Committee
+pre-approved
+all services performed by Apple’s
+independent registered public accounting firm in 2020.
+The Board recommends a vote FOR Proposal
+No. 2.
+Vote Required
+Approval of Proposal No. 2 requires the affirmative vote of (i) a
+majority of the shares present or represented by proxy and voting at the Annual Meeting and (ii) a majority of the shares required to constitute a quorum.
+Apple Inc. |
+2021 Proxy Statement | 60
+Table of Contents
+Proposal No. 3 – Advisory Vote to Approve Executive Compensation
+In accordance with the requirements of Section 14A of the Exchange Act and the related rules of the SEC, our shareholders
+have the opportunity to cast an annual advisory vote to approve the compensation of our named executive officers as disclosed pursuant to the SEC’s compensation disclosure rules, which disclosure includes the Compensation Discussion and
+Analysis, the compensation tables, and the narrative disclosures that accompany the compensation tables (a
+“say-on-pay”
+vote).
+Our executive compensation program is designed to motivate and reward exceptional performance in a straightforward and effective
+way, while also recognizing the size, scope, and success of Apple’s business. We believe that the compensation of our named executive officers appropriately reflects and rewards their significant contributions to Apple’s strong
+performance in a year that presented unique and unprecedented challenges for our executive team.
+We encourage
+shareholders to read the section entitled “Compensation Discussion and Analysis,” beginning on page 34, which describes the details of our executive compensation program and the decisions made by the Compensation Committee in 2020.
+At the 2020 annual meeting of shareholders, 94% of votes cast supported our executive compensation program. We have
+ongoing discussions with many of our shareholders regarding various corporate governance topics, including environmental, social, and governance topics, executive compensation, and related trends. The Compensation Committee will continue to consider
+shareholder feedback and the results of
+say-on-pay
+votes when making future compensation decisions.
+Shareholders are being asked to approve the following resolution at the Annual Meeting:
+RESOLVED,
+that
+the compensation paid to the named executive officers, as disclosed in this Proxy Statement pursuant to the SEC’s executive compensation disclosure rules, which disclosure includes the Compensation Discussion and Analysis, the compensation
+tables, and the narrative disclosures that accompany the compensation tables, is hereby approved.
+As an advisory vote, this proposal is not binding on
+Apple, the Board, or the Compensation Committee. However, the Compensation Committee and the Board value the opinions expressed by shareholders in their votes on this proposal and will consider the outcome of the vote when making future compensation
+decisions regarding named executive officers.
+It is expected that the next
+say-on-pay
+vote will occur at the 2022 annual meeting of shareholders.
+The Board recommends a vote FOR Proposal No. 3.
+Vote Required
+Approval of Proposal No. 3 requires the affirmative vote of (i) a
+majority of the shares present or represented by proxy and voting at the Annual Meeting and (ii) a majority of the shares required to constitute a quorum.
+Apple Inc. |
+2021 Proxy Statement | 61
+Table of Contents
+Proposal No. 4 – Shareholder Proposal
+Shareholder Proxy Access Amendments
+RESOLVED: Shareholders of Apple, Inc. (the “Company” or “Apple”) ask the
+board of directors (the “Board”) to amend its “Proxy Access for Director Nominations” bylaw, and any other associated documents, to include the following changes or their equivalent for the purpose of increasing the potential
+number of nominees:
+The number of “Shareholder Nominees” eligible to appear in proxy materials shall be
+20% of the directors then serving or 2, whichever is greater.
+Supporting Statement: Current proxy access bylaws
+restrict Shareholder Nominees to 20% of directors rounded down to the nearest whole number. Apple has only 7 directors. 20% of 7, rounding down to the nearest whole number is 1. Therefore, Apple allows shareholders to nominate only one director,
+given the current board size.
+The Council of Institutional Investors notes:
+“It is important that shareholder nominees have meaningful representation on the board, and in many or most cases, one director is insufficient to achieve that goal. Having at least two nominees helps ensure that the nominees, if elected, can
+serve on multiple committees and have greater opportunities to bring an independent perspective into board decisions.” (Proxy Access: Best Practices 2017, https://corpgov.law.harvard.edu/2017/08/28/proxy-access-best-practices-2017/)
+Sidley Austin reports that 86% of companies with proxy access allow either a minimum of 2
+directors to be nominated or 25% of the board. Only 14% have the same standard as Apple – 20% of the board with no minimum.
+(Proxy Access: A Five-Year Review,
+https://www.sidley.com/-/media/update-pdfs/2020/01/proxy-access/
+proxy-access_-a-fiveyear-review-jan-2020--w-appendices.pdf?la=en)
+Apple’s previous opposition
+statement argued, “Our proxy access bylaws overall are well within the mainstream of public company practices and share similar features with the proxy access bylaws of many other companies.” However, the majority of companies with a
+similar standard, 20% of the board with no minimum, have boards of 10 or more, so 20% still yields at least 2 nominees. Only a very small minority of the 14%, like Arch Coal and EOG Resources (formerly Enron Oil & Gas Company), limit proxy
+access candidates to 1. Should these distinct outliers really be our peer group? Are these laggards really the “mainstream” companies we want Apple to emulate?
+In a request to the SEC, our Company alleged the Proposal’s Supporting Statement
+“falsely describes the Company as a “distinct outlier” and a “laggard” in regards to its access bylaw. These statements are objectively and demonstrably false and misleading...”
+The SEC flatly rejected Apple’s request. “We are unable to conclude that you have
+demonstrated objectively that the Proposal is materially false and misleading.”
+(https://www.sec.gov/divisions/corpfin/cf-noaction/14a-8/2018/mcritchieapple112118-14a8.pdf)
+Apple has proxy access but is out of step with industry best practices,
+which allow shareholders to nominate up to 20% of the board or 2, whichever is greater.
+Increase Shareholder Value
+Vote FOR Shareholder
+Proxy Access Amendments – Proposal 4
+Apple Inc. |
+2021 Proxy Statement | 62
+Table of Contents
+Apple’s Statement in Opposition to Proposal No. 4
+The Board recommends a vote AGAINST Proposal No. 4.
+Apple has received a proxy access proposal every year for the last seven years and, in each case, the proposal failed to receive
+majority support. As in previous years, we continue to believe that the changes advocated by the proponent are not necessary because Apple shareholders already have an effective mechanism for proxy access. Apple has a small Board compared to many
+public companies, and if approved this proposal could have negative unintended consequences, putting the company and shareholder value at risk.
+After careful consideration of the varying viewpoints offered by many of our shareholders, the Board amended Apple’s bylaws
+to adopt proxy access in December 2015. The bylaws permit a shareholder, or a group of up to 20 shareholders, owning at least 3% of Apple’s outstanding shares of common stock continuously for at least three years, to nominate and include
+in Apple’s annual proxy materials director nominees constituting up to 20% of the Board, provided that the shareholder(s) and nominee(s) satisfy the procedural and eligibility requirements specified in the bylaws.
+After closely monitoring proxy access developments and engaging with many of our largest shareholders, governance experts, and
+advisors to discuss evolving market practices and the preferences of our shareholders, the Board adopted enhancements to the “secondary” elements of the proxy access provisions in our bylaws in December 2016. These enhancements made
+it easier for shareholders to nominate proxy access candidates by eliminating the requirement that a nominating shareholder’s loaned shares be recalled at the time the shareholder provides notice to Apple; eliminating the prohibition on
+re-nomination
+of a proxy access candidate if the candidate receives a low level of support at the annual meeting; limiting the circumstances under which the maximum number of proxy access candidates is reduced;
+extending the deadline by which nominating shareholders and proxy access candidates must provide certain information to Apple; narrowing the scope of a nominating shareholder’s indemnification obligations; and limiting the discretion of the
+Board to unilaterally interpret the proxy access provisions.
+Overall, our proxy access bylaws are well within the
+mainstream of public company practices and share similar features with the proxy access bylaws of many other companies. We have regular, ongoing engagement with many of our shareholders and have determined that there is not a strong preference to
+modify the existing proxy access provisions in our bylaws.
+We strongly believe that increasing the potential level of
+Board representation to the greater of two directors and 20% of the Board could have unintended effects that could negatively impact shareholder value, including promoting the use of proxy access to lay the groundwork for effecting a change of
+control; encouraging the pursuit of special interests at the expense of a holistic, long-term strategic view; or otherwise disrupting the effective functioning of the Board.
+Our Board has also shown an ongoing commitment to having highly qualified, independent voices in the boardroom through a robust
+director nomination and annual self-evaluation process. We are committed to ensuring effective, balanced corporate governance while also continually engaging with shareholders. The Board continues to believe that these objectives are being achieved
+through Apple’s current governance processes and that changing our proxy access framework yet again, as outlined by the proposal, is unnecessary, unwarranted, and potentially detrimental to shareholder value.
+For all of the reasons above, the Board recommends a vote AGAINST Proposal No. 4.
+Apple Inc. |
+2021 Proxy Statement | 63
+Table of Contents
+Vote Required
+Approval of Proposal No. 4 requires the affirmative vote of
+(i) a majority of the shares present or represented by proxy and voting at the Annual Meeting and (ii) a majority of the shares required to constitute a quorum.
+Apple Inc. |
+2021 Proxy Statement | 64
+Table of Contents
+Proposal No. 5 – Shareholder Proposal
+Shareholder Proposal to Improve Executive Compensation Program
+Resolved: shareholders recommend that Apple Inc. improve the executive compensation program to
+include NEOs pay ratios and other factors.
+Supporting Statement
+Apple’s executive compensation program considers only two factors: “consistent and
+effective program design” which means annual base salary, annual cash incentive and long-term equity awards, and “aligned with shareholder interests and company performance” (2020 Proxy Statement p. 5) without any consideration of
+ethical, social and economic factors, such as the NEOs pay ratios.
+In 2018, the
+four NEOs (except CEO) pay ratios to the median compensated employee pay are larger than 478 to 1 ($26,509,692 to $55,426, Ibid. p.41); in 2019, the five NEOs (except CEO) average pay $23,417,476 ($25,209,637, $25,231,800, $19,159,780, $25,207,919,
+$22,278,242, Ibid. p.41) to the median compensated employee pay $57,596 (Ibid. p.52) ratio is 407 to 1.
+There is no rational methodology or program to decide the executive compensation. For example, Twitter’s CEO pay ratio is less than 0.001 to 1 in 2018 and in 2019, Amazon’s CEO pay ratio is 58 to 1 in 2018 and in 2019.
+JCPenney’s alarming CEO pay ratio 1294 to 1 in 2018 is one cause leading to its bankruptcy. The executive compensations of big Japanese and European companies are much less than big American companies.
+America’s ballooning executive compensation is neither responsible
+for the society nor sustainable for the economy, especially under the current pandemic crisis. Reducing the NEOs pay ratios should be included to the principles of executive compensation program. The Compensation Committee has the flexibility to
+include other ethical, social and economic factors.
+Apple’s Statement in
+Opposition to Proposal No. 5
+The Board recommends a vote AGAINST Proposal No. 5.
+Our executive compensation program is based on clear guiding principles and sound compensation practices that align the
+compensation of our named executive officers with the interests of our shareholders. It is designed to motivate and reward exceptional performance in a straightforward and effective way, while also recognizing the size, scope, and success of
+Apple’s business. Moreover, shareholders have an annual opportunity to cast an advisory vote to approve the compensation of our named executive officers and have indicated strong support for our executive compensation program for each of the
+past five years.
+While the ratio of CEO pay to the pay of the median compensated employee is a required disclosure
+under SEC rules, the Compensation Committee does not believe that the pay ratios of our named executive officers should generally define or guide the principles of our executive compensation program. However, we fundamentally agree that it is
+important to take actions that drive accountability in areas that are important to the long-term success of our business, and beginning in 2021, an environmental, social, and governance modifier based on Apple Values and other key community
+initiatives will be incorporated into the annual cash incentive program for our named executive officers.
+Apple Inc. |
+2021 Proxy Statement | 65
+Table of Contents
+The Board believes that the Compensation Committee is best positioned to
+evaluate and determine the design and effectiveness of our executive compensation program based on factors relevant to our business. Additional information on our executive compensation program can be found in the earlier Compensation Discussion and
+Analysis section of this Proxy Statement.
+For all of the reasons above, the Board recommends a vote
+AGAINST Proposal No. 5.
+Vote Required
+Approval of Proposal No. 5 requires the affirmative vote of
+(i) a majority of the shares present or represented by proxy and voting at the Annual Meeting and (ii) a majority of the shares required to constitute a quorum.
+Apple Inc. |
+2021 Proxy Statement | 66
+Table of Contents
+Identification of Proponents
+Each of Proposals No. 4 and No. 5 were submitted for the Annual Meeting by a shareholder or shareholders who have represented
+to Apple that they are a beneficial owner of at least $2,000 in market value of Apple’s common stock. We will promptly provide you with the name, address, and, to our knowledge, the number of voting securities held by the proponents of the
+shareholder proposals, upon receiving a written or oral request directed to Apple’s Secretary at One Apple Park Way, MS:
+169-5GC,
+Cupertino, CA 95014 USA.
+Other Matters
+Apple knows of no other matters to be submitted to shareholders at the Annual Meeting, other than the proposals identified in this Proxy Statement. If any other matters properly come before shareholders at the Annual Meeting, it is
+the intention of the persons named on the proxy to vote the shares represented thereby on such matters in accordance with their best judgment.
+Apple Inc. |
+2021 Proxy Statement | 67
+Table of Contents
+Apple Inc. |
+2021 Proxy Statement | 68
+Table of Contents
+Other Information
+This section includes the Audit and Finance Committee Report, information about stock ownership and our equity compensation plans, and other general information.
+Apple Inc. |
+2021 Proxy Statement | 69
+Table of Contents
+Audit and Finance Committee Report
+As of October 26, 2020, the date of this report, the Audit and Finance Committee consisted
+of three members: Ron Sugar, who serves as the Chair of the Committee, James Bell, and Sue Wagner. Each member is an independent director under Nasdaq and SEC rules, and meets the standards for committee independence as set forth in
+Apple’s Corporate Governance Guidelines. The Audit and Finance Committee has the duties and powers described in its written charter adopted by the Board. A copy of the charter is available on Apple’s website at
+investor.apple.com/leadership-and-governance
+.
+The Audit and Finance
+Committee assists the Board’s oversight and monitoring of:
+•
+Apple’s financial statements and other financial information provided by Apple to its
+shareholders and others;
+•
+compliance with legal, regulatory, and public disclosure requirements;
+•
+the independent auditors, including their qualifications and independence;
+•
+Apple’s system of internal controls, including the internal audit function;
+•
+treasury and finance matters;
+•
+enterprise risk management, privacy, and data security; and
+•
+the auditing, accounting, and financial reporting process generally.
+The Audit and Finance Committee does not itself prepare
+financial statements or perform audits, and its members are not auditors or certifiers of Apple’s financial statements.
+The Audit and Finance Committee is responsible for the appointment, compensation, retention, and
+oversight of the work performed by Apple’s independent registered public accounting firm, Ernst & Young LLP. In fulfilling its oversight responsibility, the Audit and Finance Committee carefully reviews the policies and procedures for
+the engagement of the independent registered public accounting firm, including the scope of the audit, audit fees, auditor independence matters, performance of the independent auditors, and the extent to which the independent registered public
+accounting firm may be retained to perform
+non-audit
+services.
+Apple maintains an auditor independence policy that, among other things, prohibits Apple’s independent registered public accounting firm from performing
+non-financial
+consulting services,
+such as information technology consulting and internal audit services. This policy mandates that the Audit and Finance Committee approve in advance the audit and permissible
+non-audit
+services to be performed
+by the independent registered public accounting firm and the related budget, and that the Audit and Finance Committee be provided with quarterly reporting on actual spending. This policy also mandates that Apple may not enter into engagements with
+Apple’s independent registered public accounting firm for
+non-audit
+services without the express
+pre-approval
+of the Audit and Finance Committee.
+The Audit and Finance Committee has reviewed and discussed the audited financial statements for
+the year ended September 26, 2020 with Apple’s management and Ernst & Young. The Audit and Finance Committee has also discussed with Ernst & Young the matters required to be discussed by the applicable requirements of the
+Public Company Accounting Oversight Board (“PCAOB”) and the SEC.
+The Audit
+and Finance Committee also has received and reviewed the written disclosures and the letter from Ernst & Young required by applicable requirements of the PCAOB regarding Ernst & Young’s communications with the Audit and
+Finance Committee concerning independence, and has discussed with Ernst & Young its independence.
+Based on the reviews and discussions referred to above, the Audit and Finance Committee recommended to the Board that the financial statements referred to above be included in Apple’s Annual Report on Form
+10-K
+for the year ended September 26, 2020 for filing with the SEC.
+Members of
+the Audit and Finance Committee
+Ron Sugar (Chair) | James Bell | Sue Wagner
+Apple Inc. |
+2021 Proxy Statement | 70
+Table of Contents
+Security Ownership of Certain Beneficial Owners and Management
+The following table shows information as of December 28, 2020 (the “Table Date”), unless otherwise indicated,
+regarding the beneficial ownership of Apple’s common stock by: (i) each person known to Apple to beneficially own more than 5% of the outstanding shares of Apple’s common stock based solely on Apple’s review of filings with the
+SEC pursuant to Section 13(d) or 13(g) of the Exchange Act; (ii) each director and nominee; (iii) each named executive officer listed in the table entitled “Summary Compensation Table – 2020, 2019, and 2018” under the
+section entitled “Executive Compensation”; and (iv) all current directors and executive officers as a group. As of the Table Date, 16,823,263,000 shares of Apple’s common stock were issued and outstanding. Unless otherwise
+indicated, all persons named as beneficial owners of Apple’s common stock have sole voting power and sole investment power with respect to the shares indicated as beneficially owned. All share amounts have been adjusted to reflect the
+four-for-one stock split.
+Name of Beneficial Owner
+Shares of Common Stock
+Beneficially Owned
+(1)
+Percent of
+Common Stock
+Outstanding
+The Vanguard Group
+1,317,293,728
+(2)
+7.83
+%
+BlackRock, Inc.
+1,111,082,280
+(3)
+6.60
+%
+Berkshire Hathaway Inc. / Warren E. Buffett
+1,003,466,264
+(4)
+5.96
+%
+Kate Adams
+333,352
+(5)
+*
+James Bell
+34,280
+(6)
+*
+Tim Cook
+3,349,496
+(7)
+*
+Al Gore
+463,472
+(8)
+*
+Andrea Jung
+137,608
+(9)
+*
+Art Levinson
+4,592,140
+(10)
+*
+Monica Lozano
+1,568
+(11)
+*
+Luca Maestri
+110,272
+(12)
+*
+Deirdre O’Brien
+135,888
+(13)
+*
+Ron Sugar
+102,272
+(14)
+*
+Sue Wagner
+62,652
+(15)
+*
+Jeff Williams
+489,260
+(16)
+*
+All current executive officers and directors as a group (12 persons)
+9,812,260
+(17)
+*
+(1)
+Represents shares of Apple’s common stock held, and RSUs held that will vest within 60 days
+after the Table Date. Does not include RSUs that vest more than 60 days after the Table Date. RSUs are awards granted by Apple and payable, subject to vesting requirements, in shares of Apple’s common stock.
+Apple Inc. |
+2021 Proxy Statement | 71
+Table of Contents
+(2)
+Represents shares of Apple’s common stock beneficially owned as of December 31, 2019,
+based on a Schedule 13G/A filed with the SEC on February 12, 2020, by The Vanguard Group. In such filing, The Vanguard Group lists its address as 100 Vanguard Blvd., Malvern, PA 19355, and indicates that it has sole voting power with respect to
+26,617,544 shares of Apple’s common stock, shared voting power with respect to 4,957,944 shares of Apple’s common stock, sole dispositive power with respect to 1,287,352,092 shares of Apple’s common stock, and shared dispositive power
+with respect to 29,941,636 shares of Apple’s common stock.
+(3)
+Represents shares of Apple’s common stock beneficially owned as of December 31, 2019,
+based on a Schedule 13G/A filed with the SEC on February 10, 2020, by BlackRock, Inc. In such filing, BlackRock, Inc. lists its address as 55 East 52
+nd
+Street, New York, NY 10055, and
+indicates that it has sole voting power with respect to 944,581,020 shares of Apple’s common stock, and sole dispositive power with respect to all shares beneficially owned.
+(4)
+Represents shares of Apple’s common stock beneficially owned as of December 31, 2019,
+based on the Schedule 13G/A filed with the SEC on February 14, 2020 by Warren E. Buffett, Berkshire Hathaway Inc. and certain other reporting persons. In such filing, Mr. Buffett and Berkshire Hathaway list their address as 3555 Farnam
+Street, Omaha, NE 68131, and indicate that they have shared voting and dispositive power over all shares beneficially owned.
+(5)
+Excludes 898,120 RSUs held by Ms. Adams that are not scheduled to vest within 60 days after
+the Table Date.
+(6)
+Includes 3,416 RSUs held by Mr. Bell that are scheduled to vest on February 1, 2021.
+(7)
+Represents 3,349,496 shares of Apple’s common stock held in the name of
+Mr. Cook’s trust and excludes 5,707,974 RSUs held by Mr. Cook that are not scheduled to vest within 60 days after the Table Date.
+(8)
+Includes 3,416 RSUs held by Mr. Gore that are scheduled to vest on February 1, 2021.
+(9)
+Includes 3,416 RSUs held by Ms. Jung that are scheduled to vest on February 1, 2021.
+(10)
+Includes 56,000 shares of Apple’s common stock held by Dr. Levinson’s spouse and
+3,416 RSUs held by Dr. Levinson that are scheduled to vest on February 1, 2021.
+(11)
+Includes 281 RSUs granted to Ms. Lozano on January 4, 2021 in connection with her appointment to
+the Board that are scheduled to vest on February 1, 2021.
+(12)
+Excludes 1,181,332 RSUs held by Mr. Maestri that are not scheduled to vest within 60 days
+after the Table Date.
+(13)
+Excludes 846,140 RSUs held by Ms. O’Brien that are not scheduled to vest within 60
+days after the Table Date.
+(14)
+Includes 3,416 RSUs held by Dr. Sugar that are scheduled to vest on February 1, 2021.
+(15)
+Includes 6,000 shares of Apple’s common stock held by Ms. Wagner’s spouse, 1,200
+shares of Apple’s common stock held by Ms. Wagner’s children, and 3,416 RSUs held by Ms. Wagner that are scheduled to vest on February 1, 2021.
+(16)
+Includes 489,260 shares of Apple’s common stock held in the name of Mr. Williams’
+family trust and excludes 1,181,332 RSUs held by Mr. Williams that are not scheduled to vest within 60 days after the Table Date.
+(17)
+Includes 20,777 RSUs held by directors that are scheduled to vest within 60 days after the Table
+Date. As of the Table Date, no executive officer held any stock options or any RSUs scheduled to vest within 60 days after the Table Date. Excludes 9,814,898 RSUs held by executive officers that are not scheduled to vest within 60 days after the
+Table Date.
+*
+Represents less than 1% of the issued and outstanding shares of Apple’s common stock as of
+the Table Date.
+Apple Inc. |
+2021 Proxy Statement | 72
+Table of Contents
+Equity Compensation Plan Information
+The following table shows information, as of September 26, 2020, regarding shares of Apple’s common stock authorized for
+issuance under Apple’s equity compensation plans. As of September 26, 2020, other than as described below, no equity securities were authorized for issuance under equity compensation plans not approved by shareholders.
+Number of Securities
+to be Issued Upon
+Exercise of
+Outstanding
+Options, Warrants
+and Rights
+(a)
+Weighted-Average
+Exercise Price of
+Outstanding
+Options, Warrants
+and Rights
+(1)
+($)(b)
+Number of Securities
+Remaining Available for
+Future Issuance Under
+Equity Compensation
+Plans (Excluding
+Securities
+Reflected in
+Column (a))
+(c)
+Equity compensation plans approved by shareholders
+(2)
+311,226,536
+(3)
+5.50
+919,896,392
+(4)
+(1)
+The weighted-average exercise price is calculated based solely on the exercise prices of the
+outstanding options and do not reflect the shares that will be issued upon the vesting of outstanding awards of RSUs, which have no exercise price.
+(2)
+This table does not include equity awards that have been assumed by Apple in connection with the
+acquisition of other companies. As of September 26, 2020, an additional 75,640 shares of Apple’s common stock were subject to outstanding stock options assumed in connection with acquisitions of other companies (with a weighted average
+exercise price of $1.59 per share). Shares issued in respect of these assumed awards do not count against the share limits of the 2014 Plan.
+(3)
+This number includes the following: 306,144,556 shares subject to outstanding awards granted
+under the 2014 Plan, of which 421,698 shares were subject to outstanding options and 305,722,858 shares were subject to outstanding RSU awards, with the number of outstanding performance-based RSUs calculated at 100% of the target number of shares
+subject to each award; 5,061,484 shares subject to outstanding awards granted under the Apple Inc. 2003 Employee Stock Plan, of which 26,160 shares were subject to outstanding options and 5,035,324 shares were subject to outstanding RSU awards, with
+the number of outstanding performance-based RSUs calculated at 100% of the number of shares subject to the award; and 20,496 shares subject to outstanding awards granted under the Director Stock Plan, of which all shares were subject to outstanding
+RSU awards.
+(4)
+This number includes 808,408,924 shares available for issuance under the 2014 Plan; 107,270,192
+shares reserved for issuance under the Apple Inc. Employee Stock Purchase Plan; and 4,217,276 shares available for issuance under the Director Stock Plan. Shares issued in respect of awards other than stock options and stock appreciation rights
+granted under the 2014 Plan and the Director Stock Plan count against the shares available for grant under the applicable plan as two shares for every share granted.
+Apple Inc. |
+2021 Proxy Statement | 73
+Table of Contents
+General Information
+2021 Annual Meeting of Shareholders
+Virtual Meeting Site:
+February 23, 2021
+www.virtualshareholdermeeting.com/AAPL2021
+9:00 a.m. Pacific Time
+The Record Date for the Annual Meeting is December 28, 2020. Only shareholders of record as
+of the close of business on this date are entitled to vote at the Annual Meeting.
+You are invited to vote on the
+proposals described in this Proxy Statement because you were an Apple shareholder on the Record Date, December 28, 2020.
+Apple is soliciting proxies for use at the Annual Meeting, including any postponements or adjournments.
+In the interest of saving time and money, Apple has opted to provide the Annual Report on Form
+10-K
+for the year ended September 26, 2020 in lieu of producing a glossy annual report.
+Attending the Annual Meeting
+We are pleased to welcome shareholders to the 2021 Annual Meeting. Due to the COVID-19 pandemic, the Annual Meeting will be held in a virtual format only to provide a safe experience for our shareholders and employees.
+To attend, vote, and submit questions during the Annual Meeting visit
+www.virtualshareholdermeeting.com/AAPL2021
+and enter the 16-digit control number included in your Notice of Internet
+Availability of Proxy Materials, voting instruction form, or proxy card. Online access to the webcast will open approximately 15 minutes prior to the start of the Annual Meeting. Attendance at the Annual Meeting is subject to capacity limits set by
+the virtual meeting platform provider. To submit questions in advance of the Annual Meeting, visit
+proxyvote.com
+before 8:59 P.M. Pacific Time on February 22, 2021 and enter the 16-digit control number. If you have any questions about
+proxyvote.com
+or your control number, please contact the bank, broker, or other organization that holds
+your shares. The availability of online voting may depend on the voting procedures of the organization that holds your shares.
+No recording of the Annual Meeting is allowed, including audio and video recording.
+Even if you plan
+on attending the Annual Meeting, we encourage you to vote your shares in advance using one of the methods described in this Proxy Statement to ensure that your vote will be represented at the Annual Meeting. We reserve the right to eject an attendee
+or cut off speaking privileges for behavior likely to cause disruption or annoyance or for failure to comply with reasonable requests or the rules of conduct for the meeting, including time limits applicable to attendees who are permitted to speak.
+Apple Inc. |
+2021 Proxy Statement | 74
+Table of Contents
+We will endeavor to answer as many questions submitted by shareholders as time
+permits. We reserve the right to edit profanity or other inappropriate language and to exclude questions regarding topics that are not pertinent to meeting matters or company business. If we receive substantially similar questions, we may group such
+questions together and provide a single response to avoid repetition.
+In the event of technical difficulties with the
+Annual Meeting, we expect that an announcement will be made on
+www.virtualshareholdermeeting.com/AAPL2021
+.
+If necessary, the announcement will provide updated information regarding the date, time, and location of the Annual Meeting. Any updated information regarding the Annual Meeting will also be posted on our Investor Relations website at
+investor.apple.com
+.
+Proxy Materials
+These materials were
+first sent or made available to shareholders on January 5, 2021, and include:
+•
+The Notice of 2021 Annual Meeting of Shareholders
+•
+This Proxy Statement for the Annual Meeting
+•
+Apple’s Annual Report on Form
+10-K
+for the year
+ended September 26, 2020
+If you requested printed versions by mail, these printed proxy materials also include the
+proxy card or voting instruction form for the Annual Meeting.
+Proxy Materials are Available on the Internet
+Apple uses the internet as the primary means of furnishing proxy materials to shareholders. We are sending a Notice of Internet
+Availability of Proxy Materials (the “Notice of Internet Availability”) to our shareholders with instructions on how to access the proxy materials online at
+proxyvote.com
+or request a printed copy of the materials.
+Shareholders may follow the instructions in the Notice of Internet Availability to elect to receive future proxy materials in
+print by mail or electronically by email. We encourage shareholders to take advantage of the availability of the proxy materials online to help reduce the environmental impact of our annual meetings and reduce Apple’s printing and mailing
+costs.
+Apple’s proxy materials are also available at
+investor.apple.com
+.
+Eliminating Duplicate Mailings
+Apple
+has adopted a procedure called “householding.” Under this procedure, Apple may deliver a single copy of the Notice of Internet Availability and, if you requested printed versions by mail, this Proxy Statement and the Annual Report on Form
+10-K
+for the year ended September 26, 2020 to multiple shareholders who share the same address, unless Apple has received contrary instructions from one or more of the shareholders. This procedure reduces the
+environmental impact of our annual meetings and reduces Apple’s printing and mailing costs. Shareholders who participate in householding will continue to receive separate proxy cards. Upon written or oral request, Apple will deliver promptly a
+separate copy of the Notice of Internet Availability and, if you requested printed versions by mail, this Proxy Statement and the Annual Report on
+Form 10-K
+for the year ended September 26, 2020 to
+any shareholder that elects not to participate in householding.
+Apple Inc. |
+2021 Proxy Statement | 75
+Table of Contents
+To receive, free of charge, a separate copy of the Notice of Internet
+Availability and, if you requested printed versions by mail, this Proxy Statement or the Annual Report on Form
+10-K
+for the year ended September 26, 2020, or separate copies of any future notice, proxy
+statement, or annual report, you may write or call Apple at the following physical address, phone number, or email address:
+Apple Investor Relations
+One Apple Park Way
+MS
+927-4INV
+Cupertino, CA 95014 USA
+Phone: (408)
+974-3123
+Email:
+investor_relations@apple.com
+If you are receiving more than one copy of the proxy
+materials at a single address and would like to participate in householding, please contact the bank, broker, or other organization that holds your shares to request information about eliminating duplicate mailings.
+Quorum for the Annual Meeting
+Holders
+of a majority of the shares entitled to vote at the Annual Meeting must be present at the Annual Meeting or represented by proxy for the transaction of business. This is called a quorum. Your shares will be counted for purposes of determining if
+there is a quorum if:
+•
+You are entitled to vote and you are present at the Annual Meeting; or
+•
+You have properly voted by proxy online prior to the meeting, by phone, or by submitting a proxy
+card or voting instruction form by mail.
+Broker
+non-votes
+and abstentions are counted for
+purposes of determining whether a quorum is present. If a quorum is not present, we may propose to adjourn the Annual Meeting and reconvene the Annual Meeting at a later date.
+Inspector of Election
+A
+representative of Broadridge Investor Communication Solutions, Inc. will serve as the inspector of election.
+Proxy Solicitation Costs
+Apple is paying the costs of the solicitation of proxies. Apple has retained Georgeson LLC to assist in the distribution of proxy
+materials and the solicitation of proxies from brokerage firms, fiduciaries, custodians, and other similar organizations representing beneficial owners of shares for the Annual Meeting. We have agreed to pay Georgeson a fee of approximately $17,000
+plus
+out-of-pocket
+expenses. You may contact Georgeson at (866) 431-2101.
+In addition to solicitations by mail, the proxy solicitor and Apple’s directors, officers, and employees, without additional
+compensation, may solicit proxies on Apple’s behalf in person, by phone, or by electronic communication.
+Apple Inc. |
+2021 Proxy Statement | 76
+Table of Contents
+Apple’s Fiscal Year
+Apple’s fiscal year is the
+52-
+or
+53-week
+period that ends on the last Saturday of September. Apple’s 2020 fiscal year included 52 weeks and ended on September 26, 2020. Information presented in this Proxy Statement is based on Apple’s fiscal calendar.
+Voting
+Each share of Apple’s
+common stock has one vote on each matter. Only “shareholders of record” as of the close of business on the Record Date are entitled to vote at the Annual Meeting. As of the Record Date, there were 16,823,263,000 shares of Apple’s
+common stock issued and outstanding, held by 23,000 shareholders of record. In addition to shareholders of record of Apple’s common stock, “beneficial owners of shares held in street name” as of the Record Date can vote using the
+methods described below.
+Shareholders of
+Record.
+If your shares are registered directly in your name with Apple’s transfer agent, Computershare Trust Company, N.A., you are the shareholder of record with respect to those
+shares.
+Beneficial Owners of Shares Held in Street Name.
+If your shares are held in an account at a bank, broker, or other organization, then you are the “beneficial owner of shares held in street name.” As a beneficial owner, you have the right to
+instruct the person or organization holding your shares how to vote your shares. Most individual shareholders are beneficial owners of shares held in street name.
+Voting Procedures
+There are four ways to vote:
+•
+Online Prior to the Annual Meeting.
+You may vote by proxy by visiting
+proxyvote.com
+and entering the control number found in your Notice of Internet Availability. The availability of online voting may depend on the voting procedures of the organization that holds your
+shares.
+•
+Online During the Annual Meeting.
+You may vote online during the Annual Meeting by
+visiting
+www.virtualshareholdermeeting.com/AAPL2021
+, entering the control number found in your Notice of Internet Availability, and following the
+on-screen
+instructions. The availability of online voting may depend on the voting procedures of the organization that holds your shares. The meeting webcast will begin promptly at 9:00 a.m. Pacific Time.
+Online access to the webcast will open approximately 15 minutes prior to the start of the Annual Meeting to allow time for you to log in and test your system. If you experience technical difficulties during
+the check-in
+process or during the meeting please call
+1-844-917-0955
+(toll free) or
+303-562-9307
+(international) for assistance.
+•
+Phone.
+If you request printed copies of the proxy materials by mail, you will receive a
+proxy card or voting instruction form and you may vote by proxy by calling the toll-free number found on the card or form. The availability of phone voting may depend on the voting procedures of the organization that holds your shares.
+•
+Mail.
+If you request printed copies of the proxy materials by mail, you will receive a
+proxy card or voting instruction form and you may vote by proxy by filling out the card or form and returning it in the envelope provided.
+Apple Inc. |
+2021 Proxy Statement | 77
+Table of Contents
+All shares represented by valid proxies received prior to the taking of the vote
+at the Annual Meeting will be voted and, where a shareholder specifies by means of the proxy a choice with respect to any matter to be acted upon, the shares will be voted in accordance with the shareholder’s instructions. Even if you plan on
+attending the Annual Meeting, we encourage you to vote your shares in advance online, by phone, or by mail to ensure that your vote will be represented at the Annual Meeting.
+Changing your Vote
+You may revoke
+your proxy and change your vote at any time before the taking of the vote at the Annual Meeting.
+•
+Online Prior to the Annual Meeting.
+You may change your vote using the online voting
+method described above, in which case only your latest internet proxy submitted prior to the Annual Meeting will be counted.
+•
+Online During the Annual Meeting.
+You may change your vote by attending the Annual
+Meeting by visiting
+www.virtualshareholdermeeting.com/AAPL2021
+, entering the control number found in your Notice of Internet Availability, and following the instructions to vote, in which
+case only your latest internet proxy submitted will be counted.
+•
+Phone.
+You may change your vote using the phone voting method described above, in which
+case only your latest telephone proxy submitted prior to the Annual Meeting will be counted.
+•
+Mail.
+You may revoke your proxy and change your vote by signing and returning a new proxy
+card or voting instruction form dated as of a later date, in which case only your latest proxy card or voting instruction form received prior to the Annual Meeting will be counted.
+Uninstructed Shares
+Shareholders of Record.
+If you are a shareholder of record
+and you:
+•
+Indicate when voting online or by phone that you wish to vote as recommended by the Board; or
+•
+Sign and return a proxy card without giving specific voting instructions,
+then the persons named as proxy holders, Kate Adams and Luca Maestri, will vote your
+shares in the manner recommended by the Board on all matters presented in this Proxy Statement and as they may determine in their best judgment with respect to any other matters properly presented for a vote at the Annual Meeting.
+Beneficial Owners of Shares Held in Street Name.
+If you
+are a beneficial owner of shares held in street name and do not provide the broker that holds your shares with specific voting instructions, then such broker may generally vote your shares in their discretion on “routine” matters, but
+cannot vote on
+“non-routine”
+matters.
+Routine and
+Non-Routine
+Proposals
+The following proposal is considered a routine matter:
+•
+The ratification of the appointment of Ernst & Young LLP as Apple’s independent
+registered public accounting firm for 2021 (Proposal No. 2).
+A broker or other nominee may generally vote in their discretion on routine matters, and
+therefore no broker
+non-votes
+are expected in connection with Proposal No. 2.
+Apple Inc. |
+2021 Proxy Statement | 78
+Table of Contents
+The following proposals are considered
+non-routine
+matters:
+•
+Election of directors (Proposal No. 1);
+•
+Advisory vote to approve executive compensation (Proposal No. 3); and
+•
+Each of shareholder Proposals No. 4 and No. 5.
+If the organization that holds your shares does not receive instructions from you on how
+to vote your shares on a
+non-routine
+matter, that organization will inform the inspector of election that it does not have the authority to vote on the matter with respect to your shares. This is generally
+referred to as a “broker
+non-vote.”
+Therefore, broker
+non-votes
+may exist in connection with Proposal No. 1 and Proposals No. 3 through No. 5.
+Vote Required to Approve a Proposal
+With respect to the election of directors (Proposal No. 1), Apple’s bylaws provide that, in an uncontested election of directors, the affirmative vote of (i) a majority of the shares present or represented by proxy
+and voting at the Annual Meeting; and (ii) a majority of the shares required to constitute a quorum is required to elect a director. An “uncontested election of directors” means an election of directors in which the number of
+candidates for election does not exceed the number of directors to be elected by the shareholders at that election.
+Approval of Proposals No. 2 through No. 5 requires, in each case, the affirmative vote of both (i) a majority of
+the shares present or represented by proxy and voting at the Annual Meeting; and (ii) a majority of the shares required to constitute a quorum.
+Broker
+Non-Votes
+and Abstentions
+Broker
+non-votes
+and abstentions are counted for purposes of determining whether a quorum
+is present. Only “FOR” and “AGAINST” votes are counted for purposes of determining the votes received in connection with each proposal. Broker
+non-votes
+and abstentions will have no effect
+on determining whether the affirmative vote constitutes a majority of the shares present or represented by proxy and voting at the Annual Meeting.
+In addition, for each proposal, the affirmative vote equal to a majority of the shares necessary to constitute a quorum is also
+required for approval. Therefore, broker
+non-votes
+and abstentions could prevent the election of a director or the approval of a proposal because they do not count as affirmative votes.
+Confidentiality of Votes
+Proxy
+instructions, ballots, and voting tabulations that identify individual shareholders are handled in a manner that protects your voting privacy. Apple will not disclose the proxy instructions or ballots of individual shareholders, except:
+•
+To allow for the tabulation and certification of votes;
+•
+To facilitate a successful proxy solicitation;
+•
+To assert claims for Apple;
+•
+To defend claims against Apple; and
+•
+As necessary to meet applicable legal requirements.
+Apple Inc. |
+2021 Proxy Statement | 79
+Table of Contents
+If you write comments on your proxy card or ballot, the proxy card or ballot may
+be forwarded to Apple’s management and the Board to review your comments.
+Tabulation and Reporting of Voting Results
+Preliminary voting results will be announced at the Annual Meeting. Final voting results will be tallied by the inspector of
+election after the taking of the vote at the Annual Meeting. Apple will publish the final voting results in a Current Report on Form
+8-K
+filed with the SEC within four business days following the Annual
+Meeting.
+Director Nominations and Other Matters for the 2022 Annual Meeting of Shareholders
+Proposals and director nominations must be sent either by mail to Apple’s Secretary at One Apple Park Way,
+MS: 169-5GC,
+Cupertino, CA 95014 USA, or by email to
+shareholderproposal@apple.com
+.
+Matters for Inclusion in the Proxy Materials for the 2022 Annual Meeting of Shareholders
+Matters for inclusion in the proxy materials for the 2022 annual meeting of shareholders, other than nominations of
+directors, must be received on or before September 7, 2021. All proposals must comply with Rule
+14a-8
+under the Exchange Act.
+Matters for Consideration at the 2022 Annual Meeting of Shareholders, but not for Inclusion in the Proxy Materials
+Matters for consideration at the 2022 annual meeting of shareholders, but not for inclusion in the proxy materials, must be
+received no earlier than the close of business on October 26, 2021 and no later than the close of business on November 25, 2021. The proposal must be submitted by a shareholder of record and must set forth the information required by
+Apple’s bylaws. If you are a beneficial owner of shares held in street name, you can contact the organization that holds your shares for information about how to register your shares directly in your name as a shareholder of record.
+Nominations of Individuals for Election as Directors at the 2022 Annual Meeting of Shareholders Using Proxy Access
+A shareholder, or group of up to 20 shareholders, that has owned continuously for at least three years shares of Apple stock
+representing an aggregate of at least 3% of our outstanding shares, may nominate and include in Apple’s proxy materials director nominees constituting up to 20% of Apple’s Board, provided that the shareholder(s) and nominee(s) satisfy the
+requirements in Apple’s bylaws. Notice of proxy access director nominees must be received no earlier than the close of business on August 8, 2021 and no later than the close of business on September 7, 2021.
+Apple Inc. |
+2021 Proxy Statement | 80
+Table of Contents
+Nominations of Individuals for Election as Directors at the 2022 Annual Meeting of Shareholders, but not Included
+in the Proxy Materials
+Director nominations that a shareholder intends to present at the 2022 annual meeting of
+shareholders, but does not intend to have included in Apple’s proxy materials, must be received no earlier than the close of business on October 26, 2021 and no later than the close of business on November 25, 2021. Notice of director
+nominations must be submitted by a shareholder of record and must set forth the information required by Apple’s bylaws. If you are a beneficial owner of shares held in street name, you can contact the organization that holds your shares for
+information about how to register your shares directly in your name as a shareholder of record.
+Apple Inc.
+One Apple Park Way
+Cupertino, CA 95014 USA
+Phone: (408)
+996-1010
+Dated: January 5, 2021
+Apple Inc. |
+2021 Proxy Statement | 81
+Table of Contents
+APPLE INC.
+C/O PROXY SERVICES P.O. BOX 9163
+FARMINGDALE, NY 11735
+VOTE BY INTERNET
+Before The Meeting—Go to
+www.proxyvote.com
+Use the Internet to transmit your voting instructions and for electronic delivery of information up until 8:59 P.M. PT the day before the meeting
+date. Have your proxy card in hand when you access the web site and follow the instructions to obtain your records and to create an electronic voting instruction form.
+During The Meeting—Go to www.virtualshareholdermeeting.com/AAPL2021
+You may attend the
+meeting via the Internet and vote during the meeting when the polls are open. Have the information that is printed in the box marked by the arrow XXXX XXXX XXXX XXXX available and follow the instructions.
+ELECTRONIC DELIVERY OF FUTURE PROXY MATERIALS
+If you would like to reduce the costs incurred
+by our company in mailing proxy materials, you can consent to receiving all future proxy statements, proxy cards, and annual reports electronically via
+e-mail
+or the Internet. To sign up for electronic
+delivery, please follow the instructions above to vote using the Internet before the meeting and, when prompted, indicate that you agree to receive or access proxy materials electronically in future years.
+VOTE BY
+PHONE—1-800-690-6903
+Use any touch-tone telephone to transmit your voting instructions up until 8:59 P.M. PT the day before the meeting date. Have your proxy card in hand when you call and then follow
+the instructions
+VOTE BY MAIL
+Mark, sign, and date your proxy card and either
+return it in the postage-paid envelope we have provided or return it to Vote Processing, c/o Broadridge, 51 Mercedes Way, Edgewood, NY 11717.
+TO VOTE, MARK BELOW
+IN BLUE OR BLACK INK AS FOLLOWS:
+D28803-P47024 KEEP THIS PORTION FOR YOUR RECORDS
+THIS PROXY CARD IS VALID ONLY WHEN SIGNED AND DATED. DETACH AND RETURN THIS PORTION ONLY
+APPLE
+INC.
+The Board of Directors recommends a vote FOR all the
+listed nominees.
+1. The election to Apple’s Board of Directors of the eight
+nominees
+named in the Proxy Statement
+Nominees: For Against Abstain
+The Board of
+Directors recommends a vote FOR
+1a. James Bell ! ! ! Proposals 2 and 3. For Against Abstain
+1b. Tim Cook 2. Ratification of the appointment of Ernst & Young LLP
+! ! ! as
+Apple’s independent registered public accounting firm for ! ! !
+fiscal 2021
+1c. Al Gore ! ! ! 3. Advisory vote to approve executive compensation ! ! !
+1d. Andrea Jung ! !
+! The Board of Directors recommends a vote AGAINST For Against Abstain
+Proposals 4 and 5.
+1e. Art Levinson ! ! ! 4. A shareholder proposal entitled “Shareholder Proxy ! ! !
+Access
+Amendments”
+1f. Monica Lozano ! ! ! 5. A shareholder proposal entitled “Shareholder Proposal ! ! !
+to Improve Executive Compensation Program”
+1g. Ron Sugar ! ! !
+1h. Sue Wagner ! ! !
+NOTE: Please sign your name(s) EXACTLY as your name(s) appear(s) on this
+proxy. All joint holders must sign. When signing as attorney, trustee, executor,
+administrator, guardian, or corporate officer, please provide your FULL title.
+Yes No
+HOUSEHOLDING ELECTION—Please indicate if you consent ! !
+to receive
+certain future investor communications in a single
+package per household.
+Signature [PLEASE SIGN WITHIN BOX] Date Signature (Joint Owners) Date
+Table of Contents
+Apple Inc.
+2021 Annual Meeting of Shareholders
+February 23, 2021 9:00 a.m. Pacific Time www.virtualshareholdermeeting.com/AAPL2021
+Attending the Annual Meeting
+We are pleased to welcome shareholders to the 2021 Annual
+Meeting. Due to the
+COVID-19
+pandemic, the Annual Meeting will be held in a virtual format only to provide a safe experience for our shareholders and employees.
+To attend, vote, and submit questions during the Annual Meeting visit www.virtualshareholdermeeting.com/AAPL2021 and enter the
+16-digit
+control number included in your Notice of Internet Availability of Proxy Materials, voting instruction form, or proxy card. Online access to the webcast will open approximately 15 minutes prior to the start of the Annual Meeting. Attendance at the
+Annual Meeting is subject to capacity limits set by the virtual meeting platform provider. To submit questions in advance of the Annual Meeting, visit www.proxyvote.com before 8:59 P.M. Pacific Time on February 22, 2021 and enter the
+16-digit
+control number.
+Even if you plan on attending the Annual Meeting, we encourage you to vote these shares in advance using
+one of the methods described in the proxy materials to ensure that your vote will be represented at the Annual Meeting.
+Important Notice Regarding the Availability
+of Proxy Materials for the Annual Meeting:
+The Notice and Proxy Statement and Annual Report are available at www.proxyvote.com.
+D28804-P47024
+THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS OF APPLE INC. FOR
+THE 2021 ANNUAL MEETING OF SHAREHOLDERS TO BE HELD ON FEBRUARY 23, 2021
+The undersigned shareholder of Apple Inc., a California corporation, hereby
+acknowledges receipt of the Notice of 2021 Annual Meeting of Shareholders and Proxy Statement with respect to the 2021 Annual Meeting of Shareholders of Apple Inc. to be held at www.virtualshareholdermeeting.com/AAPL2021 on Tuesday,
+February 23, 2021 at 9:00 a.m. Pacific Time, and hereby appoints Kate Adams and Luca Maestri, and each of them, proxies and
+attorneys-in-fact,
+each with power of
+substitution and revocation, and each with all powers that the undersigned would possess if personally present, to vote the Apple Inc. common stock of the undersigned at such meeting and any postponement(s) or adjournment(s) of such meeting, as set
+forth on the reverse side, and in their discretion upon any other business that may properly come before the meeting (and any such postponement(s) or adjournment(s)).
+THIS PROXY WILL BE VOTED AS SPECIFIED HEREIN BY THE UNDERSIGNED SHAREHOLDER OR, IF NO CHOICE IS SPECIFIED, FOR THE ELECTION OF THE NOMINEES NAMED IN PROPOSAL 1, FOR PROPOSALS 2 AND
+3, AGAINST PROPOSALS 4 AND 5, AND IN THEIR DISCRETION (1) FOR THE ELECTION OF ANY PERSON TO THE BOARD OF DIRECTORS IF ANY NOMINEE NAMED HEREIN BECOMES UNABLE TO SERVE OR FOR GOOD CAUSE WILL NOT SERVE, AND (2) AS SAID PROXIES DEEM ADVISABLE
+ON SUCH OTHER MATTERS AS MAY PROPERLY COME BEFORE THE MEETING AND ANY POSTPONEMENT(S) OR ADJOURNMENT(S) THEREOF.
+PLEASE VOTE, SIGN, DATE, AND RETURN THIS PROXY
+CARD PROMPTLY USING THE ENCLOSED ENVELOPE OR VOTE BY TELEPHONE OR THE INTERNET.

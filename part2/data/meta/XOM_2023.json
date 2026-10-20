@@ -1,0 +1,14 @@
+{
+  "ticker": "XOM",
+  "company_name": "ExxonMobil",
+  "sector": "Energy",
+  "year": 2023,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/34088/000119312523100079/d429320ddef14a.htm",
+  "accession": "0001193125-23-100079",
+  "filing_date": "2023-04-13",
+  "cik_used": 34088,
+  "primary_document": "d429320ddef14a.htm",
+  "word_count": 60939
+}

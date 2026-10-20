@@ -1,0 +1,21 @@
+{
+  "ticker": "GOOGL",
+  "company_name": "Alphabet",
+  "sector": "Technology",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20220701013251",
+  "original_url": "https://about.google/",
+  "wayback_url": "https://web.archive.org/web/20220701013251id_/https://about.google/",
+  "redirect_hops": 0,
+  "page_score": 8,
+  "text_chars": 1260,
+  "seeds_queried": [
+    "https://about.google/",
+    "https://about.google/intl/en/",
+    "https://www.google.com/about/philosophy.html",
+    "https://abc.xyz/"
+  ],
+  "candidates_considered": 24
+}

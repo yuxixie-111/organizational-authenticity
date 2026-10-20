@@ -1,0 +1,21 @@
+{
+  "ticker": "GOOGL",
+  "company_name": "Alphabet",
+  "sector": "Technology",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20200701004452",
+  "original_url": "https://about.google/",
+  "wayback_url": "https://web.archive.org/web/20200701004452id_/https://about.google/",
+  "redirect_hops": 0,
+  "page_score": 8,
+  "text_chars": 629,
+  "seeds_queried": [
+    "https://about.google/",
+    "https://about.google/intl/en/",
+    "https://www.google.com/about/philosophy.html",
+    "https://abc.xyz/"
+  ],
+  "candidates_considered": 48
+}

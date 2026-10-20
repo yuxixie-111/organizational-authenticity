@@ -1,0 +1,20 @@
+{
+  "ticker": "SLB",
+  "company_name": "SLB (Schlumberger)",
+  "sector": "Energy",
+  "year": 2021,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20210705045524",
+  "original_url": "https://www.slb.com/who-we-are",
+  "wayback_url": "https://web.archive.org/web/20210705045524id_/https://www.slb.com/who-we-are",
+  "redirect_hops": 0,
+  "page_score": 5,
+  "text_chars": 2386,
+  "seeds_queried": [
+    "https://www.slb.com/about",
+    "https://www.slb.com/who-we-are",
+    "https://www.schlumberger.com/about"
+  ],
+  "candidates_considered": 11
+}

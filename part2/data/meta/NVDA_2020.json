@@ -1,0 +1,14 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA",
+  "sector": "Technology",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000055/nvda2020definitiveproxysta.htm",
+  "accession": "0001045810-20-000055",
+  "filing_date": "2020-04-29",
+  "cik_used": 1045810,
+  "primary_document": "nvda2020definitiveproxysta.htm",
+  "word_count": 63926
+}

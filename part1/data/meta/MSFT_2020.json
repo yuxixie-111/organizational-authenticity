@@ -1,0 +1,18 @@
+{
+  "ticker": "MSFT",
+  "company_name": "Microsoft",
+  "sector": "Technology",
+  "year": 2020,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20200701214157",
+  "original_url": "https://www.microsoft.com/en-us/about",
+  "wayback_url": "https://web.archive.org/web/20200701214157id_/https://www.microsoft.com/en-us/about",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 1254,
+  "seeds_queried": [
+    "https://www.microsoft.com/en-us/about"
+  ],
+  "candidates_considered": 12
+}

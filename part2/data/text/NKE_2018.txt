@@ -1,0 +1,2535 @@
+DEF 14A
+1
+nke-2018xdef14a.htm
+DEF 14A
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the
+Securities Exchange Act of 1934
+(Amendment No. )
+Filed by the Registrant
+x
+Filed by a Party other than the Registrant
+¨
+Check the appropriate box:
+¨
+Preliminary Proxy Statement
+¨
+Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+x
+Definitive Proxy Statement
+¨
+Definitive Additional Materials
+¨
+Soliciting Material under §240.14a-12
+NIKE, INC.
+(Name of registrant as specified in its charter)
+(Name of person(s) filing proxy statement, if other than the registrant)
+Payment of Filing Fee (Check the appropriate box):
+x
+No fee required
+¨
+Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11
+(1)
+Title of each class of securities to which transaction applies:
+(2)
+Aggregate number of securities to which transaction applies:
+(3)
+Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):
+(4)
+Proposed maximum aggregate value of transaction:
+(5)
+Total fee paid:
+¨
+Fee paid previously with preliminary materials.
+¨
+Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.
+(1)
+Amount Previously Paid:
+(2)
+Form, Schedule or Registration Statement No.:
+(3)
+Filing Party:
+(4)
+Date Filed:
+To Our Shareholders:
+You are cordially invited to attend the annual meeting of shareholders of NIKE, Inc. to be held at the Tiger Woods Conference Center, One Bowerman Drive, Beaverton, Oregon 97005-6453, on Thursday, September 20, 2018, at 10:00 A.M. Pacific Time. Registration will begin at 9:00 A.M.
+The meeting will consist of a brief presentation followed by the business items listed on the included notice.
+Whether or not you plan to attend, the prompt execution and return of your proxy card will both assure that your shares are represented at the meeting and minimize the cost of proxy solicitation.
+Sincerely,
+Mark G. Parker
+Chairman of the Board
+July 24, 2018
+Notice of Annual Meeting
+of Shareholders
+September 20, 2018
+To the Shareholders of NIKE, Inc.
+The Annual Meeting of Shareholders of NIKE, Inc., an Oregon corporation, will be held at the Tiger Woods Conference Center, One Bowerman Drive, Beaverton, Oregon 97005-6453, on Thursday, September 20, 2018, at 10:00 A.M. Pacific Time, for the following purposes:
+1.
+To elect the 12 directors named in the accompanying proxy statement for the ensuing year.
+2.
+To approve executive compensation by an advisory vote.
+3.
+To consider a shareholder proposal regarding political contributions disclosure as described in the accompanying proxy statement, if properly presented at the meeting.
+4.
+To ratify the appointment of PricewaterhouseCoopers LLP as our independent registered public accounting firm.
+5.
+To transact such other business as may properly come before the meeting.
+All shareholders are invited to attend the meeting. Shareholders of record at the close of business on July 20, 2018, the record date fixed by the Board of Directors, are entitled to notice of and to vote at the meeting. You must present your proxy, voter instruction card, or meeting notice for admission.
+By Order of the Board of Directors,
+Ann M. Miller
+Vice President, Corporate Secretary & Chief Compliance Officer
+Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting of Shareholders To Be Held on September 20, 2018. The proxy statement and NIKE, Inc.’s 2018 Annual Report to Shareholders are available online at www.investorvote.com or www.proxyvote.com, for registered and beneficial owners, respectively.
+Whether or not you plan to attend the meeting, please sign and date the enclosed proxy card and return it in the enclosed envelope, or vote online or by telephone following the instructions on the proxy card.
+CORPORATE GOVERNANCE
+Proxy Statement
+We are furnishing proxy materials to our shareholders primarily via the Internet by mailing a Notice of Internet Availability of Proxy Materials, or “Notice”, instead of mailing printed copies of those materials to each shareholder. The Notice directs shareholders to a website where they can access our proxy materials, including our proxy statement and our annual report, and view instructions on how to vote online or by telephone. If you would prefer to receive a paper copy of our proxy materials, please follow the instructions included in the Notice. If you have previously elected to receive our proxy materials electronically, you will continue to receive access to these materials electronically unless you elect otherwise.
+The enclosed proxy is solicited by the Board of Directors (the “Board”) of NIKE, Inc. (“NIKE” or the “Company”) for use at the annual meeting of shareholders to be held on September 20, 2018, and at any adjournment thereof (the “Annual Meeting”). Our principal executive offices are located at One Bowerman Drive, Beaverton, Oregon 97005-6453. This proxy statement is first being made available to shareholders on or about August 8, 2018. Shareholders may submit a proxy to vote at the Annual Meeting by following the instructions on the Notice, online or by telephone, or (if they have received paper copies of the proxy materials) by returning a proxy card.
+The Company will bear the cost of soliciting proxies. In addition to soliciting proxies by mail, certain officers and employees of the Company, without extra compensation, may also solicit proxies personally or by telephone. Copies of proxy solicitation materials will be furnished to fiduciaries, custodians, and brokerage houses for forwarding to the beneficial owners of shares held in their names.
+Shares that are properly voted online or by telephone or for which proxy cards are properly executed and received by the Company prior to the Annual Meeting will be voted in accordance with the instructions specified in such proxies. Where no instructions are given, shares will be voted “FOR” the election of each of the named nominees for director (Proposal 1), “FOR” the proposal regarding an advisory vote to approve executive compensation (Proposal 2), “AGAINST” the shareholder proposal regarding political contributions (Proposal 3), and “FOR” the ratification of the appointment of PricewaterhouseCoopers LLP as independent registered public accounting firm (Proposal 4).
+A shareholder giving the enclosed proxy has the power to revoke it at any time before it is exercised by affirmatively electing to vote in person at the meeting or by delivering to Ann M. Miller, Vice President, Corporate Secretary & Chief Compliance Officer of NIKE, Inc., either an instrument of revocation or an executed proxy bearing a later date.
+Voting Securities and Vote Required
+Holders of record of NIKE’s Class A Common Stock (“Class A Stock”) and holders of record of NIKE’s Class B Common Stock (“Class B Stock”) at the close of business on July 20, 2018 will be entitled to vote at the Annual Meeting. On that date, 320,065,752 shares of Class A Stock and 1,280,488,786 shares of Class B Stock were issued and outstanding. Neither class of Common Stock has cumulative voting rights.
+Each share of Class A Stock and each share of Class B Stock is entitled to one vote on every matter submitted to the shareholders at the Annual Meeting.
+A majority of the votes entitled to be cast on Proposal 1, the election of directors, by each of the Class A Stock and Class B Stock separately constitutes a quorum of Class A Stock and Class B Stock, respectively, for action on Proposal 1. The holders of Class A Stock and the holders of Class B Stock will vote separately on Proposal 1. Holders of Class B Stock are currently entitled to elect 25 percent of the Board, rounded up to the next whole number. Holders of Class A Stock are currently entitled to elect the remaining directors. Under this formula, holders of Class B Stock, voting separately, will elect three directors, and holders of Class A Stock, voting separately, will elect nine directors. Under our Bylaws, if a quorum of each class of Common Stock is present at the meeting, the three director nominees who receive the greatest number of votes cast by holders of Class
+B Stock and the nine director nominees who receive the greatest number of votes cast by holders of Class
+A Stock will be elected directors.
+A majority of the votes entitled to be cast on Proposals 2, 3, and 4 by both Class A Stock and Class B Stock together constitutes a quorum for action on those proposals. Holders of Class A Stock and holders of Class B Stock will vote together as one class on Proposals 2, 3, and 4. If a quorum is present at the meeting, Proposals 2, 3, and 4 will be approved if the votes cast in favor of the proposal exceeds the votes cast against the proposal.
+Abstentions and broker non-votes are counted for purposes of determining whether a quorum exists. Abstentions and broker non-votes are not included as votes cast and will not affect the outcome of any of the proposals. Broker non-votes occur when a person holding shares in street name, such as through a brokerage firm, does not provide instructions as to how to vote those shares and the broker does not then vote those shares on the shareholder’s behalf.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+1
+CORPORATE GOVERNANCE
+Board of Directors
+CORPORATE GOVERNANCE
+Board of Directors
+The Board is currently composed of ten independent directors and three directors who are not independent under the New York Stock Exchange (the “NYSE”) listing rules. During fiscal 2018, there were five meetings of the Board and all of our then serving directors attended at least 75 percent of the total number of meetings of the Board and committees on which he or she served. The Company encourages all directors to attend each annual meeting of shareholders and, with the exception of Travis A. Knight, all directors serving at the time of the 2017 annual meeting attended the 2017 annual meeting.
+Board Committees
+On November 16, 2017, to allow for flexibility to implement evolving governance best practices, the Board elected to restructure from six to four committees. As a result, the Board’s current standing committees are an Audit & Finance Committee; a Compensation Committee; a Corporate Responsibility, Sustainability & Governance Committee; and an Executive Committee. The Board may appoint other committees from time to time. Each standing committee has a written charter; all such charters, as well as the Company’s corporate governance guidelines, are available at the Company’s corporate website:
+http://investors.nike.com
+and will be provided in print to any shareholder who submits a request in writing to NIKE Investor Relations, One Bowerman Drive, Beaverton, Oregon 97005-6453.
+The Audit & Finance Committee consolidated the prior Audit Committee and Finance Committee. The Audit & Finance Committee provides assistance to the Board in fulfilling its legal and fiduciary obligations with respect to matters involving the Company’s accounting, auditing, financial reporting, internal controls, information security (including those risks related to cyber security), data protection, and oversees the financial policies and activities of the Company that may have a material impact on the results of operations or the financial position of the Company. The Audit & Finance Committee is also responsible for overseeing the integrity of the Company’s financial statements, the compliance with legal and regulatory requirements, the independent auditor’s qualifications and independence, and the performance of the Company’s internal audit function and independent auditor. The Audit & Finance Committee also considers long-term financing options, long-range tax, financial regulatory and foreign currency issues facing the Company, and management’s recommendations concerning capital deployment strategy, major capital expenditures, and material acquisitions or divestitures. The Board has determined that each member of the Audit & Finance Committee meets all independence and financial literacy requirements applicable to audit committees under the NYSE listing standards and applicable regulations adopted by the U.S. Securities and Exchange Commission (the “SEC”). The Board has also determined that Mr. Alan B. Graf, Jr. is an “audit committee financial expert” as defined in regulations adopted by the SEC.
+The Compensation Committee evaluates the performance of the Chief Executive Officer (“CEO”), reviews the performance evaluations of our other Named Executive Officers, and recommends their compensation for approval by the independent members of the Board (other than the incentive compensation approved solely by the Compensation Committee as described below). The Compensation Committee also grants equity incentive awards under the NIKE, Inc. Stock Incentive Plan, and determines targets and awards under the NIKE, Inc. Executive Performance Sharing Plan and the NIKE, Inc. Long-Term Incentive Plan. The Compensation Committee also makes recommendations to the Board regarding other executive incentive compensation arrangements and profit sharing plan contributions. The Board has determined that each member of the Compensation Committee meets all independence requirements applicable to compensation committees under the NYSE listing standards.
+The Corporate Responsibility, Sustainability & Governance Committee consolidated the prior Nominating & Corporate Governance Committee and the Corporate Responsibility & Sustainability Committee. The Corporate Responsibility, Sustainability & Governance Committee identifies individuals qualified to become Board members, recommends director nominees for election at each annual shareholder meeting, and develops and recommends corporate governance guidelines and standards for business conduct and ethics. The Corporate Responsibility, Sustainability & Governance Committee also reviews significant strategies, activities and policies regarding sustainability (including labor practices), community impact and charitable activities, and makes recommendations regarding the same to the Board. The Corporate Responsibility, Sustainability & Governance Committee also oversees the annual self-evaluations of the Board and its committees and makes recommendations to the Board concerning the structure and membership of the other Board committees. The Board has determined that each member of the Corporate Responsibility, Sustainability & Governance Committee meets all independence requirements applicable to nominating/corporate governance committees under the NYSE listing standards.
+The Executive Committee is authorized to act on behalf of the Board on all corporate actions for which applicable law does not require participation by the full Board. In practice, the Executive Committee acts in place of the full Board only when emergency issues or scheduling conflicts make it difficult or impracticable to assemble the full Board. All actions taken by the Executive Committee must be reported at the next Board meeting, or as soon thereafter as practicable. The Executive Committee held no formal meetings during fiscal 2018, but took action by unanimous written consent.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+2
+CORPORATE GOVERNANCE
+Board of Directors
+The table below provides information regarding the current membership of each standing Board committee and denotes the number of standing Board committee meetings held during fiscal 2018:
+Director Name
+Audit & Finance*
+Compensation
+Corporate Responsibility, Sustainability & Governance*
+Executive
+Cathleen A. Benko**
+Elizabeth J. Comstock
+ü
+John G. Connors
+ü
+Timothy D. Cook
+Chair
+John J. Donahoe II
+ü
+Alan B. Graf, Jr.
+Chair
+Peter B. Henry***
+ü
+Travis A. Knight
+ü
+John C. Lechleiter
+Chair
+Mark G. Parker
+Chair
+Michelle A. Peluso
+ü
+Johnathan A. Rodgers
+ü
+John R. Thompson, Jr.
+Phyllis M. Wise****
+Meetings in Fiscal 2018
+15
+5
+7
+-
+* Represents total meetings of restructured committees inclusive of predecessor committees.
+** Ms. Benko was elected to the Board of Directors effective July 12, 2018.
+*** Mr. Henry was elected to the Board of Directors effective February 14, 2018.
+**** Effective September 21, 2017, Dr. Wise retired from the Board.
+Director Independence
+Pursuant to NYSE rules, in order for a director to qualify as “independent”, the Board of Directors must affirmatively determine that the director has no material relationship with the Company that would impair the director’s independence. The Board affirmatively determined that commercial or charitable relationships below the following thresholds will not be considered material relationships that impair a director’s independence: (i) if a NIKE director or immediate family member is an executive officer of another company that does business with NIKE and the annual sales to, or purchases from, NIKE are less than one percent of the annual revenues of the other company; and (ii) if a NIKE director or immediate family member serves as an officer, director or trustee of a charitable organization, and NIKE’s contributions to the organization are less than one percent of that organization’s total annual charitable receipts. After applying this categorical standard, the Board has determined that the following directors who served during fiscal 2018 — Elizabeth J. Comstock, John G. Connors, Timothy D. Cook, John J. Donahoe II, Alan B. Graf, Jr., Peter B. Henry, John C. Lechleiter, Michelle A. Peluso, Johnathan A. Rodgers, and Phyllis M. Wise — have no material relationship with the Company and, therefore, are independent. Ms. Benko did not serve in fiscal 2018 but has been determined independent by the Board. Messrs. Travis A. Knight, Mark G. Parker, and John R. Thompson, Jr. were not independent pursuant to NYSE rules. Mr. Parker was not independent pursuant to NYSE rules because he was an executive officer of the Company during fiscal 2018. Mr. Knight was not independent pursuant to NYSE rules because he is the son of NIKE’s co-founder and former Chairman of the Board, Mr. Philip Knight, who received compensation in excess of the threshold set forth in applicable NYSE rules (the “NYSE threshold”) for his position as Chairman Emeritus. Mr. Thompson was not independent pursuant to NYSE rules because the Company had a, now terminated, contract with his son, John Thompson III, former head basketball coach at Georgetown University, to provide endorsement and consulting services to the Company with compensation in excess of the NYSE threshold. The compensation paid to Mr. Philip Knight is described under “Transactions with Related Persons” below.
+Director Nominations
+The Corporate Responsibility, Sustainability & Governance Committee identifies potential director candidates through a variety of means, including recommendations from members of the Corporate Responsibility, Sustainability & Governance Committee or the Board, suggestions from Company management, and shareholder recommendations. The Committee also may, in its discretion, engage director search firms to identify candidates. Shareholders may recommend director candidates for consideration by the Corporate Responsibility, Sustainability & Governance Committee by submitting a written recommendation to the Committee, c/o Ann M. Miller, Vice President, Corporate Secretary & Chief Compliance Officer, NIKE, Inc., One Bowerman Drive, Beaverton, Oregon 97005-6453. The recommendation should include the candidate’s name, age, qualifications (including principal occupation and employment history), and written consent to be named as a nominee in the Company’s proxy statement and to serve as a director, if elected.
+The Board of Directors has adopted qualification standards for the selection of non-management nominees for director, which can be found at our corporate website:
+http://investors.nike.com
+. As provided in these standards and the Company’s corporate governance guidelines, nominees for director are selected on the basis of, among other things, distinguished business experience or other non-business achievements; education; significant knowledge of international business, finance, marketing, technology, human resources, diversity & inclusion, law, or other fields which are complementary to, and balance the knowledge of, other Board members; a desire to represent the interests of all shareholders; independence; character; ethics; good judgment; diversity; and ability to devote substantial time to discharge Board responsibilities.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+3
+CORPORATE GOVERNANCE
+Board of Directors
+The Corporate Responsibility, Sustainability & Governance Committee identifies qualified potential candidates without regard to their age, gender, race, national origin, sexual orientation, or religion. While the Board has no policy regarding Board member diversity, the Corporate Responsibility, Sustainability & Governance Committee considers and discusses diversity in selecting nominees for director and in the re-nomination of an incumbent director. The Committee views diversity broadly, including gender, ethnicity, differences of viewpoint, geographic location, skills, education, and professional and industry experience, among others. The Board believes that a variety and balance of perspectives on the Board results in more thoughtful and robust deliberations.
+In considering the re-nomination of an incumbent director, the Corporate Responsibility, Sustainability & Governance Committee reviews the director’s overall service to the Company during his or her term, including the number of meetings attended, level of participation and quality of performance, as well as any special skills, experience or diversity that such director brings to the Board. All potential new director candidates, whether recommended by shareholders or identified by other means, are initially screened by the Chair of the Corporate Responsibility, Sustainability & Governance Committee, who may seek additional information about the background and qualifications of the candidate, and who may determine that a candidate does not have qualifications that merit further consideration by the full Committee. With respect to new director candidates who pass the initial screening, the Corporate Responsibility, Sustainability & Governance Committee meets to discuss and consider each candidate’s qualifications and potential contributions to the Board, and determines by majority vote whether to recommend such candidates to the Board. The final decision to either appoint a candidate to fill a vacancy between annual meetings or include a candidate on the slate of nominees proposed at an annual meeting is made by the Board.
+It is the general policy of the Board that directors first elected after the fiscal year ended May 31, 1993 will not stand for re-election after reaching the age of 72. Mr. Rodgers, who has served on the Board since 2006, has announced his retirement and will not stand for re-election to the Board at the 2018 Annual Meeting.
+Shareholder Communications with Directors
+Shareholders or interested parties desiring to communicate directly with the Board, with the non-management directors or with any individual director may do so in writing addressed to the intended recipient or recipients, c/o Ann M. Miller, Vice President, Corporate Secretary & Chief Compliance Officer, NIKE, Inc., One Bowerman Drive, Beaverton, Oregon 97005-6453. All such communications will be reviewed, compiled as necessary, and then forwarded to the designated recipient or recipients in a timely manner.
+Board Leadership Structure
+NIKE’s governing documents provide the Board with flexibility to select the appropriate leadership structure of the Company. In determining the leadership structure, the Board considers many factors, including the specific needs of the business, fulfilling the duties of the Board, and the best interests of the Company’s shareholders. Mr. Parker, the Company’s President and CEO since 2006, also serves as the Chairman of the Board, a position he has held since 2016. As Chairman, Mr. Parker presides over meetings of the Board and shareholders. As President and CEO, Mr. Parker is in charge of the general supervision, direction, and control of the business and affairs of the Company, subject to the overall direction and supervision of the Board and its committees.
+The Board believes this leadership structure is appropriate for the Company due to Mr. Parker’s intimate knowledge of the Company’s business, his unique experience, talent, tenure, and effective leadership. The structure permits Mr. Parker, by serving as both Chairman and CEO, to draw on his knowledge of the operations of the business, industry developments, customers, shareholders, and employees in providing leadership on the broad strategic issues considered by the Board.
+The Corporate Responsibility, Sustainability & Governance Committee determined that given Mr. Parker’s position as Chairman, President and CEO, a lead independent director would ensure strong independent leadership of the Board and simultaneous with Mr. Parker’s appointment as Chairman in 2016, the Board appointed Tim Cook as Lead Independent Director to serve for a term of three years. As Lead Independent Director, Mr. Cook executes the following functions:
+•
+serves as a liaison between the Chairman/CEO and the independent directors;
+•
+approves the meeting agendas for the Board;
+•
+advises the Chairman/CEO regarding the sufficiency, quality, quantity, and timeliness of information provided to the Board;
+•
+ensures that meeting schedules permit sufficient time for discussion of all agenda items;
+•
+provides consultation and direct communication with major shareholders, if requested;
+•
+presides at meetings of the Board at which the Chairman/CEO is not present, including executive sessions; and
+•
+performs other duties specified in the Lead Independent Director Charter.
+The chairs of Board committees also play an active role in the leadership structure of the Board. The Corporate Responsibility, Sustainability & Governance Committee and the Board endeavor to select independent committee chairs who will provide strong leadership to guide the important work of the Board committees. Committee chairs work with the Company’s senior executives to ensure the committees are discussing the key strategic risks and opportunities of the Company. In the absence of the lead independent director, a presiding director is appointed to chair executive sessions of non-management directors (consisting of all directors other than Mr. Parker). The position of presiding director is rotated among the chairs of the various Board committees, other than the Executive Committee. Executive sessions are regularly scheduled and held at least once each year.
+Mr. Philip Knight, co-founder and former Chairman of the Company, serves as Chairman Emeritus, with a standing invitation to attend meetings of the Board and its committees as a non-voting observer. The Board believes that it benefits from the valuable experience and insights of the Company’s co-founder and former Chairman of the Board.
+For all of these reasons, the Board believes this leadership structure is optimal.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+4
+CORPORATE GOVERNANCE
+Board of Directors
+The Board’s Role in Risk Oversight
+While the Company’s management is responsible for day-to-day management of the various risks facing the Company, the Board takes an active role in the oversight of the management of critical business risks. The Board does not view risk in isolation. Risks are considered in virtually every business decision and as part of NIKE’s business strategy. The Board recognizes it is neither possible nor prudent to eliminate all risk. Purposeful and appropriate risk-taking is essential for the Company to be competitive on a global basis and to achieve its strategic objectives.
+The Board implements its risk oversight function both as a whole and through committees, which play a significant role in carrying out risk oversight. While the Audit & Finance Committee is responsible for oversight of management’s risk management policies, oversight responsibility for particular areas of risk is allocated among the Board committees according to the committee’s area of responsibility as reflected in the committee charters. In particular:
+•
+The Audit & Finance Committee oversees risks related to the Company’s financial statements, the financial reporting process, accounting, legal matters, investments, access to capital and capital deployment, currency risk and hedging programs, information security (including those risks related to cyber security), and data protection. The Committee oversees the internal audit function, reviews a risk-based plan of internal audits, and reviews a risk-based integrated audit of internal controls over financial reporting. The Committee meets separately with the Vice President of Corporate Audit and Chief Risk Officer, representatives of the independent registered public accountants, and senior management.
+•
+The Compensation Committee oversees risks and rewards associated with the Company’s compensation philosophy and programs, management succession plans, and executive development.
+•
+The Corporate Responsibility, Sustainability & Governance Committee oversees risks associated with company governance, including NIKE’s code of business conduct and its ethics, compliance programs, and the structure and performance of the Board and its committees. The Committee also oversees issues that involve reputational risk to the Company, including community engagement, and sustainability innovation relating to the Company’s products, its supply chain (including labor practices), and the environment.
+Each committee chair works with one or more senior executives assigned to assist the committee in: developing agendas for the year and for each meeting, paying particular attention to areas of business risk identified by management, Board members, internal and external auditors, and in their committee charter; and scheduling agenda topics, presentations, and discussions regarding business risks within their area of responsibility. At meetings, the committees discuss areas of business risk, the potential impact, and management’s initiatives to manage business risk, often within the context of important business decisions. Through this process key business risk areas are reviewed at appropriate times, with some topics reviewed on several occasions throughout the year. At every Board meeting each committee chair provides a report to the full Board outlining its discussions and actions, including those affecting the oversight of various risks.
+The Company believes its leadership structure, discussed in detail above, supports the risk oversight function of the Board. Strong directors chair the various committees involved in risk oversight, there is open communication between management and directors, and all directors are involved in the risk oversight function.
+Code of Business Conduct and Ethics
+The NIKE Code of Ethics (“Ethics Code”) is available at the Company’s corporate website:
+http://investors.nike.com
+and will be provided in print without charge to any shareholder who submits a request in writing to NIKE Investor Relations, One Bowerman Drive, Beaverton, Oregon 97005-6453. The Ethics Code applies to all of the Company’s employees and directors, including our CEO and all other executive officers. The Ethics Code provides that any waiver of the Ethics Code may be made only by the Board. Any such waiver in favor of a director or executive officer will be publicly disclosed. The Company plans to disclose amendments to, and waivers from, the Ethics Code on the Company’s corporate website:
+http://investors.nike.com.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+5
+CORPORATE GOVERNANCE
+PROPOSAL 1
+Proposal 1
+Election of Directors
+A Board of 12 directors will be elected at the Annual Meeting. All of the nominees other than Ms. Cathleen A. Benko and Mr. Peter B. Henry were elected at the 2017 annual meeting of shareholders. Directors will hold office until the next annual meeting of shareholders or until their successors are elected and qualified.
+Mr. Alan B. Graf, Jr., Dr. John C. Lechleiter, and Ms. Michelle A. Peluso are nominated by the Board of Directors for election by the holders of Class B Stock. The other nine nominees are nominated by the Board for election by the holders of Class A Stock.
+Under Oregon law and our Bylaws, if a quorum of each class of shareholders is present at the Annual Meeting, the nine director nominees who receive the greatest number of votes cast by holders of Class A Stock and the three director nominees who receive the greatest number of votes cast by holders of Class B Stock will be elected directors. Abstentions and broker non-votes will have no effect on the results of the vote. Unless otherwise instructed, proxy holders will vote the proxies they receive for the nominees listed below. If any nominee becomes unable to serve, the holders of the proxies may, in their discretion, vote the shares for a substitute nominee or nominees designated by the Board.
+The Bylaws and the Corporate Governance Guidelines of the Company provide that any nominee for director in an uncontested election who receives a greater number of votes “withheld” from his or her election than votes “for” such election shall tender his or her resignation for consideration by the Corporate Responsibility, Sustainability & Governance Committee. The Committee will recommend to the Board the action to be taken with respect to the resignation. The Board will publicly disclose its decision within 90 days of the certification of the election results.
+Background information on the nominees as of July 20, 2018, including some of the attributes that led to their selection, appear below. The Corporate Responsibility, Sustainability & Governance Committee has determined that each director meets the qualification standards described in the section entitled “Director Nominations” above. In addition, the Board firmly believes that the experience, attributes, and skills of any single director nominee should not be viewed in isolation, but rather in the context of the experience, attributes, and skills that all director nominees bring to the Board as a whole, each of which contributes to the function of an effective Board.
+Nominees for Election by Class A Shareholders
+Cathleen A. Benko
+Ms. Benko, 59, a director since July 2018, is Vice Chairman and Managing Principal of Deloitte LLP ("Deloitte"), an organization that, through its subsidiaries and as part of a network of member firms, provides audit, consulting, tax, and advisory services to clients throughout the world. During her nearly 30-year career with Deloitte, Ms. Benko held many leadership roles, some concurrent with her most recent position as Vice Chairman and Managing Principal, a position she has held since 2011. From 2015 to 2018 she served as Senior Partner working with digital giants where she was the lead advisory partner for several digital-native companies. From 2010 to 2014, Ms. Benko served as Chief Digital, Brand, and Communications Officer. Previous to this role as Chief Digital, Brand, and Communications Officer she held multiple technology and talent management roles including serving as the company’s first Vice Chairman and Chief Talent Officer from 2006 to 2010, its Chief Inclusion Officer from 2008 to 2010, and as Managing Principal, Initiative for the Retention and Advancement of Women, from 2003 to 2009. Ms. Benko led Deloitte’s technology sector from 2003 to 2007 and was previously Deloitte’s first Global e-Business Leader, a position she held from 1998 to 2002. Ms. Benko serves as a member of Catalyst’s Board of Advisors and is chair of the Harvard Business School Advisory Council. Ms. Benko was selected to serve on the Board because her experience developing digital platforms, and working in the technology industry, and expertise in talent management and development, specifically within diversity and inclusion, make her a valuable addition to the Board.
+Elizabeth J. Comstock
+Ms. Comstock, 57, a director since 2011, is the former Vice Chair of General Electric Company (“GE”). Ms. Comstock led GE’s efforts to accelerate new growth and operated GE Business Innovations, which included Current, GE Lighting, GE Ventures & Licensing and GE sales, marketing and communications. At GE, she was appointed Vice President, Communications, NBC News Communications in 1994, Senior Vice President, NBC Corporate Communications in 1996, Vice President of Corporate Communications in 1998, Corporate Vice President and Chief Marketing Officer
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+6
+CORPORATE GOVERNANCE
+PROPOSAL 1
+in 2003, President, NBC Universal Integrated Media in 2006, and Senior Vice President, Chief Marketing and Commercial Officer in 2008. Prior to joining GE in 1994, Ms. Comstock held a succession of positions at NBC, CBS, and Turner Broadcasting. Ms. Comstock is a trustee of The National Geographic Society. Ms. Comstock was selected to serve on the Board because her broad experience in, and understanding of, media, marketing, and innovation aligns well with the Company’s business model, which involves a great deal of each.
+John G. Connors
+Mr. Connors, 59, a director since 2005, is a partner in Ignition Partners LLC, a Seattle-area venture capital firm. Mr. Connors served as Senior Vice President and Chief Financial Officer of Microsoft Corporation (“Microsoft”) from December 1999 to May 2005. He joined Microsoft in 1989 and held various management positions, including Corporate Controller from 1994 to 1996, Chief Information Officer from 1996 to 1999, and Vice President, Worldwide Enterprise Group in 1999. Mr. Connors is currently a member of the board of directors of Splunk, Inc. and privately held companies Chef, Inc., Motif Investing, Inc., FiREapps, Inc., ICERTIS, Inc., Tempered Networks Inc., Azuqua, Inc., LiveStories Inc., and KenSci Inc., and is on the Board of the Washington Policy Center and the University of Washington Tyee Club. Mr. Connors was selected to serve on the Board because his experience and skills in accounting, financial management, venture capital, technology, and international operations enable him to make valuable contributions to the Board.
+Timothy D. Cook
+Mr. Cook, 57, a director since 2005, is the Company’s Lead Independent Director and is the Chief Executive Officer of Apple, Inc. (“Apple”). Mr. Cook joined Apple in March 1998 as Senior Vice President of Worldwide Operations and also served as its Executive Vice President, Worldwide Sales and Operations and Chief Operating Officer. Mr. Cook was Vice President, Corporate Materials for Compaq Computer Corporation from 1997 to 1998. Previous to his work at Compaq, Mr. Cook served in the positions of Senior Vice President Fulfillment and Chief Operating Officer of the Reseller Division at Intelligent Electronics from 1994 to 1997. Mr. Cook also worked for International Business Machines Corporation from 1983 to 1994, most recently as Director of North American Fulfillment. Mr. Cook is currently a member of the Board of Directors of the National Football Foundation and Apple. Mr. Cook also currently serves on the Board of Trustees for Duke University. Mr. Cook was selected to serve on the Board because his operational executive experience and his knowledge of technology, cyber security, marketing, and international business allow him to provide the Board with valuable perspectives and insights.
+John J. Donahoe II
+Mr. Donahoe, 58, a director since 2014, is President and Chief Executive Officer of ServiceNow, Inc. and also serves on its Board of Directors. Mr. Donahoe also serves as Chairman of PayPal Holdings, Inc. From 2008 through 2015, Mr. Donahoe served as President and Chief Executive Officer of eBay, Inc. (“eBay”), provider of the global eBay.com online marketplace and PayPal digital payments platform. Mr. Donahoe joined eBay in 2005 as President of eBay Marketplaces, responsible for eBay’s global e-Commerce businesses, and was appointed President and Chief Executive Officer in 2008. Prior to joining eBay, Mr. Donahoe was the Chief Executive Officer and Worldwide Managing Director of Bain & Company from 1999 to 2005, and a Managing Director from 1992 to 1999. Mr. Donahoe currently serves on the Board of Trustees for The Bridgespan Group. He served on the Board of Directors of Intel Corporation from March 2009 until May 2017. Mr. Donahoe was selected to serve on the Board because his experience in executive and financial management, strategic planning, branding, technology, cyber security, and digital commerce allow him to provide valued perspectives on each of these areas of the Company’s business.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+7
+CORPORATE GOVERNANCE
+PROPOSAL 1
+Peter B. Henry
+Mr. Henry, 48, a director since February 2018, is Dean Emeritus of New York University’s Leonard N. Stern School of Business and William R. Berkley Professor of Economics and Finance. Mr. Henry assumed the Deanship of the Stern School of Business in January 2010 and served through December 2017. Prior to joining Stern, he was the Konosuke Matsushita Professor of International Economics at the Stanford University Graduate School of Business. In 2008, he led Barack Obama’s Presidential Transition Team in its review of international lending agencies such as the IMF and the World Bank. In June 2009, President Obama appointed Mr. Henry to the President’s Commission on White House Fellowships. Mr. Henry also serves on the Board of Directors of Citigroup, the National Bureau of Economic Research, and the Economic Club of New York and served on the Board of Directors of General Electric from July 2016 until April 2018. He is also a member of the Council of Foreign Relations and the Economic Advisory Panel of the Federal Reserve Bank of New York. Mr. Henry was selected to serve on the Board because of his extensive experience in economics, international finance and emerging markets, academia and governance, which allow him to provide valued perspectives on each of these areas of the Company’s business.
+Travis A. Knight
+Mr. Knight, 44, a director since 2015, is the President and Chief Executive Officer of the animation studio, LAIKA, LLC (“LAIKA”), which specializes in feature-length films. He has been involved in all principal creative and business decisions at LAIKA since its founding in 2003, serving in successive management positions as Lead Animator, Vice President of Animation, and then as President and Chief Executive Officer in 2009. Mr. Knight was Producer and Director of the feature film Kubo and the Two Strings (2017) which was nominated for an Academy Award and winner of the BAFTA award for Best Animated Film. Mr. Knight has served as Producer and Lead Animator on Academy Award-nominated feature-length films The Boxtrolls (2014) and ParaNorman (2012, for which he won an Annie Award for Outstanding Achievement in Character Animation), and Lead Animator for Coraline (2009). Prior to his work at LAIKA, Mr. Knight held various animation positions at Will Vinton Studios from 1998 to 2002, as a stop-motion animator for television series, commercials, and network promotions. He has been recognized for his work on the Emmy Award-winning stop-motion animated television series The PJs. Mr. Knight serves on the Board of Directors of LAIKA. He is the son of NIKE’s co-founder, Mr. Philip Knight, who currently serves as Chairman Emeritus. Mr. Travis Knight was selected to serve on the Board because of his creative and management experience, and because he has a significant role in the management of the Class A Stock owned by Swoosh, LLC, strengthening the alignment of the Board with the interests of NIKE shareholders.
+Mark G. Parker
+Mr. Parker, 62, is Chairman of the Board of Directors of the Company, and has served as President and CEO, and a director since 2006. He was named Chairman of the Board on June 30, 2016. Mr. Parker has been employed by NIKE since 1979 with primary responsibilities in product research, design and development, marketing, and brand management. He was appointed divisional Vice President in charge of product development in 1987, corporate Vice President in 1989, General Manager in 1993, Vice President of Global Footwear in 1998, and President of the NIKE Brand in 2001. Mr. Parker is currently a member of the Board of Directors of The Walt Disney Company. Mr. Parker was selected to serve on the Board because he has extensive knowledge and experience regarding Company operations, sports marketing, manufacturing, research, design, development, and management, and is an effective leader of NIKE. His position as CEO makes his position as Chairman of the Board critical.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+8
+CORPORATE GOVERNANCE
+PROPOSAL 1
+John R. Thompson, Jr.
+Mr. Thompson, 76, a director since 1991, was head coach of the Georgetown University men’s basketball team from 1972 until 1998. Mr. Thompson was head coach of the 1988 United States Olympic basketball team. He hosted a sports radio talk show in Washington, D.C. for 13 years, and is a nationally broadcast sports analyst for Turner Network Television (TNT) and Dial Global, Inc. He serves as Assistant to the President of Georgetown University for Urban Affairs and he is a past President of the National Association of Basketball Coaches and presently serves on its Board of Governors. Mr. Thompson has honorary doctorate degrees from Wheeling Jesuit University, Georgetown University, University of the District of Columbia, and St. Peter’s College. Mr. Thompson was selected to serve on the Board because his extensive experience and knowledge of education, college and professional sports, media, broadcasting, and knowledge of urban issues allow him to provide valuable insights to the Board regarding sports marketing, corporate responsibility and diversity.
+Board Recommendation
+The Board of Directors recommends that the Class A Shareholders vote FOR the election of nominees above to the Board of Directors.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+9
+CORPORATE GOVERNANCE
+PROPOSAL 1
+Nominees for Election by Class B Shareholders
+Alan B. Graf, Jr.
+Mr. Graf, 64, a director since 2002, is the Executive Vice President and Chief Financial Officer of FedEx Corporation (“FedEx”), a position he has held since 1998, and is a member of FedEx’s Executive Committee. Mr. Graf joined FedEx in 1980 and was Senior Vice President and Chief Financial Officer for FedEx Express, FedEx’s predecessor, from 1991 to 1998. He previously served on the board of directors of Kimball International Inc., Storage USA, Inc., and Arkwright Mutual Insurance Co., and he is currently a director of Mid-America Apartment Communities, Inc., Methodist Le Bonheur Healthcare, and the Indiana University Foundation. In March 2017, Mr. Graf was selected as the Chairman of the University of Memphis Board of Trustees. Mr. Graf was selected to serve on the Board because his experience and skills in auditing, accounting, financial management, executive leadership, and international operations enable him to effectively provide the Board with valuable perspectives and insights.
+John C. Lechleiter
+Dr. Lechleiter, 64, a director since 2009, is the Chairman Emeritus of Eli Lilly and Company (“Lilly”). He served as President and Chief Executive Officer of Lilly from 2008 until his retirement in December 2016. He also served as a member of Lilly’s board from 2005 to May 2017 and as Chairman of Lilly’s board from January 2009 to May 2017. Dr. Lechleiter began work at Lilly as a senior organic chemist in Lilly’s process research and development division in 1979 and became head of that department in 1982. He later held roles in project management, regulatory affairs, product development, and pharmaceutical operations. In 2005, he was named President and Chief Operating Officer and joined the Lilly board of directors. He became President and Chief Executive Officer in 2008 and became Chairman of the Board in 2009. He is a member of the American Chemical Society. He is a member emeritus of the board of the Central Indiana Corporate Partnership. He also serves on the boards of Ford Motor Company, the Indiana Economic Development Corporation and United Way Worldwide. Dr. Lechleiter was selected to serve on the Board because his operational executive experience and his knowledge of science, marketing, management, and international business allow him to provide the Board with significant contributions in those strategic areas.
+Michelle A. Peluso
+Ms. Peluso, 46, a director since 2014, is Senior Vice President and Chief Marketing Officer at IBM. She served as Chief Executive Officer of online shopping destination Gilt Groupe, Inc. (“Gilt”) from 2013 until its sale to Hudson’s Bay Company in February 2016, and was on Gilt’s board of directors from 2009 to 2016. Prior to joining Gilt in 2013, she served as Global Consumer Chief Marketing and Internet Officer of Citigroup Inc. from 2009 to 2013, and from 2002 to 2009, Ms. Peluso held senior management positions at Travelocity.com LP, being appointed Chief Operating Officer in 2003, and President and Chief Executive Officer in December 2003. Prior to joining Travelocity, in 1999 she founded Site59, an online travel site, serving as its Chief Executive Officer until its acquisition by Travelocity in 2002. Ms. Peluso was a director of OpenTable, Inc. from 2008 to 2012 and is a director of the nonprofit TechnoServe and Tech:NYC. She also is a Strategic Advisor at Technology Crossover Ventures. Ms. Peluso was selected to serve on the Board because of her extensive experience in, and understanding of, online retail, marketing, branding, and digital connections with consumers, which are integral components of the Company’s growth strategy.
+Board Recommendation
+The Board of Directors recommends that the Class B Shareholders vote FOR the election of nominees above to the Board of Directors.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+10
+CORPORATE GOVERNANCE
+Director Compensation for Fiscal 2018
+Name
+Fees Earned or Paid in Cash
+($)
+Stock Awards
+(1)(2)
+($)
+Change in Pension Value and
+Nonqualified Deferred Compensation
+Earnings
+($)
+All Other
+Compensation
+(3)
+($)
+Total
+($)
+Elizabeth J. Comstock
+90,000
+165,049
+—
+255,049
+John G. Connors
+101,882
+165,049
+—
+20,000
+286,931
+Timothy D. Cook
+130,000
+165,049
+—
+20,000
+315,049
+John J. Donahoe II
+95,000
+165,049
+—
+260,049
+Alan B. Graf, Jr.
+115,000
+165,049
+—
+280,049
+Peter B. Henry
+26,250
+(4)
+165,013
+—
+191,263
+Travis A. Knight
+90,000
+165,049
+—
+255,049
+John C. Lechleiter
+105,000
+165,049
+—
+20,000
+290,049
+Michelle A. Peluso
+92,294
+165,049
+—
+14,285
+271,628
+Johnathan A. Rodgers
+90,000
+165,049
+—
+255,049
+John R. Thompson, Jr.
+72,000
+165,049
+—
+41,984
+279,033
+Phyllis M. Wise
+32,308
+(5)
+—
+20,000
+52,308
+(1)
+Represents the grant date fair value of restricted stock awards granted in fiscal 2018 computed in accordance with accounting guidance applicable to stock-based compensation. The grant date fair value is based on the closing market price of our Class B Stock on the grant date. As of May 31, 2018, non-employee directors held the following number of outstanding shares of unvested restricted stock: Ms. Comstock, 3,103; Mr. Connors, 3,103; Mr. Cook, 3,103; Mr. Donahoe, 3,103; Mr. Graf, 3,103; Mr. Henry, 2,416; Mr. Knight, 3,103; Dr. Lechleiter, 3,103; Ms. Peluso, 3,103; Mr. Rodgers, 3,103; and Mr. Thompson, 3,103.
+(2)
+As of May 31, 2018, non-employee directors held outstanding options for the following number of shares of our Class B Stock: Ms. Comstock, 90,000; Mr. Connors, 90,000; Mr. Cook, 90,000; Dr. Lechleiter, 126,000; and Mr. Rodgers, 122,000.
+(3)
+Includes matched contributions to charities in the following amounts: Mr. Connors, $20,000; Mr. Cook, $20,000; Dr. Lechleiter, $20,000; Ms. Peluso, $14,285; Mr. Thompson, $20,000; and Dr. Wise, $20,000. Also includes medical and life insurance premiums paid by the Company of $21,984 for Mr. Thompson.
+(4)
+Mr. Henry was appointed to the Board of Directors on February 14, 2018 (includes prorated annual retainer payments).
+(5)
+Dr. Wise did not stand for re-election at our 2017 annual meeting of shareholders and retired effective September 21, 2017 (includes prorated annual retainer payments).
+Director Fees and Arrangements
+Under our standard director compensation program in effect for fiscal 2018, non-employee directors received:
+•
+An annual retainer of $90,000, paid in quarterly installments.
+•
+Upon appointment, a one-time, sign-on restricted stock award valued at $165,000 on the date of grant, generally, the date of appointment. The one-time, sign-on restricted stock award is subject to forfeiture in the event that service as a director terminates prior to anniversary of the date of grant.
+•
+An annual restricted stock award valued at $165,000 on the date of grant, generally, the date of each annual meeting of shareholders. The annual restricted stock award is subject to forfeiture in the event that service as a director terminates prior to the next annual meeting.
+•
+For the Lead Independent Director, an annual retainer of $25,000, paid in quarterly installments.
+•
+For chairs of board committees (other than the Executive Committee), an annual retainer of $15,000 for each committee chaired ($20,000 for the chair of the Audit & Finance Committee), paid in quarterly installments.
+•
+For Audit & Finance Committee members, an additional annual retainer of $5,000, paid in quarterly installments.
+•
+Payment or reimbursement of travel and other expenses incurred in attending Board meetings.
+•
+Matching charitable contributions under the NIKE Matching Gift Program, under which directors are eligible to contribute to qualified charitable organizations and the Company provides a matching contribution to the charities in an equal amount, up to $20,000 in the aggregate, for each director annually.
+In fiscal 2018, Mses. Comstock and Peluso, Messrs. Connors, Cook, Donahoe, Graf, Henry, Knight, and Rodgers, and Dr. Lechleiter participated in our standard director compensation program as described above, and Dr. Wise participated in our standard director compensation program prior to her retirement. Mr. Parker does not receive any compensation for his Board service or his position as Chairman of the Board.
+Mr. Thompson does not participate in our standard director compensation program. In fiscal 2018, pursuant to his election made in fiscal 2000, Mr. Thompson received an annual retainer of $72,000 (instead of the $90,000 annual retainer fee paid under our standard program), medical insurance, and $500,000 of life insurance coverage paid for by the Company. Additionally, on September 21, 2017, the date of the 2017 annual meeting of shareholders, Mr. Thompson received an annual restricted stock award valued at $165,000 on the same terms as apply to the restricted stock awards granted pursuant to our standard program. He is also eligible for payment or reimbursement of board-related expenses, and participation in the NIKE Matching Gift Program on the same basis as other directors.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+11
+CORPORATE GOVERNANCE
+Effective June 1, 2018, the Company changed the standard director compensation program by increasing the annual retainer to $100,000 per year, increasing the value of the annual restricted stock award to $175,000 on the date of grant, increasing the value of the one-time, sign-on restricted stock award to $175,000 on the date of grant for newly appointed non-employee directors, and increasing the annual leadership retainers for the Lead Independent Director and the chairs of Board committees (other than the chair of the Executive Committee) by $5,000, resulting in the following annual leadership retainers: Lead Independent Director, $30,000; Audit & Finance Committee Chair, $25,000; Compensation Committee Chair, $20,000; and Corporate Responsibility, Sustainability & Governance Committee Chair, $20,000. The Company made these changes to the director compensation program to maintain the competitiveness of the Company’s director compensation program and to reinforce our directors’ ability to meet the stock ownership guidelines described below.
+Effective June 1, 2018, and in connection with the changes to the standard director compensation program described above, Mr. Thompson’s annual retainer increased to $82,000 and the value of his annual restricted stock award increased to $175,000 on the date of the grant. His other compensation, including medical and life insurance, payment or reimbursement of board-related expenses, and participation in the NIKE Matching Gift Program remain unchanged.
+Stock Ownership Guidelines for Directors
+NIKE maintains stock ownership guidelines for all non-employee directors. Under these guidelines, directors are required to hold NIKE stock valued at five times their annual cash retainer. New directors are required to attain these ownership levels within five years of their election to the Board. Each of our directors has met or is on track to meet the specified ownership level.
+Director Participation in Deferred Compensation Plan
+Under our Deferred Compensation Plan, non-employee directors may elect in advance to defer up to 100 percent of the director fees paid by the Company. For a description of the plan, see “Non-Qualified Deferred Compensation in Fiscal 2018” below. In addition, in fiscal 2000, Mr. Thompson received credits to a fully vested NIKE stock account under the Deferred Compensation Plan in exchange for his waiver of rights to future payments under a former non-employee director retirement program. The Class B Stock credited to Mr. Thompson’s account is distributed to him upon his retirement from the Board and the account is credited with quarterly dividends until distributed.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+12
+CORPORATE GOVERNANCE
+Stock Holdings of Certain Owners and Management
+The following table sets forth the number of shares of the classes of NIKE securities beneficially owned, as of June 30, 2018, after giving effect to any transactions that occurred on such date, by (i) each person known to the Company to be the beneficial owner of more than 5 percent of any class of the Company’s securities, (ii) each of the directors and nominees for director, (iii) each executive officer listed in the Summary Compensation Table (“Named Executive Officers”), and (iv) all nominees, Named Executive Officers, and other executive officers as a group. Because Class A Stock is convertible into Class B Stock on a share-for-share basis, each beneficial owner of Class A Stock is deemed by the SEC to be a beneficial owner of the same number of shares of Class B Stock. Therefore, in indicating a person’s beneficial ownership of shares of Class B Stock in the table, it has been assumed that such person has converted into Class B Stock all shares of Class A Stock of which such person is a beneficial owner. For these reasons the table contains substantial duplications in the numbers of shares and percentages of Class A and Class B Stock shown for Swoosh, LLC, Philip H. Knight, the Travis A. Knight 2009 Irrevocable Trust II, and Travis A. Knight in his capacity as the Trustee of such Trusts. In addition, unless otherwise indicated, all persons named below can be reached c/o Ann M. Miller, Vice President, Corporate Secretary & Chief Compliance Officer, NIKE, Inc., One Bowerman Drive, Beaverton, Oregon 97005-6453.
+Title of Class
+Shares Beneficially Owned
+(1)
+Percent of Class
+(2)
+Cathleen A. Benko
+Class B
+—
+(3)
+—
+Elizabeth J. Comstock
+Class B
+102,763
+(4)
+—
+John G. Connors
+Class B
+128,603
+(4)
+—
+Timothy D. Cook
+Class B
+108,763
+(4)
+—
+John J. Donahoe II
+Class B
+16,995
+—
+Alan B. Graf, Jr.
+Class B
+195,715
+—
+Peter B. Henry
+Class B
+2,416
+—
+Travis A. Knight
+Class A
+38,856,369
+(6)
+11.8
+%
+Class B
+38,874,592
+(6)
+3.0
+%
+John C. Lechleiter
+Class B
+157,763
+(4)
+—
+Mark G. Parker
+(7)
+Class B
+4,927,444
+(4)(8)
+0.4
+%
+Michelle A. Peluso
+Class B
+17,099
+—
+Johnathan A. Rodgers
+Class B
+134,763
+(4)
+—
+John R. Thompson, Jr.
+Class B
+77,946
+(5)
+—
+Andrew Campion
+(7)
+Class B
+437,191
+—
+Eric D. Sprunk
+(7)
+Class B
+384,187
+(4)
+—
+Hilary K. Krane
+(7)
+Class B
+492,390
+(4)(8)
+—
+John F. Slusher
+(7)
+Class B
+899,067
+(4)(8)
+—
+Trevor A. Edwards
+(7)
+Class B
+1,796,180
+(4)(8)
+0.1
+%
+Sojitz Corporation of America
+1211 S.W. 5th Ave, Pacwest Center, Ste. 2220, Portland, OR 97204
+Preferred
+(8)
+300,000
+100.0
+%
+Philip H. Knight
+Class A
+26,054,487
+7.9
+%
+One Bowerman Drive, Beaverton, OR 97005
+Class B
+45,065,174
+(10)
+3.5
+%
+Swoosh, LLC
+Class A
+255,000,000
+(11)
+77.5
+%
+22990 NW Bennett Street, Hillsboro, OR 97124
+Class B
+255,000,000
+16.7
+%
+Travis A. Knight 2009 Irrevocable Trust II
+Class A
+38,856,369
+(6)
+11.8
+%
+22990 NW Bennett Street, Hillsboro, OR 97124
+Class B
+38,856,369
+(6)
+3.0
+%
+The Vanguard Group
+100 Vanguard Blvd., Malvern, PA 19355
+Class B
+101,511,950
+(12)
+7.8
+%
+BlackRock, Inc.
+40 East 57th Street, New York, NY 10022
+Class B
+79,221,723
+(13)
+6.1
+%
+All directors and executive officers as a group (21 persons)
+Class A
+38,856,369
+(6)(14)
+11.8
+%
+Class B
+49,430,605
+(4)(6)(14)
+3.9
+%
+(1)
+A person is considered to beneficially own any shares: (a) over which the person exercises sole or shared voting or investment power, or (b) of which the person has the right to acquire beneficial ownership at any time within 60 days (such as through conversion of securities or exercise of stock options). Unless otherwise indicated, voting and investment power relating to the above shares is exercised solely by the beneficial owner or shared by the owner and the owner’s spouse or children.
+(2)
+Omitted if less than 0.1 percent.
+(3)
+Ms. Benko received a one-time, sign-on restricted stock award valued at $175,000 effective July 12, 2018, the date of her appointment to the Board. This award is consistent with the Company’s standard director compensation program in effect for fiscal 2019.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+13
+CORPORATE GOVERNANCE
+(4)
+These amounts include the right to acquire, pursuant to the exercise of stock options, within 60 days after June 30, 2018, the following numbers of shares: 90,000 shares for Ms. Comstock, 90,000 shares for Mr. Connors, 90,000 shares for Mr. Cook, 126,000 shares for Dr. Lechleiter, 3,611,250 shares for Mr. Parker, 122,000 shares for Mr. Rodgers, 406,250 shares for Mr. Campion, 343,750 shares for Mr. Sprunk, 370,000 shares for Ms. Krane, 785,000 shares for Mr. Slusher, 1,335,000 shares for Mr. Edwards, and 7,394,250 shares for the executive officer and director group.
+(5)
+Includes 33,183 shares credited to Mr. Thompson’s account under the NIKE, Inc. Deferred Compensation Plan.
+(6)
+Includes 19,713,989 shares of Class A Stock held directly by the Travis A. Knight 2009 Irrevocable Trust II (the “Trust”), of which Mr. Travis Knight is the Trustee, and 19,142,380 shares of Class A Stock held by an indirect subsidiary of the Trust. Mr. Knight and members of his immediate family are among the beneficiaries of the Trust. Mr. Knight disclaims beneficial ownership of the Company’s securities held directly and indirectly by the Trust, except to the extent of his pecuniary interest therein. On June 30, 2016, a wholly owned subsidiary of the Trust acquired all of the voting units in Swoosh, LLC. Mr. Knight disclaims beneficial ownership of all securities held by Swoosh, LLC.
+(7)
+Named Executive Officer listed in the Summary Compensation Table.
+(8)
+Includes shares held in accounts under the NIKE, Inc. 401(k) and Profit Sharing Plan for Messrs. Parker, Slusher, Edwards, and Ms. Krane in the amounts of 35,640, 2,747, 18,840, and 116, respectively.
+(9)
+Preferred Stock does not have general voting rights except as provided by law, and under certain circumstances as provided in the Company’s Restated Articles of Incorporation, as amended.
+(10)
+Does not include: (a) 521,792 shares of Class A Stock that are owned by Mr. Philip Knight’s spouse, and (b) 2,836,056 shares of Class B Stock held by the Knight Foundation, a charitable foundation in which Mr. Philip Knight and his spouse are directors. Mr. Philip Knight has disclaimed ownership of all such shares. Mr. Philip Knight holds the position Chairman Emeritus, and has a standing invitation to attend all meetings of the Board as a non-voting observer.
+(11)
+Information provided as of July 7, 2017 in the Form 4 filed by the shareholder.
+(12)
+Information provided as of February 9, 2018 in Schedule 13G filed by the shareholder.
+(13)
+Information provided as of February 8, 2018 in Schedule 13G filed by the shareholder.
+(14) These amounts do not include shares owned by Mr. Philip Knight who retired from the Board in 2016.
+Section 16(a) Beneficial Ownership Reporting Compliance
+Section 16(a) of the Securities Exchange Act of 1934 requires the Company’s directors and executive officers, and persons who own more than 10 percent of a registered class of the Company’s equity securities, to file with the SEC and the NYSE, initial reports of ownership and reports of changes in ownership of Common Stock and other equity securities of the Company. Officers, directors, and greater than 10 percent shareholders are required by the regulations of the SEC to furnish the Company with copies of all Section 16(a) forms they file. To the Company’s knowledge, based solely on review of the copies of such reports furnished to the Company and written representations that no other reports were required, during fiscal 2018 all Section 16(a) filing requirements applicable to its officers, directors, and greater than 10 percent beneficial owners were complied with.
+Transactions with Related Persons
+In fiscal 2018, two of Mr. Parker’s siblings, each with over 25 years of service to the Company, were employed by the Company in non-executive roles. Ann Parker was a Design Talent Scout, and Stephen Parker held a Vice President role with Converse. During fiscal 2018, the Company paid aggregate compensation to Stephen Parker in the amount of $486,535, comprised of salary, bonuses, the value of stock awards granted during the fiscal year, a valued service award and associated tax reimbursement, profit sharing and matching contributions to Company-sponsored retirement plans. Additionally, the Company paid aggregate compensation to Ann Parker in the amount of approximately $487,367, comprised of approximately $306,037 paid in connection with her termination of service as well as the compensation components listed above. The compensation and benefits received by each of Mr. Parker’s siblings, including the separation benefits received by Ann Parker and the 30th anniversary service award received by Stephen Parker, were consistent with compensation paid to other similarly situated employees.
+Eric Sprunk’s daughter, Nicole Sprunk, was employed by the Company in a non-executive role in fiscal 2018 as a Brand Director. During fiscal 2018, the Company paid aggregate compensation to Nicole Sprunk of $196,748, comprised of salary, bonus, the value of stock granted, profit sharing and matching contributions to the Company-sponsored retirement plan. The compensation and benefits received by Nicole Sprunk were consistent with compensation paid to other employees holding similar positions.
+Philip H. Knight, the father of NIKE director Travis A. Knight, serves as Chairman Emeritus, which provides a standing invitation for Philip H. Knight to attend meetings of the Board and its committees as a non-voting observer. As Chairman Emeritus, Mr. Knight receives an annual salary of $500,000, and medical and dental insurance coverage generally available to employees. In fiscal 2018, Philip H. Knight received $516,819, comprised of salary, profit sharing and matching contributions to Company-sponsored retirement plans.
+The Company’s written policy requires the Corporate Responsibility, Sustainability & Governance Committee to review any transaction or proposed transaction with a related person that would be required to be reported under Item 404(a) of Regulation S-K, and to determine whether to ratify or approve the transaction, with ratification or approval to occur only if the Committee determines that the transaction is fair to the Company or that approval or ratification of the transaction is in the interest of the Company.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+14
+CORPORATE GOVERNANCE
+Compensation Committee Interlocks and Insider Participation
+The members of the Compensation Committee of the Board of Directors during fiscal 2018 were Timothy D. Cook, Elizabeth J. Comstock, John C. Lechleiter, and Johnathan A. Rodgers. The Committee is composed solely of independent, non-employee directors. No member of the Compensation Committee has been an executive officer of the Company, and no member of the Compensation Committee had any relationships requiring disclosure by the Company under the SEC’s rules requiring disclosure of certain relationships and related-party transactions. None of the Company’s executive officers served as a director or member of a compensation committee (or other committee serving an equivalent function) of any other entity, the executive officers of which served as a director or member of the Compensation Committee of the Company during fiscal 2018.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+15
+COMPENSATION DISCUSSION AND ANALYSIS
+Executive Summary
+This Compensation Discussion and Analysis explains our compensation philosophy, summarizes our compensation programs, and reviews compensation decisions for our Chief Executive Officer, our Chief Financial Officer, our next three most highly compensated executive officers who were serving as executive officers on May 31, 2018 (collectively, the “Continuing Officers”), and one former executive officer who would have been one of the three most highly compensated executive officers if he was serving as an executive officer on May 31, 2018. These individuals are referred to throughout this proxy statement as the “Named Executive Officers”. The Named Executive Officers for fiscal 2018 were:
+•
+Mark G. Parker, Chairman, President and Chief Executive Officer
+•
+Andrew Campion, Executive Vice President and Chief Financial Officer
+•
+Eric D. Sprunk, Chief Operating Officer
+•
+Hilary K. Krane, Executive Vice President, Chief Administrative Officer and General Counsel
+•
+John F. Slusher, Executive Vice President, Global Sports Marketing
+•
+Trevor A. Edwards, Former President, NIKE Brand
+Mr. Edwards resigned as President, NIKE Brand, effective March 15, 2018, and will retire from the Company in August 2018.
+Our executive compensation program, similar to our non-executive compensation programs, is aligned with our business strategy and our culture and is designed to attract and retain top talent, reward business results and performance, viewed holistically, and most importantly, maximize shareholder value. Our total compensation program for the Named Executive Officers is highly incentive-based and competitive in the marketplace, with Company performance determining a significant portion of total compensation.
+Executive Compensation Governance Practices
+To achieve the objectives of our executive compensation program and emphasize pay-for-performance principles, the Compensation Committee of the Board of Directors (the “Committee”) employs strong governance practices as outlined in the table below.
+We Do
+We Don’t Do
+ü
+Base a majority of total compensation on performance and retention incentives
+ü
+Set annual and long-term incentive targets based on clearly disclosed, objective performance measures
+ü
+Mitigate undue risk associated with compensation by using multiple performance targets, caps on potential incentive payments, and a clawback policy
+ü
+Require executive officers to hold NIKE stock through stock ownership guidelines
+ü
+Vest equity awards over time to promote retention with a minimum of one year vesting
+ü
+Provide double-trigger change-in-control equity acceleration
+ü
+Conduct annual “say-on-pay” advisory votes
+û
+Retirement acceleration for restricted stock or restricted stock units (“RSUs”)
+û
+Payments of accumulated dividends on unearned RSUs until and unless shares are earned
+û
+Repricing of options without shareholder approval
+û
+Permit hedging transactions or short sales by executive officers
+û
+Significant perquisites
+û
+Tax gross-ups for perquisites
+û
+Pension or supplemental executive retirement plan
+û
+Employment contracts
+û
+Cash-based change-in-control benefits
+û
+Excise tax gross-ups upon change of control
+Consideration of Say-on-Pay Vote Results
+The non-binding advisory proposal regarding compensation of the Named Executive Officers submitted to shareholders at our 2017 annual meeting was approved by 94% of the votes cast. The Committee believes this favorable outcome conveyed our shareholders’ support of our executive compensation program and the Committee’s decisions. After considering the shareholder vote and other factors in its annual review of our total executive compensation programs, the Committee made no material changes in the structure of our compensation programs. The Committee will continue to consider the outcome of the Company’s say-on-pay votes when conducting its regular practice of evaluating the executive compensation program and making future compensation decisions for the Named Executive Officers.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+16
+COMPENSATION DISCUSSION AND ANALYSIS
+Financial Highlights
+NIKE delivered solid performance in fiscal 2018. Earnings per share, however, was impacted by the Tax Cuts and Jobs Act. The charts below set forth certain key financial results that were used in connection with determining payouts for our Named Executive Officers under our incentive compensation plans for fiscal 2018. The measures below are based on NIKE’s comparable publicly reported financial results.
+1
+Excluded from the 2018 result was the income tax benefit ($0.14 per share) from adoption of a stock compensation accounting change in the first quarter of fiscal 2018 (Financial Accounting Standards Board (“FASB”) Accounting Standard Update 2016-09).
+Executive Compensation Highlights
+The total compensation for each of the Named Executive Officers is shown in the Summary Compensation Table on page 28. While we describe executive compensation in greater detail throughout this Compensation Discussion and Analysis, key actions the Committee took in fiscal 2018 are highlighted below:
+•
+Base Salary.
+Based on the recommendation by the Committee, which was approved by the independent members of the Board in June 2017,
+Mr. Parker’s base salary remained the same at $1,550,000. Base salaries for Messrs. Campion and Sprunk increased to $975,000 and $1,100,000, respectively. Base salaries for Ms. Krane and Mr. Slusher were each set at $900,000. Mr. Edwards’ base salary increased to $1,200,000.
+•
+Performance-Based Annual Incentive Plan.
+Target awards for Messrs. Parker, Campion, and Sprunk remained the same. Target awards for Ms. Krane and Mr. Slusher were each set at 90%. Mr. Edwards’ target remained the same. Based on financial performance goals set by the Committee in June 2017 and actual performance results, no Named Executive Officer was paid an annual cash incentive award for fiscal 2018.
+•
+Performance-Based Long-Term Incentive Plan.
+The target awards for the fiscal 2018-2020 performance period were set in June 2017. The target award for Mr. Parker remained the same at $3,500,000, and target awards for Messrs. Campion and Sprunk each increased to $1,000,000. Target awards for Ms. Krane and Mr. Slusher were each set at $700,000. Mr. Edward’s target award increased to $1,500,000. Based on long-term financial performance goals set by the Committee in June 2015 and actual performance results, each Named Executive Officer received a payout for the fiscal 2016-2018 performance period of 37% of target. In addition, each Continuing Officer received a discretionary cash bonus equal to 37% of his or her performance-based LTIP target, as further described in “Elements of Our Compensation Program - Performance-Based Long Term Cash Incentive”.
+•
+Stock Options.
+The annual awards for Messrs. Parker, Campion, and Sprunk remained the same at 165,000, 75,000, and 85,000 option shares, respectively. Ms. Krane and Mr. Slusher were each awarded 70,000 option shares. Each award vests in equal annual installments over four years. Mr. Edwards’ annual award remained the same at 100,000 option shares and will be eligible for continued vesting upon Mr. Edwards’ retirement in August 2018, based on his age and years of service, as further described in “Stock Options”.
+•
+Restricted Stock.
+The annual award value for Mr. Parker remained the same, and award values for Messrs. Campion and Sprunk increased to $1,000,000. Ms. Krane’s award value was set at $850,000. Mr. Slusher’s award value was set at $750,000. Mr. Edwards’ annual award value increased to $1,200,000. Each award vests in equal annual installments over three years. This award will not fully vest for Mr. Edwards given his retirement in August 2018.
+•
+Restricted Stock Unit Retention Awards.
+In July 2017, Messrs. Campion and Sprunk each received a retention award of restricted stock units (“RSUs”) in the amount of $6,000,000. Ms. Krane and Mr. Slusher each received a retention award of RSUs in the amount of $4,000,000. Mr. Edwards received a retention award of RSUs in the amount of $6,000,000. Mr. Parker did not receive any retention award. These awards are intended to further promote retention of key leaders while simultaneously providing incentives consistent with driving shareholder value. They are scheduled to vest in full on the third anniversary of the grant date. The awards have no value to the recipients unless they remain employed with the Company for the full vesting period. Mr. Edwards’ retention award will be forfeited in full as his retirement in August 2018 will precede the vesting date.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+17
+COMPENSATION DISCUSSION AND ANALYSIS
+Operation of the Compensation Committee
+The Committee evaluates the performance of the CEO against goals and objectives reviewed and approved by the Committee. Based on the evaluation, the Committee Chair discusses the CEO’s performance and recommended compensation with the independent members of the Board. The CEO’s base salary and the base salaries of the other Named Executive Officers are approved by the independent members of the Board based on the Committee’s recommendation. The Committee has sole responsibility for all other elements of Named Executive Officer compensation. The Committee also reviews the performance evaluation of each Named Executive Officer and oversees the administration of our executive compensation programs. The Committee receives recommendations from the CEO as to compensation of other Named Executive Officers, and the CEO participates in Committee discussions regarding the compensation of those officers. The Committee meets in executive session without the CEO to determine his compensation. The Committee is currently comprised of Timothy D. Cook (Chairman), Elizabeth J. Comstock, and Johnathan A. Rodgers, each of whom is an independent director under applicable NYSE listing standards. The Committee operates pursuant to a written charter that is available on our website at:
+http://investors.nike.com
+.
+Each year, the Committee reviews our executive compensation program to ensure it continues to reflect the Committee’s commitment to align the objectives and rewards of our executive officers with the creation of value for our shareholders. Similar to our non-executive compensation programs, the program has been designed to reinforce our pay-for-performance philosophy by delivering total compensation that motivates and rewards short- and long-term financial performance to maximize shareholder value, and to be externally competitive to attract and retain outstanding and diverse executive talent. This is done much in the same way our human resources staff designs our non-executive compensation programs, to ensure they are market competitive, offer performance-based financial incentives, and provide opportunities to share in total Company success through competitive benefits, employee stock purchase programs, and broad-based profit sharing. In conducting its annual review, the Committee considers information provided by our human resources staff. Our human resources staff retains independent compensation consulting firms to provide surveys and reports containing competitive market data. These consultants do not formulate executive compensation strategies for NIKE or recommend individual executive compensation. The human resources staff uses the surveys and reports to make recommendations to the Committee concerning executive compensation. The Committee relies on its collective experience and judgment along with the recommendations prepared by our human resources staff to set executive compensation. The Committee has the authority, in its sole discretion, to retain compensation consultants to assist the Committee in evaluating the compensation of executive officers, but chose to not retain any such consultants in fiscal 2018.
+Use of Market Survey Data
+To help establish competitive ranges of base salary, incentive compensation opportunities, and target total compensation for the purpose of making recommendations to the Committee, our human resources staff uses competitive market data from surveys and reports prepared by Aon Hewitt and Willis Towers Watson. We consider market survey data from a peer group of companies that have similar revenue size, market capitalization, brand value, products, or markets, or with which we compete for executive talent. For purposes of setting executive compensation for fiscal 2018, the companies in our peer group were unchanged from fiscal 2017 and consisted of the following:
+Alphabet Inc.
+Kellogg Company
+Procter & Gamble Company
+The Coca-Cola Company
+Kimberly-Clark Corporation
+Starbucks Corporation
+Colgate-Palmolive Company
+Macy’s, Inc.
+Target Corporation
+eBay Inc.
+McDonald’s Corporation
+Time Warner Inc.
+FedEx Corporation
+Mondelez International, Inc.
+TJX Companies
+The Gap, Inc.
+Pepsico, Inc.
+The Walt Disney Company
+The surveys that our human resources staff reviews show percentile compensation levels for various executive positions with comparable job responsibilities. The staff also analyzes market data regarding compensation mix among base salary, annual incentive and long-term incentives such as performance-based cash awards, stock options, restricted stock and restricted stock unit awards. The Committee reviews this mix analysis when evaluating the separate compensation elements for each executive. The Committee does not endeavor to set executive compensation at or near any particular percentile, and it considers target total compensation to be competitive if it is generally within a reasonable range of the market median. Market data is one of many factors that the Committee considers in the determination of executive compensation levels. Other factors include internal pay equity, level of responsibility, the individual’s performance viewed holistically, expectations regarding the individual’s future potential contributions, ability to drive the Company’s culture and ethics with integrity, succession planning and retention strategies, budget considerations, and the Company’s performance.
+In November 2017, we conducted our regular periodic review of our peer group. Based on the criteria described above, we determined that for purposes of setting executive compensation for fiscal 2019, the peer group above should be refined to include Microsoft Corporation and Comcast Corporation, and to remove Alphabet Inc. and eBay Inc.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+18
+COMPENSATION DISCUSSION AND ANALYSIS
+Objectives and Elements of Our Compensation Program
+As noted in the Executive Summary, our executive compensation program is aligned with our business strategy and our culture and is designed to attract and retain top talent, reward business results and performance, viewed holistically, and most importantly, maximize shareholder value. Our holistic view of performance considers the individual’s ability to deliver business results, engage and motivate our employees, their leadership capacity, ability to drive the Company’s culture and ethics with integrity, and commitment to diversity and inclusion. Our total compensation program for the Named Executive Officers is highly incentive-based and competitive in the marketplace, with Company performance determining a significant portion of total compensation. The key elements of our program consist of the following:
+•
+Base salary that reflects the executive’s accountabilities, skills, experience, performance, and future potential
+•
+Performance-based annual cash incentive based on Company financial results under our Executive Performance Sharing Plan
+•
+A portfolio approach to long-term incentive compensation to provide a balanced mix of performance-based cash incentives and equity, including:
+◦
+Performance-based long-term cash incentive based on Company financial results to encourage attainment of long-term Company financial objectives
+◦
+Stock options to align the interests of executives with those of shareholders
+◦
+Restricted stock awards and restricted stock unit retention awards to provide incentives consistent with driving shareholder value, and to provide strong retention incentives
+•
+Benefits
+◦
+Executives are generally eligible for the same competitive benefits as other employees in the United States, including medical, dental, and vision insurance, paid time off, 401(k) plan, and Company-provided life and disability insurance; employees outside of the United States are offered locally competitive benefits
+◦
+Profit sharing contributions to defined contribution retirement plans
+◦
+Employee Stock Purchase Plan
+◦
+Post-termination payments under non-competition agreements
+In determining the award levels for each of the elements in our total compensation program, our philosophy is to “pay for performance”. As a result, we place relatively greater emphasis on the performance incentive components of compensation (performance-based annual cash incentive award, performance-based long-term cash incentive award, and stock options) to align the interests of our executives with shareholders, and motivate them to maximize shareholder value. This is balanced with retention incentives provided by base salary, restricted stock awards, and RSU awards.
+We look to the experience and judgment of the Committee to determine what it believes to be the appropriate target compensation mix for each Named Executive Officer. We do not apply fixed ratios or formulas, or rely solely on market data or quantitative measures. In allocating compensation among the various elements, the Committee considers market data, Company performance and budget, the impact of the executive’s position in the Company, past performance, viewed holistically, expectations for future performance, experience in the position, any recent or anticipated changes in the individual’s responsibilities, internal pay equity for comparable positions, and retention incentives for succession planning. As shown in the charts below, incentive components accounted for nearly 90% of the CEO’s target compensation and approximately 80% of the other Named Executive Officers’ target compensation in fiscal 2018. For purposes of this analysis, RSU retention awards, which were granted to Mr. Campion, Mr. Sprunk, Ms. Krane, Mr. Slusher, and Mr. Edwards in fiscal 2018, are excluded to reflect the compensation mix targeted by the Committee on an annual basis.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+19
+COMPENSATION DISCUSSION AND ANALYSIS
+Elements of Our Compensation Program
+Base Salary
+When making recommendations to the Committee concerning base salary levels for our Named Executive Officers, our human resources staff follows a similar process to how they evaluate non-executive base salary levels. We consider the individual’s performance in the prior year, expectations regarding the individual’s future performance, experience in the position, any recent or anticipated changes in the individual’s responsibilities, internal pay equity for comparable positions, succession planning strategies, our annual salary budget, other elements of the individual’s compensation, and the market data described in “Use of Market Survey Data”. The Committee reviews these factors each year and adjusts base salary levels to ensure that we are appropriately rewarding performance, viewed holistically.
+The Committee generally reviews base salaries of the Named Executive Officers annually based on a review of individual performance at a meeting in June, with salary adjustments becoming effective for the first pay period ending in August. During the salary review in June 2017, the Committee recommended, based on the factors described above, and the independent members of the Board approved, the following base salaries for the Named Executive Officers.
+Named Executive Officer
+Fiscal 2018 Base Salary
+% Change
+Mark G. Parker
+$1,550,000
+0.0%
+Andrew Campion
+$975,000
+8.3%
+Eric D. Sprunk
+$1,100,000
+4.8%
+Hilary K. Krane
+$900,000
+N/A
+John F. Slusher
+$900,000
+N/A
+Trevor A. Edwards
+$1,200,000
+14.3%
+In setting a Named Executive Officer’s overall compensation package, the Committee places a relatively greater emphasis on the incentive components of compensation described below.
+Performance-Based Annual Cash Incentive
+Annual awards are paid to the Named Executive Officers under our Executive Performance Sharing Plan (“PSP”). Our “pay for performance” philosophy for such awards is simple and applies to all global employees who are eligible to share in the Company’s success through incentive bonuses: if we exceed our financial objectives, we will pay more; if we fail to reach them, we will pay less or nothing at all. The PSP for all executives is based 100% on overall corporate performance each year against a target based on the Company’s annual financial objective, as measured by income before income taxes (“PTI”), excluding the effect of any acquisitions, divestitures, accounting changes, restructurings or other extraordinary, unusual or infrequently occurring items in accordance with the PSP terms and conditions. The Committee selected PTI as the performance measure as it aligns with the Company’s operational financial targets for the individual fiscal year. By focusing on driving strong operational performance each year, the plan supports our goal of delivering sustainable, profitable growth. In support of our culture, the Committee retains the discretion to reduce or eliminate PSP award payouts based on individual or Company performance. Basing our annual cash incentive award program for all executives on overall corporate performance is intended to foster teamwork and send the message to each executive that his or her role is to help ensure overall organizational success and maximize shareholder value.
+Each year the Committee establishes a PSP target award for each Named Executive Officer based on its judgment of the impact of the position in the Company and what it believes to be competitive against market data as described in “Use of Market Survey Data”, while considering internal pay equity for comparable positions. For fiscal 2018, the Committee maintained Messrs. Parker, Campion, and Sprunk’s target awards. Ms. Krane’s and Mr. Slusher’s target awards were set at 90%. Mr. Edwards’ target award remained the same. The fiscal 2018 PSP target awards were:
+Named Executive Officer
+Fiscal 2018 PSP Target Award
+(% of base salary)
+Mark G. Parker
+180%
+Andrew Campion
+100%
+Eric D. Sprunk
+100%
+Hilary K. Krane
+90%
+John F. Slusher
+90%
+Trevor A. Edwards
+110%
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+20
+COMPENSATION DISCUSSION AND ANALYSIS
+In June 2017, the Committee established performance goals for the fiscal 2018 PSP awards based on its evaluation of our business plan and prospects for the year. When setting these goals, the Committee considered evolving business dynamics, achievability to support engagement, and appropriate stretch to drive growth consistent with NIKE’s long-term financial model. The target for fiscal 2018 was set at $4,717 million. The table below summarizes the fiscal 2018 PSP performance goals established by the Committee. For fiscal 2018, NIKE achieved a PTI of $4,325 million, which was below the threshold performance goal established by the Committee. As a result, no executive officer was paid an annual cash incentive award for fiscal 2018.
+(Dollars in millions)
+Fiscal 2018 PSP Performance Goal
+Threshold Performance
+Threshold % Payout
+Target Performance
+Target % Payout
+Maximum Performance
+Maximum % Payout
+Actual Performance
+Actual % Payout
+PTI
+$4,528
+50%
+$4,717
+100%
+$5,094
+150%
+$4,325
+0%
+Performance-Based Long-Term Cash Incentive
+The first component in our long-term portfolio mix is performance-based awards payable in cash under our Long-Term Incentive Plan (“LTIP”). As with the performance-based annual cash incentive, the LTIP follows our “pay for performance” philosophy. If we exceed our targets, we will pay more; if we fall short, we will pay less or nothing at all. This program focuses executives on overall, long-term financial performance, and is intended to reward them for delivering revenue growth and diluted earnings per share (“EPS”) growth over a three-year performance period. At the beginning of each fiscal year, the Committee establishes performance goals and potential cash payouts for the next three fiscal years for all executives under the LTIP. LTIP performance measures for all executives are based 50% on cumulative revenues and 50% on cumulative EPS for the three-year performance period, in each case excluding generally the effect of acquisitions, divestitures, accounting changes and other extraordinary, unusual or infrequently occurring items. The Committee selected revenue and EPS as LTIP performance measures to encourage executives to focus on delivering profitable, sustainable growth. Strong revenue growth is the foundation of the Company’s financial strategy, requiring investments in key business drivers to sustain growth. EPS growth is essential to delivering value for our shareholders, requiring investments be targeted to those areas with the highest potential for return. By balancing revenue growth and EPS growth, the plan supports the Company’s objective of delivering long-term shareholder value. In support of our culture, the Committee retains the discretion to reduce or eliminate LTIP award payouts based on individual or Company performance.
+During the compensation review in June 2017, the Committee approved LTIP target awards for all Named Executive Officers for the fiscal 2018-2020 performance period. The Committee set these targets based on its judgment of what it believes to be a desirable mix of long-term compensation, the impact of the position in the Company, and what it finds to be competitive against market data as described in “Use of Market Survey Data”, while maintaining internal pay equity for comparable positions. For the fiscal 2018-2020 performance period, the Committee maintained the target for Mr. Parker and increased the targets for each of Messrs. Campion and Sprunk to $1,000,000. Ms. Krane’s and Mr. Slusher’s targets were set at $700,000. Mr. Edwards’ target increased to $1,500,000. The target awards for the fiscal 2018-2020 performance period are as follows:
+Named Executive Officer
+Fiscal 2018-2020 LTIP Award Target ($)
+Mark G. Parker
+3,500,000
+Andrew Campion
+1,000,000
+Eric D. Sprunk
+1,000,000
+Hilary K. Krane
+700,000
+John F. Slusher
+700,000
+Trevor A. Edwards
+1,500,000
+In June 2017, the Committee established performance goals for the fiscal 2018-2020 LTIP. The Committee considered our long-term financial goals of high single-digit revenue growth and continued EPS growth in setting performance goals for the target award payout level. Additionally, goals were set to provide appropriate stretch to drive growth while balancing sustained engagement over the performance period. The total payout percentage will be the average of the payout percentages determined for cumulative revenues and cumulative EPS, respectively. Payout below the threshold payout level may occur if either the revenue or EPS related percentage achievement is less than 50%. If both revenue and EPS fall below the threshold level, there is no payout. The table below summarizes the fiscal 2018-2020 LTIP performance goals.
+(Dollars in millions, except per share data)
+Fiscal 2018-2020 Performance Goals
+Threshold Performance
+Threshold % Payout
+Target Performance
+Target % Payout
+Maximum Performance
+Maximum % Payout
+Revenue
+$113,703
+50%
+$118,162
+100%
+$127,430
+200%
+EPS
+$7.53
+50%
+$8.15
+100%
+$9.49
+200%
+For fiscal 2018, executive officers were eligible to receive LTIP award payouts based on performance targets set in June 2015 covering the fiscal 2016-18 performance period. In June 2018, the Committee determined a payout of 37% under these awards was earned based on the average of the payout percentages for cumulative revenues and cumulative EPS for the performance period shown in the table below. For non-executive officers, the Committee adjusted the payout to 74% primarily to offset the impact of the Tax Cuts and Jobs Act, which negatively impacted EPS.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+21
+COMPENSATION DISCUSSION AND ANALYSIS
+(Dollars in millions, except per share data)
+Fiscal 2016-2018 Performance Goals
+Threshold Performance
+Threshold % Payout
+Target Performance
+Target % Payout
+Maximum Performance
+Maximum % Payout
+Actual Performance
+Actual % Payout
+Revenue
+1
+$101,293
+50%
+$105,266
+100%
+$113,521
+200%
+$103,123
+73%
+EPS
+2
+$6.61
+50%
+$7.12
+100%
+$8.23
+200%
+$5.70
+0%
+Total Payout
+37%
+1
+Cumulative revenues for fiscal 2016, fiscal 2017, and fiscal 2018.
+2
+Cumulative EPS for fiscal 2016, fiscal 2017, and fiscal 2018 adjusted for adoption of stock compensation accounting change in the first quarter of fiscal 2018 (FASB Accounting Standard Update 2016-09).
+In July of 2018, in connection with the determination of the payout for the fiscal 2016-2018 LTIP, the Committee elected to normalize the payouts for the non-executive officers and the Continuing Officers by awarding a discretionary cash bonus to each of the Continuing Officers equal to 37% of their individual award target. The adjustment for the Continuing Officers was structured in the form of a discretionary cash bonus rather than a LTIP adjustment as the terms of the Company’s LTIP, as applicable to the Named Executive Officers, did not contemplate the impact of the Tax Cuts and Jobs Act. The Committee viewed these awards as integral to its efforts to drive sustained performance, viewed holistically, engagement, retention, and motivation of the Continuing Officers.
+Stock Options
+The second component in our long-term portfolio mix is stock options. Stock options are designed to align the interests of the Company’s executives with those of shareholders by encouraging executives to enhance the value of the Company and, hence, the price of the Class B Stock. This is true “pay for performance”, executives are rewarded only if the market price of our stock rises, and they get nothing if the price does not rise or goes down. When determining the grants, the Committee generally focuses on the number of shares, while considering the value for accounting purposes. Our approach is designed to carefully avoid fluctuations in grant levels due to share price changes and control annual share usage. The Committee awards stock options to each executive based on its judgment. The Committee considers a number of factors including performance, viewed holistically, management succession, competitive market data as described in “Use of Market Survey Data”, internal pay equity for comparable positions, and a desirable mix of long-term incentives. Our human resources staff periodically tests the reasonableness of our stock option grants against competitive market data and may make recommendations to the Committee. Options are generally granted annually to selected employees, including the Named Executive Officers, in July under our shareholder-approved Stock Incentive Plan. Stock options for fiscal 2018 were granted by the Committee on July 20, 2017 with an exercise price equal to the closing market price of our stock on that date.
+In July 2017, the Committee granted Messrs. Parker, Campion, and Sprunk 165,000, 75,000, and 85,000 option shares, respectively, the same number of stock options granted in July 2016. Ms. Krane and Mr. Slusher each received 70,000 option shares. Mr. Edwards received 100,000 option shares, the same number of stock options granted in July 2016. As described below and pursuant to the terms of the stock option agreement generally applicable to all stock option recipients, this award is eligible for continued vesting upon Mr. Edwards’ retirement in August 2018, based on his age and years of service. The Committee, in its judgment, set these award levels based on the factors described above.
+Options granted by the Company generally vest in equal annual installments over a four-year period. To promote executive retention, unvested options generally are forfeited if the employee leaves the Company before vesting occurs and vested options must be exercised within three months after termination of employment. Options provide for a limited retirement provision designed to encourage employees to delay retirement, thus enhancing retention. Only those employees with a minimum of five years of service who are age 55 and above at the time of termination of employment are eligible for the provision. Under the provision, for employees between the ages of 55 to 59 at the time of termination of employment, unvested stock options that were granted at least one full year prior to termination will continue to vest, and vested options may be exercised for up to four years after termination. If an employee is age 60 or older and has at least five years of service at termination, unvested stock options that were granted at least one full year prior to termination will receive accelerated vesting, and vested options may be exercised for up to four years after termination. The features related to accelerated vesting are described in “Potential Payments upon Termination or Change-in-Control”. Based on their ages and years of service, as of May 31, 2018, Mr. Parker was eligible for accelerated vesting and Mr. Edwards was eligible for continued vesting of their options granted in July 2014, 2015, and 2016. Upon Mr. Edwards’ retirement in August 2018, he will be eligible for continued vesting of his options granted in July 2017.
+Restricted Stock Awards
+The third component in our long-term portfolio mix is restricted stock awards. Stock ownership and stock-based incentive awards align the interests of our Named Executive Officers with the interests of our shareholders, as the value of this incentive rises and falls with the stock price. Restricted stock awards are generally granted annually to selected employees, including the Named Executive Officers, in July at the same meeting at which stock options are granted under our shareholder-approved Stock Incentive Plan. Awards generally vest in three equal installments on each of the first three anniversaries of the grant date. The awards promote executive retention, as unvested shares held at the time the executive’s employment is terminated are forfeited. Award recipients receive dividends on the full number of restricted shares awarded at the same time dividends are paid to other shareholders.
+The Committee, in its judgment, sets restricted stock award levels based on several factors, including what the Committee believes to be a desirable mix of long-term compensation, their determination of an appropriate weighing of potential future contribution to the Company, retention incentives, and competitive market data as described in “Use of Market Survey Data”. In July 2017, the Committee granted a restricted stock award to Mr. Parker valued at $3,500,000, representing 59,222 shares of our Class B Stock based on the closing price on the grant date. This was the same value of restricted stock granted to Mr. Parker in July 2016. Messrs. Campion and Sprunk received awards valued at $1,000,000, representing 16,921 shares of our Class B Stock based on the closing price on the grant date. This was an increase of $250,000 for each of Messrs. Campion and Sprunk. Ms. Krane received an award valued at $850,000, representing 14,383 of our Class B Stock based on the closing price on the grant date. Mr. Slusher received an award valued at $750,000, representing 12,691 of our Class B Stock based on the closing price on the grant date. Mr. Edwards received
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+22
+COMPENSATION DISCUSSION AND ANALYSIS
+an award valued at $1,200,000, representing 20,305 shares of our Class B Stock based on the closing price on the grant date. This was an increase of $325,000 for Mr. Edwards. This award will not fully vest for Mr. Edwards given his retirement in August 2018.
+Restricted Stock Unit (RSU) Retention Awards
+From time to time, the Committee also grants RSUs that vest based on continued service with the Company through a future service date, for the specific purpose of further promoting retention. These RSU awards accumulate dividend equivalents that are only paid in cash upon full vesting. The awards have no value to the executive unless the executive remains employed with the Company for the full vesting period, and will be forfeited if the executive terminates or retires within the vesting period. While RSU awards are intended as a retention incentive, as equity-based awards they have the additional benefit of further aligning the interests of our Named Executive Officers with the interests of our shareholders, as the value of these awards rises and falls with the stock price.
+On July 20, 2017, the Committee approved grants of RSUs to Messrs. Campion and Sprunk each valued at $6,000,000, and grants of RSUs to Ms. Krane and Mr. Slusher each valued at $4,000,000. Mr. Edwards received a grant valued at $6,000,000. Based on the closing price of our Class B Stock on the grant date, this represented 101,523 RSUs for each of Messrs. Campion and Sprunk; 67,682 RSUs for each of Ms. Krane and Mr. Slusher; and 101,523 RSUs for Mr. Edwards. The RSUs are scheduled to vest in full on the third anniversary of the grant date. Mr. Edwards’ retention award will be forfeited in full as his retirement in August 2018 will precede the vesting date. In determining the award amounts, the Committee considered business continuity during a period of transformational change to support the Consumer Direct Offense. The Committee utilized its business judgment and experience as it reviewed the Company’s succession and retention strategy, accumulated vested and unvested awards, and individual performance, viewed holistically. As these awards are intended as a retention incentive they were viewed by the Committee as compensation over the vesting period and not solely as compensation for fiscal 2018.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+23
+COMPENSATION DISCUSSION AND ANALYSIS
+Profit Sharing and Retirement Plans
+Our 401(k) Savings and Profit Sharing Plan is a U.S. tax qualified retirement savings plan pursuant to which all eligible U.S. employees, including the Named Executive Officers, are able to make pre-tax contributions and after-tax contributions from their cash compensation. We make matching contributions for all participants each year equal to 100% of their pre-tax contributions up to 5% of their total eligible compensation. We also make annual profit sharing contributions to the accounts of eligible U.S. employees under the 401(k) Savings and Profit Sharing Plan. The contributions are allocated among eligible employees based on a percentage of their total salary and annual cash incentive award for the year. The total profit sharing contribution and the percentage of salary and annual cash incentive award contributed for each employee is determined each year by the Board of Directors. For fiscal 2018, the Board of Directors approved a profit sharing contribution for each eligible employee equal to 3.4% of the employee’s total eligible salary and annual cash incentive award.
+The Internal Revenue Code limits the amount of compensation that can be deferred under our 401(k) Savings and Profit Sharing Plan, and also limits the amount of salary and annual cash incentive award ($270,000 for fiscal 2018) that may be taken into account when determining contributions under that plan. Accordingly, we provide our Named Executive Officers and other highly compensated employees with the opportunity to defer their compensation, including amounts in excess of the tax law limit, under our nonqualified Deferred Compensation Plan. We also make profit sharing contributions under the Deferred Compensation Plan with respect to salary and annual cash incentive award of any eligible employee that exceeds the tax law limit, and for fiscal 2018 these contributions were equal to 3.4% of the total salary and annual cash incentive award of each Named Executive Officer in excess of $270,000. These contributions under the Deferred Compensation Plan allow our Named Executive Officers and other highly compensated employees to receive profit sharing contributions in the same percentage as our other employees. We do not match deferrals to the Deferred Compensation Plan. Balances in the Deferred Compensation Plan, including the balances of the Named Executive Officers, are unsecured and at-risk, meaning the balances may be forfeited in the event of the Company’s financial distress such as bankruptcy. Our matching and profit sharing contributions for fiscal 2018 to the accounts of the Named Executive Officers under the qualified and nonqualified plans are included in the All Other Compensation column in the Summary Compensation Table on page 28.
+Employee Stock Purchase Plan
+Our Employee Stock Purchase Plan allows all employees who work at least 20 hours per week in the United States and in many countries outside of the United States to purchase NIKE Class B Stock, through payroll deductions, at a 15% discount to the market price on the first or last trading day of the six-month purchase period, depending on which day the stock price was lower. No plan participant is allowed to purchase more than $25,000 in market value of our stock under the plan in any calendar year or more than 500 shares in any six-month offering period. In fiscal 2018, all Named Executive Officers participated in our Employee Stock Purchase Plan, with the exception of Messrs. Parker and Campion.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+24
+COMPENSATION DISCUSSION AND ANALYSIS
+Post-termination Payments under Non-competition Agreements
+In exchange for non-competition agreements from all of our Named Executive Officers, we have agreed to provide, during the non-competition period, the monthly payments described in “Potential Payments upon Termination or Change-in-Control”, some of which are at the election of the Company. We believe that it is appropriate to compensate individuals to refrain from working with competitors following termination, and that compensation enhances the enforceability of such agreements.
+Stock Ownership Guidelines
+NIKE maintains the following stock ownership guidelines for executive officers. These guidelines are designed to further align the long-term interests of our executive officers with those of our shareholders. Under the guidelines, the CEO and other executive officers are required to hold NIKE stock valued at the following multiple of their annual base salary:
+Position
+Ownership Level
+Chief Executive Officer
+6X Base Salary
+Other Named Executive Officers
+3X Base Salary
+Other Executive Officers
+2X Base Salary
+New officers are required to attain these ownership levels within five years of their appointment. As of May 31, 2018, each of our executive officers has met or is on track to meet the applicable ownership guideline within the requisite period.
+Hedging and Pledging
+The Company’s Blackout and Pre-clearance Policy (which supplements our Insider Trading Policy) prohibits directors, executive officers, and other designated insiders from engaging in transactions involving hedging, monetization or short sales of NIKE stock, including zero-cost collars and forward sale contracts. The policy also requires directors, executive officers, and designated insiders to obtain pre-approval from the Company’s Clearance Director before pledging NIKE stock. Before granting approval of any pledge, the Clearance Director considers the size of the pledge relative to the individual’s other holdings, both direct and indirect, and NIKE’s shares outstanding; the risk of foreclosure given the nature of the associated transaction; protections against the appearance of insider trading, including prohibitions on sales during trading black-outs; and the ability to timely report sales on Form 4.
+Change-in-Control Provisions
+LTIP awards are not subject to accelerated change-in-control vesting. All unvested stock option, restricted stock, and restricted stock unit awards are subject to accelerated change-in-control vesting only when two events (a “double-trigger”) occur. Vesting of grants is generally accelerated only if there is a change-in-control of the Company and either the acquiring entity fails to assume the awards or the employee’s employment is terminated by the acquirer without cause or by the employee for good reason within two years following a change-in-control. This double-trigger was adopted to encourage executive retention through a period of uncertainty and a subsequent integration with an acquirer. The Committee believes that this approach will enhance shareholder value in the context of an acquisition, and align executives with the interests of investors. The effects of change-in-control transactions on stock option, restricted stock, and restricted stock unit awards are described further in “Potential Payments Upon Termination or Change-in-Control”.
+Clawback Policy
+Since June 2010, the Company has had a policy for recoupment of incentive compensation (the “clawback policy”). In June 2015, the Committee and Board of Directors approved amendments to our incentive compensation plans to cover additional circumstances in which the Company may clawback awards. Under the clawback policy, an executive officer who is involved in wrongful conduct that results in a restatement of the Company’s financial statements must repay to the Company up to the full amount of any incentive compensation based on the financial statements that were subsequently restated. The clawback policy covers the annual cash incentive award, long-term cash incentive award, profit sharing contributions to the Deferred Compensation Plan, and excess proceeds from sales of stock acquired under stock option, restricted stock, and RSU awards that occurred prior to the restatement. The 2015 amendments to our Executive Performance Sharing Plan, Long-Term Incentive Plan and Stock Incentive Plan clarify that for all participants in those plans the Committee may apply additional clawback policies to awards, or add clawback terms to award agreements or notices, and that any clawback requirements of applicable law and regulation will apply to the plans.
+Risk Assessment
+At the Committee’s request, in fiscal 2018 management prepared and discussed with the Committee an assessment of potential risk associated with the Company’s compensation programs, including any risk that would be reasonably likely to have a material adverse effect on the Company. This included an assessment of risks associated with each element of employee compensation. The assessment considered certain design features of the compensation programs that reduce the likelihood of excessive risk taking, such as reasonable performance targets, capped payouts of
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+25
+COMPENSATION DISCUSSION AND ANALYSIS
+incentive compensation, a balance of short- and long-term incentives, a balance of cash and equity incentives, vesting of awards over time, and the potential for clawback of incentive compensation. In addition, for equity compensation, the Committee and the Board have adopted stock ownership guidelines, limited accelerated vesting of stock options upon termination of employment, and implemented double-trigger accelerated vesting for all equity awards upon change-in-control (each as described above).
+Tax Deductibility of Executive Compensation
+Section 162(m) of the Internal Revenue Code generally disallows a tax deduction to public companies for annual compensation over $1 million paid to “covered employees”. Prior to the Tax Cuts and Jobs Act of December 2017, the Internal Revenue Code provided an exception that generally excluded from the calculation of the $1 million cap compensation that was based on the attainment of pre-established, objective performance goals established under a shareholder-approved plan. Historically, the Committee has considered, among other things, the impact of this exclusion for performance-based compensation when developing and implementing our executive compensation programs. Annual cash incentive awards under our Executive Performance Sharing Plan, long-term cash incentive awards under our Long-Term Incentive Plan, and stock options under our Stock Incentive Plan have generally been designed in a manner intended to meet the requirements under the exclusion, although we could not guarantee such treatment given the complex nature of the performance-based compensation requirements.
+The new tax legislation removed the exception for performance-based compensation (unless the compensation qualifies for certain transition relief, the scope of which is currently uncertain) for taxable years beginning after December 31, 2017. The definition of “covered employees” was also expanded to include a company’s chief financial officer (in addition to the chief executive officer and three other most highly paid executive officers), plus any individual who has been a “covered employee” in any taxable year beginning after December 31, 2016.
+While the Committee seeks to preserve tax deductibility in developing and implementing our compensation program, the Committee also believes that it is important to maintain flexibility in administering compensation programs in a manner designed to promote varying corporate goals. Accordingly, we have not adopted a policy that all compensation must qualify as deductible for tax purposes and retain the ability to provide compensation that may not qualify as deductible under Section 162(m).
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+26
+COMPENSATION COMMITTEE REPORT
+The Compensation Committee of the Board of Directors (the “Committee”) has reviewed and discussed with management the Compensation Discussion and Analysis required by Item 402(b) of Regulation S-K. Based on the review and discussions, the Committee recommended to the Board that the Compensation Discussion and Analysis be included in this proxy statement.
+Members of the Compensation Committee:
+•
+Timothy D. Cook, Chair
+•
+Elizabeth J. Comstock
+•
+Johnathan A. Rodgers
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+27
+EXECUTIVE COMPENSATION
+Summary Compensation Table
+The following table sets forth information concerning compensation for fiscal 2016-2018 paid to or earned by our Named Executive Officers.
+Name and Principal
+Position
+Year
+Salary
+($)
+Bonus
+(1)
+($)
+Stock
+Awards
+(2)
+($)
+Option
+Awards
+(3)
+($)
+Non-Equity
+Incentive Plan
+Compensation
+(4)
+($)
+All Other
+Compensation
+(5)
+($)
+Total
+($)
+Mark G. Parker
+Chairman, President and Chief Executive Officer
+2018
+1,550,000
+1,295,000
+3,500,020
+1,618,650
+1,295,000
+208,790
+9,467,460
+2017
+1,550,000
+3,500,035
+1,542,750
+6,261,144
+997,570
+13,851,499
+2016
+1,550,000
+33,500,142
+4,179,450
+7,305,902
+1,079,808
+47,615,302
+Andrew Campion
+Executive Vice President and Chief
+Financial Officer
+2018
+963,462
+277,500
+7,000,040
+735,750
+277,500
+63,514
+9,317,766
+2017
+889,231
+750,053
+701,250
+1,513,176
+92,546
+3,946,256
+2016
+822,306
+625,025
+1,519,800
+1,772,897
+105,479
+4,845,507
+Eric D. Sprunk
+Chief Operating Officer
+2018
+1,092,308
+277,500
+7,000,040
+833,850
+277,500
+80,560
+9,561,758
+2017
+1,042,308
+750,053
+794,750
+1,603,277
+253,713
+4,444,101
+2016
+990,000
+750,007
+2,026,400
+1,927,813
+335,126
+6,029,346
+Hilary K. Krane
+(6)
+Executive Vice President, Chief Administrative Officer & General Counsel
+2018
+892,308
+185,000
+4,850,042
+686,700
+185,000
+58,524
+6,857,574
+John F. Slusher
+(6)
+Executive Vice President, Global Sports Marketing
+2018
+900,000
+185,000
+4,750,044
+686,700
+185,000
+59,715
+6,766,459
+Trevor A. Edwards
+(7)
+Former President, NIKE Brand
+2018
+1,176,923
+7,200,035
+981,000
+370,000
+101,075
+9,829,033
+2017
+1,042,308
+875,052
+935,000
+1,862,583
+271,389
+4,986,332
+2016
+990,000
+875,102
+2,279,700
+2,221,919
+270,440
+6,637,161
+(1)
+In July of 2018, the Committee elected to award a discretionary cash bonus equal to 37% of the 2016-2018 LTIP target award to each of the Continuing Officers. In connection with the determination of the payout for the fiscal 2016-2018 LTIP, the Committee elected to adjust the LTIP payout for non-executive officers primarily to offset the impact of the Tax Cuts and Jobs Act (which negatively impacted EPS, one of the two Performance Goals which determine the LTIP payout). The LTIP terms, as applicable to the Named Executive Officers, did not contemplate the impact of the Tax Cuts and Jobs Act. The Committee viewed these special cash bonuses as integral to its efforts to drive sustained performance, viewed holistically, engagement, retention and motivation of the Continuing Officers.
+(2)
+Represents the grant date fair value of restricted stock and restricted stock unit awards granted in the applicable fiscal year computed in accordance with accounting guidance applicable to stock-based compensation. The grant date fair value is based on the closing market price of our Class B Stock on the grant date.
+(3)
+Represents the grant date fair value of options granted in the applicable fiscal year computed in accordance with accounting guidance applicable to stock-based compensation. The grant date fair value of the options was estimated using the Black-Scholes option pricing model. The assumptions made in determining the grant date fair values of options under applicable accounting guidance are disclosed in Note 11 of Notes to Consolidated Financial Statements in our Annual Report on Form 10-K for the year ended May 31, 2018.
+(4)
+Non-Equity Incentive Plan Compensation consists of the following:
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+28
+EXECUTIVE COMPENSATION
+Name
+Fiscal Year
+Annual Incentive
+Compensation
+(a)
+($)
+Long-Term Incentive
+Compensation
+(b)
+($)
+Total
+($)
+Mark G. Parker
+2018
+—
+1,295,000
+2017
+1,642,194
+4,618,950
+6,261,144
+2016
+2,577,402
+4,728,500
+7,305,902
+Andrew Campion
+2018
+—
+277,500
+2017
+523,401
+989,775
+1,513,176
+2016
+759,647
+1,013,250
+1,772,897
+Eric D.Sprunk
+2018
+—
+277,500
+2017
+613,502
+989,775
+1,603,277
+2016
+914,563
+1,013,250
+1,927,813
+Hilary Krane
+2018
+—
+185,000
+John Slusher
+2018
+—
+185,000
+Trevor A. Edwards
+2018
+—
+370,000
+2017
+674,853
+1,187,730
+1,862,583
+2016
+1,006,019
+1,215,900
+2,221,919
+(a)
+Amounts shown were earned for performance in the applicable fiscal year under our Executive Performance Sharing Plan.
+(b)
+Amounts shown were earned for performance during the three-year period ending with the applicable fiscal year under our Long-Term Incentive Plan.
+(5)
+For fiscal 2018 for each of the Named Executive Officers, this includes (a) profit-sharing contributions by us to the 401(k) Savings and Profit Sharing Plan in the amount of $9,082; (b) matching contributions by us to the 401(k) Savings and Profit Sharing Plan in the amount of $13,500, and (c) profit-sharing contributions by us to the Deferred Compensation Plan in the following amounts: $98,296 for Mr. Parker, $40,932 for Mr. Campion, $48,297 for Mr. Sprunk, $35,942 for Ms. Krane, $37,133 for Mr. Slusher, and $53,207 for Mr. Edwards. For Messrs. Sprunk and Edwards, also includes $5,000 in compensation in recognition of 25 years of service with the Company, and associated tax reimbursement in the amount of $4,681 and $5,194, respectively, pursuant to our Valued Service Award Program, under which all employees receive cash awards and associated tax reimbursements in recognition of their significant service anniversaries with the Company. Includes the cost of daily residential security, including monitoring, patrols, and installation at primary residences provided by the Company of $18,948 for Mr. Parker and $8,488 for Mr. Edwards. For Mr. Parker, includes a nominal gift card and Company-related merchandise. For Mr. Edwards, includes a nominal gift card and attire for a Company-related function. For Mr. Parker, this amount includes $68,831 in aggregate incremental cost to the Company for his personal use of the Company’s aircraft and actual cost of chartered flights for travel to and from the board and shareholder meetings of an outside company for which Mr. Parker serves as a director. The aggregate incremental cost is determined based on the variable operating cost to the Company including the cost of fuel, maintenance, crew travel expenses, landing fees, parking fees, in-flight food and beverage, and other smaller variable costs associated with each flight. This amount excludes the aggregate incremental cost to the Company for Mr. Parker’s personal use of the Company’s aircraft for which Mr. Parker reimbursed the Company in accordance with a time sharing agreement and as allowed under Federal Aviation Regulation 91.501(c) and (d).
+(6)
+Because Ms. Krane and Mr. Slusher were only Named Executive Officers for fiscal 2018, no disclosure is included as to Ms. Krane and Mr. Slusher for fiscal 2017 and 2016.
+(7)
+Upon his retirement in August 2018, Mr. Edwards will forfeit the RSU Retention Award of $6,000,000 granted July 2017 in full as his retirement will precede the vesting date. Mr. Edwards will also forfeit two-thirds of the $1,200,000 restricted stock award granted July 2017, and one-third of the $875,000 restricted stock award granted in July 2016 in connection with his retirement. Excluding the awards granted in July 2017 subject to forfeiture upon his retirement, Mr. Edwards’ total compensation for fiscal 2018 was $3,029,046.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+29
+EXECUTIVE COMPENSATION
+Grants of Plan-Based Awards in Fiscal 2018
+The following table sets forth information concerning the performance-based annual cash incentive opportunities, performance-based long-term cash incentive opportunities, restricted stock and restricted stock unit awards, and stock options granted to the Named Executive Officers in fiscal 2018.
+Estimated Future Payouts Under
+Non-Equity Incentive Plan Awards
+Threshold
+Target
+Maximum
+All Other Stock Awards:
+Number of Shares of
+Stock or Units
+All Other
+Option Awards:
+Number of
+Securities
+Underlying
+Options
+(5)
+Exercise
+or Base Price
+of Option
+Awards
+Grant Date
+Fair Value
+of Stock
+and Option
+Awards
+(6)
+Name
+Grant Date
+($)
+(#)
+($/Sh)
+($)
+Mark G. Parker
+6/21/2017
+1,395,000
+(1)
+2,790,000
+(1)
+4,185,000
+(1)
+6/21/2017
+1,750,000
+(2)
+3,500,000
+(2)
+7,000,000
+(2)
+7/20/2017
+59,222
+(3)
+3,500,020
+7/20/2017
+165,000
+59.10
+1,618,650
+Andrew Campion
+6/21/2017
+487,500
+(1)
+975,000
+(1)
+1,462,500
+(1)
+6/21/2017
+500,000
+(2)
+1,000,000
+(2)
+2,000,000
+(2)
+7/20/2017
+16,921
+(3)
+1,000,031
+7/20/2017
+101,523
+(4)
+6,000,009
+7/20/2017
+75,000
+59.10
+735,750
+Eric D. Sprunk
+6/21/2017
+550,000
+(1)
+1,100,000
+(1)
+1,650,000
+(1)
+6/21/2017
+500,000
+(2)
+1,000,000
+(2)
+2,000,000
+(2)
+7/20/2017
+16,921
+(3)
+1,000,031
+7/20/2017
+101,523
+(4)
+6,000,009
+7/20/2017
+85,000
+59.10
+833,850
+Hilary K. Krane
+6/21/2017
+405,000
+(1)
+810,000
+(1)
+1,215,000
+(1)
+6/21/2017
+350,000
+(2)
+700,000
+(2)
+1,400,000
+(2)
+7/20/2017
+14,383
+(3)
+850,035
+7/20/2017
+67,682
+(4)
+4,000,006
+7/20/2017
+70,000
+59.10
+686,700
+John F. Slusher
+6/21/2017
+405,000
+(1)
+810,000
+(1)
+1,215,000
+(1)
+6/21/2017
+350,000
+(2)
+700,000
+(2)
+1,400,000
+(2)
+7/20/2017
+12,691
+(3)
+750,038
+7/20/2017
+67,682
+(4)
+4,000,006
+7/20/2017
+70,000
+59.10
+686,700
+Trevor A. Edwards
+(7)
+6/21/2017
+660,000
+(1)
+1,320,000
+(1)
+1,980,000
+(1)
+6/21/2017
+750,000
+(2)
+1,500,000
+(2)
+3,000,000
+(2)
+7/20/2017
+20,305
+(3)
+1,200,026
+7/20/2017
+101,523
+(4)
+6,000,009
+7/20/2017
+100,000
+59.10
+981,000
+(1)
+These amounts represent the potential performance-based annual cash incentive awards payable for performance during fiscal 2018 under our Executive Performance Sharing Plan. Under this plan, the Compensation Committee approved target awards for fiscal 2018 based on a percentage of the executive’s base salary paid during fiscal 2018 as follows: Mr. Parker, 180%; Mr. Campion, 100%; Mr. Sprunk, 100%; Ms. Krane, 90%; Mr. Slusher, 90%, and Mr. Edwards, 110%. The Committee also established a series of performance targets based on our income before income taxes (“PTI”) for fiscal 2018 (excluding the effect of acquisitions, divestitures, accounting changes not reflected in our business plan at the time of approval of the target awards) corresponding to award payouts ranging from 50% to 150% of the target awards. The PTI for fiscal 2018 required to earn the target award payout was $4,717 million. The PTI for fiscal 2018 required to earn the 150% maximum payout was $5,094 million. The PTI for fiscal 2018 required to earn the 50% threshold payout was $4,528 million. Participants receive a payout at the percentage level at which the performance target is met, subject to the Committee’s discretion to reduce or eliminate any award based on Company or individual performance, viewed holistically. Actual award payouts earned in fiscal 2018 and paid in fiscal 2019 are shown in footnote 4 to the Non-Equity Incentive Plan Compensation column in the Summary Compensation Table.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+30
+EXECUTIVE COMPENSATION
+(2)
+These amounts represent the potential performance-based long-term cash incentive awards payable for performance during the three-year period consisting of fiscal 2018-2020 under our Long-Term Incentive Plan. Under this plan, the Compensation Committee approved target awards for the performance period and also established a series of performance targets based on our cumulative revenues and cumulative diluted earnings per common share (“EPS”) for the performance period (excluding the effect of acquisitions, divestitures, and accounting changes not reflected in our business plan at the time of approval of the target awards) corresponding to award payouts ranging from 50% to 200% of the target awards. Participants will receive a payout at the average of the percentage levels at which the two performance targets are met, subject to the Committee’s discretion to reduce or eliminate any award based on Company or individual performance, viewed holistically. For cumulative revenues over the performance period, the target payout requires revenues of $118,162 million, the 50% threshold payout requires revenues of $113,703 million, and the 200% maximum payout requires revenues of $127,430 million. For cumulative EPS over the performance period, the target payout requires EPS of $8.15, the 50% threshold payout requires EPS of $7.53, and the 200% maximum payout requires EPS of $9.49. Under the terms of the awards, on the first payroll period ending in August 2020 we will issue the award payout to each participant, provided that the participant is employed by us on the last day of the performance period.
+(3)
+These amounts represent grants of restricted stock under our Stock Incentive Plan which vest in three equal installments on the first three anniversaries of the grant date. Vesting will be accelerated in certain circumstances as described below under “Potential Payments Upon Termination or Change-in-Control”. Dividends are payable on restricted stock at the same rate paid on all other outstanding shares of our Class B Stock.
+(4)
+These amounts represent grants of restricted stock units under the Stock Incentive Plan which vest in full on the third anniversary of the grant date. Vesting will be accelerated in certain circumstances as described in the section “Potential Payments Upon Termination or Change-in-Control”. The restricted stock units accumulate cash dividend equivalents that are only paid upon vesting.
+(5)
+All amounts reported in this column represent options granted under our Stock Incentive Plan which become exercisable for option shares in four equal installments on the first four anniversaries of the grant date. Options will become fully exercisable in certain circumstances as described below under “Potential Payments Upon Termination or Change-in-Control”. Each option has a maximum term of 10 years, subject to earlier termination in the event of the optionee’s termination of employment.
+(6)
+For stock awards, represents the value of restricted stock granted based on the closing market price of our Class B Stock on the grant date. For option awards, represents the grant date fair value of options granted based on a value of $9.81 per share calculated using the Black-Scholes option pricing model. These are the same values for these equity awards used under accounting guidance applicable to stock-based compensation. The assumptions made in determining option values are disclosed in Note 11 of Notes to Consolidated Financial Statements in our Annual Report on Form 10-K for the year ended May 31, 2018.
+(7)
+Mr. Edwards resigned as President, NIKE Brand, effective March 15, 2018, and will retire from the Company in August 2018. As a result of Mr. Edwards’ retirement, he will not fully vest in his restricted stock grant and will forfeit the restricted stock unit retention award. Pursuant to the form of stock option agreement generally applicable to stock options awards, Mr. Edwards will be eligible for continued vesting of his stock option grant based on his age and years of service. The features related to continued vesting are described in “Stock Options”.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+31
+EXECUTIVE COMPENSATION
+Outstanding Equity Awards at May 31, 2018
+The following table sets forth information concerning outstanding stock options and unvested restricted stock and restricted stock units held by the Named Executive Officers at May 31, 2018.
+Option Awards
+Stock Awards
+Name
+Number of Securities Underlying Unexercised Options Exercisable (#)
+Number of
+Securities
+Underlying
+Unexercisable
+Options (#)
+(1)
+Option Exercise Price ($)
+Option Expiration Date
+Number of Shares or Units of Stock That Have Not Vested (#)
+Market Value of Shares or Units of Stock That Have Not Vested ($)
+Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#)
+Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)
+Mark G. Parker
+135,000
+—
+14.5500
+7/18/2018
+600,000
+—
+13.1100
+7/17/2019
+660,000
+—
+17.2400
+7/16/2020
+660,000
+—
+22.9250
+7/15/2021
+660,000
+—
+23.2700
+7/20/2022
+330,000
+—
+31.6750
+7/19/2023
+247,500
+82,500
+(2
+)
+38.7600
+7/18/2024
+165,000
+(3
+)
+56.4000
+7/17/2025
+41,250
+123,750
+(4
+)
+57.8700
+7/15/2026
+—
+165,000
+(5
+)
+59.1000
+7/20/2027
+342,410
+(6)
+24,585,038
+166,636
+(12)
+11,964,465
+Andrew Campion
+103,000
+—
+22.9250
+7/15/2021
+120,000
+—
+23.2700
+7/20/2022
+60,000
+—
+31.6750
+7/19/2023
+60,000
+20,000
+(2
+)
+38.7600
+7/18/2024
+60,000
+(3
+)
+56.4000
+7/17/2025
+18,750
+56,250
+(4
+)
+57.8700
+7/15/2026
+—
+75,000
+(5
+)
+59.1000
+7/20/2027
+130,778
+(7)
+9,389,860
+Eric D. Sprunk
+45,000
+—
+23.2700
+7/20/2022
+150,000
+—
+31.6750
+7/19/2023
+120,000
+40,000
+(2
+)
+38.7600
+7/18/2024
+80,000
+(3
+)
+56.4000
+7/17/2025
+21,250
+63,750
+(4
+)
+57.8700
+7/15/2026
+—
+85,000
+(5
+)
+59.1000
+7/20/2027
+131,516
+(8)
+9,442,849
+Hilary K. Krane
+110,000
+—
+31.6750
+7/19/2023
+82,500
+27,500
+(2
+)
+38.7600
+7/18/2024
+65,000
+(3
+)
+56.4000
+7/17/2025
+17,500
+52,500
+(4
+)
+57.8700
+7/15/2026
+—
+70,000
+(5
+)
+59.1000
+7/20/2027
+91,651
+(9)
+6,580,542
+John F. Slusher
+200,000
+—
+22.925
+7/15/2021
+220,000
+—
+23.2700
+7/20/2022
+110,000
+—
+31.6750
+7/19/2023
+86,250
+28,750
+(2
+)
+38.7600
+7/18/2024
+60,000
+(3
+)
+56.4000
+7/17/2025
+16,250
+48,750
+(4
+)
+57.8700
+7/15/2026
+—
+70,000
+(5
+)
+59.1000
+7/20/2027
+89,959
+(10)
+6,459,056
+Trevor A. Edwards
+200,000
+—
+13.1100
+7/17/2019
+200,000
+—
+17.2400
+7/16/2020
+200,000
+—
+22.9250
+7/15/2021
+240,000
+—
+23.2700
+7/20/2022
+150,000
+—
+31.6750
+7/19/2023
+120,000
+40,000
+(2
+)
+38.7600
+7/18/2024
+90,000
+(3
+)
+56.4000
+7/17/2025
+25,000
+75,000
+(4
+)
+57.8700
+7/15/2026
+—
+100,000
+(5
+)
+59.1000
+7/20/2027
+137,080
+(11)
+9,842,344
+(1)
+Stock options generally become exercisable for option shares in four equal installments on each of the first four anniversaries of the grant date.
+(2)
+100% of these options vested on July 18, 2018.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+32
+EXECUTIVE COMPENSATION
+(3)
+50% of these options vested on July 17, 2018 and 50% will vest on July 17, 2019.
+(4)
+33.3% of these options vested on July 15, 2018, 33.3% will vest on July 15, 2019, and 33.3% will vest on July 15, 2020.
+(5)
+25% of these options vested on July 20, 2018, 25% will vest on July 20, 2019, 25% will vest on July 20, 2020, and 25% will vest on July 20, 2021.
+(6)
+20,160 of these restricted shares vested on July 15, 2018, and 20,160 of these restricted shares will vest on July 15, 2019. 20,686 of these restricted shares vested on July 17, 2018. 19,741 of these restricted shares vested on July 20, 2018, 19,741 of these restricted shares will vest on July 20, 2019, and 19,740 of these restricted shares will vest on July 20, 2020. 222,182 of these RSUs will vest on June 30,2020.
+(7)
+4,320 of these restricted shares vested on July 15, 2018, and 4,320 of these restricted shares will vest on July 15, 2019. 3,694 of these restricted shares vested on July 17, 2018. 5,641 of these restricted shares vested on July 20, 2017, 5,640 of these restricted shares will vest on July 20, 2019, and 5,640 of these shares will vest on July 20, 2020. 101,523 of these RSUs will vest on July 20, 2020.
+(8)
+4,320 of these restricted shares vested on July 15, 2018, and 4,320 of these restricted shares will vest on July 15, 2019. 4,432 of these restricted shares vested on July 17, 2018. 5,641 of these restricted shares vested on July 20, 2018, 5,640 of these restricted shares will vest on July 20, 2019, and 5,640 of these shares will vest on July 20, 2020. 101,523 of these RSUs will vest on July 20, 2020.
+(9)
+3,168 of these restricted shares vested on July 15, 2018, and 3,168 of these restricted shares will vest on July 15, 2019. 3,250 of these restricted shares vested on July 17, 2018. 4,795 of these restricted shares vested on July 20, 2018, 4,794 of these restricted shares will vest on July 20, 2019, and 4,794 of these shares will vest on July 20, 2020. 67,682 of these RSUs vested on July 20, 2020.
+(10)
+3,168 of these restricted shares vested on July 15, 2018, and 3,168 of these restricted shares will vest on July 15, 2019. 3,250 of these restricted shares vested on July 17, 2018. 4,231 of these restricted shares vested on July 20, 2018, 4,230 of these restricted shares will vest on July 20, 2019, and 4,230 of these shares will vest on July 20, 2020. 67,682 of these RSUs vested on July 20, 2020.
+(11)
+5,040 of these restricted shares vested on July 15, 2018, and 5,040 of these restricted shares shall be forfeited to the Company upon the expected retirement in August 2018. 5,172 of these restricted shares vested on July 17, 2018. 6,769 of these restricted shares vested on July 20, 2018, and 13,536 of these restricted shares shall be forfeited to the Company upon the expected retirement in August 2018. 101,523 of these RSUs shall be forfeited to the Company upon the expected retirement in August 2018.
+(12)
+This figure represents performance at threshold, 50% of target. These RSUs may vest on June 30, 2020, subject to performance vesting based on cumulative revenue growth and cumulative EPS growth over a five-year performance period. Actual payout will depend on actual performance, which could range from 0 to 100%.
+Option Exercises and Stock Vested During Fiscal 2018
+The following table sets forth information concerning stock option exercises and vesting of restricted stock during fiscal 2018 for each of the Named Executive Officers on an aggregated basis.
+Option Awards
+Stock Awards
+Name
+Number of Shares
+Acquired on Exercise
+(#)
+Value Realized
+on Exercise
+($)
+Number of Shares
+Acquired on Vesting
+(#)
+Value Realized
+on Vesting
+($)
+Mark G. Parker
+474,300
+22,411,144
+70,947
+4,108,605
+Andrew Campion
+90,000
+3,625,000
+11,670
+676,092
+Eric D. Sprunk
+471,040
+20,284,387
+229,001
+13,517,288
+Hilary K. Krane
+—
+140,074
+8,265,115
+John F. Slusher
+200,000
+9,249,153
+140,074
+8,265,115
+Trevor A. Edwards
+400,000
+19,488,995
+231,535
+13,664,035
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+33
+EXECUTIVE COMPENSATION
+Equity Compensation Plan Information
+The following table summarizes information regarding outstanding options and shares available for future issuance under equity compensation plans approved by shareholders and equity compensation plans that were not approved by shareholders as of May 31, 2018. The table does not reflect issuances made during fiscal 2019.
+Plan Category
+(a)
+Number of Securities
+to be Issued Upon Exercise of
+Outstanding Options, Warrants and Rights
+(b)
+Weighted-Average Exercise
+Price of Outstanding
+Options, Warrants and Rights
+(1)
+(c)
+Number of Securities
+Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected in Column(a))
+Equity compensation plans approved by shareholders
+95,482,201
+(2)
+$40.7351
+96,790,885
+(3)
+Equity compensation plans not approved by shareholders
+—
+6,728,713
+(4)
+Total
+95,482,201
+$40.7351
+103,519,598
+(1)
+Weighted-average exercise prices do not reflect the shares that will be used upon the payment of outstanding awards of restricted stock units.
+(2)
+Includes 95,482,201 shares subject to awards of options, restricted stock units, and stock appreciation rights outstanding under the Stock Incentive Plan (including the maximum number of Performance-Based RSUs granted to Mr. Parker).
+(3)
+Includes 85,555,568 shares available for future issuance under the Stock Incentive Plan and 11,235,317 shares available for future issuance under the Employee Stock Purchase Plan.
+(4)
+Includes 6,728,713 shares available for future issuance under the Foreign Subsidiary Employee Stock Purchase Plan, pursuant to which shares are offered and sold to employees of selected non-U.S. subsidiaries of the Company on substantially the same terms as those offered to U.S. employees under the shareholder-approved Employee Stock Purchase Plan as described above under “Employee Stock Purchase Plan” on page 24.
+Non-Qualified Deferred Compensation in Fiscal 2018
+Name
+Plan
+Name
+Executive
+Contributions
+in Fiscal 2018
+(1)
+NIKE Contributions
+in Fiscal 2018
+(1)
+Aggregate Earnings
+in Fiscal 2018
+Aggregate
+Withdrawals/
+Distributions in
+Fiscal 2018
+Aggregate
+Balance
+at 5/31/2018
+(1)
+Mark G. Parker
+DCP
+$1,639,729
+$148,636
+$614,151
+—
+$17,733,270
+Andrew Campion
+DCP
+$213,317
+$53,256
+$84,504
+—
+$1,365,036
+Eric D. Sprunk
+DCP
+$801,639
+$65,108
+$1,356,969
+—
+$12,091,730
+Hilary K. Krane
+DCP
+$399,672
+$47,567
+$495,756
+—
+$4,453,111
+John F. Slusher
+DCP
+$1,075,323
+$51,733
+$1,623,651
+—
+$10,030,443
+Trevor A. Edwards
+DCP
+$1,345,376
+$68,628
+$2,303,967
+—
+$22,869,300
+(1)
+All amounts reported in the Executive Contributions column are also included in amounts reported in the Summary Compensation Table. The amounts reported in the NIKE Contributions column represent profit sharing contributions made by us in early fiscal 2018 based on fiscal 2017 results; these amounts are also included in amounts reported for fiscal 2017 in the All Other Compensation column of the Summary Compensation Table. Of the amounts reported in the Aggregate Balance column, the following amounts have been reported in the Summary Compensation Tables in this proxy statement or in prior year proxy statements: Mr. Parker, $15,520,705; Mr. Campion, $710,278; Mr. Sprunk, $4,744,865; Ms. Krane, $447,239; Mr. Slusher, $1,127,056; and Mr. Edwards, $11,000,685.
+Non-Qualified Deferred Compensation Plans
+The Named Executive Officers are eligible to participate in our Deferred Compensation Plan (the “DCP”). Participants in the DCP may elect in advance to defer up to 100 percent of their annual base salary, bonus, and long-term incentive payments.
+Each year, we share profits with our employees in the form of profit sharing contributions to defined contribution retirement plans. The contributions are allocated among eligible employees based on a percentage of their total salary and bonus for the year. To the fullest extent permitted under Internal Revenue Code limitations, these contributions are made to employees’ accounts under our qualified 401(k) Savings and Profit Sharing Plan. Contributions based on salary and bonus in excess of the tax law limit ($270,000 for fiscal 2018) are made as NIKE contributions under the DCP.
+Amounts deferred under the DCP are credited to a participant’s account under the DCP. Each participant may allocate his or her account among any combination of the investment funds available under the DCP. Participants’ accounts are adjusted to reflect the investment performance of the funds selected by the participants. Participants can change the allocation of their account balances daily. The funds available under the DCP consist of 18 mutual funds with a variety of investment objectives. The investment funds had annual returns in fiscal 2018 ranging from -.68% to 23.66%.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+34
+Amounts credited to participants’ accounts are invested by us in actual investments matching the investment options selected by the participants to ensure that we do not bear any investment risk related to participants’ investment choices.
+The portion of a participant’s account attributable to elective deferrals, including investment returns, is fully vested at all times. The portion of a participant’s account attributable to NIKE contributions, including investment returns, is fully vested after the participant has been employed by us for five years. All of the Named Executive Officers are fully vested in their NIKE contributions.
+Each time they elect to defer compensation, participants make an election regarding distribution of the compensation deferred under the election (as adjusted to reflect investment performance). A participant may elect for distribution to be made in a lump sum at the beginning of a predetermined year while the participant is still employed or in service (but no sooner than the fourth year after the year in which the distribution election is submitted). Alternatively, a participant may elect for distribution to be made in a lump sum or in quarterly installments over five, ten or fifteen years after termination of employment or service. Participants have limited rights to change their distribution elections. Participants may make a hardship withdrawal under certain circumstances. Subject to certain limitations, a participant may also at any time request to withdraw amounts from his or her account balance that were vested as of December 31, 2004 (and any subsequent investment returns on such amount). If such request is approved, the participant may withdraw 90% of the amount requested, and the remaining 10% will be permanently forfeited.
+Potential Payments Upon Termination or Change-in-Control
+Change-in-Control Compensation — Acceleration of Equity Awards
+All unvested stock option, restricted stock, and restricted stock unit (“RSU”) awards are subject to accelerated vesting upon the occurrence of two events (a “double-trigger”): there is a “change-in-control”; and the Named Executive Officer’s employment is terminated by us without “cause” or by the Named Executive Officer for “good reason”, in each case on or before the second anniversary of the change in control. Double-trigger accelerated vesting of all awards will also occur if the Named Executive Officer’s employment is terminated without “cause” or for “good reason” between shareholder approval of the change-in-control and the occurrence of the change-in-control (and, for restricted stock and RSUs, the change-in-control occurs within one year following the termination). In addition, for stock options granted since July 2010, the standard period for exercising options following termination of employment is extended from three months to four years, but not beyond each option’s original 10-year term. Accelerated vesting of stock options and RSUs will also occur if we are acquired and the acquiring company does not assume the outstanding options or RSUs. In our agreements, “change-in-control” is generally defined to include:
+•
+the acquisition by any person of 50% or more of our outstanding Class A Stock or, if the Class A Stock no longer elects a majority of directors, the acquisition by any person of 30% or more of our total outstanding Common Stock,
+•
+the nomination (and subsequent election) in a two-year period of a majority of our directors by persons other than the incumbent directors,
+•
+a sale of all or substantially all of our assets, and
+•
+an acquisition of NIKE through a merger, consolidation or share exchange.
+In our agreements, “cause” generally includes willful and continued failure to substantially perform assigned duties and willful engagement in illegal conduct materially injurious to us. In our agreements, “good reason” generally includes a material diminution in position or duties, a salary reduction or material reduction in other benefits, and a home office relocation of over 50 miles.
+The following table shows the estimated benefits that would have been received by the Named Executive Officers if double-trigger accelerated vesting had occurred on May 31, 2018, when the closing price of our Class B Stock was $71.80 per share.
+Name
+Stock Award
+Acceleration
+(1)
+Stock Option
+Acceleration
+(2)
+Total
+Mark G. Parker
+$
+48,513,968
+$
+9,086,138
+$
+57,600,106
+Andrew Campion
+$
+9,389,860
+$
+3,320,863
+$
+12,710,723
+Eric D. Sprunk
+$
+9,442,849
+$
+4,521,138
+$
+13,963,987
+Hilary K. Krane
+$
+6,580,542
+$
+3,529,925
+$
+10,110,467
+John F. Slusher
+$
+6,459,056
+$
+3,441,988
+$
+9,901,044
+Trevor A. Edwards
+$
+9,842,344
+$
+5,022,350
+$
+14,864,694
+(1)
+Information regarding unvested restricted stock and restricted stock units held by each Named Executive Officer is set forth in the Outstanding Equity Awards table above. The award agreements provide for full double-trigger accelerated vesting as described above (for Performance-Based RSUs granted to Mr. Parker, assuming such awards are earned at 100%). The amounts in the table above represent the number of unvested restricted shares and RSUs multiplied by the closing price of our Class B Stock on May 31, 2018.
+(2)
+Information regarding outstanding unvested options held by each Named Executive Officer is set forth in the Outstanding Equity Awards table above. The agreements governing unvested stock options provide for full double-trigger accelerated vesting and an extended post-termination exercise period as described above. Amounts in the table above represent the aggregate value as of May 31, 2018 of those options using the excess of the per share closing price of our Class B Stock on May 31, 2018 over the per share exercise price, multiplied by the number of unvested option shares for each Named Executive Officer.
+Benefits Triggered on Certain Employment Terminations
+Stock Option Acceleration and Extension
+As of May 31, 2018, each Named Executive Officer held options to purchase Class B Stock as listed in the Outstanding Equity Awards table above. Under the terms of the stock options granted to each Named Executive Officer before July 2010, upon the death or disability of the officer, the standard three-month period for exercising options following termination of employment is extended to 12 months, but not beyond each option’s original 10-year term. Under the terms of the stock options granted to each Named Executive Officer since July 2010, upon the death or disability
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+35
+EXECUTIVE COMPENSATION
+of the officer, all unvested options become fully exercisable and the standard three-month period for exercising options following termination of employment is extended to four years, but not beyond each option’s original 10-year term. If death or disability of a Named Executive Officer had occurred on May 31, 2018, the aggregate value of those options would have been $9,086,138 for Mr. Parker, $3,320,863 for Mr. Campion, $4,521,138 for Mr. Sprunk, $3,529,925 for Ms. Krane, $3,441,988 for Mr. Slusher, and $5,022,350 for Mr. Edwards.
+Under the terms of the unvested stock options granted to Named Executive Officers since July 2010, vesting of options that have been outstanding for at least one year will be accelerated if the holder retires after reaching age 60 with at least 5 years of service, and vesting of options that have been outstanding for at least one year will continue notwithstanding termination of employment if the holder retires after reaching age 55 with at least 5 years of service. In addition, for any holder who retires after reaching age 55 (but before reaching age 60) with at least 5 years of service, the standard three-month period for exercising these options following termination of employment will be extended to four years, but not beyond the option’s original ten-year term. If termination of employment of a Named Executive Officer (other than due to death or disability) had occurred on May 31, 2018, the aggregate value of those options would have been $6,990,638 for Mr. Parker and $3,752,350 for Mr. Edwards. The value for Mr. Sprunk, Mr. Campion, Ms. Krane, and Mr. Slusher is zero because they have not reached age 55.
+Stock Award Acceleration
+As of May 31, 2018, each Named Executive Officer held unvested restricted stock and/or restricted stock units as set forth in the Outstanding Equity Awards table above. Under the terms of their award agreements, all unvested restricted shares and restricted stock units will immediately vest fully upon the death or disability of the officer, except that Performance-Based RSUs held by Mr. Parker will vest at the threshold amount. The value of the unvested restricted shares and restricted stock units held by each Named Executive Officer as of May 31, 2018 that would have become vested if death or disability had occurred on that date is as set forth in the “Stock Award Acceleration” column of the Change-in-Control Compensation — Acceleration of Equity Awards table above, except that the amount for Mr. Parker would be $36,549,503.
+Payments Under Noncompetition Agreements
+We have an agreement with Mr. Parker that contains a covenant not to compete that extends for two years following the termination of his employment with us. The agreement provides that if Mr. Parker’s employment is terminated by us, we will make monthly payments to him during the two-year noncompetition period in an amount equal to one-twelfth of his then current annual salary and target Executive Performance Sharing Plan bonus (“Annual NIKE Income”). The agreement provides further that if Mr. Parker voluntarily resigns, we will make monthly payments to him during the two-year noncompetition period in an amount equal to one-twenty-fourth of his then current Annual NIKE Income. However, commencement of the above-described monthly payments will be delayed until after the six-month period following Mr. Parker’s separation from service, and all payments that he would otherwise have received during that period will be paid in a lump sum promptly following the end of the period, together with interest at the prime rate. If employment is terminated without “cause”, the parties may mutually agree to waive the covenant not to compete, and if employment is terminated for “cause”, we may unilaterally waive the covenant. Under Mr. Parker’s noncompetition agreement, “cause” means continual and repeated neglect of duties or acts of dishonesty. If the covenant is waived, we will not be required to make the payments described above for the months as to which the waiver applies. If the employment of Mr. Parker had been terminated by us on May 31, 2018, and assuming the covenant is not waived, we would have been required to pay Mr. Parker $361,667 per month for the 24-month period ending May 31, 2020. If Mr. Parker had voluntarily resigned on May 31, 2018, and assuming the covenant is not waived, we would have been required to pay Mr. Parker $180,833 per month for the 24-month period ending May 31, 2020.
+We have noncompetition agreements with Mr. Campion, Mr. Sprunk, Ms. Krane, Mr. Slusher, and Mr. Edwards on the same terms, except that the noncompetition period is one year instead of two years, payments may commence on termination, and we may unilaterally waive the covenant in all cases including termination without cause (in which case payments would cease). In addition, for Mr. Campion, Mr. Sprunk, Ms. Krane, Mr. Slusher, and Mr. Edwards, the monthly payments are one-twelfth or one-twenty-fourth of their then current annual salaries, instead of their Annual NIKE Income. If the employment of these officers had been terminated by us on May 31, 2018, and assuming the covenant is not waived, we would have been required to pay Mr. Campion $81,250, Mr. Sprunk $91,667, Ms. Krane $75,000, Mr. Slusher $75,000, and Mr. Edwards $100,000 each on monthly basis for the 12-month period ending May 31, 2019. If these officers had voluntarily resigned on May 31, 2018 and assuming the covenant is not waived, we would have been required to pay Mr. Campion $40,625, Mr. Sprunk $45,833, Ms. Krane $37,500, Mr. Slusher $37,500, and Mr. Edwards $50,000 each on a monthly basis for the 12-month period ending May 31, 2019.
+Mr. Edwards resigned as President, NIKE Brand, effective March 15, 2018, and will retire from the Company in August 2018. In accordance with the noncompetition agreement described above, we will pay him $50,000 per month for the 12-month period ending August 2019.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+36
+EXECUTIVE COMPENSATION
+CEO Pay Ratio
+NIKE strives to provide competitive base pay, market-leading benefits, and an exceptional work environment that collectively create a premium employee experience. Our pay and benefit programs are designed to attract and engage talent, and reward performance, viewed holistically across individual, team, and business results. Our programs are administered to be equitable relative to employees’ performance, experience, and level within the Company.
+The executive compensation program is highly incentive-based with Company performance determining a significant portion of total compensation. It is designed to motivate and maximize shareholder value by achieving both short- and long-term goals.
+In accordance with the Dodd-Frank Act, the SEC adopted a rule that requires companies to disclose the ratio of CEO compensation to that of the median employee’s.
+This section discloses our CEO Pay Ratio and provides information on how the ratio was derived.
+For fiscal 2018, our last completed fiscal year:
+•
+The employee identified at the median of all NIKE employees (other than our CEO) was a retail store employee in the United States;
+•
+The annual total compensation of the median employee was $24,955;
+•
+The annual total compensation of our CEO, Mr. Parker, was $9,467,460; and
+•
+The estimated ratio of the annual total compensation of our CEO to the median annual total compensation of all NIKE employees was 379 to 1.
+This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee’s annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companies may have different employment and compensation practices and may utilize different methodologies, exclusions, estimates, and assumptions in calculating their own pay ratios.
+Methodology
+To allow sufficient time to collect data across our global operations, we selected May 1, 2018 as the date to determine the “median employee”. At that time, we had approximately 72,997 employees globally. We applied the “de minimis exemption” under SEC rules, which permits us to exclude non-U.S. employees accounting for 5% or less of our total employee population. After applying the de minimis exemption to exclude the 3,606 employees in the jurisdictions identified below, our employee population consisted of approximately 69,391 employees.
+Finland
+1
+New Zealand
+71
+Portugal
+166
+Slovenia
+3
+Norway
+73
+Israel
+168
+United Arab Emirates
+4
+Sweden
+78
+Thailand
+177
+Sri Lanka
+12
+Denmark
+89
+Austria
+182
+Slovakia
+14
+India
+89
+Greece
+185
+Philippines
+24
+Czech Republic
+96
+Vietnam
+188
+Macao
+33
+Switzerland
+102
+South Africa
+216
+Croatia
+45
+Indonesia
+115
+Poland
+235
+Hungary
+60
+Ireland
+118
+Hong Kong
+408
+Uruguay
+64
+Malaysia
+151
+Singapore
+439
+Of the 69,391 employees included in the CEO Pay Ratio calculation, approximately 66% were full-time, 57% were in retail jobs, and 54% were located in the United States.
+To identify our “median employee” we calculated target annual compensation for fiscal 2018 based on base salary or hourly wages, as applicable. For the majority of our employees, base salary or hourly wages comprise the majority of their compensation. To determine wages for hourly employees, we used each individual’s pay rate and estimated scheduled hours in the applicable Human Resources system of record.
+After determining the target annual compensation for our employee population as described above, we identified a subset of approximately 100 individuals representing the potential median employee population. For this subset, we calculated each employee’s annual total compensation in U.S dollars for the fiscal year based on the Summary Compensation Table rules used for our Named Executive Officers (in accordance with Item 402(c)(2)(x) of Regulation S-K). Compensation for permanent employees hired during the fiscal year was annualized and the median employee was then selected from the subset to determine the CEO Pay Ratio.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+37
+PROPOSAL 2
+Proposal 2
+Shareholder Advisory Vote to Approve
+Executive Compensation
+In accordance with the requirements of Section 14A of the Securities Exchange Act of 1934, we are submitting to shareholders our annual “say-on-pay proposal”, an advisory vote to approve the compensation of our Named Executive Officers as described in this proxy statement.
+At the Company’s 2017 annual meeting of shareholders, we provided shareholders with an advisory vote with respect to how often we should hold a say-on-pay proposal vote, and shareholders voted in favor of holding such a vote annually. Consistent with the voting results, we will hold an advisory vote each year.
+At the Company’s 2017 annual meeting of shareholders, 94% of the votes cast on the say-on-pay proposal were voted in favor of the proposal. The Compensation Committee believes this affirms shareholders’ support of the Company’s approach to executive compensation.
+As discussed in the Compensation Discussion and Analysis, our compensation philosophy is designed to attract and retain top talent, reward business results and performance, viewed holistically, and motivate executives to maximize long-term shareholder value. The program is competitive in the marketplace, highly incentive-based to align interests of executives with those of shareholders, and balanced across incentives to appropriately mitigate risk.
+To achieve the objectives of our executive compensation program and emphasize pay-for-performance principles, the Compensation Committee has continued to employ the strong governance practices described in “Executive Compensation Governance Practices” on page 16, including:
+•
+basing a majority of total compensation on performance and retention incentives;
+•
+setting annual and long-term incentive targets based on clearly disclosed, objective performance measures;
+•
+mitigating undue risk associated with compensation by using multiple performance targets, caps on potential incentive payments, and a clawback policy; and
+•
+requiring executive officers to hold NIKE stock through published stock ownership guidelines.
+Because your vote is advisory, it will not be binding on the Board. However, the Board values shareholder opinions, and the Compensation Committee will take into account the outcome of the vote when considering future executive compensation arrangements.
+Board Recommendation
+The Board of Directors recommends that shareholders vote FOR approval of the following resolution:
+RESOLVED, that the shareholders approve the fiscal 2018 compensation paid to the Named Executive Officers as disclosed in this proxy statement pursuant to the SEC’s compensation disclosure rules (which disclosure includes the Compensation Discussion and Analysis, the compensation tables, and the narrative disclosures that accompany the compensation tables).
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+38
+PROPOSAL 3
+Proposal 3
+Shareholder Proposal Regarding Political Contributions Disclosure
+The following shareholder proposal (the “Proposal”) will be voted on at the Annual Meeting only if properly presented by or on behalf of the shareholder proponent. Mercy A. Rome, c/o Investor Voice, SPC, 111 Queen Anne Ave N, Suite 500, Seattle, WA 98109, a holder of 76 shares of Class B Stock submitted the Proposal. The Board of Directors recommends a vote AGAINST the Proposal and asks shareholders to read through NIKE’s response which follows the Proposal.
+BE IT RESOLVED
+: The shareholders of NIKE, Inc. (“NIKE” or “Company”) hereby request that the Company provide a report, updated semiannually, to disclose the Company’s
+:
+1. Policies and procedures for making, with corporate funds or assets, direct or indirect contributions and expenditures to:
+a. participate or intervene in any campaign on behalf of (or in opposition to) any candidate for public office, or
+b. influence the general public, or any segment thereof, with respect to an election or referendum.
+2. Monetary and non-monetary contributions and expenditures (direct and indirect) used in the manner described in section 1 above, including:
+a. the identity of the recipient as well as the amount paid to each; and
+b. the title(s) of the person(s) in the Company responsible for oversight and decision-making.
+The report shall be presented to the Board of Directors or relevant board committee and posted on the Company’s website within 12 months from the date of the annual meeting. This Proposal is not to encompass lobbying spending.
+Supporting Statement
+As long-term shareholders of NIKE, we support transparency and accountability in corporate electoral spending. This includes any activity considered intervention in a political campaign under the Internal Revenue Code, such as direct and indirect contributions to political candidates, parties, or organizations, along with independent expenditures or electioneering communications on behalf of Federal, State, or local candidates.
+Disclosure is in the best interest of the Company and its shareholders. The U.S. Supreme Court recognized this in its 2010 Citizens United decision, which said: “[D]isclosure permits citizens and shareholders to react to the speech of corporate entities in a proper way. This transparency enables the electorate to make informed decisions and give proper weight to different speakers and messages.”
+Public records show NIKE has contributed at least $2,106,738 in corporate funds since the 2010 election cycle (CQMoneyLine: http://moneyline.cq.com; National Institute on Money in State Politics: http://www.followthemoney.org).
+However, relying on publicly available data does not provide a complete picture of the Company’s electoral spending. For example: undisclosed and unknown are any Company payments to trade associations that are used for election-related activities.
+Concerned shareholders ask the Company to disclose all of its electoral spending – including payments to trade associations and other tax-exempt organizations – which may be used for electoral purposes. This would bring our Company in line with a growing number of leading companies in the consumer discretionary sector – including Ralph Lauren Corp. and Tiffany & Co. – which present this information on their public websites.
+The Company’s Board and shareholders need comprehensive disclosure to fully assess and regulate the use of corporate assets in elections.
+THEREFORE:
+We urge your vote FOR this critical governance enhancement.
+The Company’s Statement in Opposition to Proposal 3
+The Board of Directors recommends that shareholders vote AGAINST this Proposal because:
+•
+Our current policies and public disclosures already address many of the items requested by the Proposal;
+•
+In the Board’s judgment, more disclosure than we already provide would not be in the best interests of shareholders; and
+•
+NIKE received virtually identical proposals for its Annual Meetings in 2012, 2013, 2015, 2016, and 2017, and the proposals were rejected by approximately 78%, 82%, 73%, 71%, and 70%, respectively, of shares voted.
+Frankly, we agree with our shareholders.
+NIKE is committed to the highest ethical standards when engaging in political activities. We have strong governance practices and accountability in corporate spending on political activities, and maintain a level of transparency that we believe allows shareholders to have the information they need to make informed decisions. This Proposal is unnecessary to achieve these objectives and the proponent offers no new compelling evidence or arguments in support of the Proposal.
+NIKE’s Political Contributions Policy (the “Policy”) is designed to give shareholders confidence that there is proper oversight of political activity and to allow shareholders to assess any risks associated with significant contributions. All of our political contributions and expenditures are made in accordance with the Policy and our objective is to strictly comply with all public reporting laws. Our Policy ensures that political
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+39
+PROPOSAL 3
+contributions, trade group memberships, and policy statements are made in a manner consistent with NIKE's core values to protect or enhance shareholder value, without regard to the private political preferences of our corporate officers. Our Policy describes the policies and procedures for making corporate political contributions, how they are approved, who must approve them, and how they are reported to the Board’s Corporate Responsibility, Sustainability & Governance Committee. Our Policy is available on our website at http://investors.nike.com/investors/corporate-governance.
+Consistent with our Policy, we also annually disclose on our website all direct political contributions to any candidate, political party, or ballot initiative in any year that exceed $100,000, and all political contributions in any U.S. state where we make more than 50% of our political contributions in any year. We believe these disclosures provide shareholders meaningful information to assess any risks posed by significant political contributions. Our disclosures are simple, accurate, and clear and we have published them for every year since 2012.
+Our Policy also requires that management annually report on compliance with our Policy to the Board’s Corporate Responsibility, Sustainability & Governance Committee, and review the strategic priorities for political contributions and trade association affiliations, to ensure they align with the long-term business objectives of the Company.
+The additional disclosure requested in this Proposal could place NIKE at a competitive disadvantage by revealing strategies and priorities designed to protect the economic future of NIKE, its employees and its shareholders. Given that parties with interests adverse to NIKE also participate in the political process for their business advantage, any unilateral expanded disclosure could benefit them, while harming the interests of NIKE and its shareholders.
+In summary, the Board of Directors believes the Proposal is unnecessary because NIKE has followed a comprehensive policy for oversight and disclosure of political contributions for many years. If adopted, the Proposal would cause NIKE to incur undue cost and administrative burden, as well as competitive harm, without commensurate benefit to our shareholders. Our shareholders have understandably rejected this Proposal five times before.
+Board Recommendation
+The Board of Directors recommends a vote AGAINST the shareholder proposal.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+40
+PROPOSAL 4
+Proposal 4
+Ratification of Appointment of Independent Registered Public Accounting Firm
+The Audit & Finance Committee of the Board of Directors has sole authority to retain, with shareholder ratification, the Company’s independent registered public accounting firm. The Audit & Finance Committee directly oversees the firm’s work with respect to the annual audit of the Company’s consolidated financial statements and internal control over financial reporting and approves all audit engagement fees and terms. At least annually, the Audit & Finance Committee evaluates the independent registered public accounting firm’s qualifications, performance, and independence, including a review and evaluation of its lead partner. The Audit & Finance Committee is also involved in the selection of the new lead engagement partner following mandated rotation of the firm’s lead partner, and is responsible for considering the benefits of rotation of the Company’s independent registered public accounting firm.
+The Audit & Finance Committee has appointed PricewaterhouseCoopers LLP to audit the Company’s consolidated financial statements and internal control over financial reporting for the fiscal year ending May 31, 2019 and to render other professional services as required.
+PricewaterhouseCoopers LLP has served as the Company’s independent registered public accounting firm for many years. The Audit & Finance Committee and the Board of Directors believe that the continued retention of PricewaterhouseCoopers LLP as the independent registered public accounting firm is in the best interests of the Company and its shareholders.
+Accordingly, the Audit & Finance Committee is submitting the appointment of PricewaterhouseCoopers LLP to shareholders for ratification. If the appointment is not ratified by our shareholders, the Audit & Finance Committee may reconsider whether it should appoint another independent registered public accounting firm.
+Representatives of PricewaterhouseCoopers LLP will be present at the Annual Meeting, will have the opportunity to make a statement if they desire to do so, and are expected to be available to respond to questions.
+Aggregate fees billed by the Company’s independent registered public accounting firm, PricewaterhouseCoopers LLP, for audit services related to the most recent two fiscal years, and for other professional services incurred in the most recent two fiscal years, were as follows:
+Type of Service
+2018
+2017
+Audit Fees
+(1)
+$
+20.3
+million
+$
+20.1
+million
+Audit-Related Fees
+(2)
+—
+million
+—
+million
+Tax Fees
+(3)
+1.3
+million
+1.6
+million
+All Other Fees
+(4)
+0.1
+million
+0.1
+million
+Total
+$
+21.7
+million
+$
+21.8
+million
+(1)
+Comprises the audits of the Company’s annual financial statements and internal controls over financial reporting, and reviews of the Company’s quarterly financial statements, as well as statutory audits of Company subsidiaries, attest services and consents to SEC filings.
+(2)
+Comprises services including consultations regarding financial accounting and reporting.
+(3)
+Comprises services for tax compliance, tax planning and tax advice. Tax compliance includes services for compliance related tax advice, as well as the preparation and review of both original and amended tax returns for the Company and its consolidated subsidiaries. Tax compliance related fees represented $0.1 million and $0.3 million of the tax fees for fiscal 2018 and 2017, respectively. The remaining tax fees primarily include tax advice.
+(4)
+Comprises other miscellaneous services.
+In accordance with the Sarbanes-Oxley Act of 2002, the Audit & Finance Committee established policies and procedures under which all audit and non-audit services performed by the Company’s independent registered public accounting firm must be approved in advance by the Audit & Finance Committee. During fiscal 2018, all such services performed by, and fees paid to, PricewaterhouseCoopers LLP were approved in advance. During fiscal 2017, fees totaling $4,080, or less than 0.1% of total fees, were paid to PricewaterhouseCoopers LLP for two engagements that were not pre-approved. All such services were approved by the Audit & Finance Committee promptly after their inadvertent omission from pre-approval was noticed.
+Board Recommendation
+The Board of Directors recommends that shareholders vote FOR ratification of the appointment of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting firm for the fiscal year ending May 31, 2019.
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+41
+PROPOSAL 4
+Report of the Audit & Finance Committee
+The Audit & Finance Committee has:
+•
+Reviewed and discussed the audited financial statements with management.
+•
+Discussed with the independent auditors the matters required to be discussed by Public Company Accounting Oversight Board (“PCAOB”) Statement on Auditing Standards No. 16
+Communications with Audit Committees.
+•
+Received the written disclosures and the letter from the independent accountants required by applicable requirements of the PCAOB regarding the independent accountants’ communications concerning independence, and has discussed with the independent accountant the independent accountant’s independence.
+•
+Based on the review and discussions above, recommended to the Board of Directors that the audited financial statements be included in the Company’s Annual Report on Form 10-K for the last fiscal year for filing with the Securities and Exchange Commission.
+Members of the Audit & Finance Committee:
+•
+Alan B. Graf, Jr., Chairman
+•
+John G. Connors
+•
+John J. Donahoe II
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+42
+OTHER MATTERS / SHAREHOLDER PROPOSALS
+Other Matters
+As of the time this proxy statement was printed, management was unaware of any proposals to be presented for consideration at the Annual Meeting other than those set forth herein, but if other matters do properly come before the Annual Meeting, the persons named in the proxy will vote the shares represented by such proxy according to their best judgment.
+Shareholder Proposals
+A proposal by a shareholder for inclusion in the Company’s proxy statement and form of proxy for the 2019 annual meeting of shareholders must be received by Ann M. Miller, Vice President, Corporate Secretary & Chief Compliance Officer of NIKE, Inc. at One Bowerman Drive, Beaverton, Oregon 97005-6453, on or before April 4, 2019 to be eligible for inclusion. Rules under the Securities Exchange Act of 1934, as amended, describe standards as to the submission of shareholder proposals. In addition, the Company’s Bylaws require that any shareholder wishing to make a nomination for director, or wishing to introduce a proposal or other business at a shareholder meeting must give the Company at least 60 days’ advance written notice, which for the 2019 annual meeting of shareholders is July 21, 2019, and that notice must meet certain other requirements described in the Bylaws.
+For the Board of Directors,
+Ann M. Miller
+Vice President, Corporate Secretary & Chief Compliance Officer
+NIKE, INC.
+Ÿ
+2018 Notice of Annual Meeting
+43
+ANNUAL
+MEETING
+AND
+PROXY STATEMENT
+September 20, 2018
+Beaverton, Oregon
+Whether or not you plan to attend the meeting, please sign and date the enclosed proxy card and return it in the enclosed envelope, or vote online or by telephone following the instructions on the proxy card.
+Electronic Voting Instructions
+Available 24 hours a day, 7 days a week!
+Instead of mailing your proxy, you may choose one of the voting methods outlined below to vote your proxy.
+VALIDATION DETAILS ARE LOCATED IN THE TITLE BAR BELOW.
+Proxies submitted online or by telephone must be received by 1:00 a.m., Central Time, on September 20, 2018.
+Vote Online
+• Go to
+www.investorvote.com
+• Or scan the QR code with your smartphone
+• Follow the steps outlined on the secure website
+Vote by telephone
+• Call toll free 1-800-652-VOTE (8683) within the USA, US territories & Canada on a touch tone telephone
+• Follow the instructions provided by the recorded message
+Using a
+black ink
+pen, mark your votes with an
+X
+as shown in this example. Please do not write outside the designated areas.
+x
+q
+IF YOU HAVE
+NOT
+VOTED ONLINE OR BY TELEPHONE, FOLD ALONG THE PERFORATION, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE.
+q
+A
+Proposals — The Board of Directors recommends a vote
+FOR
+all the nominees listed in Proposal 1, a vote
+FOR
+Proposals 2 and 4, and a vote
+AGAINST
+Proposal 3.
+1. Class A director nominees:
+To elect a Board of Directors for the ensuing year.
+»
+For
+Withhold
+For
+Withhold
+For
+Withhold
+01 - Cathleen A. Benko
+¨
+02 - Elizabeth J. Comstock
+¨
+03 - John G. Connors
+¨
+04 - Timothy D. Cook
+¨
+05 - John J. Donahoe II
+¨
+06 - Peter B. Henry
+¨
+07 - Travis A. Knight
+¨
+08 - Mark G. Parker
+¨
+09 - John R. Thompson, Jr.
+¨
+For
+Against
+Abstain
+For
+Against
+Abstain
+2.
+To approve executive compensation by an advisory vote.
+¨
+3.
+Shareholder proposal regarding political contributions disclosure.
+¨
+4.
+To ratify the appointment of PricewaterhouseCoopers LLP as independent registered public accounting firm.
+¨
+5.
+To transact such other business as may properly come before the meeting.
+B
+Non-Voting Items
+Change of Address —
+Please print new address below.
+C
+Authorized Signatures — This section must be completed for your vote to be counted. — Date and Sign Below
+Please sign exactly as name(s) appears hereon. Joint owners should each sign. When signing as attorney, executor, administrator, corporate officer, trustee, guardian, or custodian, please give full title.
+Date (mm/dd/yyyy) — Please print date below.
+Signature 1 — Please keep signature within the box.
+Signature 2 — Please keep signature within the box.
+/ /
+Meeting Information
+2018 Annual Meeting of Shareholders
+for Shareholders as of July 20, 2018
+September 20, 2018
+10:00 A.M. PDT
+Meeting Location:
+Tiger Woods Conference Center
+One Bowerman Drive
+Beaverton, OR 97005
+Meeting Directions:
+From I-5 South of Portland:
+I-5 North to 217 North. Follow to Hwy 26 West.
+From I-5 North of Portland:
+I-5 South to I-405 South. Follow to Hwy 26 West.
+From I-84 East of Portland:
+I-84 West to I-5 South to I-405 North. Follow to Hwy 26 West.
+Exit Hwy 26 at Murray Blvd, turn left, and drive one mile. Turn right on SW Bowerman Drive into the NIKE World Headquarters (WHQ). Keep right at the entry and go directly to the parking structure. Follow posted signs to The Tiger Woods Conference Center, which is located directly ahead of the parking structure.
+Please note that the NIKE Campus is a non-smoking location and smoking is not permitted on NIKE property.
+Ç
+IF YOU HAVE NOT VOTED ONLINE OR BY TELEPHONE, FOLD ALONG THE PERFORATION, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE.
+Ç
+NIKE, INC.
+CLASS A COMMON STOCK PROXY
+SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS
+FOR THE 2018 ANNUAL MEETING OF SHAREHOLDERS
+SEPTEMBER 20, 2018
+The undersigned hereby appoints Mark G. Parker, Travis A. Knight and John C. Lechleiter, and each of them, proxies with full power of substitution, to vote, as designated on the reverse side, on behalf of the undersigned, all shares of Class A Common Stock which the undersigned may be entitled to vote at the Annual Meeting of Shareholders of NIKE, Inc. on September 20, 2018, and any adjournments thereof, with all powers that the undersigned would possess if personally present. A majority of the proxies or substitutes present at the meeting may exercise all powers granted hereby.
+THE SHARES REPRESENTED BY THIS PROXY WILL BE VOTED AS SPECIFIED, BUT IF NO SPECIFICATION IS MADE, THIS PROXY WILL BE VOTED
+FOR
+THE ELECTION OF THE NOMINEES FOR DIRECTOR FOR PROPOSAL 1,
+FOR
+PROPOSALS 2 AND 4, AND
+AGAINST
+PROPOSAL 3. THE PROXIES MAY VOTE IN THEIR DISCRETION AS TO OTHER MATTERS WHICH MAY COME BEFORE THE MEETING.
+YOU ARE ENCOURAGED TO SPECIFY YOUR CHOICES BY MARKING THE APPROPRIATE BOXES, BUT YOU NEED NOT MARK ANY BOXES IF YOU WISH TO VOTE IN ACCORDANCE WITH THE BOARD OF DIRECTORS’ RECOMMENDATIONS. THE PROXIES CANNOT VOTE THESE SHARES UNLESS YOU SIGN AND RETURN THIS CARD OR PROPERLY VOTE ONLINE OR BY TELEPHONE.
+Electronic Voting Instructions
+Available 24 hours a day, 7 days a week!
+Instead of mailing your proxy, you may choose one of the voting methods outlined below to vote your proxy.
+VALIDATION DETAILS ARE LOCATED IN THE TITLE BAR BELOW.
+Proxies submitted online or by telephone must be received by 1:00 a.m., Central Time, on September 20, 2018.
+Vote Online
+• Go to
+www.investorvote.com
+• Or scan the QR code with your smartphone
+• Follow the steps outlined on the secure website
+Vote by telephone
+• Call toll free 1-800-652-VOTE (8683) within the USA, US territories & Canada on a touch tone telephone
+• Follow the instructions provided by the recorded message
+Using a
+black ink
+pen, mark your votes with an
+X
+as shown in this example. Please do not write outside the designated areas.
+x
+q
+IF YOU HAVE
+NOT
+VOTED ONLINE OR BY TELEPHONE, FOLD ALONG THE PERFORATION, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE.
+q
+A
+Proposals — The Board of Directors recommends a vote
+FOR
+all the nominees listed in Proposal 1, a vote
+FOR
+Proposals 2 and 4, and a vote
+AGAINST
+Proposal 3.
+1.
+Class B director nominees:
+To elect a Board of Directors for the ensuing year.
+»
+For
+Withhold
+For
+Withhold
+For
+Withhold
+01 - Alan B. Graf, Jr.
+¨
+02 - John C. Lechleiter
+¨
+03 - Michelle A. Peluso
+¨
+For
+Against
+Abstain
+For
+Against
+Abstain
+2.
+To approve executive compensation by an advisory vote.
+¨
+3.
+Shareholder proposal regarding political contributions disclosure.
+¨
+4.
+To ratify the appointment of PricewaterhouseCoopers LLP as independent registered public accounting firm.
+¨
+5.
+To transact such other business as may properly come before the meeting.
+B
+Non-Voting Items
+Change of Address —
+Please print new address below.
+C
+Authorized Signatures — This section must be completed for your vote to be counted. — Date and Sign Below
+Please sign exactly as name(s) appears hereon. Joint owners should each sign. When signing as attorney, executor, administrator, corporate officer, trustee, guardian, or custodian, please give full title.
+Date (mm/dd/yyyy) — Please print date below.
+Signature 1 — Please keep signature within the box.
+Signature 2 — Please keep signature within the box.
+/ /
+Meeting Information
+2018 Annual Meeting of Shareholders
+for Shareholders as of July 20, 2018
+September 20, 2018
+10:00 A.M. PDT
+Meeting Location:
+Tiger Woods Conference Center
+One Bowerman Drive
+Beaverton, OR 97005
+Meeting Directions:
+From I-5 South of Portland:
+I-5 North to 217 North. Follow to Hwy 26 West.
+From I-5 North of Portland:
+I-5 South to I-405 South. Follow to Hwy 26 West.
+From I-84 East of Portland:
+I-84 West to I-5 South to I-405 North. Follow to Hwy 26 West.
+Exit Hwy 26 at Murray Blvd, turn left, and drive one mile. Turn right on SW Bowerman Drive into the NIKE World Headquarters (WHQ). Keep right at the entry and go directly to the parking structure. Follow posted signs to The Tiger Woods Conference Center, which is located directly ahead of the parking structure.
+Please note that the NIKE Campus is a non-smoking location and smoking is not permitted on NIKE property.
+Ç
+IF YOU HAVE NOT VOTED ONLINE OR BY TELEPHONE, FOLD ALONG THE PERFORATION, DETACH AND RETURN THE BOTTOM PORTION IN THE ENCLOSED ENVELOPE.
+Ç
+NIKE, INC.
+CLASS B COMMON STOCK PROXY
+SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS
+FOR THE 2018 ANNUAL MEETING OF SHAREHOLDERS
+SEPTEMBER 20, 2018
+The undersigned hereby appoints Mark G. Parker, Travis A. Knight and John C. Lechleiter, and each of them, proxies with full power of substitution, to vote, as designated on the reverse side, on behalf of the undersigned, all shares of Class B Common Stock which the undersigned may be entitled to vote at the Annual Meeting of Shareholders of NIKE, Inc. on September 20, 2018, and any adjournments thereof, with all powers that the undersigned would possess if personally present. A majority of the proxies or substitutes present at the meeting may exercise all powers granted hereby.
+THE SHARES REPRESENTED BY THIS PROXY WILL BE VOTED AS SPECIFIED, BUT IF NO SPECIFICATION IS MADE, THIS PROXY WILL BE VOTED
+FOR
+THE ELECTION OF THE NOMINEES FOR DIRECTOR FOR PROPOSAL 1,
+FOR
+PROPOSALS 2 AND 4, AND
+AGAINST
+PROPOSAL 3. THE PROXIES MAY VOTE IN THEIR DISCRETION AS TO OTHER MATTERS WHICH MAY COME BEFORE THE MEETING.
+YOU ARE ENCOURAGED TO SPECIFY YOUR CHOICES BY MARKING THE APPROPRIATE BOXES, BUT YOU NEED NOT MARK ANY BOXES IF YOU WISH TO VOTE IN ACCORDANCE WITH THE BOARD OF DIRECTORS’ RECOMMENDATIONS. THE PROXIES CANNOT VOTE THESE SHARES UNLESS YOU SIGN AND RETURN THIS CARD OR PROPERLY VOTE ONLINE OR BY TELEPHONE.

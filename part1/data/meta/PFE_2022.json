@@ -1,0 +1,19 @@
+{
+  "ticker": "PFE",
+  "company_name": "Pfizer",
+  "sector": "Healthcare",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "snapshot_timestamp": "20220702200438",
+  "original_url": "https://www.pfizer.com/about#our-people",
+  "wayback_url": "https://web.archive.org/web/20220702200438id_/https://www.pfizer.com/about#our-people",
+  "redirect_hops": 0,
+  "page_score": 3,
+  "text_chars": 26652,
+  "seeds_queried": [
+    "https://www.pfizer.com/about",
+    "https://www.pfizer.com/about/purpose"
+  ],
+  "candidates_considered": 12
+}

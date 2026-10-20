@@ -1,0 +1,14 @@
+{
+  "ticker": "CRM",
+  "company_name": "Salesforce",
+  "sector": "Technology",
+  "year": 2016,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312516550325/d27574ddef14a.htm",
+  "accession": "0001193125-16-550325",
+  "filing_date": "2016-04-21",
+  "cik_used": 1108524,
+  "primary_document": "d27574ddef14a.htm",
+  "word_count": 37541
+}

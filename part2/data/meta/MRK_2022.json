@@ -1,0 +1,14 @@
+{
+  "ticker": "MRK",
+  "company_name": "Merck",
+  "sector": "Healthcare",
+  "year": 2022,
+  "status": "ok",
+  "gap_reason": "",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/310158/000119312522095134/d154286ddef14a.htm",
+  "accession": "0001193125-22-095134",
+  "filing_date": "2022-04-04",
+  "cik_used": 310158,
+  "primary_document": "d154286ddef14a.htm",
+  "word_count": 51370
+}
